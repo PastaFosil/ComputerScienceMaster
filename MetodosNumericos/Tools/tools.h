@@ -1,9 +1,9 @@
-/*
-        Ayudantia de Metodos Numericos
-        2024/09/06
-        Diaz Soto Jairo Saul
-        Lectura y escritura de archivos. Matrices y vectores
-*/
+/*****************************************
+        Metodos Numericos
+        2024/09/22
+        Juan Carlos Perez Ramirez
+        Funciones de metodos numericos
+*****************************************/
 
 #include <stdlib.h>
 #include <stdio.h>
