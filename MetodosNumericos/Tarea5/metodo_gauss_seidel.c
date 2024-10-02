@@ -12,7 +12,7 @@
 #define TOL 0.0001
 #define N 50000
 
-double *solve_jacobi(double **matrix, double *vector, int n){
+double *solve_gauss_seidel(double **matrix, double *vector, int n){
     double *x0 = (double *)calloc(n,sizeof(double)); // vector solucion propuesto
     double *x_new = (double *)malloc(n*sizeof(double)); // vector propuesto de la siguiente iteracion
     double *temp = (double *)malloc(n*sizeof(double)); // vector temporal que almacenara x_new-n0

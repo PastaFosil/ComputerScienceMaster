@@ -8,7 +8,7 @@
 ************************************************************/
 
 #include <stdio.h>
-#include "tools.c"
+#include "../Tools/tools.c"
 #define TOL 0.0001
 #define N 50000
 
