@@ -1,11 +1,11 @@
 /**********************************************************
  * JUAN CARLOS PEREZ RAMIREZ
  * METODOS NUMERICOS
- * TAREA 5
- * 
- * Diagonaliza la matriz ingresada y calcula la matriz
- * de transformacion necesaria para lograrlo
+ * PARCIAL 2
+
+ * 02/10/2024
 ************************************************************/
+
 
 #include <stdio.h>
 #include <string.h>

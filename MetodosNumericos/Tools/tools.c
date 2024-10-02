@@ -7,8 +7,8 @@
 
 #include "tools.h"
 
-#define N 50000
-#define TOL 0.0001
+#define N 1000000
+#define TOL 0.000001
 
 /********************************************************************************************/
 // LECTURA, ESCRITURA Y GENERACION DE MATRICES Y VECTORES
@@ -520,7 +520,6 @@ double *solve_gauss_seidel(double **matrix, double *vector, int n){
     }
 
     for (int i=0;i<N;i++){
-        printf("%d\n",i);
         for (int j=0;j<n;j++){
             // calculo de componentes de n_new
             x_new[j] = vector[j];
@@ -545,7 +544,6 @@ double *solve_gauss_seidel(double **matrix, double *vector, int n){
         }
         
         if (norm(temp,n)<TOL){
-            printf("%d ITERACIONES\n",i);
             free(x0);
             free(temp);
             return x_new;
@@ -576,7 +574,6 @@ double *solve_jacobi(double **matrix, double *vector, int n){
     }
 
     for (int i=0;i<N;i++){
-        printf("%d\n",i);
         for (int j=0;j<n;j++){
             // calculo de componentes de n_new
             x_new[j] = vector[j];
@@ -675,25 +672,134 @@ double **power_iteration_generalized(double **mtx, int n, int k){
     int result;
 
     if(eigenstuff==NULL){
-        printf("POWER. ERROR ASIGNANDO MEMORIA\n");
+        printf("POWER GENERALIZED. ERROR ASIGNANDO MEMORIA\n");
         free_matrix(eigenstuff);
         return NULL;
     }
 
-    // iteraciones para encontrar los f valores y vectores propios
-    for (int i=0;i<k;i++)
+    // Iteraciones para encontrar los k valores y vectores propios
+    for (int i=0;i<k;i++){
         result = power_iteration(mtx, n, eigenstuff,i);
-
+        if (result==-1){
+            printf("POWER GENERALIZED. ALGO SALIO MAL\n");
+            return NULL;
+        }
+    }
     if (result==0)
         return eigenstuff;
-    else
+    else{
+        free_matrix(eigenstuff);
         return NULL;
+    }
 }
 
 //-------------------------------------------------------------------------------------------
 // POTENCIA INVERSA
 
 // Encuentra el k-esimo menor valor propio y su vector asociado de la matriz descompuesta en A=LU dados los k-1 anteriores
+//int inverse_power_iteration(double **mtx, int n, double **eigenvectors, int k){
+/*int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors, int k){
+    // revisa si ya se han encontrado otros valores propios
+    int found = 0;
+    if (k>0) // lista de vectores propios encontrados hasta el momento
+        found = 1;
+    
+    double x0[n], deno;
+    double *x1;
+    double lambda0 = 10000.0, lambda;
+    
+    // inicialiacion x0 normalizado
+    for (int i=0;i<n;i++)
+        x0[i] = 1/sqrtf(n);
+    
+    // iteraciones para encontrar el resultado
+    for (int i=0;i<N;i++){
+        if (found==1) // si se han encontrado otros vectores propios, se resta su contribucion a la aproximacion
+            substract_contribution(x0,n,eigenvectors,k);
+        //x1 = solve_gauss_seidel(mtx,x0,n); // actualiza el vector mediante Gauss-Seidel
+        x1 = solve_upper_lower(U,L,x0,n);
+        if (x1==NULL){
+            printf("INVERSE POWER. ALGO SALIO MAL\n");
+            return -1;
+        }
+        deno = point_product(x1,x1,n);
+        if (deno!=0)
+            lambda = point_product(x1,x0,n)/deno; // calculo de la siguiente aproximacion del valor propio
+        else {
+            printf("POWER. ERROR DIV. 0\n");
+            free(x1);
+            return -1;
+        }
+        unit_vector(&x1,n); // normalizacion del vector aproximacion
+        for (int j=0;j<n;j++) // actualizacion de los vectores aproximacion
+            x0[j] = x1[j];
+        free(x1);
+        if (fabs(lambda-lambda0)/fabs(lambda)<TOL){ // almacenamiento y devolucion de resultados satisfactorios
+            for (int j=0;j<n;j++)
+                eigenvectors[k][j] = x0[j];
+            eigenvectors[k][n] = lambda;
+            printf("%d ITERACIONES\n",i);
+            print_vector(x0,n);
+            return 0;
+        }
+        lambda0 = lambda; // actualizacion de valores aproximacion
+    }
+
+    printf("INVERSE POWER. NO SE ENCONTRO UNA SOLUCION SATISFACTORIA\n");
+    return -1;
+}
+
+// Encuentra los k menores valores propios y sus vectores asociados de la matriz A
+double **inverse_power_iteration_generalized(double **mtx, int n, int k){
+    double **eigenstuff = genMatriz_double(n,n+1); // arreglo que guardara valores y vectores propios
+    int result;
+
+    if(eigenstuff==NULL){
+        printf("INVERSE POWER. ERROR ASIGNANDO MEMORIA\n");
+        free_matrix(eigenstuff);
+        return NULL;
+    }
+
+    //factoriza la matriz por Cholesky LLT
+    double **A = genMatriz_double(n,n);
+    double **LT = genMatriz_double(n,n);
+    if (result==-1){
+            printf("INVERSE GENERALIZED. ALGO SALIO MAL\n");
+            free_matrix(eigenstuff);
+            free_matrix(LT);
+            free_matrix(A);
+            return NULL;
+        }
+    copy_matrix(A,mtx,n,n);
+    factor_LLT(A,LT,n);
+
+    printf("L\n");
+    print_matrix(A,n,n);
+
+    // iteraciones para encontrar los f valores y vectores propios
+    for (int i=0;i<k;i++){
+        //result = inverse_power_iteration(mtx,n,eigenstuff,i);
+        result = inverse_power_iteration(A,LT,n,eigenstuff,k);
+        if (result==-1){
+            printf("INVERSE GENERALIZED. ALGO SALIO MAL\n");
+            free_matrix(eigenstuff);
+            free_matrix(LT);
+            free_matrix(A);
+            return NULL;
+        }
+    }
+
+    free_matrix(LT);
+    free_matrix(A);
+
+    if (result==0)
+        return eigenstuff;
+    else{
+        free_matrix(eigenstuff);
+        return NULL;
+    }
+}*/
+
 int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors, int k){
     // revisa si ya se han encontrado otros valores propios
     int found = 0;
@@ -728,6 +834,7 @@ int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors
             for (int j=0;j<n;j++)
                 eigenvectors[k][j] = x0[j];
             eigenvectors[k][n] = lambda;
+            printf("%d ITERACIONES\n",i);
             return 0;
         }
         lambda0 = lambda; // actualizacion de valores aproximacion
@@ -751,8 +858,8 @@ double **inverse_power_iteration_generalized(double **mtx, int n, int k){
     }
 
     // factoriza la matriz ingresada en L y U
-    factor_crout(mtx,U,n);
-    //factor_choleskyLLT(mtx,L,n);
+    //factor_crout(mtx,U,n);
+    factor_LLT(mtx,U,n);
 
     // iteraciones para encontrar los f valores y vectores propios
     for (int i=0;i<k;i++)

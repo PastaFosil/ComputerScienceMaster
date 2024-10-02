@@ -58,6 +58,7 @@ double *solve_jacobi(double **matrix, double *vector, int n);
 void substract_contribution(double *vec, int n, double **eigenvectors, int k);
 int power_iteration(double **mtx, int n, double **eigenvectors, int k);
 double **power_iteration_generalized(double **mtx, int n, int k);
+//int inverse_power_iteration(double **mtx, int n, double **eigenvectors, int k);
 int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors, int k);
 double **inverse_power_iteration_generalized(double **mtx, int n, int k);
 void rotate_mtx(double **A, int n, int *pq, double cosTheta, double sinTheta);
