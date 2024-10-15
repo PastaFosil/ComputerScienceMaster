@@ -185,10 +185,42 @@ void free_matrix(double **mtx){
 }
 
 /********************************************************************************************/
+// IMPRESION Y COPIA DE MATRIZ Y VECTOR
+
+// Imprime la matriz de dimensiones m x n
+void print_matrix(double **mtx, int m, int n){
+    for (int i=0;i<m;i++){
+        for (int j=0;j<n;j++)
+            printf("%g ", mtx[i][j]);
+        printf("\n");
+    }
+}
+
+// Imprime el vector vec de dimension m
+void print_vector(double *vec, int n){
+    for (int i=0;i<n;i++)
+        printf("%g ", vec[i]);
+    printf("\n");
+}
+
+// Copia los contenidos de la matriz cuadrada B en A
+void copy_matrix(double **A, double **B, int m, int n){
+    for (int i=0;i<m;i++){
+        for (int j=0;j<n;j++)
+            A[i][j] = B[i][j];
+    }
+}
+
+void copy_vector(double *u, double *v, int n){
+    for (int i=0;i<n;i++)
+        u[i] = v[i];
+}
+
+/********************************************************************************************/
 // OPERACIONES BASICAS ALGEBRA LINEAL
 
 // producto punto
-double point_product(double *u, double *v, int n){
+double dot_product(double *u, double *v, int n){
     double res = 0;
     for (int i=0;i<n;i++)
         res += u[i]*v[i];
@@ -196,22 +228,23 @@ double point_product(double *u, double *v, int n){
 }
 
 // producto matriz por matriz
-double **MxM(double **mtz1, double **mtz2, int n){
-    /*
-        Multiplica dos matrices cuadradas de igual dimension 
-        y devuelve el resultado
-    */
+double **MxM(double **A, int Arows, int Acols, double **B, int Brows, int Bcols){
 
-    double **res = genMatriz_double(n,n);
+    if (Acols!=Brows){
+        printf("MxM. NO SE PUEDE REALIZAR EL PRODUCTO\n");
+        return NULL;
+    }
+
+    double **res = genMatriz_double(Arows,Bcols);
     if (res==NULL){
         printf("MxM. ERROR ASIGNANDO MEMORIA\n");
         return NULL;
     }
 
-    for (int i=0;i<n;i++){
-        for (int j=0;j<n;j++){
-            for (int k=0;k<n;k++){
-                res[i][j] += mtz1[i][k]*mtz2[k][j];
+    for (int i=0;i<Arows;i++){
+        for (int j=0;j<Bcols;j++){
+            for (int k=0;k<Acols;k++){
+                res[i][j] += A[i][k]*B[k][j];
             }
         }
     }
@@ -243,7 +276,7 @@ double *MxV(double **mtz, double *vec, int n){
 // Norma de un vector
 double norm(double *v, int n){
     double res;
-    res = point_product(v,v,n);
+    res = dot_product(v,v,n);
     return sqrt(res);
 }
 
@@ -252,6 +285,14 @@ void unit_vector(double **v, int n){
     double norm_v = norm(*v,n);
     for (int i=0;i<n;i++)
         (*v)[i] /= norm_v;
+}
+
+void *proyection(double *a, double *u, double **v, int n){
+    copy_vector(*v,u,n);
+    double factor = dot_product(a,u,n)/dot_product(u,u,n);
+
+    for (int i=0;i<n;i++)
+        (*v)[i] *= factor;
 }
 
 // Trasposicion de matriz
@@ -263,33 +304,6 @@ void traspose(double **mtx, int n){
             mtx[i][j] = mtx[j][i];
             mtx[j][i] = aux;
         }
-    }
-}
-
-/********************************************************************************************/
-// IMPRESION Y COPIA DE MATRIZ Y VECTOR
-
-// Imprime la matriz de dimensiones m x n
-void print_matrix(double **mtx, int m, int n){
-    for (int i=0;i<m;i++){
-        for (int j=0;j<n;j++)
-            printf("%g ", mtx[i][j]);
-        printf("\n");
-    }
-}
-
-// Imprime el vector vec de dimension m
-void print_vector(double *vec, int n){
-    for (int i=0;i<n;i++)
-        printf("%g ", vec[i]);
-    printf("\n");
-}
-
-// Copia los contenidos de la matriz cuadrada B en A
-void copy_matrix(double **A, double **B, int m, int n){
-    for (int i=0;i<m;i++){
-        for (int j=0;j<n;j++)
-            A[i][j] = B[i][j];
     }
 }
 
@@ -612,7 +626,7 @@ void substract_contribution(double *vec, int n, double **eigenvectors, int k){
     double a;
     // elimina la contribucion de cada vector propio
     for (int i=0;i<k;i++){
-        a = point_product(eigenvectors[i],vec,n); // factor de la contribucion del vector propio i
+        a = dot_product(eigenvectors[i],vec,n); // factor de la contribucion del vector propio i
         for (int j=0;j<n;j++) // resta contribucion de vector propio i
             vec[j] -= a*eigenvectors[i][j];
     }
@@ -641,9 +655,9 @@ int power_iteration(double **mtx, int n, double **eigenvectors, int k){
         if (found==1) // si se han encontrado otros vectores propios, se resta su contribucion a la aproximacion
             substract_contribution(x0,n,eigenvectors,k);
         x1 = MxV(mtx,x0,n); // calculo de la siguiente aproximacion del vector propio
-        deno = point_product(x1,x0,n); // calculo del denominador
+        deno = dot_product(x1,x0,n); // calculo del denominador
         if (deno!=0)
-            lambda = point_product(x1,x1,n)/deno; // calculo de la siguiente aproximacion del valor propio
+            lambda = dot_product(x1,x1,n)/deno; // calculo de la siguiente aproximacion del valor propio
         else {
             printf("POWER. ERROR DIV. 0\n");
             return -1;
@@ -722,9 +736,9 @@ double **power_iteration_generalized(double **mtx, int n, int k){
             printf("INVERSE POWER. ALGO SALIO MAL\n");
             return -1;
         }
-        deno = point_product(x1,x1,n);
+        deno = dot_product(x1,x1,n);
         if (deno!=0)
-            lambda = point_product(x1,x0,n)/deno; // calculo de la siguiente aproximacion del valor propio
+            lambda = dot_product(x1,x0,n)/deno; // calculo de la siguiente aproximacion del valor propio
         else {
             printf("POWER. ERROR DIV. 0\n");
             free(x1);
@@ -800,39 +814,41 @@ double **inverse_power_iteration_generalized(double **mtx, int n, int k){
     }
 }*/
 
-int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors, int k){
+int inverse_power_iteration(double **L, double **U, double **x0, int n, double **eigenvectors, int k, int MAX){
+//int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors, int k){
     // revisa si ya se han encontrado otros valores propios
     int found = 0;
     if (k>0) // lista de vectores propios encontrados hasta el momento
         found = 1;
     
-    double x0[n], deno;
+    //double x0[n], deno;
+    double deno;
     double *x1;
     double lambda0 = 10000.0, lambda;
     
     // inicialiacion x0 normalizado
-    for (int i=0;i<n;i++)
-        x0[i] = 1/sqrtf(n);
+    //for (int i=0;i<n;i++)
+        //x0[i] = 1/sqrtf(n);
     
     // iteraciones para encontrar el resultado
-    for (int i=0;i<N;i++){
+    for (int i=0;i<MAX;i++){
         if (found==1) // si se han encontrado otros vectores propios, se resta su contribucion a la aproximacion
-            substract_contribution(x0,n,eigenvectors,k);
-        x1 = solve_upper_lower(U,L,x0,n); // calculo de la siguiente aproximacion del vector propio
-        deno = point_product(x1,x1,n);
+            substract_contribution(*x0,n,eigenvectors,k);
+        x1 = solve_upper_lower(U,L,*x0,n); // calculo de la siguiente aproximacion del vector propio
+        deno = dot_product(x1,x1,n);
         if (deno!=0)
-            lambda = point_product(x1,x0,n)/deno; // calculo de la siguiente aproximacion del valor propio
+            lambda = dot_product(x1,*x0,n)/deno; // calculo de la siguiente aproximacion del valor propio
         else {
             printf("POWER. ERROR DIV. 0\n");
             return -1;
         }
         unit_vector(&x1,n); // normalizacion del vector aproximacion
         for (int j=0;j<n;j++) // actualizacion de los vectores aproximacion
-            x0[j] = x1[j];
+            (*x0)[j] = x1[j];
         free(x1);
         if (fabs(lambda-lambda0)/fabs(lambda)<TOL){ // almacenamiento y devolucion de resultados satisfactorios
             for (int j=0;j<n;j++)
-                eigenvectors[k][j] = x0[j];
+                eigenvectors[k][j] = (*x0)[j];
             eigenvectors[k][n] = lambda;
             printf("%d ITERACIONES\n",i);
             return 0;
@@ -840,8 +856,11 @@ int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors
         lambda0 = lambda; // actualizacion de valores aproximacion
     }
 
-    printf("INVERSE POWER. NO SE ENCONTRO UNA SOLUCION SATISFACTORIA\n");
-    return -1;
+    //printf("INVERSE POWER. NO SE ENCONTRO UNA SOLUCION SATISFACTORIA\n");
+    //return -1;
+    for (int j=0;j<n;j++)
+        eigenvectors[k][j] = (*x0)[j];
+    eigenvectors[k][n] = lambda;
 }
 
 // Encuentra los k menores valores propios y sus vectores asociados de la matriz A
@@ -862,8 +881,12 @@ double **inverse_power_iteration_generalized(double **mtx, int n, int k){
     factor_LLT(mtx,U,n);
 
     // iteraciones para encontrar los f valores y vectores propios
-    for (int i=0;i<k;i++)
-        result = inverse_power_iteration(mtx,U,n,eigenstuff,i);
+    for (int i=0;i<k;i++){
+        double *x0 = genVector_double(n);
+        for (int i=0;i<n;i++)
+            x0[i] = 1/sqrt(n);
+        result = inverse_power_iteration(mtx,U,&x0,n,eigenstuff,i,N);
+    }
 
     free_matrix(U);
 
@@ -961,7 +984,7 @@ double **jacobi_mtx(int n, int *pq, double cosTheta, double sinTheta){
 }
 
 // Encuentra los valores propios ( diag(A) ) y vectores propios (cols T) de A
-double **jacobi_eigen_method(double **A, int n){
+double **jacobi_eigen_method(double **A, int n, int MAX){
     int *pq; // indices del mayor elemento
     double **J; // matriz de Jacobi para la iteracion actual
     double **T = genMatriz_double(n,n);
@@ -971,7 +994,7 @@ double **jacobi_eigen_method(double **A, int n){
         return NULL;
     }
     
-    for (int i=0;i<N;i++){
+    for (int i=0;i<MAX;i++){
         pq = greatest_off_diag(A,n);
         if (pq==NULL){
             printf("JACOBI. ERROR ASIGNANDO MEMORIA\n");
@@ -1001,7 +1024,7 @@ double **jacobi_eigen_method(double **A, int n){
             return NULL;
         }
 
-        double **newA = MxM(J,A,n);
+        double **newA = MxM(J,n,n,A,n,n);
         if (newA==NULL){
             free(pq);
             free_matrix(T);
@@ -1014,7 +1037,7 @@ double **jacobi_eigen_method(double **A, int n){
         if (i==0)
             copy_matrix(T,J,n,n);
         else {
-            double **newT = MxM(T,J,n);
+            double **newT = MxM(T,n,n,J,n,n);
             if (newT==NULL){
                 free(pq);
                 free_matrix(T);
@@ -1026,7 +1049,7 @@ double **jacobi_eigen_method(double **A, int n){
             free_matrix(newT);
         }
         //rotate_mtx(A,n,pq,cosTheta,sinTheta);
-        newA = MxM(A,J,n);
+        newA = MxM(A,n,n,J,n,n);
         if (newA==NULL){
             free(pq);
             free_matrix(T);

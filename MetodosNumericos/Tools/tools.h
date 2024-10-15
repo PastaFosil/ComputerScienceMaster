@@ -26,17 +26,19 @@ double **genMatriz_double(int nRows, int nCols);
 double *genVector_double(int nElements);
 void free_matrix(double **mtx);
 
-/*Operaciones basicas de algebra lineal*/
-double **MxM(double **mtz1, double **mtz2, int n);
-double *MxV(double **mtz, double *vec, int n);
-double point_product(double *u, double *v, int n);
-double norm(double *v, int n);
-void unit_vector(double **v, int n);
-
 /*Imprimir matriz o vector*/
 void print_matrix(double **mtx, int m, int n);
 void print_vector(double *vec, int n);
 void print_vector(double *vec, int n);
+
+/*Operaciones basicas de algebra lineal*/
+double **MxM(double **A, int Arows, int Acols, double **B, int Brows, int Bcols);
+double *MxV(double **mtz, double *vec, int n);
+double dot_product(double *u, double *v, int n);
+double norm(double *v, int n);
+void unit_vector(double **v, int n);
+void *proyection(double *a, double *u, double **v, int n);
+void traspose(double **mtx, int n);
 
 /*Resolucion de sistemas de ecuaciones*/
 double *solve_lower(double **matriz, double *vector, int n);
@@ -59,12 +61,12 @@ void substract_contribution(double *vec, int n, double **eigenvectors, int k);
 int power_iteration(double **mtx, int n, double **eigenvectors, int k);
 double **power_iteration_generalized(double **mtx, int n, int k);
 //int inverse_power_iteration(double **mtx, int n, double **eigenvectors, int k);
-int inverse_power_iteration(double **L, double **U, int n, double **eigenvectors, int k);
+int inverse_power_iteration(double **L, double **U, double **x0, int n, double **eigenvectors, int k, int MAX);
 double **inverse_power_iteration_generalized(double **mtx, int n, int k);
 void rotate_mtx(double **A, int n, int *pq, double cosTheta, double sinTheta);
 double off(double **mtx, int n);
 int *greatest_off_diag(double **mtx, int n);
 double **jacobi_mtx(int n, int *pq, double cosTheta, double sinTheta);
-double **jacobi_eigen_method(double **A, int n);
+double **jacobi_eigen_method(double **A, int n, int MAX);
 
 #endif
