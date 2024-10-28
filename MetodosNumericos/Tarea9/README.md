@@ -11,27 +11,16 @@ Todas las funciones empleadas en la lectura, escritura y operacion sobre las mat
 Se contienen los codigos: 
 - taylor.c que calcula la aproximacion de la funcion exponencial por un polinomio de Taylor de grado definido
 - lagrange.c que calcula la aproximacion de la funcion exponencial en una serie de coordenadas a partir de la interpolacion de otro conjunto de puntos
-- 
+- neville.c que calcula la aproximacion de la funcion exponencial en una serie de coordenadas a partir de la interpolacion de otro conjunto de puntos
+- diferencias_divididas.c que calcula la aproximacion de la funcion exponencial en una serie de coordenadas a partir de la interpolacion de otro conjunto de puntos
 
 
 ## Ejecucion
 
-Para correr el codigo, es necesario ejecutar el comando "./grad matriz.txt vector.txt".
+Para correr el codigo taylor.c es necesario ejecutar el comando "./taylor z x0 n", con z el punto donde se calcula la aproximacion, x0 el punto donde se centra, y n el orden del polinomio de Taylor deseado.
 
-El vector solucion se almacena en el archivo "sol_matriz.txt", y el residual en "r_sol_matriz.txt".
+Para el resto de codigos, basta con ejecutar "./codigo".
 
-Los archivos txt que contienen las matrices deben tener la estructura
+Los vectores donde se almacenan los conjuntos de observaciones deben tener la estructura
 
-dim_1 dim_2
-a11 a12 ... a1[dim2]
-a21 a22 ... a2[dim2]
-... ...     ...
-a[dim1]1 a[dim1]2 ... a[dim1][dim2]
-
-y el que contiene el vector, la estructura 
-
-dim
-v1
-v2
-...
-v[dim]
+x1 x2 ... xn f(x1) f(x2) ... f(xn)

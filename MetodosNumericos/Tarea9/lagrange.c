@@ -48,16 +48,16 @@ int main(){
         return -1;
     }
 
-    double z[] = {0.0, 0.5, 1.0, 1.5, 2.0};
-    double inter[] = {0.4, 0.8, 1.2, 1.6, 1.9};
-    double begin = 0.0, end = 2.0;
-    double delta = (end-begin)/n;
+    double z[] = {0.0, 0.5, 1.0, 1.5, 2.0}; // coordenada x de las observaciones
+    double inter[] = {0.4, 0.8, 1.2, 1.6, 1.9}; // puntos a interpolar
+    
     for (int i=0;i<=n;i++){
-        data[i] = i*delta;
+        data[i] = z[i];
         data[n+i] = exp(data[i]);
     }
-    double res;
-    double err;
+    
+    double res; // almacenara la aproximacion
+    double err; // almacenara el error absoluto
 
     for (int i=0;i<=n;i++){
         res = lagrange_interpolation(inter[i],data,n+1);
