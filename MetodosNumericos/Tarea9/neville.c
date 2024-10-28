@@ -12,21 +12,22 @@
 #include <math.h>
 #include "../Tools/tools.c"
 
-double li(double z, int k, double *data, int n){
-    double res = 1;
-    for (int i=0;i<n;i++){
-        if (i!=k)
-            res *= (z-data[i])/(data[k]-data[i]);
+double neville(double z, double *data, int n){
+    double **Q = genMatriz_double(n+1,n+1);
+    if (Q==NULL){
+        printf("ERROR ASIGNANDO MEMORIA\n");
+        return -1;
+    }
+    for (int i=0;i<=n;i++){
+        Q[i][0] = data[i+n];
+        for (int j=1;j<=i;j++){
+            Q[i][j] = ((z-data[i-j])*Q[i][j-1]-(z-data[i])*Q[i-1][j-1])/(data[i]-data[i-j]);
+        }
     }
 
-    return res;
-}
+    double res = Q[n][n];
+    free_matrix(Q);
 
-double lagrange_interpolation(double z, double *data, int n){
-    double res = 0;
-    for (int i=0;i<n;i++)
-        res += data[n+i]*li(z,i,data,n);
-    
     return res;
 }
 
@@ -40,16 +41,14 @@ double lagrange_interpolation(double z, double *data, int n){
     int n = atoi(argv[2]);
 */
 int main(){
-
-    int n = 6;
+    double z[] = {0.0, 0.5, 1.0, 1.5, 2.0};
+    double inter[] = {0.4, 0.8, 1.2, 1.6, 1.9};
+    int n = 4;
     double *data = (double *)malloc(2*n*sizeof(double));
     if (data==NULL){
         printf("ERROR ASIGNANDO MEMORIA\n");
         return -1;
     }
-
-    double z[] = {0.0, 0.5, 1.0, 1.5, 2.0};
-    double inter[] = {0.4, 0.8, 1.2, 1.6, 1.9};
     double begin = 0.0, end = 2.0;
     double delta = (end-begin)/n;
     for (int i=0;i<=n;i++){
@@ -60,9 +59,9 @@ int main(){
     double err;
 
     for (int i=0;i<=n;i++){
-        res = lagrange_interpolation(inter[i],data,n+1);
-        err = res-exp(inter[i]);
-        printf("%g %g %g\n", inter[i], res, err);
+        res = neville(inter[i],data,n);
+        err = fabs(res-exp(data[i]));
+        printf("%g %g\n", res, err);
     }
 
     free(data);

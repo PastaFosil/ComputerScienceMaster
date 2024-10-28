@@ -1,6 +1,6 @@
 # Tarea 3. Metodos Numericos
 
-Este zip contiene los codigos que resuelven los problemas planteados en la Tarea 8 de la materia de Metodos Numericos, relativa a la implementacion del metodo iterativo de gradiente conjugado precondicionado para resolver sistemas lineales de ecuaciones. Todos los codigos son autoria de Juan Carlos Perez Ramirez, a excepcion de las funciones de lectura, escritura y generacion de matrices en tools.c y tools.h, cortesia de Jairo Saul Diaz Soto.
+Este zip contiene los codigos que resuelven los problemas planteados en la Tarea 9 de la materia de Metodos Numericos, relativa a la implementacion de diferentes metodos de interpolacion. Todos los codigos son autoria de Juan Carlos Perez Ramirez, a excepcion de las funciones de lectura, escritura y generacion de matrices en tools.c y tools.h, cortesia de Jairo Saul Diaz Soto.
 
 Todas las funciones empleadas en la lectura, escritura y operacion sobre las matrices y los vectores empleados se encuentran contenidas en tools.c y tools.h, los cuales requieren estar en el mismo directorio en el que se ubiquen el resto de codigos.
 
@@ -8,7 +8,10 @@ Todas las funciones empleadas en la lectura, escritura y operacion sobre las mat
 
 ## Codigos
 
-Se contiene el codigo gradienteConjugado.c, el cual devuelve un archivo txt con el vector solucion y otro con el vector residual del sistema lineal ingresado.
+Se contienen los codigos: 
+- taylor.c que calcula la aproximacion de la funcion exponencial por un polinomio de Taylor de grado definido
+- lagrange.c que calcula la aproximacion de la funcion exponencial en una serie de coordenadas a partir de la interpolacion de otro conjunto de puntos
+- 
 
 
 ## Ejecucion
