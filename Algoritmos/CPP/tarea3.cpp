@@ -1,15 +1,14 @@
 /**********************************************************
  * JUAN CARLOS PEREZ RAMIREZ
  * PROGRAMACION Y ALGORITMOS
- * TAREA 2 C++
+ * TAREA 3 C++
  * 
- * Realiza operaciones ingresadas como parametros en la
- * ejecucion del programa
+ * Realiza operaciones ingresadas por el usuario
 ************************************************************/
 
 #include <iostream>
-#include <cmath>
 #include <cstring>
+#include <string>
 using namespace std;
 
 #define MAX 100
@@ -38,9 +37,6 @@ int valid_string(char *str){
             case '8':
             case '9':
                 break;
-            case 'e':
-            case 'E':
-                return 0;
             default:
                 return 0;
 
@@ -375,13 +371,44 @@ void operate(char *a, char op, char *b){
     print_digits(result, len);
 }
 
-int main(int argc, char *argv[]){
-    if (argc<4){
-        std::cerr << "Uso: ./" << argv[0] << "a [ + | - | * | / | # ] b" << endl;
-        return -1;
-    }
+int main(){
+    char input[MAX], a[MAX], b[MAX], op;
+    bool quit = 1;
 
-    operate(argv[1], (argv[2])[0], argv[3]);
+    while (quit){
+        int i = 0;
+        int j = 0;
+
+        cout << "Ingrese la operacion a realizar (q para salir):\n";
+        cout << "Operaciones validas: +, -, *, /, #\n";
+        cout << "R: ";
+        std::cin.getline(input, MAX);
+        if (input[0]=='q')
+            break;
+        
+        while (input[j]!=' ' && input[j]!='\0')
+            a[i++] = input[j++];
+        a[i] = '\0';
+        i = 0; 
+        while (input[j]==' ')
+            j++;
+
+        op = input[j];
+        while (input[j++]==' ');
+
+        i = 0; j++;
+        while (input[j]!=' ' && input[j]!='\0')
+            b[i++] = input[j++];
+        b[i] = '\0';
+        
+        cout << a << op << b << endl;
+        if (valid_string(a) && valid_string(b))
+            operate(a, op, b);
+        else
+            std::cerr << "NUMERO INVALIDO" << endl;
+
+        cout << "\n\n";
+    }
 
     return 0;
 }
