@@ -97,7 +97,7 @@ int main(int argc, char **argv){
     cout << endl;
 
     // EPSILON
-    float epsilon = 1.0f;
+    float epsilon = num;
     while (num+epsilon>num) epsilon /= 2.0f;
     epsilon *= 2.0f;
 
