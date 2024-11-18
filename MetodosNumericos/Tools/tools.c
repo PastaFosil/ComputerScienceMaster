@@ -253,7 +253,7 @@ double **MxM(double **A, int Arows, int Acols, double **B, int Brows, int Bcols)
 }
 
 // producto matriz por vector
-double *MxV(double **mtz, double *vec, int n){
+double *MxV(double **mtz, double *vec, int m, int n){
     /*
         Multiplica dos matrices cuadradas de igual dimension 
         y devuelve el resultado
@@ -265,10 +265,9 @@ double *MxV(double **mtz, double *vec, int n){
         return NULL;
     }
 
-    for (int i=0;i<n;i++){
-        for (int j=0;j<n;j++)
-            res[i] += mtz[i][j]*vec[j];
-    }
+    for (int i = 0; i < m; i++)
+        for (int j = 0; j < n; j++)
+            res[i] += mtz[i][j] * vec[j];
     
     return res;
 }
@@ -287,7 +286,7 @@ void unit_vector(double **v, int n){
         (*v)[i] /= norm_v;
 }
 
-void *proyection(double *a, double *u, double **v, int n){
+void proyection(double *a, double *u, double **v, int n){
     copy_vector(*v,u,n);
     double factor = dot_product(a,u,n)/dot_product(u,u,n);
 
@@ -516,6 +515,106 @@ void factor_crout(double **mtx, double **U, int n){
     }
 }
 
+void factor_qr(double **A, int rows, int cols, double ***Q, double ***R){
+    if (A==NULL){
+        printf("QR. MATRIZ VACIA\n");
+        return;
+    }
+
+    // se asigna espacio para Q y R
+    *Q = genMatriz_double(rows,cols);
+    *R = genMatriz_double(rows,cols);
+    double **U = genMatriz_double(rows,cols);
+    if (*Q==NULL || *R==NULL || U==NULL){
+        printf("QR. ERROR ASIGNANDO MEMORIA\n");
+        free_matrix(*Q);
+        free_matrix(*R);
+        free_matrix(U);
+        return;
+    }
+
+    // llenado de las matrices U y Q
+    double a[rows];
+    double *u = genVector_double(rows);
+    double *proy = genVector_double(rows);
+    double *temp = genVector_double(rows);
+    if (u==NULL || proy==NULL || temp==NULL){
+        printf("QR. ERROR ASIGNANDO MEMORIA\n");
+        free(u);
+        free(proy);
+        free(temp);
+        return;
+    }
+    for (int i=0;i<cols;i++){ // calcula cada vector de U y Q
+        for (int j=0;j<rows;j++){
+            a[j] = A[j][i];
+            u[j] = a[j];
+        }
+        for (int j=0;j<i;j++){// resta las contribuciones de las proyecciones de a en las u ya calculadas
+            for (int k=0;k<rows;k++)
+                temp[k] = U[k][j];
+            proyection(a,temp,&proy,rows);
+            for (int k=0;k<rows;k++)
+                u[k] -= proy[k];
+        }
+        for (int j=0;j<rows;j++)
+            U[j][i] = u[j];
+        unit_vector(&u,rows);
+        for (int j=0;j<rows;j++)
+            (*Q)[j][i] = u[j];
+    }
+    free(u);
+    free(proy);
+    free(temp);
+    free_matrix(U);
+
+    //traspose(*Q,rows);
+    double q[rows];
+    for (int i=0;i<rows;i++){
+        for (int j=0;j<=i;j++){
+            for (int k=0;k<rows;k++)
+                q[k] = (*Q)[k][j];
+            for (int k=0;k<rows;k++)
+                a[k] = A[k][i];
+            (*R)[j][i] = dot_product(q,a,rows);
+        }
+    }
+}
+
+double *solve_qr(double **A, double *b, int n){
+    double **Q, **R;
+
+    factor_qr(A,n,n,&Q,&R);
+    if (Q==NULL || R==NULL){
+        printf("ALGO SALIO MAL\n");
+        free_matrix(Q);
+        free_matrix(R);
+        return NULL;
+    }
+    traspose(Q,n);
+    double *new_b = MxV(Q,b, n, n);
+    if (new_b==NULL){
+        printf("ALGO SALIO MAL\n");
+        free_matrix(Q);
+        free_matrix(R);
+        return NULL;
+    }
+    double *x = solve_upper(R,new_b,n);
+    if (x==NULL){
+        printf("ALGO SALIO MAL\n");
+        free_matrix(Q);
+        free_matrix(R);
+        free(new_b);
+        return NULL;
+    }
+
+    free_matrix(Q);
+    free_matrix(R);
+    free(new_b);
+
+    return x;
+}
+
 /********************************************************************************************/
 // METODOS ITERATIVOS
 
@@ -654,7 +753,7 @@ int power_iteration(double **mtx, int n, double **eigenvectors, int k){
     for (int i=0;i<N;i++){
         if (found==1) // si se han encontrado otros vectores propios, se resta su contribucion a la aproximacion
             substract_contribution(x0,n,eigenvectors,k);
-        x1 = MxV(mtx,x0,n); // calculo de la siguiente aproximacion del vector propio
+        x1 = MxV(mtx,x0,n,n); // calculo de la siguiente aproximacion del vector propio
         deno = dot_product(x1,x0,n); // calculo del denominador
         if (deno!=0)
             lambda = dot_product(x1,x1,n)/deno; // calculo de la siguiente aproximacion del valor propio
@@ -861,6 +960,7 @@ int inverse_power_iteration(double **L, double **U, double **x0, int n, double *
     for (int j=0;j<n;j++)
         eigenvectors[k][j] = (*x0)[j];
     eigenvectors[k][n] = lambda;
+    return 0;
 }
 
 // Encuentra los k menores valores propios y sus vectores asociados de la matriz A

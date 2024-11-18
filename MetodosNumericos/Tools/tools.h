@@ -33,11 +33,11 @@ void print_vector(double *vec, int n);
 
 /*Operaciones basicas de algebra lineal*/
 double **MxM(double **A, int Arows, int Acols, double **B, int Brows, int Bcols);
-double *MxV(double **mtz, double *vec, int n);
+double *MxV(double **mtz, double *vec, int m, int n);
 double dot_product(double *u, double *v, int n);
 double norm(double *v, int n);
 void unit_vector(double **v, int n);
-void *proyection(double *a, double *u, double **v, int n);
+void proyection(double *a, double *u, double **v, int n);
 void traspose(double **mtx, int n);
 
 /*Resolucion de sistemas de ecuaciones*/
