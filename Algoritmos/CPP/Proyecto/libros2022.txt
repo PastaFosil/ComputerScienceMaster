@@ -1,0 +1,300 @@
+Title: Hook, Line, and Sinker; Genre: Romance
+Title: Truth and Other Lies; Genre: Drama
+Title: Girls Can Kiss Now; Genre: Essay
+Title: In the Margins; Genre: Non-fiction
+Title: Memphis; Genre: Historical fiction
+Title: The Wedding Crasher; Genre: Romantic comedy
+Title: Portrait of a Thief; Genre: Suspense
+Title: Time Is a Mother; Genre: Poetry
+Title: The Memory Librarian; Genre: Science fiction
+Title: Finding Me; Genre: Autobiography
+Title: Sea of Tranquility; Genre: Science fiction
+Title: Lessons in Chemistry; Genre: Historical fiction
+Title: Tomorrow, and Tomorrow, and Tomorrow; Genre: Contemporary fiction
+Title: The Maid; Genre: Mystery
+Title: The Candy House; Genre: Literary fiction
+Title: Black Cake; Genre: Family drama
+Title: Love on the Brain; Genre: Romance
+Title: Book Lovers; Genre: Romantic comedy
+Title: Violeta; Genre: Historical fiction
+Title: Our Missing Hearts; Genre: Dystopia
+Title: The Atlas Six; Genre: Fantasy
+Title: Demon Copperhead; Genre: Literary fiction
+Title: Nightcrawling; Genre: Drama
+Title: Shrines of Gaiety; Genre: Historical fiction
+Title: The House Across the Lake; Genre: Suspense
+Title: All Good People Here; Genre: Mystery
+Title: Young Mungo; Genre: Contemporary fiction
+Title: Carrie Soto Is Back; Genre: Sports
+Title: Upgrade; Genre: Science fiction
+Title: Fairy Tale; Genre: Fantasy
+Title: The Paris Apartment; Genre: Mystery
+Title: One Italian Summer; Genre: Romance
+Title: The School for Good Mothers; Genre: Dystopia
+Title: Remarkably Bright Creatures; Genre: Contemporary fiction
+Title: A Flicker in the Dark; Genre: Suspense
+Title: The Measure; Genre: Science fiction
+Title: I’m Glad My Mom Died; Genre: Memoir
+Title: Marrying the Ketchups; Genre: Humorous fiction
+Title: Our Wives Under the Sea; Genre: Horror
+Title: The Rabbit Hutch; Genre: Literary fiction
+Title: How High We Go in the Dark; Genre: Science fiction
+Title: Thistlefoot; Genre: Fantasy
+Title: Love Marriage; Genre: Drama
+Title: The Family Chao; Genre: Contemporary fiction
+Title: What Moves the Dead; Genre: Horror
+Title: Companion Piece; Genre: Literary fiction
+Title: Tomorrow in Shanghai; Genre: Short story collection
+Title: The Cartographers; Genre: Mystery
+Title: Lesser Known Monsters of the 21st Century; Genre: Fantasy
+Title: The Kingdom of Sand; Genre: Drama
+Title: Vladimir; Genre: Contemporary fiction
+Title: The Light Pirate; Genre: Dystopia
+Title: Solito; Genre: Memoir
+Title: Night of the Living Rez; Genre: Short story collection
+Title: Scattered All Over the Earth; Genre: Science fiction
+Title: Youngblood; Genre: Suspense
+Title: Horse; Genre: Historical fiction
+Title: The World We Make; Genre: Fantasy
+Title: The Marriage Portrait; Genre: Historical fiction
+Title: When We Were Birds; Genre: Drama
+Title: Signal Fires; Genre: Contemporary fiction
+Title: The It Girl; Genre: Mystery
+Title: The Last White Man; Genre: Literary fiction
+Title: Hester; Genre: Historical fiction
+Title: All This Could Be Different; Genre: Drama
+Title: Properties of Thirst; Genre: Literature
+Title: Before You Knew My Name; Genre: Suspense
+Title: Counterfeit; Genre: Black comedy
+Title: The Stranger in the Lifeboat; Genre: Spiritual fiction
+Title: Chorus; Genre: Family drama
+Title: Africa Is Not a Country; Genre: Non-fiction
+Title: Acts of Service; Genre: Contemporary fiction
+Title: The Golden Enclaves; Genre: Fantasy
+Title: The Cloisters; Genre: Mystery
+Title: Lucie Yi Is Not a Romantic; Genre: Romance
+Title: The Guncle; Genre: Humorous fiction
+Title: Jackal; Genre: Horror
+Title: Shadows of Pecan Hollow; Genre: Drama
+Title: Aesthetica; Genre: Literary fiction
+Title: The Many Daughters of Afong Moy; Genre: Historical fiction
+Title: The Book Eaters; Genre: Fantasy
+Title: Drunk on Love; Genre: Romance
+Title: The Island of Missing Trees; Genre: Literary fiction
+Title: Other Birds; Genre: Drama
+Title: Haven; Genre: Historical fiction
+Title: The Daughter of Doctor Moreau; Genre: Science fiction
+Title: A Lady’s Guide to Fortune-Hunting; Genre: Romantic comedy
+Title: Small Angels; Genre: Horror
+Title: The Winners; Genre: Contemporary fiction
+Title: The Ink Black Heart; Genre: Mystery
+Title: The Lost Metal; Genre: Fantasy
+Title: Remarkably Bright Creatures; Genre: Drama
+Title: The House of Fortune; Genre: Historical fiction
+Title: The Change; Genre: Suspense
+Title: The Hacienda; Genre: Horror
+Title: None of This Would Have Happened If Prince Were Alive; Genre: Black comedy
+Title: The Perfect Crimes of Marian Hayes; Genre: Romance
+Title: Motherthing; Genre: Literary fiction
+Title: Night Wherever We Go; Genre: Historical fiction
+Title: The Birdcatcher; Genre: Drama
+Title: Stella Maris; Genre: Literary Fiction
+Title: Bliss Montage: Stories; Genre: Short Stories
+Title: The Colony; Genre: Literary Fiction
+Title: People Person; Genre: Contemporary Fiction
+Title: Daughters of the Flower Fragrant Garden; Genre: Memoirs
+Title: The Paris Library; Genre: Historical Fiction
+Title: Vladimir; Genre: Literary Fiction
+Title: The Magician; Genre: Historical Fiction
+Title: A River Called Time; Genre: Science Fiction
+Title: Carrie Soto Is Back; Genre: Contemporary Fiction
+Title: River of the Gods; Genre: History
+Title: In the Margins; Genre: Biography
+Title: This Time Tomorrow; Genre: Contemporary Fiction
+Title: Wergen: The Alien Love War; Genre: Science Fiction
+Title: The Book of Form and Emptiness; Genre: Literary Fiction
+Title: A Desolation Called Peace; Genre: Science Fiction
+Title: Girls Can Kiss Now; Genre: Humor
+Title: The Jigsaw Man; Genre: Mystery
+Title: Razorblade Tears; Genre: Thriller
+Title: The It Girl; Genre: Suspense
+Title: In Love; Genre: Memoirs
+Title: Deep Wheel Orcadia; Genre: Science Fiction
+Title: The Wife Between Us; Genre: Suspense
+Title: Take My Hand; Genre: Historical Fiction
+Title: The Woman in the Library; Genre: Suspense
+Title: The Whalebone Theatre; Genre: Historical Fiction
+Title: The Lying Game; Genre: Suspense
+Title: Trust; Genre: Contemporary Fiction
+Title: Klara and the Sun; Genre: Science Fiction
+Title: The Silent Patient; Genre: Mystery
+Title: The Seven Husbands of Evelyn Hugo; Genre: Romance
+Title: The Song of Achilles; Genre: Historical Fiction
+Title: The Invisible Life of Addie LaRue; Genre: Fantasy
+Title: A Court of Thorns and Roses; Genre: Fantasy
+Title: Where the Crawdads Sing; Genre: Drama
+Title: Big Lies in a Small Town; Genre: Mystery
+Title: The Last Thing He Told Me; Genre: Suspense
+Title: The Night Circus; Genre: Fantasy
+Title: The Tattooist of Auschwitz; Genre: Historical Fiction
+Title: The Night Watchman; Genre: Literary Fiction
+Title: Our Share of Night; Genre: Horror
+Title: The Turnout; Genre: Suspense
+Title: Peach Blossom Spring; Genre: Historical Fiction
+Title: The House in the Cerulean Sea; Genre: Fantasy
+Title: The Lies We Tell; Genre: Thriller
+Title: The Turn of the Key; Genre: Mystery
+Title: The Last House on Needless Street; Genre: Horror
+Title: The Other Black Girl; Genre: Contemporary Fiction
+Title: The Book Thief; Genre: Historical Fiction
+Title: The Vanishing Half; Genre: Drama
+Title: The House Across the Lake; Genre: Mystery
+Title: The Maidens; Genre: Mystery
+Title: The Parable of the Sower; Genre: Science Fiction
+Title: The School for Good Mothers; Genre: Contemporary Fiction
+Title: The Midnight Library; Genre: Literary Fiction
+Title: The Giver of Stars; Genre: Historical Fiction
+Title: The Night Tiger; Genre: Historical Fiction
+Title: The Henna Artist; Genre: Historical Fiction
+Title: The Family Upstairs; Genre: Mystery
+Title: The Shadow of the Wind; Genre: Historical Fiction
+Title: The Paper Palace; Genre: Drama
+Title: The Love Hypothesis; Genre: Romance
+Title: The Rosie Project; Genre: Romance
+Title: The Midnight Library; Genre: Contemporary Fiction
+Title: The Island; Genre: Thriller
+Title: City on Fire; Genre: Crime Fiction
+Title: A Little Life; Genre: Contemporary Fiction
+Title: The Paper Palace; Genre: Contemporary Fiction
+Title: The Girl with the Louding Voice; Genre: Drama
+Title: The 1619 Project: A New Origin Story; Genre: History
+Title: Verity; Genre: Psychological Thriller
+Title: The City We Became; Genre: Fantasy
+Title: The House in the Pines; Genre: Mystery
+Title: The Silent Corner; Genre: Mystery
+Title: The Ballad of Perilous Graves; Genre: Urban Fantasy
+Title: Under the Skin; Genre: Non-fiction
+Title: Less Is Lost; Genre: Literary Fiction
+Title: Kaikeyi; Genre: Fantasy
+Title: The Oleander Sword; Genre: Fantasy
+Title: The Girl on the Train; Genre: Mystery
+Title: The Woman in the Window; Genre: Mystery
+Title: The 5th Wave; Genre: Science Fiction
+Title: The Latecomer; Genre: Contemporary Fiction
+Title: Drunk on All Your Strange New Words; Genre: Science Fiction
+Title: Babel; Genre: Fantasy
+Title: The Younger Wife; Genre: Psychological Thriller
+Title: The Light We Lost; Genre: Romance
+Title: Bad Gays; Genre: History
+Title: Nightwork; Genre: Thriller
+Title: Stolen Focus; Genre: Sociology
+Title: Project Hail Mary; Genre: Science Fiction
+Title: Trespasses; Genre: Literary Fiction
+Title: Anxious People; Genre: Comedy
+Title: Glory; Genre: Satirical Fiction
+Title: Ruthless Women; Genre: Crime Fiction
+Title: The Night Watchman; Genre: Historical Fiction
+Title: The Passenger; Genre: Literary Fiction
+Title: Rock, Paper, Scissors; Genre: Thriller
+Title: I Am Not Who You Think I Am; Genre: Suspense
+Title: The City of Brass; Genre: Fantasy
+Title: Siren Queen; Genre: Historical Fantasy
+Title: Cloud Cuckoo Land; Genre: Literary Fiction
+Title: Beneath the Keep; Genre: Fantasy
+Title: The Language of Flowers; Genre: Romance
+Title: Olga Dies Dreaming; Genre: Literary Fiction
+Title: The Escape Artist; Genre: Non-fiction
+Title: Electra; Genre: Historical Fiction
+Title: Saint Death's Daughter; Genre: Fantasy
+Title: Woman of Light; Genre: Historical Fiction
+Title: Ordinary Monsters; Genre: Fantasy
+Title: Under the Whispering Door; Genre: Fantasy
+Title: What My Bones Know; Genre: Memoir
+Title: More Than I Love My Life; Genre: Family Drama
+Title: Super-Infinite; Genre: Biography
+Title: The Song of Achilles; Genre: Romance
+Title: Run, Rose, Run; Genre: Thriller
+Title: After the Sun; Genre: Contemporary Fiction
+Title: Honor; Genre: Literary Fiction
+Title: Dead Silence; Genre: Horror
+Title: A Court of Silver Flames; Genre: Fantasy
+Title: An Immense World; Genre: Science
+Title: The Kaiju Preservation Society; Genre: Science Fiction
+Title: Hidden Pictures; Genre: Horror
+Title: Sea Change; Genre: Literary Fiction
+Title: Rose Nicolson; Genre: Historical Fiction
+Title: Our Lady of the Nile; Genre: Historical Fiction
+Title: The Very Secret Society of Irregular Witches; Genre: Contemporary Fantasy
+Title: The Paradox Hotel; Genre: Science Fiction
+Title: The Seven Moons of Maali Almeida; Genre: Literary Fiction
+Title: The Trees; Genre: Contemporary Fiction
+Title: Lost & Found; Genre: Memoir
+Title: Pandora; Genre: Historical Fiction
+Title: Nona the Ninth; Genre: Fantasy
+Title: The Maidens; Genre: Suspense
+Title: Skyward Inn; Genre: Science Fiction
+Title: A Prayer for the Crown-Shy; Genre: Science Fiction
+Title: The Facemaker; Genre: Biography
+Title: These Toxic Things; Genre: Suspense
+Title: Why Fish Don’t Exist; Genre: Science
+Title: The Globalization of Health Care; Genre: Non-fiction
+Title: We Are the Brennans; Genre: Family Drama
+Title: The Sanatorium; Genre: Horror
+Title: Phenotypes; Genre: Literary Fiction
+Title: The Wrong Family; Genre: Thriller
+Title: The Family Remains; Genre: Thriller
+Title: Nettle & Bone; Genre: Fantasy
+Title: French Braid; Genre: Contemporary Fiction
+Title: Spear; Genre: Fantasy
+Title: Ocean’s Echo; Genre: Science Fiction
+Title: How to Read Now; Genre: Essay
+Title: The Atlas Paradox; Genre: Academic Fantasy
+Title: The Secret History of Home Economics; Genre: Non-fiction
+Title: Big Swiss; Genre: Contemporary Fiction
+Title: The Last House on Needless Street; Genre: Psychological Horror
+Title: The Stardust Thief; Genre: Fantasy
+Title: The Song of the Cell; Genre: Science
+Title: Why We Fight; Genre: Politics
+Title: Sundial; Genre: Horror
+Title: The World We Make; Genre: Science Fiction
+Title: News of the Dead; Genre: Historical Fiction
+Title: The Angel Makers; Genre: History
+Title: A River Enchanted; Genre: Fantasy
+Title: The Four Winds; Genre: Historical Fiction
+Title: The Love Songs of W.E.B. Du Bois; Genre: Literary Fiction
+Title: A Taste of Gold and Iron; Genre: Romance
+Title: We Are Not Like Them; Genre: Contemporary Fiction
+Title: Red Widow; Genre: Thriller
+Title: Lapvona; Genre: Literary Fiction
+Title: Rogues; Genre: Non-fiction
+Title: How to Sell a Haunted House; Genre: Horror
+Title: The Last House on Needless Street; Genre: Suspense
+Title: The Unhoneymooners; Genre: Romance
+Title: The 5th Victim; Genre: Thriller
+Title: The 1619 Project; Genre: Non-fiction
+Title: The Devil Takes You Home; Genre: Horror
+Title: The Books of Jacob; Genre: Historical Fiction
+Title: The Lincoln Highway; Genre: Historical Fiction
+Title: The Light We Carry; Genre: Non-fiction
+Title: The Genesis of Misery; Genre: Science Fiction
+Title: A New Name: Septology VI-VII; Genre: Philosophical Fiction
+Title: The Night She Disappeared; Genre: Mystery
+Title: The Body Keeps the Score; Genre: Psychology
+Title: The Dreamers; Genre: Literary Fiction
+Title: The Embroidered Book; Genre: Fantasy
+Title: Moon Witch, Spider King; Genre: Fantasy
+Title: The Love of My Life; Genre: Romance
+Title: The Sentence; Genre: Contemporary Fiction
+Title: Fortune; Genre: Historical Fiction
+Title: I Will Die in a Foreign Land; Genre: Contemporary Fiction
+Title: The Book of Magic; Genre: Fantasy
+Title: Booth; Genre: Historical Fiction
+Title: Love in the Big City; Genre: Fiction
+Title: South to America; Genre: History
+Title: The Spear Cuts Through Water; Genre: Fantasy
+Title: A Taste of Gold and Iron; Genre: Fantasy
+Title: Gallant; Genre: Fantasy
+Title: The Mountain in the Sea; Genre: Science Fiction
+Title: A Little Hope; Genre: Literary Fiction
+Title: Leech; Genre: Science Fiction
+Title: Spells for Forgetting; Genre: Mystery
