@@ -12,8 +12,15 @@
 #include <fstream>
 #include <vector>
 #include <string>
+#include <regex>
 
 using namespace std;
+
+void print_vector(vector<string> v){
+    for (int i=0;i<v.size();i++)
+        cout << v[i] << " ";
+    cout << endl;
+}
 
 class hash_table {
     private:
@@ -228,104 +235,162 @@ class hash_table {
 
 };
 
-vector <string> infija_a_posfija(string expresion){
+bool is_name(char c, char names[], int num_names){
+    for (int i=0;i<num_names;i++)
+        if (c==names[i])
+            return true;
+    return false;
+}
+
+bool is_operator(char c){
+    return c=='u' || c=='n' || c=='-' || c=='s';
+}
+
+vector <string> infija_a_posfija(string expresion, char names[], int num_names){
     vector <string> posfija;
     vector <string> pila;
-    int len = expresion.length();
     int i = 0;
+    string str = "";
     while (expresion[i]!='\0'){
-        string num = "";
-        if (expresion[i]=='(' || expresion[i]=='[' || expresion[i]=='{'){
-            if (expresion[i]=='(')
-                pila.push_back("(");
-            else if (expresion[i]=='[')
-                pila.push_back("[");
-            else if (expresion[i]=='{')
-                pila.push_back("{");
-        } else if (expresion[i]==')' || expresion[i]==']' || expresion[i]=='}'){
+        if (is_name(expresion[i],names,num_names)){
+            posfija.push_back(str+expresion[i]);
+        } else if (expresion[i]=='(' || expresion[i]=='[' || expresion[i]=='{')
+            pila.push_back(str+expresion[i]);
+        else if (expresion[i]==')' || expresion[i]==']' || expresion[i]=='}'){
             if (expresion[i]==')'){
-                while (pila.back()!="("){
+                while (pila.back()!="(" && !pila.empty()){
                     posfija.push_back(pila.back());
                     pila.pop_back();
                 }
+                if (pila.empty()){
+                    cout << "ERROR: PARENTESIS NO BALANCEADOS\n";
+                    posfija.resize(0);
+                    return posfija;
+                } else pila.pop_back();
             } else if (expresion[i]==']'){
-                while (pila.back()!="["){
+                while (pila.back()!="[" && !pila.empty()){
                     posfija.push_back(pila.back());
                     pila.pop_back();
                 }
+                if (pila.empty()){
+                    cout << "ERROR: PARENTESIS NO BALANCEADOS\n";
+                    posfija.resize(0);
+                    return posfija;
+                } else pila.pop_back();
             } else if (expresion[i]=='}'){
-                while (pila.back()!="{"){
+                while (pila.back()!="{" && !pila.empty()){
                     posfija.push_back(pila.back());
                     pila.pop_back();
                 }
+                if (pila.empty()){
+                    cout << "ERROR: PARENTESIS NO BALANCEADOS\n";
+                    posfija.resize(0);
+                    return posfija;
+                } else pila.pop_back();
             }
-        } else if (expresion[i]=='u' || expresion[i]=='n' || expresion[i]=='-' || expresion[i]=='s'){
-            if (expresion[i]=='u')
-                pila.push_back("u");
-            else if (expresion[i]=='n')
-                pila.push_back("n");
-            else if (expresion[i]=='-')
-                pila.push_back("-");
-            else if (expresion[i]=='s')
-                pila.push_back("s");
+        } else if (is_operator(expresion[i])){
+            while (!pila.empty() && pila.back()!="(" && pila.back()!="[" && pila.back()!="{"){
+                posfija.push_back(pila.back());
+                pila.pop_back();
+            }
+            pila.push_back(str+expresion[i]);
         }
+        i++;
     }
+    while (!pila.empty()){
+        posfija.push_back(pila.back());
+        pila.pop_back();
+    }
+    return posfija;
+}
+
+vector<string> posfija_a_pila(string expresion, char names[], int num_names){
+    vector<string> pila;
+    int i = 0;
+    string str = "";
+    while (expresion[i]!='\0'){
+        if (is_name(expresion[i],names,num_names) || is_operator(expresion[i]))
+            pila.push_back(str+expresion[i]);
+        i++;
+    }
+    
+    return pila;
+}
+
+vector<string> prefija_a_posfija(string expresion, char names[], int num_names){
+    vector<string> posfija, pila;
+    int i = 0, count = 0;
+    while (expresion[i]!='\0'){
+        if (is_name(expresion[i],names,num_names)){
+            posfija.push_back(string(1,expresion[i]));
+            count++;
+        } else if (is_operator(expresion[i])){
+            pila.push_back(string(1,expresion[i]));
+        }
+        if (count==2 && !pila.empty()){
+            posfija.push_back(pila.back());
+            pila.pop_back();
+            count--;
+        }
+        i++;
+    }
+    while (!pila.empty()){
+        posfija.push_back(pila.back());
+        pila.pop_back();
+    }
+
+    return posfija;
+}
+
+/* 
+    Devuelve el tipo de notacion de la expresion ingresada:
+    0: prefija. 1: infija. 2: posfija
+*/
+int which_fix(string expresion, char names[], int num_names){
+    if (is_operator(expresion[0]))
+        return 0;
+    else if (is_operator(expresion.length()-1))
+        return 2;
+    else return 1;
 }
 
 int main(int argc, char **argv){
-    if (argc!=3){
-        cout << "USO: " << argv[0] << " <archivo 1> <archivo 2>\n";
+    if (argc<3){
+        cout << "ERROR: DEBE INGRESAR MAS ARCHIVOS\n";
         return -1;
     }
-    hash_table h1, h2;
-    h1.fill_hash(argv[1]);
-    h2.fill_hash(argv[2]);
-    
-    int choice = -1;
-    while (choice != 8){
-        cout << "\n\nSeleccione operacion:\n";
-        cout << "1. Imprimir tabla 1\n";
-        cout << "2. Imprimir tabla 2\n";
-        cout << "3. Imprimir interseccion\n";
-        cout << "4. Imprimir union\n";
-        cout << "5. Imprimir diferencia\n";
-        cout << "6. Imprimir diferencia simetrica\n";
-        cout << "7. Guardar archivos con factores de carga de ambas tablas\n";
-        cout << "8. Salir.\n";
-        cout << "\nR: ";
-        cin >> choice;
-
-        switch (choice){
-            case 1:
-                h1.printTable();
-                break;
-            case 2:
-                h2.printTable();
-                break;
-            case 3:
-                h2.intersection(h2);
-                break;
-            case 4:
-                h1.union_hash(h2);
-                break;
-            case 5:
-                h1.difference(h2);
-                break;
-            case 6:
-                h1.symmetric_difference(h2);
-                break;
-            case 7:
-                h1.histogram();
-                h2.histogram();
-                break;
-            case 8:
-                break;
-            default:
-                cout << "\n\nIngrese una opcion valida\n\n" << endl;
-                break;
-
-        }
+    vector<hash_table> tables;
+    int num_tables = argc-1;
+    tables.resize(num_tables);
+    char names[num_tables];
+    cout << "\n\nLas tablas se identificaran alfabeticamente con una letra mayuscula en el orden en que se ingresaron\n\n";
+    for (int i=0;i<num_tables;i++){
+        names[i] = 65+i;
+        tables[i].fill_hash(argv[i+1]);
     }
     
+    string expresion;
+    vector<string> posfija;
+    while (expresion!="q"){
+        cout << "\n\nIngrese la expresion a evaluar ('q' para salir):\n";
+        cout << "\nR: ";
+        cin >> expresion;
+        if (expresion=="q")
+            break;
+        int notation = which_fix(expresion, names, num_tables);
+        posfija.clear();
+        if (notation==0)
+            posfija = prefija_a_posfija(expresion, names, num_tables);
+        else if (notation==1)
+            posfija = infija_a_posfija(expresion, names, num_tables);
+        else if (notation==2)
+            posfija = posfija_a_pila(expresion, names, num_tables);
+        if (posfija.size()<2)
+            cout << "ERROR: EXPRESION INVALIDA\n";
+        else {
+            
+        }
+    }
+
     return 0;
 }
