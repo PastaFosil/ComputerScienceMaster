@@ -31,7 +31,7 @@ class hash_table {
             string title;
             string genre;
         };
-        vector<Node> *table;
+        vector<vector<Node>> table;
 
         struct Genre{ // Estructura de nodo para lista de generos
             string name;
@@ -49,12 +49,24 @@ class hash_table {
 
         // Inicializa una tabla hash con un tamaño de 100
         hash_table(){
-            table = new vector<Node>[size];
+            table.resize(size);
         }
 
-        // Destructor
-        ~hash_table(){
-            delete[] table;
+        void clear_table(){
+            for (int i=0;i<size;i++)
+                table[i].clear();
+            genres.clear();
+        }
+
+        hash_table& operator=(hash_table &other){
+            clear_table();
+            for (int i=0;i<this->size;i++){
+                int s = other.table[i].size();
+                for (int j=0;j<s;j++)
+                    insert(other.table[i][j].title, other.table[i][j].genre);
+            }
+            database = other.database;
+            return *this;
         }
 
         // Imprime la tabla hash
@@ -150,19 +162,30 @@ class hash_table {
         }
 
         // Imprime la interseccion de dos tablas hash
-        void intersection(hash_table &other){
+        void intersection(hash_table &other, bool replace=false){
             int col_size = 80;
+            hash_table intersection_table;
             cout << setw(col_size) << "Titulo" << setw(col_size/2) << "Genero" << endl << endl;
             for (int i=0;i<size;i++){
                 for (int j=0;j<table[i].size();j++){
-                    if (other.search(table[i][j].title, table[i][j].genre)!=-1)
+                    if (other.search(table[i][j].title, table[i][j].genre)!=-1){
                         cout << setw(col_size) << table[i][j].title << setw(col_size/2) << table[i][j].genre << endl;
+                        intersection_table.insert(table[i][j].title, table[i][j].genre);
+                    }
+                }
+            }
+            if (replace){
+                clear_table();
+                for (int i=0;i<intersection_table.size;i++){
+                    for (int j=0;j<intersection_table.table[i].size();j++){
+                        insert(intersection_table.table[i][j].title, intersection_table.table[i][j].genre);
+                    }
                 }
             }
         }
 
         // Imprime la union de dos tablas hash
-        void union_hash(hash_table &other){
+        void union_hash(hash_table &other, bool replace=false){
             int col_size = 80;
             hash_table union_table;
             for (int i=0;i<size;i++){
@@ -180,16 +203,27 @@ class hash_table {
                 }
             }
             union_table.printTable();
+            if (replace){
+                clear_table();
+                for (int i=0;i<union_table.size;i++){
+                    for (int j=0;j<union_table.table[i].size();j++){
+                        insert(union_table.table[i][j].title, union_table.table[i][j].genre);
+                    }
+                }
+            }
         }
 
         // Imprime la diferencia entre dos tablas hash
-        void difference(hash_table &other){
+        void difference(hash_table &other, bool replace=false){
             int col_size = 80;
+            hash_table difference_table;
             cout << setw(col_size) << "Titulo" << setw(col_size/2) << "Genero" << endl << endl;
             for (int i=0;i<size;i++){
                 for (int j=0;j<table[i].size();j++){
-                    if (other.search(table[i][j].title, table[i][j].genre)==-1)
+                    if (other.search(table[i][j].title, table[i][j].genre)==-1){
                         cout << setw(col_size) << table[i][j].title << setw(col_size/2) << table[i][j].genre << endl;
+                        difference_table.insert(table[i][j].title, table[i][j].genre);
+                    }
                 }
             }
             cout << endl << endl << "Ocurrencias de generos" << endl;
@@ -214,25 +248,44 @@ class hash_table {
                 for (i;i<num_genres_other;i++)
                     cout << setw(col_size/2) << other.genres[i].name << setw(col_size/2) << "---" << setw(col_size/2) << other.genres[i].count << endl;
             }
-        }
-
-        // Imprime la diferencia simetrica entre dos tablas hash
-        void symmetric_difference(hash_table &other){
-            int col_size = 80;
-            cout << setw(col_size) << "Titulo" << setw(col_size/2) << "Genero" << endl << endl;
-            for (int i=0;i<size;i++){
-                for (int j=0;j<table[i].size();j++){
-                    if (other.search(table[i][j].title, table[i][j].genre)==-1)
-                        cout << setw(col_size) << table[i][j].title << setw(col_size/2) << table[i][j].genre << endl;
-                }
-                for (int j=0;j<other.table[i].size();j++){
-                    if (search(other.table[i][j].title, other.table[i][j].genre)==-1)
-                        cout << setw(col_size) << other.table[i][j].title << setw(col_size/2) << other.table[i][j].genre << endl;
+            if (replace){
+                clear_table();
+                for (int i=0;i<difference_table.size;i++){
+                    for (int j=0;j<difference_table.table[i].size();j++){
+                        insert(difference_table.table[i][j].title, difference_table.table[i][j].genre);
+                    }
                 }
             }
         }
 
-
+        // Imprime la diferencia simetrica entre dos tablas hash
+        void symmetric_difference(hash_table &other, bool replace=false){
+            int col_size = 80;
+            hash_table symmetric_table;
+            cout << setw(col_size) << "Titulo" << setw(col_size/2) << "Genero" << endl << endl;
+            for (int i=0;i<size;i++){
+                for (int j=0;j<table[i].size();j++){
+                    if (other.search(table[i][j].title, table[i][j].genre)==-1){
+                        cout << setw(col_size) << table[i][j].title << setw(col_size/2) << table[i][j].genre << endl;
+                        symmetric_table.insert(table[i][j].title, table[i][j].genre);
+                    }
+                }
+                for (int j=0;j<other.table[i].size();j++){
+                    if (search(other.table[i][j].title, other.table[i][j].genre)==-1){
+                        cout << setw(col_size) << other.table[i][j].title << setw(col_size/2) << other.table[i][j].genre << endl;
+                        symmetric_table.insert(other.table[i][j].title, other.table[i][j].genre);
+                    }
+                }
+            }
+            if (replace){
+                clear_table();
+                for (int i=0;i<symmetric_table.size;i++){
+                    for (int j=0;j<symmetric_table.table[i].size();j++){
+                        insert(symmetric_table.table[i][j].title, symmetric_table.table[i][j].genre);
+                    }
+                }
+            }
+        }
 };
 
 bool is_name(char c, char names[], int num_names){
@@ -349,7 +402,7 @@ vector<string> prefija_a_posfija(string expresion, char names[], int num_names){
 int which_fix(string expresion, char names[], int num_names){
     if (is_operator(expresion[0]))
         return 0;
-    else if (is_operator(expresion.length()-1))
+    else if (is_operator(expresion.back()))
         return 2;
     else return 1;
 }
@@ -366,13 +419,17 @@ int main(int argc, char **argv){
     cout << "\n\nLas tablas se identificaran alfabeticamente con una letra mayuscula en el orden en que se ingresaron\n\n";
     for (int i=0;i<num_tables;i++){
         names[i] = 65+i;
-        tables[i].fill_hash(argv[i+1]);
+        if (tables[i].fill_hash(argv[i+1])){
+            cout << "ERROR: NO SE PUDO LLENAR LA TABLA\n";
+            return -1;
+        }
     }
     
     string expresion;
     vector<string> posfija;
     while (expresion!="q"){
         cout << "\n\nIngrese la expresion a evaluar ('q' para salir):\n";
+        cout << "Operadores: u (union), n (interseccion), - (diferencia), s (diferencia simetrica)\n";
         cout << "\nR: ";
         cin >> expresion;
         if (expresion=="q")
@@ -385,10 +442,130 @@ int main(int argc, char **argv){
             posfija = infija_a_posfija(expresion, names, num_tables);
         else if (notation==2)
             posfija = posfija_a_pila(expresion, names, num_tables);
+
         if (posfija.size()<2)
             cout << "ERROR: EXPRESION INVALIDA\n";
         else {
-            
+            vector<hash_table> result;
+            while (posfija.size()>2){ // se repite hasta que  solo quede un elemento en la pila de la expresion (el resultado final)
+                int i = 0;
+                while (!is_operator(posfija[i][0])) // busca el primer operador en la pila
+                    i++;
+                cout << "i: " << i << endl;
+                print_vector(posfija);
+                int case1, case2; // indica si las tablas sobre las que se opera son letras (tablas ingresadas por el usuario) o numeros (resultados de operaciones anteriores)
+                // 0: letra, 1: numero
+                if (posfija[i][0]=='u'){ // union
+                    // verifica si los operandos son letras (tablas ingresadas por el usuario que no se deben modificar)
+                    // o numeros (resultados de operaciones anteriores que se pueden modificar)
+                    if (posfija[i-2][0]>=65 && posfija[i-2][0]<=90) case1 = 0;
+                    else case1 = 1;
+                    if (posfija[i-1][0]>=65 && posfija[i-1][0]<=90) case2 = 0;
+                    else case2 = 1;
+                    // si ambos operandos son letras, se agrega una nueva tabla resultado
+                    if (case1==0 && case2==0){
+                        result.push_back(tables[posfija[i-2][0]-65]);
+                        result.back().union_hash(tables[posfija[i-1][0]-65], true);
+                        // se eliminan el ultimo operando y el operador de la pila y se sustituyen por la nueva tabla resultado
+                        posfija.erase(posfija.begin()+i-2, posfija.begin()+i);
+                        posfija[i-2] = to_string(result.size()-1);
+                    // si uno de los operandos es un numero y el otro una letra, se modifica la tabla resultado sobre la que se operara
+                    } else if (case1==1 && case2==0){
+                        result[stoi(posfija[i-2])].union_hash(tables[posfija[i-1][0]-65], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    } else if (case1==0 && case2==1){
+                        result[stoi(posfija[i-1])].union_hash(tables[posfija[i-2][0]-65], true);
+                        posfija.erase(posfija.begin()+i-2);
+                        posfija.erase(posfija.begin()+i);
+                    // si ambos operandos son numeros, se modifica la primera tabla resultado
+                    } else if (case1==1 && case2==1){
+                        result[stoi(posfija[i-2])].union_hash(result[stoi(posfija[i-1])], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    }
+                } else if (posfija[i][0]=='n'){
+                    // verifica si los operandos son letras (tablas ingresadas por el usuario que no se deben modificar)
+                    // o numeros (resultados de operaciones anteriores que se pueden modificar)
+                    if (posfija[i-2][0]>=65 && posfija[i-2][0]<=90) case1 = 0;
+                    else case1 = 1;
+                    if (posfija[i-1][0]>=65 && posfija[i-1][0]<=90) case2 = 0;
+                    else case2 = 1;
+                    // si ambos operandos son letras, se agrega una nueva tabla resultado
+                    if (case1==0 && case2==0){
+                        result.push_back(tables[posfija[i-2][0]-65]);
+                        result.back().intersection(tables[posfija[i-1][0]-65], true);
+                        // se eliminan el ultimo operando y el operador de la pila y se sustituyen por la nueva tabla resultado
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                        posfija[i-2] = to_string(result.size()-1);
+                    // si uno de los operandos es un numero y el otro una letra, se modifica la tabla resultado sobre la que se operara
+                    } else if (case1==1 && case2==0){
+                        result[stoi(posfija[i-2])].intersection(tables[posfija[i-1][0]-65], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    } else if (case1==0 && case2==1){
+                        result[stoi(posfija[i-1])].intersection(tables[posfija[i-2][0]-65], true);
+                        posfija.erase(posfija.begin()+i-2);
+                        posfija.erase(posfija.begin()+i);
+                    // si ambos operandos son numeros, se modifica la primera tabla resultado
+                    } else if (case1==1 && case2==1){
+                        result[stoi(posfija[i-2])].intersection(result[stoi(posfija[i-1])], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    }
+                } else if (posfija[i][0]=='-'){
+                    // verifica si los operandos son letras (tablas ingresadas por el usuario que no se deben modificar)
+                    // o numeros (resultados de operaciones anteriores que se pueden modificar)
+                    if (posfija[i-2][0]>=65 && posfija[i-2][0]<=90) case1 = 0;
+                    else case1 = 1;
+                    if (posfija[i-1][0]>=65 && posfija[i-1][0]<=90) case2 = 0;
+                    else case2 = 1;
+                    // si ambos operandos son letras, se agrega una nueva tabla resultado
+                    if (case1==0 && case2==0){
+                        result.push_back(tables[posfija[i-2][0]-65]);
+                        result.back().difference(tables[posfija[i-1][0]-65], true);
+                        // se eliminan el ultimo operando y el operador de la pila y se sustituyen por la nueva tabla resultado
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                        posfija[i-2] = to_string(result.size()-1);
+                    // si uno de los operandos es un numero y el otro una letra, se modifica la tabla resultado sobre la que se operara
+                    } else if (case1==1 && case2==0){
+                        result[stoi(posfija[i-2])].difference(tables[posfija[i-1][0]-65], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    } else if (case1==0 && case2==1){
+                        result[stoi(posfija[i-1])].difference(tables[posfija[i-2][0]-65], true);
+                        posfija.erase(posfija.begin()+i-2);
+                        posfija.erase(posfija.begin()+i);
+                    // si ambos operandos son numeros, se modifica la primera tabla resultado
+                    } else if (case1==1 && case2==1){
+                        result[stoi(posfija[i-2])].difference(result[stoi(posfija[i-1])], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    }
+                } else if (posfija[i][0]=='s'){
+                    // verifica si los operandos son letras (tablas ingresadas por el usuario que no se deben modificar)
+                    // o numeros (resultados de operaciones anteriores que se pueden modificar)
+                    if (posfija[i-2][0]>=65 && posfija[i-2][0]<=90) case1 = 0;
+                    else case1 = 1;
+                    if (posfija[i-1][0]>=65 && posfija[i-1][0]<=90) case2 = 0;
+                    else case2 = 1;
+                    // si ambos operandos son letras, se agrega una nueva tabla resultado
+                    if (case1==0 && case2==0){
+                        result.push_back(tables[posfija[i-2][0]-65]);
+                        result.back().symmetric_difference(tables[posfija[i-1][0]-65], true);
+                        // se eliminan el ultimo operando y el operador de la pila y se sustituyen por la nueva tabla resultado
+                        posfija.erase(posfija.begin()+i-2, posfija.begin()+i);
+                        posfija[i-2] = to_string(result.size()-1);
+                        print_vector(posfija);
+                    // si uno de los operandos es un numero y el otro una letra, se modifica la tabla resultado sobre la que se operara
+                    } else if (case1==1 && case2==0){
+                        result[stoi(posfija[i-2])].symmetric_difference(tables[posfija[i-1][0]-65], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    } else if (case1==0 && case2==1){
+                        result[stoi(posfija[i-1])].symmetric_difference(tables[posfija[i-2][0]-65], true);
+                        posfija.erase(posfija.begin()+i-2);
+                        posfija.erase(posfija.begin()+i);
+                    // si ambos operandos son numeros, se modifica la primera tabla resultado
+                    } else if (case1==1 && case2==1){
+                        result[stoi(posfija[i-2])].symmetric_difference(result[stoi(posfija[i-1])], true);
+                        posfija.erase(posfija.begin()+i-1, posfija.begin()+i+1);
+                    }
+                }
+            }
         }
     }
 
