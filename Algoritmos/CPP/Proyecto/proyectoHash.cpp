@@ -16,6 +16,7 @@
 
 using namespace std;
 
+// Imprime el vector de strings v
 void print_vector(vector<string> v){
     for (int i=0;i<v.size();i++)
         cout << v[i] << " ";
@@ -37,8 +38,9 @@ class hash_table {
             string name;
             int count;
         };
-        vector<Genre> genres;
+        vector<Genre> genres; // lista de generos insertados
         
+        // Funcion hash para calcular los indices
         unsigned long hash_function(string str, unsigned long size){
             unsigned long hash = 5381;
             for (char c : str)
@@ -52,6 +54,7 @@ class hash_table {
             table.resize(size);
         }
 
+        // Vacia los buckets de la tabla hash para asignar nuevos valores
         void clear_table(){
             for (int i=0;i<size;i++)
                 table[i].clear();
@@ -59,8 +62,8 @@ class hash_table {
         }
 
         hash_table& operator=(hash_table &other){
-            clear_table();
-            for (int i=0;i<this->size;i++){
+            clear_table(); // vacia la tabla original
+            for (int i=0;i<this->size;i++){ // asigna los elementos de la tabla que se copiara
                 int s = other.table[i].size();
                 for (int j=0;j<s;j++)
                     insert(other.table[i][j].title, other.table[i][j].genre);
@@ -161,7 +164,10 @@ class hash_table {
             return -1;
         }
 
-        // Imprime la interseccion de dos tablas hash
+        /*
+            Imprime la interseccion de dos tablas hash; si replace = true, se reemplazan 
+            los valores de la tabla original por los del resultado de la operacion
+        */
         void intersection(hash_table &other, bool replace=false){
             int col_size = 80;
             hash_table intersection_table;
@@ -184,7 +190,10 @@ class hash_table {
             }
         }
 
-        // Imprime la union de dos tablas hash
+        /*
+            Imprime la union de dos tablas hash; si replace = true, se reemplazan 
+            los valores de la tabla original por los del resultado de la operacion
+        */
         void union_hash(hash_table &other, bool replace=false){
             int col_size = 80;
             hash_table union_table;
@@ -213,7 +222,10 @@ class hash_table {
             }
         }
 
-        // Imprime la diferencia entre dos tablas hash
+        /*
+            Imprime la diferencia entre dos tablas hash; si replace = true, se reemplazan 
+            los valores de la tabla original por los del resultado de la operacion
+        */
         void difference(hash_table &other, bool replace=false){
             int col_size = 80;
             hash_table difference_table;
@@ -258,7 +270,10 @@ class hash_table {
             }
         }
 
-        // Imprime la diferencia simetrica entre dos tablas hash
+        /*
+            Imprime la diferencia simetrica entre dos tablas hash; si replace = true, se reemplazan 
+            los valores de la tabla original por los del resultado de la operacion
+        */
         void symmetric_difference(hash_table &other, bool replace=false){
             int col_size = 80;
             hash_table symmetric_table;
@@ -288,6 +303,7 @@ class hash_table {
         }
 };
 
+// Verifica si el caracter leido es un nombre de conjunto
 bool is_name(char c, char names[], int num_names){
     for (int i=0;i<num_names;i++)
         if (c==names[i])
@@ -295,6 +311,7 @@ bool is_name(char c, char names[], int num_names){
     return false;
 }
 
+// Verifica si el caracter leido es un operador
 bool is_operator(char c){
     return c=='u' || c=='n' || c=='-' || c=='s';
 }
@@ -305,11 +322,11 @@ vector <string> infija_a_posfija(string expresion, char names[], int num_names){
     int i = 0;
     string str = "";
     while (expresion[i]!='\0'){
-        if (is_name(expresion[i],names,num_names)){
+        if (is_name(expresion[i],names,num_names)){ // se agregan los operandos a la pila final
             posfija.push_back(str+expresion[i]);
-        } else if (expresion[i]=='(' || expresion[i]=='[' || expresion[i]=='{')
+        } else if (expresion[i]=='(' || expresion[i]=='[' || expresion[i]=='{') // se agregan parentesis/corchetes/llaves de apertura a pila de operadores
             pila.push_back(str+expresion[i]);
-        else if (expresion[i]==')' || expresion[i]==']' || expresion[i]=='}'){
+        else if (expresion[i]==')' || expresion[i]==']' || expresion[i]=='}'){ // si se encuentra un parentesis/corchete/llave de cierre, esta se vacia hasta encontrar su coincidente
             if (expresion[i]==')'){
                 while (pila.back()!="(" && !pila.empty()){
                     posfija.push_back(pila.back());
@@ -341,7 +358,7 @@ vector <string> infija_a_posfija(string expresion, char names[], int num_names){
                     return posfija;
                 } else pila.pop_back();
             }
-        } else if (is_operator(expresion[i])){
+        } else if (is_operator(expresion[i])){ // si se encuentra un operador, se vacia la pila hasta quedar completamente vacia o encontrarse con un parentesis/corchete/llave de apertura y se agrega el nuevo operador
             while (!pila.empty() && pila.back()!="(" && pila.back()!="[" && pila.back()!="{"){
                 posfija.push_back(pila.back());
                 pila.pop_back();
@@ -350,6 +367,7 @@ vector <string> infija_a_posfija(string expresion, char names[], int num_names){
         }
         i++;
     }
+    // si quedan operadores en la pila de operadores, se agregan a la pila de la expresion
     while (!pila.empty()){
         posfija.push_back(pila.back());
         pila.pop_back();
@@ -409,7 +427,7 @@ int which_fix(string expresion, char names[], int num_names){
 
 int main(int argc, char **argv){
     if (argc<3){
-        cout << "ERROR: DEBE INGRESAR MAS ARCHIVOS\n";
+        cout << "ERROR: ./" << argv[0] << " <archivo1> <archivo2> ... <archivoN>\n";
         return -1;
     }
     vector<hash_table> tables;
