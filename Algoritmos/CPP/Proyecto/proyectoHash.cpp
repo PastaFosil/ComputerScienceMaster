@@ -1,10 +1,10 @@
 /**********************************************************
  * JUAN CARLOS PEREZ RAMIREZ
  * PROGRAMACION Y ALGORITMOS
- * TAREA 8 C++
+ * PROYECTO FINAL
  * 
  * Maneja tablas hash con bases de datos de libros y realiza
- * operaciones de conjuntos sobre ellas
+ * operaciones de conjuntos sobre ellas a partir de expresiones
 ************************************************************/
 
 #include <iostream>
@@ -12,7 +12,6 @@
 #include <fstream>
 #include <vector>
 #include <string>
-#include <regex>
 
 using namespace std;
 
@@ -238,7 +237,7 @@ class hash_table {
                     }
                 }
             }
-            cout << endl << endl << "Ocurrencias de generos" << endl;
+            /*cout << endl << endl << "Ocurrencias de generos" << endl;
             cout << setw(col_size/2) << "Genero" << setw(col_size/2) << database.substr(0, database.length()-4) << setw(col_size/2) << other.database.substr(0, other.database.length()-4) << endl << endl;
             int num_genres_this = genres.size(), num_genres_other = other.genres.size();
             int i;
@@ -259,7 +258,7 @@ class hash_table {
             if (i<num_genres_other){
                 for (i;i<num_genres_other;i++)
                     cout << setw(col_size/2) << other.genres[i].name << setw(col_size/2) << "---" << setw(col_size/2) << other.genres[i].count << endl;
-            }
+            }*/
             if (replace){
                 clear_table();
                 for (int i=0;i<difference_table.size;i++){
@@ -305,10 +304,9 @@ class hash_table {
 
 // Verifica si el caracter leido es un nombre de conjunto
 bool is_name(char c, char names[], int num_names){
-    for (int i=0;i<num_names;i++)
-        if (c==names[i])
-            return true;
-    return false;
+    if (c>=65 && c<=65+num_names-1)
+        return true;
+    else return false;
 }
 
 // Verifica si el caracter leido es un operador
@@ -319,14 +317,16 @@ bool is_operator(char c){
 vector <string> infija_a_posfija(string expresion, char names[], int num_names){
     vector <string> posfija;
     vector <string> pila;
-    int i = 0;
+    int i = 0, parenthesis_count = 0;
     string str = "";
     while (expresion[i]!='\0'){
         if (is_name(expresion[i],names,num_names)){ // se agregan los operandos a la pila final
             posfija.push_back(str+expresion[i]);
-        } else if (expresion[i]=='(' || expresion[i]=='[' || expresion[i]=='{') // se agregan parentesis/corchetes/llaves de apertura a pila de operadores
+        } else if (expresion[i]=='(' || expresion[i]=='[' || expresion[i]=='{'){ // se agregan parentesis/corchetes/llaves de apertura a pila de operadores
+            parenthesis_count++;
             pila.push_back(str+expresion[i]);
-        else if (expresion[i]==')' || expresion[i]==']' || expresion[i]=='}'){ // si se encuentra un parentesis/corchete/llave de cierre, esta se vacia hasta encontrar su coincidente
+        } else if (expresion[i]==')' || expresion[i]==']' || expresion[i]=='}'){ // si se encuentra un parentesis/corchete/llave de cierre, esta se vacia hasta encontrar su coincidente
+            parenthesis_count--;
             if (expresion[i]==')'){
                 while (pila.back()!="(" && !pila.empty()){
                     posfija.push_back(pila.back());
@@ -364,6 +364,10 @@ vector <string> infija_a_posfija(string expresion, char names[], int num_names){
                 pila.pop_back();
             }
             pila.push_back(str+expresion[i]);
+        } else {
+            cout << "ERROR: CARACTER INVALIDO\n";
+            posfija.resize(0);
+            return posfija;
         }
         i++;
     }
@@ -371,6 +375,10 @@ vector <string> infija_a_posfija(string expresion, char names[], int num_names){
     while (!pila.empty()){
         posfija.push_back(pila.back());
         pila.pop_back();
+    }
+    if (parenthesis_count!=0){
+        cout << "ERROR: PARENTESIS NO BALANCEADOS\n";
+        posfija.resize(0);
     }
     return posfija;
 }
@@ -469,7 +477,6 @@ int main(int argc, char **argv){
                 int i = 0;
                 while (!is_operator(posfija[i][0])) // busca el primer operador en la pila
                     i++;
-                cout << "i: " << i << endl;
                 print_vector(posfija);
                 int case1, case2; // indica si las tablas sobre las que se opera son letras (tablas ingresadas por el usuario) o numeros (resultados de operaciones anteriores)
                 // 0: letra, 1: numero
