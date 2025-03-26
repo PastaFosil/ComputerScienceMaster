@@ -1,0 +1,7 @@
+6
+Juan 6.0 23 A Matutino
+Isaac 7.0 24 B Matutino
+Nayeli 8.0 27 C Matutino
+Kathi 9.0 23 D Vespertino
+Miriam 10.0 23 E Vespertino
+Tapia 10.0 25 F Vespertino
