@@ -1,0 +1,9 @@
+Para esta semana:
+- Terminar filter bubble
+- Probar con llama instruct
+- verificar datos de los indices de corrupcion (cuales estan disponibles de los que conforman el cpi)
+- ver del top 10, 20, 50 y 100 de los resultados de buscador (que mando el), medir traslape entre paises (puede hacerse un heatmap, podria verse relacion en la cercania entre los paises)
+
+Para la siguiente semana:
+- medir correlacion entre los resultados dado el orden en que los devuelve
+- medir pruebas estadisticas de confianza con las correlaciones y los traslapes

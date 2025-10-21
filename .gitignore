@@ -1,3 +1,9 @@
 .env
 nlp/corpus
 rep/datos
+proyecto_tecnologico/buscador/resultados
+proyecto_tecnologico/buscador/resource
+proyecto_tecnologico/formulario/respuestas*
+proyecto_tecnologico/formulario/paginas*
+proyecto_tecnologico/indices/datasets
+llm/corpus

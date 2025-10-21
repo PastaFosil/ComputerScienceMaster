@@ -1,0 +1,122 @@
+[
+    {
+        "country": "Argentina",
+        "hl": "es",
+        "cr": "countryAR",
+        "gl": "ar"
+    },
+    {
+        "country": "Bolivia",
+        "hl": "es",
+        "cr": "countryBO",
+        "gl": "bo"
+    },
+    {
+        "country": "Chile",
+        "hl": "es",
+        "cr": "countryCL",
+        "gl": "cl"
+    },
+    {
+        "country": "Colombia",
+        "hl": "es",
+        "cr": "countryCO",
+        "gl": "co"
+    },
+    {
+        "country": "Costa Rica",
+        "hl": "es",
+        "cr": "countryCR",
+        "gl": "cr"
+    },
+    {
+        "country": "Cuba",
+        "hl": "es",
+        "cr": "countryCU",
+        "gl": "cu"
+    },
+    {
+        "country": "Ecuador",
+        "hl": "es",
+        "cr": "countryEC",
+        "gl": "ec"
+    },
+    {
+        "country": "El Salvador",
+        "hl": "es",
+        "cr": "countrySV",
+        "gl": "sv"
+    },
+    {
+        "country": "Guatemala",
+        "hl": "es",
+        "cr": "countryGT",
+        "gl": "gt"
+    },
+    {
+        "country": "Honduras",
+        "hl": "es",
+        "cr": "countryHN",
+        "gl": "hn"
+    },
+    {
+        "country": "Mexico",
+        "hl": "es",
+        "cr": "countryMX",
+        "gl": "mx"
+    },
+    {
+        "country": "Nicaragua",
+        "hl": "es",
+        "cr": "countryNI",
+        "gl": "ni"
+    },
+    {
+        "country": "Panama",
+        "hl": "es",
+        "cr": "countryPA",
+        "gl": "pa"
+    },
+    {
+        "country": "Paraguay",
+        "hl": "es",
+        "cr": "countryPY",
+        "gl": "py"
+    },
+    {
+        "country": "Peru",
+        "hl": "es",
+        "cr": "countryPE",
+        "gl": "pe"
+    },
+    {
+        "country": "Puerto Rico",
+        "hl": "es",
+        "cr": "countryPR",
+        "gl": "pr"
+    },
+    {
+        "country": "Dominican Republic",
+        "hl": "es",
+        "cr": "countryDO",
+        "gl": "do"
+    },
+    {
+        "country": "Uruguay",
+        "hl": "es",
+        "cr": "countryUY",
+        "gl": "uy"
+    },
+    {
+        "country": "Venezuela",
+        "hl": "es",
+        "cr": "countryVE",
+        "gl": "ve"
+    },
+    {
+        "country": "España",
+        "hl": "es",
+        "cr": "countryES",
+        "gl": "es"
+    }
+]
