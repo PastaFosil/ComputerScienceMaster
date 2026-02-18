@@ -14,6 +14,7 @@ proyecto_tecnologico/wheels/
 proyecto_tecnologico/*/*.csv
 proyecto_tecnologico/formulario_simplificado/paginas/
 proyecto_tecnologico/formulario_simplificado/paginas_limpias/
+proyecto_tecnologico/.tokenHF.txt
 *.tokenHF.txt
 *.token
 *.key
