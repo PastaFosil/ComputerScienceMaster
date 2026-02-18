@@ -1,0 +1,856 @@
+4
+
+¿Cómo abordar la corrupción? 
+Una vía para su solución 
+a través de la ética pública
+
+Óscar Diego Bautista
+
+Colección 
+Cuadernos para 
+prevenir y controlar 
+la corrupción
+
+Colección Cuadernos para 
+prevenir y controlar la corrupción
+Cuaderno 4
+
+¿CÓMO ABORDAR 
+LA CORRUPCIÓN? 
+UNA VÍA PARA SU 
+SOLUCIÓN A TRAVÉS DE 
+LA ÉTICA PÚBLICA
+
+DIRECTORIO DE LA H. LIX LEGISLATURA DEL ESTADO DE MÉXICO
+
+Presidente de la Junta de Coordinación Política
+Dip. Cruz Juvenal Roa Sánchez
+
+Vicepresidentes
+Dip. Juan Manuel Zepeda Hernández
+Dip. Anuar Roberto Azar Figueroa
+
+Secretario
+Dip. José Francisco Vázquez Rodríguez
+
+Vocales
+
+Dip. Jacobo David Cheja Alfaro
+Dip. Mario Salcedo González
+Dip. Francisco Agundis Arias
+Dip. Carlos Sánchez Sánchez
+Dip. Aquiles Cortés López
+
+Auditor Superior de Fiscalización
+Fernando Valente Baz Ferreira
+Secretario de Asuntos Parlamentarios
+Javier Domínguez Morales
+Contralor del Poder Legislativo
+Victorino Barrios Dávalos
+Secretario de Administración y Finanzas
+Pablo Díaz Gómez
+Director General de Comunicación Social
+Horacio Morales Luna
+Vocal Ejecutivo del INESLE
+Everardo Padilla Camacho
+Titular de la Unidad de Información
+Jesús Felipe Borja Coronel
+
+Plaza Hidalgo s/n, Col. Centro, 
+Toluca, CP 50000, Estado de México,
+Conmutador: 01 722 279 64 00 y 279 65 00
+www.cddiputados.gob.mx
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN A TRAVÉS DE LA ÉTICA PÚBLICA
+
+ISBN DE LA COLECCIÓN: 978-607-7716-17-4
+
+ISBN DEL NÚMERO: 978-607-7716-21-1
+
+© Oscar Diego Bautista, 2017
+
+PODER LEGISLATIVO DEL ESTADO DE MÉXICO
+Plaza Hidalgo s/n, C.P. 50000, Toluca, Estado de México
+Tel. 01 (722) 279 64 00 ext. 3320
+http://www.cddiputados.gob.mx/
+1ª Edición: septiembre, 2017
+Impreso en México
+
+Título del grabado: Las siete virtudes cardinales (El conocimiento). 
+
+Autor: Sebald Beham, más conocido por el nombre (erróneo) de Hans Sebald Beham (Núremberg 
+1500-Fráncfort  1550)  fue  un  impresor  alemán  que  hizo  sus  mejores  obras  como  grabador, 
+fue  también  diseñador  de  xilografías,  pintor  y  miniaturista.  Fue  uno  de  los  más  importantes 
+“pequeños maestros” (como su hermano Barthel Beham, Albrecht Altdorfer, Georg Pencz y Heinrich 
+Aldegrever), grupo de artistas alemanes que hicieron grabados en la generación inmediatamente 
+posterior a Durero. Debido a una errónea interpretación de su anagrama habitual (SBH) se supuso 
+por largo tiempo que se llamaba Hans Sebald.
+
+Corrección de estilo: Nuria Ferreira Mañá
+Diseño: Edgar A. Rodríguez Cuevas 
+
+Quedan rigurosamente prohibidas, sin la autorización de los titulares del Copyright, bajo 
+las  sanciones  establecidas  en  las  leyes,  la  reproducción  parcial  o  total  de  esta  obra  por 
+cualquier medio o procedimiento, comprendidos la reprografía y el tratamiento informático 
+y la distribución de ejemplares de ella mediante cualquier alquiler o préstamos públicos, 
+sin la autorización expresa y por escrito de los editores, en los términos previstos por la Ley 
+Federal del Derecho de Autor y demás disposiciones jurídicas aplicables. 
+
+Toluca de Lerdo, Estado de México
+
+Impreso en México / Printed in Mexico
+
+Presentación 
+
+1.  Introducción 
+
+2.  Identificación del problema como una cuestión global 
+
+3.  Comprensión de la magnitud del problema 
+
+ÍNDICE
+
+9
+
+17
+
+17
+
+18
+
+4.  Ubicación de la problemática de la corrupción dentro de un espacio y tiempo  
+
+20
+
+5.  Asignación de un equipo responsable  
+
+6.  Selección de un enfoque para el abordaje  
+
+7.  Elección de un enfoque de estudio: la prevención mediante la ética pública 
+
+8.  Herramientas y técnicas 
+
+9.  Integración de las piezas e integración de un modelo 
+
+10. Elaboración de una política de Estado 
+
+11. Institucionalización y aplicación: enfrentar los retos 
+
+12. Vigilancia, control y evaluación 
+
+13. Identificación y sanción a corruptos 
+
+14. Comunicación estrecha y continua con  la ciudadanía 
+
+15. Una mejora continua en el funcionamiento institucional 
+
+21
+
+23
+
+23
+
+24
+
+25
+
+25
+
+25
+
+26
+
+26
+
+27
+
+27
+
+16. Reflexiones finales 
+
+17. Bibliografía 
+
+27
+
+29
+
+PRESENTACIÓN
+
+El  estudio  y  análisis  de  la  corrupción  ha  derivado  en  trabajos  muy  importantes  sobre 
+su  definición,  tipología,  causas,  consecuencias  e  instrumentos  para  combatirla;  pero 
+también,  dichas  investigaciones  han  descubierto  lo  frustrante  que  resulta  su  estudio 
+porque se trata de un fenómeno muy complejo que ha generado acalorados debates.
+
+Si bien no es sencillo abordar este tema, es posible saber que la corrupción, en términos 
+generales, responde a motivaciones personales, políticas y culturales, y que la impunidad 
+es el principal ingrediente que se necesita para que exista corrupción. También queda 
+claro que no hay recetas mágicas ni probadas en ningún país del mundo que se hayan 
+aplicado de manera totalmente exitosa y con las que se haya logrado erradicarla; asimismo 
+es importante reconocer, en virtud de la multitud de casos de corrupción existentes, que 
+se trata de una parte oscura de la condición humana en la que el individuo carece de 
+integridad sin importar su situación socioeconómica.
+
+Stephen  Morris  (1992)  —  quien  ha  estudiado  de  cerca  el  fenómeno  de  la  corrupción 
+en  México  —  ha  definido  corrupción  como  “el  uso  ilegítimo  del  poder  público 
+para  el  beneficio  privado”;  también  como “todo  uso  ilegal  o  no  ético  de  la  actividad 
+gubernamental  como  consecuencia  de  consideraciones  de  beneficio  personal  o 
+político”,  o  simplemente  como  “el  uso  arbitrario  del  poder”.  Federico  Reyes  Heroles 
+señala  que “…  la  corrupción  se  caracteriza  por  su  clandestinidad,  además  de  que  se 
+esconde y permanece en la oscuridad”.
+
+Otras definiciones entienden a la corrupción como “una relación entre diversos actores 
+que,  de  manera  continuada,  son  capaces  de  establecer  transacciones  que  pueden 
+considerarse indebidas pero que se han convertido en constantes, repetidas, estables” 
+(Arellano  et  al.,  2012:  165).  Como  se  observa,  se  trata  de  una  violación  de  un  deber 
+posicional  que  se  hace “en  forma  sistémica,  es  decir,  a  través  de  una  relación  social 
+relativamente  constante  y  estable,  y  con  amplia  capacidad,  al  mismo  tiempo,  de  ser 
+oculta para otros” (Arellano et al., 2012: 165).
+
+Manuel  Villoria  (2016),  en  sus  estudios,  ha  explicado  las  terribles  consecuencias  que 
+provoca  la  corrupción,  que  advierte,  se  generaliza  y  se  expande  como  el  cáncer: 
+desconfianza  en  el  Estado,  apatía  política,  daños  en  el  sistema  económico  y  social, 
+selección adversa de élites, porque en un ambiente de corrupción las personas sin ética 
+
+9
+
+OSCAR DIEGO BAUTISTA
+
+son las que querrán dedicarse a la política, daño al estado de derecho, efectos negativos 
+sobre el sistema de inversiones públicas, incremento de la pobreza, entre otros.
+
+México es el país más corrupto de la Organización para la Cooperación y el Desarrollo 
+Económicos  (OCDE),  de  acuerdo  con  el  Índice  de  Percepción  de  la  Corrupción.  Sin 
+embargo, esta va en aumento. En el año 2015, México se ubicaba en el lugar 95; para 
+2016, ascendió al 123 de un total de 176 países.
+
+Este escenario tan desolador debe ser motivo para actuar con medidas eficaces para su 
+combate, porque, si bien en nuestro país se han hecho esfuerzos importantes y diseñado 
+instrumentos anticorrupción para hacerle frente, como las sanciones, hasta ahora no han 
+ofrecido los resultados esperados.
+
+Este año, 2017, representa un parteaguas importante para la lucha contra la corrupción 
+porque se puso en marcha el Sistema Nacional Anticorrupción, que tiene como propósito 
+prevenir, investigar y sancionar la corrupción; y a la par, se crearon cuatro nuevas leyes 
+(Ley  General  del  Sistema  Nacional  Anticorrupción,  Ley  General  de  Responsabilidades 
+Administrativas,  Ley  Orgánica  del Tribunal  Federal  de  Justicia  Administrativa  y  Ley  de 
+Fiscalización y Rendición de Cuentas de la Federación) y se reformaron tres (Ley Orgánica 
+de la Procuraduría General de la República, Código Penal Federal y Ley Orgánica de la 
+Administración Pública Federal).
+
+En estos momentos de coyuntura en la vida institucional mexicana, se deben redoblar 
+esfuerzos  y  tratar  de  comprender  ciertos  elementos  relacionados  con  categorías 
+históricas, organizacionales e institucionales que incentivan a esta hidra de mil cabezas 
+que se presenta en cualquier ámbito del gobierno mexicano, lo mismo en todo ente que 
+maneja recursos del erario.
+
+En esta pretensión, la Contraloría del Poder Legislativo ha decidido editar la Colección 
+Cuadernos para Prevenir y Controlar la corrupción, del investigador Oscar Diego Bautista. 
+En  estos,  revisa  de  manera  acuciosa  e  interesante  aspectos  trascendentales  para 
+comprender,  describir  y  explicar  la  presencia,  hasta  de  arraigo,  de  la  corrupción  en 
+México,  con  la  finalidad  de  proponer  soluciones  prácticas  basadas  en  la  ética  pública 
+para combatir el fenómeno que día con día lastima y daña la construcción de un Estado 
+democrático.
+
+La Colección consta de seis cuadernos, que se enlistan a continuación:
+
+10
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+1.  Del espíritu de servicio público al espíritu del capitalismo. De cómo los servidores 
+
+públicos se tornaron en gerentes privados.
+
+2.  Cien  años  de  corrupción  en  México  a  partir  de  la  era  postrevolucionaria  1917-
+
+2017.
+
+3.  Reflexiones  en  torno  a  la  creación  del  Sistema  Nacional  Anticorrupción  (SNA) 
+de  México  (2016)  y  su  desvinculación  de  la  ética  pública  como  mecanismo  de 
+prevención de la corrupción.
+
+4.  ¿Cómo abordar la corrupción? Una vía para su solución a través de la ética pública.
+5.  De la democracia corrupta a la democracia ética. Sugerencias para la consolidación 
+
+de la democracia en México.
+
+6.  Perfil ético en la profesionalización de los servidores públicos.
+
+Esperamos  que  la  lectura  de  esta  publicación  pueda  contribuir  al  impulso  de  una 
+sociedad  cada  vez  más  honesta  y  virtuosa  y  crear  conciencia  en  el  servicio  público 
+comprometido  con  la  ética.  Todo  ello  con  el  objetivo  de  que,  quienes  sirven  al  país 
+sean  excelentes  moralmente,  lo  cual,  como  dijo  el  sabio  Aristóteles:   “Es  resultado  del 
+hábito. Nos volvemos justos realizando actos de justicia; templados, realizando actos de 
+templanza; valientes, realizando actos de valentía”.
+
+Victorino Barrios Dávalos
+Contralor del Poder Legislativo 
+del Estado de México
+
+11
+
+¿CÓMO ABORDAR 
+LA CORRUPCIÓN? 
+UNA VÍA PARA SU SOLUCIÓN
+A TRAVÉS DE LA 
+ÉTICA PÚBLICA1
+
+Oscar Diego Bautista2
+
+1  Este trabajo fue publicado como artículo en la Revista Direito, Universidad Federal De Mato Grosso 
+Del Sur (UFMS), Campo Grande, Brasil, MS, V. 2, No. 1, Julio-Diciembre 2016, pp. 25-38. ISSN 2447-
+2336.
+Investigador  del  Centro  de  Investigación  en  Ciencias  Sociales  y  Humanidades  (CICSyH)  de 
+la  Universidad  Autónoma  del  Estado  de  México  (UAEM).  Miembro  del  Sistema  Nacional  de 
+Investigadores (SNI) del Consejo Nacional de Ciencia y Tecnología (Conacyt) de México. 
+
+2 
+
+  Correo electrónico: odiegomx@yahoo.com.mx
+
+Quien gobierna con astucia arruina al Estado.
+
+Lao Tsé, Tao Te King
+
+La mayor parte se olvidan de la justicia cuando son víctimas de la manía del 
+
+mando, de los honores y la gloria.
+
+Cicerón, Sobre los deberes, Libro I, 26
+
+Aquellos a quienes la naturaleza concedió aptitudes y medios para gobernar, 
+
+(…)  a  estos  hombres  de  Estado  les  son  tan  necesarios,  y  posiblemente 
+
+más que a los filósofos la fortaleza y el desprecio de los bienes exteriores, 
+
+así  como  la  tranquilidad  de  espíritu,  y  un  ánimo  sereno  y  no  agitado  de 
+
+preocupaciones, puesto que no ha de estar ansioso por el futuro y ha de 
+
+vivir con gravedad y firmeza. 
+
+Cicerón, Sobre los deberes, Libro I, 72
+
+1. Introducción
+
+Cuando una nación pierde el control de la corrupción, esta se extiende en los diversos 
+ámbitos de una sociedad: el político, el económico, el social y el cultural, tejiendo una 
+maraña, difícil de desenredar, que afecta en todos sentidos a la vida de los ciudadanos. 
+Bajo este contexto, surge la pregunta: ¿Por dónde comenzar para atacar la corrupción? 
+Este artículo responde a ese planteamiento presentando una serie de reflexiones sobre 
+la  corrupción  y  ofreciendo  una  opción  de  abordaje  de  este  problema  basada  en  la 
+prevención y apoyada en la Ética Pública y sus instrumentos de aplicación práctica. 
+
+El científico estadounidense, Charles F. Kettering escribió: “No es que no puedan ver la 
+solución, es que no pueden ver el problema”. Cuando no se comprende un problema en 
+su totalidad, difícilmente se podrá encontrar una solución. Esta incapacidad o ceguera 
+que impide ver el problema es una razón que explica por qué no hay soluciones efectivas 
+al problema de la corrupción. Entonces, ¿qué hacer? ¿Cómo abordar el problema de la 
+corrupción cuando este fenómeno ha crecido tanto, se ha multiplicado y posee tantas 
+facetas que resulta difícil contemplarlo en su totalidad?
+
+Este  trabajo  parte  de  la  premisa  de  que  la  corrupción  es  absolutamente  nociva  para 
+la sociedad y que su crecimiento es insoslayable; de ahí la necesidad de instrumentar 
+estrategias y medidas para su control. A continuación se desarrolla una propuesta con 
+elementos específicos que deben tomarse en cuenta para poder abordar el fenómeno 
+de la corrupción.
+
+2. Identificación del problema como una cuestión global
+
+Reconocer que estamos ante un problema de carácter mundial constituye el primer paso. 
+Si bien este fenómeno no es nuevo, no puede pasar inadvertido el hecho de que, con la 
+entrada del nuevo milenio, Naciones Unidas afirmó que en ninguna época de la historia 
+de la humanidad ha habido tanta corrupción como en la actualidad. Hoy se comprende 
+que el problema de la corrupción no es exclusivo de los países subdesarrollados, por lo 
+que afirmar que la corrupción es consecuencia del atraso económico implica aceptar la 
+falacia o creencia miope de que a mayor desarrollo económico la corrupción disminuye. 
+Muchos  países  desarrollados  (Italia,  Francia,  España,  Estados  Unidos,  Suiza),  tienen 
+graves problemas de corrupción. La corrupción es la grasa que da vida a la maquinaria 
+de la globalización mediante las relaciones políticas, económicas, bancarias, comerciales, 
+manifestándose con diferentes matices en cada país. 
+
+17
+
+OSCAR DIEGO BAUTISTA
+
+La  globalización  se  expande  principalmente  a  través  del  comercio,  los 
+mercados, los negocios, las inversiones, el flujo de capital, entre otros. 
+Penetra en todos los países del mundo de manera directa o indirecta y, 
+por lo tanto, influye tanto en las decisiones de los gobiernos como en 
+el comportamiento de los ciudadanos, modificando paulatinamente sus 
+hábitos culturales. La globalización es resultado de la competencia entre 
+los distintos bloques económicos por abrir  mercados a  sus productos. 
+Stiglitz  afirma  que “la  globalización  es  enérgicamente  impulsada  por 
+corporaciones internacionales que no solo mueven el capital y los bienes 
+a través de las fronteras sino también la tecnología” (Diego, 2006, 249).
+
+Asimismo, es de señalar que la corrupción no es exclusiva de los gobiernos o del sector 
+público,  arrastra  en  su  vorágine  a  los  sectores  privado  y  social;  los  tres  sectores  están 
+entretejidos. Existe una estrecha relación entre políticos y empresarios. Hay empresarios 
+en  el  gobierno  y  viceversa.  Muchos  gobernantes  al  dejar  su  cargo  en  el  gobierno  se 
+vuelven  empresarios  o  se  incorporan  a  los  pasillos  empresariales.  En  cualquier  caso, 
+siempre  hay  una  parte  que  corrompe  y  otra  que  es  corrompida.  De  igual  manera,  es 
+importante señalar que de la sociedad civil surgen los nuevos cuadros que se incorporan 
+a las filas del sector público o privado. 
+
+3. Comprensión de la magnitud del problema
+
+La  corrupción,  vista  como  un  problema  en  la  vida  de  un  Estado,  rebasa  los  diversos 
+ámbitos  de  estudio  en  que  se  le  pudiera  enfocar:  político,  económico,  social,  cultural. 
+Si  bien  la  corrupción ha estado presente en la historia de la humanidad y en diversas 
+culturas y regiones del mundo, es en los albores del siglo XXI cuando su expansión ha 
+sido ilimitada. En las sociedades contemporáneas se encuentra: a) En los grandes sectores 
+de un estado: público, privado y social, b) En los diferentes poderes del ámbito público: 
+Legislativo, Ejecutivo, Judicial, c) En los diversos niveles de gobierno: federal, nacional, 
+estatal, autonómico o municipal o local, d) En los diferentes sectores de la administración 
+pública: educación, salud, vivienda, justicia, etcétera.
+
+Una  tipificación  de  la  corrupción  establece  que  hay  corrupción  política,  de  partidos, 
+electoral,  administrativa,  académica,  sanitaria,  mercantil,  financiera,  medioambiental, 
+deportiva, del crimen organizado, de las empresas (nacionales y trasnacionales), vinculada 
+a  la  sociedad  (clientelismo  político),  en  obras  públicas  (metro,  puentes,  caminos,  etc.), 
+en medios de comunicación, en las ONGs, en fundaciones, en las diferentes confesiones 
+religiosas, etcétera. La corrupción es un monstruo gigante cuya dimensión no alcanzamos 
+
+18
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+a percibir, cual universo infinito del que solo podemos ver pequeñas partes; es una bola 
+de nieve que se dejó crecer y ahora es un alud que arrastra a aquello que se enfrenta a 
+su paso.
+
+Pero ¿por qué se dejó crecer? Dependiendo de las condiciones socio-políticas e histó-
+ricas  de  cada  país  y  región  puede  variar  la  respuesta:  a)  Porque  existe  una  red  de 
+corrupción que se vincula a los altos niveles de gobierno, b) Porque hay una cultura de 
+la corrupción muy arraigada en esa sociedad, c) Porque se ignora cómo combatir la 
+problemática, d) Porque se desconocen los instrumentos para hacerle frente, e) Por-
+que,  aunque  existen  modelos  para  combatir  este  mal,  no  hay  interés  ni  voluntad 
+política para hacerlo, f ) Porque los corruptos inmersos en las instituciones se protegen 
+unos a otros, g) Porque se compra a los gobernantes fácilmente, h) Porque se compra a 
+los ciudadanos fácilmente, i) Porque es un negocio que deja mucho dinero.
+
+Mediante la globalización de la corrupción, los gobiernos pierden autoridad, incluso su 
+soberanía, llegando a convertirse en simples administradores de sucursales, agencias u 
+oficinas  de  comercio  de  las  grandes  empresas  transnacionales.  Esta  incapacidad  hace 
+brotar  síntomas de ingobernabilidad en los Estados. Sobre todo en países débiles,  los 
+gobernantes  han  dejado  de  ser  los  grandes  estadistas  de  antaño  para  convertirse  en 
+gerentes que solo administran la propia riqueza nacional en beneficio internacional.
+
+Elemento fundamental para poder comprender a la corrupción es tener clara su magnitud 
+o  dimensión.  En  general,  se  evoca  el  concepto  de  la  corrupción  pero  sin  comprender 
+dicha característica. Para comprender la magnitud de la corrupción conviene detenerse 
+y reflexionar un poco. En ese sentido, el cuento hindú Los ciegos y el elefante servirá de 
+auxilio pedagógico. Dicho cuento, a grandes rasgos, dice así: A un grupo de ciegos se 
+le pidió que describiera cómo era un elefante. El primer ciego, tomando la trompa del 
+animal, dijo que el elefante era largo y flexible como una manguera; el segundo, tocando 
+una de las orejas, afirmó que era plano y ancho como alguna planta tropical; un tercer 
+ciego palpó el costado del elefante y sostuvo que era alto y sólido como un muro; el cuarto, 
+abrazando la pata del paquidermo, dijo que era duro y redondo como una columna; otro 
+ciego, tocando la cola del elefante, afirmó que era largo y delgado como una culebra; 
+finalmente, el último, tocando los colmillos afirmó que tenía forma de cuerno.   
+
+Todos los ciegos habían dicho la verdad respecto a la parte que tocaron del elefante, pero 
+erraron en el todo. Con el problema de la corrupción sucede lo mismo. Dependiendo del 
+ángulo profesional desde el que se mire, se percibirá una parte del problema pero no la 
+totalidad. Un abogado, debido a su formación, creerá que con más leyes se puede combatir 
+
+19
+
+OSCAR DIEGO BAUTISTA
+
+la  corrupción;  un  economista  podrá  pensar  que  el  problema  de  la  corrupción  en  los 
+servidores públicos se debe a los bajos salarios, por lo que sugerirá que, aumentándolos, 
+se reducirá la corrupción; y así sucesivamente con diferentes  profesiones. Con posiciones 
+parciales,  difícilmente  se  puede  comprender  la  totalidad  y  mucho  menos  hallar  una 
+solución.  Es  necesario  integrar  los  diferentes  enfoques  para  poder  ver  el  todo.  Cada 
+respuesta de los ciegos es una pieza del rompecabezas, si se integran todas las piezas, 
+entonces aparece la figura completa. Para percibir la magnitud de la corrupción hace falta 
+sumar las diversas piezas dadas por los diversos enfoques de las distintas disciplinas. Por 
+lo anterior, se requiere de un equipo multidisciplinario que presente y capte las diversas 
+maneras de ver el problema y las integre hasta conformar una visión holística. En cada 
+visión, ha de estar incluida la ética como disciplina fundamental que muestra la otra cara 
+de  la moneda de la corrupción. El reconocimiento de la  importancia de la ética  es  un 
+paso fundamental en la conformación de las herramientas para la contienda.
+
+4. Ubicación de la problemática de la corrupción dentro de un espacio y tiempo 
+
+La  corrupción  tiene  distintos  matices,  niveles,  grados.  Aunque  el  problema  de  la 
+corrupción se encuentra en los diferentes países del mundo, basta ver los informes que 
+anualmente muestra Transparencia Internacional (TI) para afirmar que este fenómeno no 
+se manifiesta, por ejemplo, de igual manera en Argentina que en Chile, a pesar de estar 
+inmersos en la misma región latinoamericana. Tratándose de la región norteamericana, 
+el  problema  de  la  corrupción  es  diferente  en  México  con  relación  a  Estados  Unidos  y 
+Canadá. Las diferencias en el nivel de corrupción también existen entre países europeos, 
+no  es  lo  mismo  la  corrupción  en  España  que  en  Finlandia  o  Reino  Unido.  Cada  país 
+tiene  sus  características  particulares  que  lo  distinguen  de  otro,  por  lo  que  es  esencial 
+reflexionar sobre el entorno donde se ubica el problema. Conocer el lugar, la cultura, la 
+historia, los nexos con otros países.
+
+De  esta  manera,  para  entender  un  problema  e  intentar  darle  solución  hay  que 
+comprenderlo en su contexto y en sus circunstancias. Las recetas mágicas trasplantadas 
+de un país a otro no valen. Hay que situarse en la delimitación temporal, espacial, cultural, 
+conocer  las  causas  que  originaron  el  problema,  el  nivel  en  que  se  encuentra,  contar 
+con  datos,  cifras,  fuentes  de  estudio  y,  sobre  todo,  con  analistas  capaces  que  puedan 
+interpretar, comprender y aportar soluciones.
+
+20
+
+ 
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+5. Asignación de un equipo responsable 
+
+El primer paso para cualquier sociedad inmersa en corrupción se encuentra en querer 
+dejar  de  serlo.  Un  enfermo,  para  curarse,  debe  querer  sanar.  Análogamente,  si  se 
+reconoce que la sociedad padece una enfermedad, necesitamos que esta desee curarse. 
+Hay sociedades que se adaptan al confort de la corrupción. De hecho, se dan estudiosos 
+del  fenómeno  que  predican  sus  bondades,  lo  cual  es  contrario  a  la  intención  de  esta 
+obra. Un libro clásico que exalta los vicios en la sociedad y que influyó en el pensamiento 
+económico,  es  la  obra  de  Bernard  Mandeville “La fábula de las abejas o cómo los vicios 
+privados hacen la prosperidad pública” publicada en 1914. En dicha obra, el autor relataba 
+la siguiente fábula:
+
+Había  una  colmena  que  se  parecía  a  una  sociedad  humana  bien 
+ordenada. No faltaban en ella ni los bribones, ni los malos médicos, ni 
+los malos sacerdotes, ni los malos soldados, ni los malos ministros. Por 
+descontado  tenía  una  mala  reina.  Todos  los  días  se  cometían  fraudes 
+en esta colmena; y la justicia, llamada a reprimir la corrupción, era ella 
+misma corruptible. En suma, cada profesión y cada estamento estaban 
+llenos de vicios. Pero la nación no era por ello menos próspera y fuerte. 
+En efecto, los vicios de los particulares contribuían a la felicidad pública; 
+y, de rechazo, la felicidad pública causaba el bienestar de los particulares. 
+Pero se produjo un cambio en el espíritu de las abejas, que tuvieron la 
+singular idea de no querer ya nada más que honradez y virtud. El amor 
+exclusivo al bien se apoderó de los corazones, de donde se siguió muy 
+pronto  la  ruina  de  toda  la  colmena.  Como  se  eliminaron  los  excesos, 
+desaparecieron  las  enfermedades  y  no  se  necesitaron  más  médicos. 
+Como se acabaron las disputas, no hubo más procesos y, de esta forma, 
+no  se  necesitaron  ya  abogados  ni  jueces.  Las  abejas,  que  se  volvieron 
+económicas y moderadas, no gastaron ya nada: no más lujos, no más arte, 
+no más comercio. La desolación, en definitiva, fue general. La conclusión 
+parece  inequívoca:  Dejad, pues, de quejaros: sólo los tontos se esfuerzan 
+por hacer de un gran panal un panal honrado. Fraude, lujo y orgullo deben 
+vivir, si queremos gozar de sus dulces beneficios (Mandeville, 1997).
+
+Si  se  quiere  combatir  a  la  corrupción,  es  necesario  materializar  ese  interés  y  hacerlo 
+extensivo una y otra vez hasta lograr generar una cultura ética generando conciencia en 
+los ciudadanos, en los diferentes miembros del Estado, invitando a la acción presionando 
+a los representantes públicos para que estos realicen acciones verdaderas para prevenir 
+y controlar la corrupción. 
+
+21
+
+OSCAR DIEGO BAUTISTA
+
+En  una  encomienda  de  una  tarea  de  esta  magnitud  hay  que  asignar  responsables. 
+Para  ello  se  precisa  un  equipo  multidisciplinario  de  especialistas  comprometidos 
+verdaderamente  en  resolver  esta  problemática.  Requisito  obligatorio  de  estos 
+especialistas  será  poseer  un  perfil  con  los  siguientes  elementos:  a)  Capacidad  y 
+conocimiento de la problemática, b) Interés verdadero por combatir este fenómeno, c) 
+Posesión de una conducta íntegra, acompañada de valores éticos que se refleje en una 
+trayectoria intachable y prestigiosa. 
+
+Los responsables de combatir la corrupción deben tener una posición clara en contra 
+de  este  vicio,  sabiendo  por  qué  lo  van  hacer,  sin  dejarse  seducir  por  la  corrupción. 
+Deben  ser  cual  médicos  que  luchan  contra  las  enfermedades  de  los  pacientes  sin 
+contagiarse, es decir, deben estar vacunados contra la corrupción para no ser atrapados 
+por  este  vicio.  Igualmente  deben  tener  en  cuenta  las  siguientes  preguntas:  ¿Por 
+qué  en  los  gobiernos  y  administraciones  públicas  hay  tantos  problemas  sin  resolver 
+pese  a  existir  instituciones  para  ello?  Pobreza,  desempleo,  analfabetismo,  injusticia, 
+sanidad,  entre  otros.  ¿Por  qué  si  el  ciudadano  paga  impuestos,  numerosos  servicios 
+públicos  no  funcionan?  Alumbrado  público,  suministro  de  agua,  asfaltado  de  calles, 
+seguridad,  recogida  de  basura.  ¿Por  qué  en  algunos  países  los  colegios  piden  cuota 
+para mantenimiento de la escuela y cuota para pagar el sueldo del conserje? ¿Por qué 
+ciertos ayuntamientos piden al ciudadano, quien ya pagó sus impuestos, que compre 
+materiales  (arena,  cemento,  grava,  lámparas,  etc.)  para  obtener  un  servicio  público, 
+es  decir,  que  el  ciudadano  prácticamente  financie  el  servicio  público  requerido?  Por 
+ejemplo, en municipios pobres, cuando el ciudadano solicita que se repare el alumbrado 
+público, el ayuntamiento afirma no tener recursos para comprar lámparas, pero ofrece 
+al ciudadano la posibilidad de comprarlas y el ayuntamiento las coloca. ¿Por qué en 
+algunas  oficinas  de  la  administración  pública,  para  tramitar  un  documento,  hay  que 
+ofrecer  un “estímulo”, “regalo”  o “gratificación”  al  servidor  público  para  que  realice  o 
+agilice un trabajo por el que ya está cobrando? ¿Por qué muchos servidores públicos 
+además de gozar y abusar de privilegios (coche, vales  para comida, gasolina, viajes, 
+sueldos altos, sobresueldos, bonos, y demás estímulos), se enriquecen en poco tiempo? 
+¿Por  qué  autoridades  responsables  de  reservas  ecológicas  o  parques  nacionales  las 
+recalifican o privatizan para construir hoteles, clubs de golf, departamentos o centros 
+comerciales? ¿Por qué, en definitiva, hay servidores públicos que se enriquecen desde 
+el  cargo?  Es  de  señalar  que  existe  un  eje  común  que  atraviesa  estas  y  otras  tantas 
+preguntas en torno a la corrupción.
+
+22
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+6. Selección de un enfoque para el abordaje 
+
+El equipo responsable de combatir la corrupción debe conocer el estado de la cuestión 
+del fenómeno objeto de análisis.  Existen  diversas  formas  para  abordar  este  fenómeno: 
+a)  Desde  su  conceptualización,  abarcando  distintas  definiciones  y  características,  b)  Por 
+la  tipología  o  las  formas  que  adopta  la  corrupción,  c)  Por  las  características  de  cada 
+tipo  de  corrupción,  d)  Por  las  múltiples  causas  que  la  generan,  e)  Por  los  efectos  que 
+provoca en diferentes  espacios de una sociedad (económico, político, social, cultural, etc.), 
+f) Por las formas de operación, es decir, los mecanismos para su funcionamiento, g) Por la 
+percepción que se tiene de este fenómeno apoyado en las opiniones de la ciudadanía, 
+h) Por la medición del fenómeno en un espacio determinado,  i) Por los sectores o campos 
+de  acción  específicos  donde  actúa  (educación,  salud,  medio  ambiente,  justicia,  entre 
+otros), j) Por los casos más sonados en los medios de comunicación, siendo ejemplos los 
+escándalos de la FIFA, del Vaticano o los Papeles de Panamá, k) Por los mecanismos para 
+combatirla: Fiscalías Anticorrupción, Organismos de Lucha Antifraude, Cancilleres de 
+Justicia, l) Por su prevención a través de educación en valores, filosofía y ética.  
+
+Es  de  señalar  que  dichos  estudios  interactúan  estrechamente  unos  con  otros.  No 
+podemos  combatir  la  corrupción  si  no  entendemos  qué  es.  Para  ello  es  necesario 
+conocer diversas definiciones, sus características, las formas de operación, etc. De igual 
+manera, si queremos prevenirla, controlarla y frenarla, ha de tenerse claro por qué hay 
+que  combatirla;  para  ello  ha  de  disponerse  de  argumentos,  datos,  cifras  respecto  a 
+los  efectos  que  ocasiona.  Fundamental  es  contar  con  instrumentos  de  lucha.  Conocer 
+qué instrumentos han existido en la historia y cuáles existen actualmente, cuáles están 
+vigentes y cuáles existen pero no funcionan, cómo operan dichos instrumentos, cuáles 
+de  ellos  no  existen  en  el  lugar  donde  se  va  a  combatir  pero  existe  la  posibilidad  de 
+implementar, cuáles existen pero no son viables de operar. 
+
+7. Elección de un enfoque de estudio: la prevención mediante la ética pública
+
+Para  controlar  y  atajar  la  corrupción  es  necesario  contar  con  diversos  elementos  para 
+su  prevención,  es  decir,  dirigirse  a  la  raíz  del  problema.  Los  actos  corruptos  aparecen 
+en  la  conducta  de  las  personas  cuando  no  hay  en  su  mente  frenos  que  les  impidan 
+realizarlos. Los frenos que pueden impedir que una persona realice actos corruptos son 
+los principios y valores con que cuente. Dichos principios y valores generan conciencia. 
+La  conciencia  hace  que  el  individuo  asuma  una  responsabilidad  y,  en  consecuencia, 
+posea un tipo de comportamiento. Un adecuado comportamiento se asocia a una sana 
+
+23
+
+OSCAR DIEGO BAUTISTA
+
+educación. Cuando no hay educación, ni principios ni valores en la mente de la persona, 
+se  da  paso  a  la  ignorancia.  La  ignorancia  es  caldo  de  cultivo  para  los  antivalores  y  las 
+prácticas corruptas. El reino de la ignorancia es campo fértil para las más descabelladas 
+ideas y los más perversos actos del ser humano. La ética saca de esa ignorancia, por eso 
+es clave para debilitar a la corrupción. 
+
+¿Pero cómo se aterriza la ética si esta es parte de la filosofía? Precisamente, los grandes 
+filósofos de las antiguas civilizaciones, tanto de Oriente como de Occidente, enfocaron 
+su atención en la conducta de los gobernantes, dando importancia a los valores y a la 
+educación. Desde entonces, se identificaron los siguientes elementos: a) Preocupación 
+por la formación ética de los gobernantes, b) Incorporación de valores en su conducta, 
+c)  Posesión  de  una  filosofía  de  servicio  a  la  comunidad,  d)  Consideración  del  bien 
+común como objetivo de la comunidad, e) Incorporación de reglas morales que guíen 
+la  conducta  del  gobernante  plasmadas  en  documentos  (códigos  éticos  de  gobierno), 
+f ) Aplicación de castigos severos a quien infrinja las normas, g) Existencia de maestros 
+que formen y guíen al gobernante, h) Implantación de Consejos Éticos que asesoren al 
+gobernante, i) Interiorización en cada servidor público del espíritu de servicio.
+
+En  la  pelea  contra  la  corrupción,  una  estrategia  frecuente  es  la  de  reaccionar  en  el 
+momento en que tienen lugar casos y escándalos. Dicho enfoque es insuficiente porque 
+se reacciona ante el fenómeno sin ir a las causas que lo generan. Bajo este enfoque, es 
+posible  que  se  prenda  a  algunos  corruptos,  pero  tras  ellos,  surgirán  nuevos  y  más.  En 
+sociedades altamente corrompidas, la podredumbre brota sola, al igual que un iceberg 
+que muestra en la superficie solo una pequeña parte de su tamaño ocultando bajo el 
+agua una enorme montaña. No habrá control de la corrupción si no cortamos los canales 
+que la nutren. Las prácticas corruptas, que son la suma de múltiples conductas en un 
+espacio y lugar determinados, solo podrán corregirse si nos enfocamos en la prevención. 
+Y las disciplinas que se enfocan a la orientación de la conducta de cara a esta prevención 
+son la ética y la filosofía. En particular, la Ética Pública se dedica al estudio de la conducta 
+de los servidores públicos.
+
+8. Herramientas y técnicas
+
+La  Ética  Pública  es  un  campo  del  conocimiento  que  cuenta  con  instrumentos  de 
+aplicación práctica para prevenir la corrupción. Son ejemplos de instrumentos éticos los 
+siguientes: a) El Consejo Ético, b) La Oficina de Ética de Gobierno, c) Un marco jurídico 
+o Ley de Ética de Gobierno o de Estado, d) Un marco normativo de conducta a través 
+
+24
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+de Códigos de Ética generales y específicos, e) Profesionales o expertos en Ética Pública 
+dedicados a enseñar y promover valores: los Agentes Éticos, f ) Literatura especializada 
+en ética pública, g) Cine en valores ficción y documental, h) Mecanismos de vigilancia de 
+la conducta de los servidores públicos, i) Mecanismos para la transparencia y la rendición 
+de cuentas, j) Mecanismos de acceso a la información, k) Sistema de quejas y denuncias 
+ciudadanas,  l)  Sistema  de  sanciones  ejemplares  para  combatir  la  impunidad,  m)  Un 
+modelo de política en ética pública, n) Sistema de comunicación fluida con la ciudadanía, 
+ñ) Vinculación con los ámbitos privado y social, o) Vinculación estrecha a una red de ética 
+global, p) Observatorios ciudadanos, entre otros.
+
+9. Integración de las piezas e integración de un modelo
+
+Una  vez  conocida,  estudiada  y  comprendida  la  operación  de  las  herramientas  para 
+combatir la corrupción, análogamente a un rompecabezas, es necesario estructurar un 
+modelo en el que encajen e interactúen todas las piezas. Una propuesta es el denominado 
+Sistema Ético Integral (SEI) para la prevención de la corrupción.3
+
+10. Elaboración de una política de Estado
+
+Cuando  la  cultura  ética  se  expande  de  forma  horizontal  en  los  diferentes  segmentos 
+de  una  sociedad  y  el  gobierno  retoma  o  capta  esa  idea  y  la  hace  suya,  ya  sea  por 
+convencimiento propio o bien por presión ciudadana, se incorpora esta necesidad a los 
+planes de gobierno o bien mediante una política pública. 
+
+11. Institucionalización y aplicación: enfrentar los retos
+
+Un paso fundamental será generar espacios para la implementación de la maquinaria 
+contra  la  corrupción.  No  quedarse  sólo  en  el  discurso  sino  llevarlo  a  la  práctica.  Una 
+política en ética pública necesita instituciones, organismos, programas, realizar acciones 
+concretas, materializar la ética pública. Con ello se demuestra que la ética pública no es 
+teoría sino práctica.  
+
+3  El Modelo del Sistema Ético Integral (SEI) se desarrolla en la obra de Oscar Diego titulada: Ética para 
+corruptos.  Una  forma  de  prevenir  la  corrupción  en  los  gobiernos  y  administraciones  públicas  (2009), 
+Bilbao Desclee de Brower.
+
+25
+
+OSCAR DIEGO BAUTISTA
+
+Para  echar  andar  la  maquinaria  anticorrupción,  conviene  apoyarse  de  la  divulgación 
+y  comunicación  para  generar  una  cultura  ética.  De  esta  manera,  se  puede  generar 
+una  energía  positiva,  empatía  y  sinergia  que  contagie  a  los  distintos  miembros  de  la 
+comunidad política de los tres grandes sectores: público, privado y social. 
+
+12. Vigilancia, control y evaluación
+
+Para conocer si se avanza por buen camino es importante hacer autocrítica, vigilando, 
+midiendo y evaluando de forma constante. Quien no comienza por evaluarse a sí mismo, 
+reconociendo y examinando sus errores, se hallará incapacitado para realizar los objetivos 
+planteados. En la vigilancia y control, es bueno contar con el apoyo de los ciudadanos. 
+Estos pueden ser testigos y vigilantes de los actos y conductas de los servidores públicos. 
+Para  ello  es  conveniente  enseñar  y  educar  en  la  participación.  Cuando  el  ciudadano 
+padece  un  acto  indebido  o  es  maltratado  por  un  servidor  público,  hay  que  poner  en 
+marcha la maquinaria anticorrupción y proceder a sancionar y corregir. El hecho de estar 
+atentos a las actitudes de los servidores públicos puede contribuir a evitar las conductas 
+no éticas. En esta tarea son determinantes los medios de comunicación e instituciones 
+como el Defensor del Pueblo o el Canciller de Justicia.
+
+Una política adecuada de vigilancia y control que identifique a los políticos y funcionarios 
+deshonestos y los expulse de la vida pública, sin permitir su retorno cuando la situación 
+lo  requiera,  será  bien  acogida  por  los  ciudadanos.  En  sentido  contrario,  mantener  en 
+el  ámbito  público  a  servidores  con  verdadero  espíritu  de  servicio,  les  permite  actuar 
+basados en una ética de responsabilidad. 
+
+Hay  que  evitar  las  conductas  arrogantes,  prepotentes,  soberbias,  discriminatorias  y 
+abusivas que realizan algunos servidores públicos. El abuso de autoridad, la humillación, 
+el  menosprecio  hacia  los  ciudadanos  son  prácticas  arraigadas  que  hay  que  evitar, 
+combatir y castigar.
+
+13. Identificación y sanción a corruptos
+
+Por el bien de la salud de la comunidad política y de las instituciones de gobierno, es 
+importante que todos aquellos servidores públicos que poseen conductas basadas en 
+antivalores  sean  identificados,  sancionados  y,  cuando  la  situación  lo  exija,  expulsados 
+del  sector  público.  Cuando  no  se  corrige  y  castiga  de  manera  ejemplar  las  conductas 
+corruptas, la impunidad se expande.
+
+26
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+La medida de realizar un padrón o registro de los servidores públicos corruptos en sus 
+diferentes modalidades, que contenga a quienes se mantengan en prácticas no éticas, 
+es, sin lugar a dudas, una medida disuasoria.
+
+14. Comunicación estrecha y continua con  la ciudadanía
+
+La información continua a la ciudadanía de lo que se hace en materia anticorrupción, 
+dando  seguimiento  a  los  diversos  casos  así  como  en  materia  de  cultura  ética  es 
+fundamental. La confianza entre gobierno y ciudadano está deteriorada, urge restituirla. 
+De ahí la importancia de este punto a través de los medios de comunicación.
+
+15. Una mejora continua en el funcionamiento institucional
+
+Finalmente, la retroalimentación y mejora continua deben estar presentes. Generalmente, 
+cuando  se  emprenden  nuevas  iniciativas  surgen  fallos  que  hay  que  corregir  de 
+inmediato.  En  el  campo  de  la  construcción,  cuando  se  levanta  un  muro,  si  este  no  se 
+nivela y corrige, en la medida que va creciendo, se desvía, inclinándose hasta caerse.  De 
+manera análoga, si los pilares o cimientos del edificio contra la corrupción están torcidos, 
+será difícil que la maquinaria contra la corrupción verdaderamente funcione. Cuando los 
+cimientos institucionales están bien establecidos, hay una mayor posibilidad de que los 
+organismos, personas, ideas y recursos coordinados adecuadamente permitan constituir 
+las bases para un gobierno ético guiado por valores.
+
+La mejora continua dentro del modelo para prevenir la corrupción consiste en hacer los 
+ajustes necesarios con el fin de mejorar el funcionamiento de la maquinaria anticorrupción. 
+El Consejo Ético convocará con periodicidad a reuniones y rendirá informes y resultados 
+de sus actividades. 
+
+16. Reflexiones finales
+
+1.  Contrario  a  la  creencia  en  general  de  que  la  corrupción  no  tiene  solución,  este 
+
+trabajo se enfoca en demostrar lo contrario, es decir, que sí hay solución.
+
+2.  Cuando  un  pueblo  o  Estado  verdaderamente  quiere  enfrentar  y  controlar  la 
+
+corrupción lo puede conseguir.
+
+27
+
+ 
+OSCAR DIEGO BAUTISTA
+
+3.  Existen disciplinas desde antaño que ponen atención especial a la conducta de los 
+
+gobernantes, como la ética. 
+
+4.  Actualmente, la ética pública, además de dirigir su trabajo  a la conducta de  los 
+
+servidores públicos, cuenta con instrumentos de aplicación práctica.
+
+5.  El conocimiento de las herramientas integradas en un modelo aplicable a través 
+de una política en ética pública conlleva la generación de una cultura ética para un 
+Estado.
+
+6.  La ética es un poderoso instrumento de control de la corrupción, es un dique para 
+
+hacer frente al oleaje tempestuoso que provoca el mar de la corrupción. 
+
+28
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+17. Bibliografía
+
+Alonso,  José  Antonio  y  Mulas-Granados,  Carlos  (2011),  Corrupción,  Cohesión  social  y 
+
+desarrollo. El Caso de Iberoamérica, Madrid, FCE, España.
+
+Diego  Bautista,  Oscar  (2006),  La  ética  en  la  gestión  pública.  Fundamentos,  estado  de  la 
+cuestión  y  proceso  para    la  implementación  de  un  Sistema  Ético  Integral  en  los 
+gobiernos, Tesis doctoral, Madrid, Universidad Complutense de Madrid (UCM).
+Diego Bautista, Oscar (2009), Ética para corruptos. Una forma de prevenir la corrupción en 
+los gobiernos y administraciones públicas, Bilbao, Desclee de Brower.
+Malem Seña, Jorge (2002), La corrupción, Aspectos éticos, económicos, políticos y jurídicos, 
+
+Barcelona, Editorial Gedisa.
+
+Mandeville, Bernard (1997),  “La fábula de las abejas o cómo los vicios privados hacen la 
+
+prosperidad pública”, Madrid, Fondo de Cultura Económica.
+
+Platón, La república, en Diálogos Tomo IV, Madrid, Editorial Gredos.
+
+29
+
+¿CÓMO ABORDAR LA CORRUPCIÓN? UNA VÍA PARA SU SOLUCIÓN 
+A TRAVÉS DE LA ÉTICA PÚBLICA
+
+Se terminó de imprimir en noviembre de 2017
+en los talleres de Impresos Tega, S.A. de C.V.,
+Emma # 75, Col. Nativitas, México, D.F.
+E-mail: impresostega@gmail.com
+
+La edición en tiro consta de 1,000 ejemplares
+
+

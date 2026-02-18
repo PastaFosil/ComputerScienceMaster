@@ -3,7 +3,17 @@ nlp/corpus
 rep/datos
 proyecto_tecnologico/buscador/resultados
 proyecto_tecnologico/buscador/resource
+proyecto_tecnologico/buscador/all_pages/
+proyecto_tecnologico/buscador/all_pages_clean/
+proyecto_tecnologico/buscador/too_big_files/
 proyecto_tecnologico/formulario/respuestas*
 proyecto_tecnologico/formulario/paginas*
 proyecto_tecnologico/indices/datasets
 llm/corpus
+proyecto_tecnologico/wheels/
+proyecto_tecnologico/*/*.csv
+proyecto_tecnologico/formulario_simplificado/paginas/
+proyecto_tecnologico/formulario_simplificado/paginas_limpias/
+*.tokenHF.txt
+*.token
+*.key

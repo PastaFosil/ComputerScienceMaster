@@ -1,0 +1,3095 @@
+INFORME DE INVESTIGACIÓN DE OXFAM
+
+Agosto 2015
+
+LA CORRUPCIÓN 
+
+Sus caminos, su impacto en la sociedad 
+y una agenda para su eliminación
+
+INSTITUTO CENTROAMERICANO DE ESTUDIOS FISCALES
+OXFAM GUATEMALA
+
+www.oxfam.org
+www.iceﬁ .org
+
+LA CORRUPCIÓN 
+Sus caminos, su impacto en la sociedad y una agenda para su eliminación
+
+Supervisión:
+Jonathan Menkos Zeissig - Director Ejecutivo, Iceﬁ 
+
+Investigación y redacción:
+Carlos Melgar - Investigador, Iceﬁ 
+
+Colaboración:
+Alejandra Contreras - Economista sénior, Iceﬁ 
+José Monzón - Asistente de investigación, Iceﬁ 
+
+Revisión:
+Ricardo Barrientos - Economista sénior, Iceﬁ 
+
+ Fotografía de portada:
+Luis Ochoa Fuentes - Oﬁ cial de Comunicación, Oxfam Guatemala
+
+Instituto Centroamericano de Estudios Fiscales
+12 avenida 14-41 zona 10, Colonia Oakland, Ciudad de Guatemala
+PBX: (502) 2505-6363
+
+Oxfam Guatemala
+15 calle 1-95 zona 10, Ciudad de Guatemala
+Tel.: (502) 2205-5250
+
+Índice
+
+Siglas y acrónimos ....................................................................................................................................... 5
+
+Presentación................................................................................................................................................. 7
+
+1.  La corrupción en el mundo .................................................................................................................... 9
+
+2.  Los principales caminos que llevan a la corrupción en Guatemala ..................................................... 13
+
+2.1  Legislación desactualizada ............................................................................................................ 13
+
+2.2  Institucionalidad débil .................................................................................................................... 14
+
+2.3  Acceso deﬁciente a la información pública .................................................................................... 15
+
+2.4  Participación ciudadana escasa .................................................................................................... 16
+
+2.5  Conﬂictos de intereses  ................................................................................................................. 17
+
+2.6  Impunidad ...................................................................................................................................... 18
+
+3.  Hagamos números de la corrupción en Guatemala  ........................................................................... 19
+
+3.1  Los montos del presupuesto que pueden ser presa fácil de la corrupción ................................... 20
+
+3.1.1  Los gastos de capital: el listado geográﬁco de obras .......................................................... 20
+
+3.1.2  Rubros vulnerables en las adquisiciones públicas .............................................................. 21
+
+3.1.3  El gasto público a través de ﬁdeicomisos  ........................................................................... 22
+
+3.2  Algunas comparaciones con educación, salud, nutrición, seguridad y justicia ............................. 23
+
+4.  Propuestas iniciales para luchar contra la corrupción en Guatemala .................................................. 25
+
+4.1  Ejes de trabajo a considerar .......................................................................................................... 25
+
+4.1.1  Legislación ........................................................................................................................... 25
+
+4.1.2  Institucionalidad ................................................................................................................... 26
+
+4.1.3  Acceso a la información pública .......................................................................................... 26
+
+4.1.4  Participación ciudadana ....................................................................................................... 27
+
+4.2  Objetivos y agenda preliminar ....................................................................................................... 28
+
+5.  Los ofrecimientos de los partidos políticos para luchar contra la corrupción  ...................................... 35
+
+6.  Bibliografía ........................................................................................................................................... 39
+
+3
+
+Siglas y acrónimos
+
+AGA 
+Arena 
+CICIG 
+Cicc 
+CIV 
+CGC 
+CNUCC 
+CEH 
+CoST  
+
+Covial 
+CFPM 
+EITI  
+
+FIV 
+Fodigua 
+Fonacon 
+Fonacyt 
+Fonades 
+Fonagro 
+Guatecompras  
+Iceﬁ  
+IPC  
+LAIP 
+Mesisic 
+
+OCDE  
+OEA  
+ONU  
+ONUDD 
+PDH 
+PIB 
+PIP 
+PNUD 
+SAT  
+SIB 
+SIAF  
+Sicoin  
+Siges  
+Snip  
+TI 
+Wola  
+
+Alianza para el Gobierno Abierto
+Alianza Republicana Nacionalista
+Comisión Internacional contra la Impunidad en Guatemala
+Convención Interamericana contra la Corrupción
+Ministerio de Comunicaciones, Infraestructura y Vivienda
+Contraloría General de Cuentas
+Convención de las Naciones Unidas contra la Corrupción
+Comisión de Esclarecimiento Histórico 
+Iniciativa de Transparencia en el Sector de Construcción, por sus siglas en inglés 
+(Construction Sector Transparency Initiative)
+Unidad Ejecutora de Conservación Vial
+Comisión de Finanzas Públicas y Moneda 
+Iniciativa de Transparencia en las Industrias Extractivas, por sus siglas en inglés 
+(Extractive Industries Transparency Initiative)
+Fideicomiso de inversión para la vivienda
+Fondo de Desarrollo Indígena Guatemalteco
+Fondo Nacional para la Conservación de la Naturaleza
+Fondo Nacional de Ciencia y Tecnología 
+Fondo Nacional de Desarrollo 
+Fondo nacional para la reactivación y modernización de la actividad agropecuaria 
+Sistema de Contrataciones y Adquisiciones del Estado de Guatemala 
+Instituto Centroamericano de Estudios Fiscales
+Índice de Percepción de Corrupción
+Ley de Acceso a la Información Pública
+Mecanismo de Seguimiento de la Implementación de la Convención Interamericana 
+contra la Corrupción
+Organización para la Cooperación y el Desarrollo Económicos
+Organización de los Estados Americanos
+Organización de las Naciones Unidas
+Oﬁ cina de las Naciones Unidas contra la Droga y el Delito 
+Procuraduría de los Derechos Humanos
+Producto Interno Bruto
+Plan de Inversiones Públicas 
+Programa de las Naciones Unidas para el Desarrollo
+Superintendencia de Administración Tributaria 
+Superintendencia de Bancos
+Sistema Integrado de Administración Financiera 
+Sistema de Contabilidad Integrada 
+Sistema de Gestión 
+Sistema Nacional de Inversión Pública
+Transparencia Internacional
+Oﬁ cina en Washington para asuntos Latinoamericanos
+
+5
+
+Presentación
+
+Las sociedades siguen enfrentando en la corrupción un grave obstáculo para avanzar en la 
+consolidación de los sistemas democráticos, del pleno ejercicio y disfrute de los derechos humanos, 
+y de niveles satisfactorios de gobernabilidad que permitan el desarrollo sostenible de los Estados. 
+Como consecuencia, se afectan las condiciones políticas, sociales y económicas que permitirían la 
+implementación de políticas públicas que resuelvan con eﬁ cacia las principales necesidades sociales, 
+como la disminución de la pobreza y la desigualdad, así como asegurar la realización del bien común.
+
+En Guatemala, la corrupción en la gestión pública es uno de los rasgos que ha estado presente 
+como una constante en el ejercicio del poder de los gobiernos, en complicidad con actores privados, 
+estructurando y aﬁ rmando un sistema de privilegios y beneﬁ cios para el aprovechamiento privado de la 
+gestión pública. La preocupación aumenta cuando la corrupción ataca las ﬁ nanzas públicas, es decir, 
+la administración de la recaudación y uso de los recursos públicos, principalmente provenientes de los 
+impuestos.
+
+La mayoría de población, por su parte, ha llegado a considerar como “normal” esa presencia frecuente 
+de los hechos de corrupción, sin cuestionarse ni hacer lo suﬁ ciente para señalar y modiﬁ car esos 
+patrones de conducta que causan múltiples efectos nocivos a toda la sociedad.
+
+No obstante, 2015 es un año en el que se registra un cambio en esta perspectiva de tolerancia a la 
+corrupción, cuando en abril la Comisión Internacional contra la Impunidad en Guatemala (CICIG)1 y 
+la Fiscalía Especial contra la Impunidad del Ministerio Público (MP) desmantelaron una estructura 
+criminal de defraudación aduanera y corrupción supuestamente dirigida por el secretario privado de la 
+Vicepresidencia e integrada por un amplio grupo de altos funcionarios, empleados públicos y particulares. 
+
+Desde entonces, la sociedad guatemalteca ha expresado un rechazo enérgico contra la corrupción y 
+ha demandado cambios profundos para garantizar una gestión pública transparente. Por esa razón, 
+el Iceﬁ  considera que un indicador del compromiso que tienen los partidos políticos para atender esas 
+demandas sociales está constituido por las ofertas electorales que están incorporando en sus planes de 
+gobierno, y en particular, los compromisos en materia de transparencia y combate a la corrupción. 
+
+En ese orden de ideas, el presente documento busca ofrecer una revisión y lectura analítica de esos 
+compromisos contenidos en los planes de gobierno. Para el efecto, la primera parte contiene una revisión 
+general sobre el concepto de corrupción, los actores que intervienen en esta clase de actos y una 
+revisión del impacto que este fenómeno tiene en el mundo, así como en las regiones latinoamericana 
+y centroamericana. En la segunda parte se examinan los principales caminos que, a criterio del Iceﬁ , 
+conducen a la corrupción en Guatemala, y que abarcan aspectos tales como legislación desactualizada, 
+institucionalidad débil, acceso deﬁ ciente a la información pública, participación ciudadana escasa, la 
+existencia de conﬂ ictos de intereses y la impunidad.
+
+En la tercera parte se propone una revisión de algunos montos del presupuesto del Estado de 
+Guatemala que se encuentran expuestos a los actos de corrupción, como los gastos para obras públicas, 
+para adquisiciones públicas y aquellos que se ejecutan a través de ﬁ deicomisos públicos. A partir de 
+esos montos, se muestra un ejercicio que reﬂ eja la pérdida o daño social que signiﬁ caría si el 20% de 
+
+1 
+
+La CICIG es un órgano independiente cuyo mandato se origina en un acuerdo entre el Gobierno de Guatemala y la 
+Organización de las Naciones Unidas. Su ﬁ nalidad es apoyar al Ministerio Público, la Policía Nacional Civil y otras instituciones 
+del Estado tanto en la investigación de los delitos cometidos por integrantes de los cuerpos ilegales de seguridad y aparatos 
+clandestinos de seguridad, como en general en las acciones que tiendan al desmantelamiento de estos grupos.
+
+7
+
+esos recursos públicos fueran desviados para actos de corrupción, con la idea de representar su impacto 
+económico en áreas de educación, salud y nutrición, protección social y seguridad. 
+
+En la cuarta parte se exponen algunas propuestas iniciales para luchar contra la corrupción en 
+Guatemala, incluyendo ejes de trabajo a considerar, así como los objetivos y agenda mínima que se 
+deberían abordar en la gestión presidencial que comenzará en enero de 2016. En la quinta y última 
+parte, se incluye un análisis de los compromisos en materia de transparencia y combate a la corrupción 
+contenidos en los planes de gobierno disponibles al 20 de julio.
+
+8
+
+1.  La corrupción en el mundo
+
+La corrupción sigue constituyendo una amenaza real frente al propósito de construir Estados fuertes 
+que, por un lado, logren una verdadera legitimidad social y, por el otro, cuenten con los recursos públicos 
+suﬁ cientes para que los objetivos deﬁ nidos por las sociedades (en particular, la realización del bien 
+común), no queden en aspiraciones, sino se vuelvan proyectos con posibilidades reales de aplicación. 
+Por esta razón, persiste la necesidad de redoblar los esfuerzos para fortalecer los Estados, con el 
+propósito de promover la consolidación de la democracia y el impulso efectivo de políticas públicas para 
+la reducción de la pobreza y la desigualdad.
+
+El concepto más aceptado de corrupción indica que se trata del «abuso del poder para beneﬁ cio propio» 
+(Transparencia Internacional: 2009). Implica el desvío en el uso o ejercicio de un poder conferido, sea 
+en el ámbito público o privado, con el propósito de lograr un beneﬁ cio personal o de ciertos grupos, 
+afectando el interés o bien común. Hasta hace pocos años, la corrupción se asociaba con énfasis 
+exclusivo al Gobierno y los funcionarios públicos, pero esta perspectiva se modiﬁ có de manera 
+signiﬁ cativa en las dos últimas décadas, al tomar conciencia del papel protagónico que las empresas 
+(nacionales y transnacionales) o actores privados pueden jugar en la corrupción.
+
+El concepto anotado se convierte en un punto de partida para comprender el signiﬁ cado y alcance 
+de la corrupción. Al no existir una deﬁ nición universal consensuada (ni siquiera en las convenciones 
+internacionales), prevalece el criterio de que la corrupción cambia de acuerdo con el lugar, el tiempo 
+y la sociedad: se trata de un fenómeno universal con manifestaciones particulares en cada época y 
+en cada nación (González Llaca: 2005). De acuerdo con Klitgaard (1984: 13), cada país posee una 
+política, cultura e historia que afectan «tanto la forma de corrupción como las maneras de combatir 
+esa corrupción». En otras palabras, pese a que la corrupción es un fenómeno que ha existido siempre 
+(Tortosa: 1994), la diferencia se encuentra en la forma en que los Estados reaccionan para contrarrestar 
+sus efectos nocivos.
+
+La mayoría de personas asocian la corrupción únicamente al pago de sobornos, sin embargo, es 
+propicio aclarar que más bien representa un término genérico que engloba varias conductas reguladas 
+habitualmente en los códigos penales de los países, a través de ﬁ guras delictivas tales como: cohecho (o 
+soborno), peculado, malversación, nepotismo, tráﬁ co de inﬂ uencias, fraude, cobro ilegal de comisiones, 
+enriquecimiento ilícito, enriquecimiento ilícito de particulares, testaferrato, etcétera. La prevalencia 
+de estas conductas varía de un contexto a otro, en función de los actores, procesos, instituciones e 
+incentivos involucrados en cada caso. 
+
+La regulación penal de los actos de corrupción (cuando existe), orilla a que su realización ocurra en la 
+clandestinidad. De esa manera, factores como el costo de oportunidad, la probabilidad de detección, la 
+severidad de la pena o de la sanción social, también contribuyen a determinar en cada país el alcance 
+y la forma en que la corrupción se maniﬁ esta. Adicionalmente, hay conductas que algunos países 
+consideran delictivas, mientras otros las caliﬁ can como legales y se encuentran reglamentadas (por 
+ejemplo, ciertas disposiciones en el ámbito del ﬁ nanciamiento de partidos políticos y de las campañas 
+electorales), de manera que las estrategias para combatir la corrupción siguen siendo un desafío para la 
+ingeniería institucional y las legislaciones.
+
+Para identiﬁ car la magnitud de la corrupción, suele efectuarse una distinción entre «pequeña 
+corrupción», «mediana corrupción» y «gran corrupción» (Buscaglia & van Dijk: 2003). De acuerdo con 
+la Oﬁ cina de las Naciones Unidas contra la Droga y el Delito –ONUDD– (2004), la primera implica 
+el intercambio de pequeñas cantidades de dinero, la concesión de pequeños favores en posiciones 
+
+9
+
+menores; la segunda, está asociada a funcionarios medios, administrativos, logística, abastecimiento, 
+pero no tomadores de decisiones; y la tercera, es la que impregna los más altos niveles de un 
+Gobierno, implica la distorsión o perversión de las funciones centrales de la administración pública y 
+conduce a una amplia erosión de la conﬁ anza en el Estado de Derecho y la estabilidad económica. La 
+pequeña corrupción, a diferencia de las demás, no implica complejidad o prácticas estructuradas, pues 
+se concentra en transacciones individuales. 
+
+Existe un consenso unánime en la identiﬁ cación de los efectos que tiene la corrupción, 
+inequívocamente negativos para cualquier sociedad porque amenaza la estabilidad política 
+y la seguridad de las sociedades al impactar en la pérdida de credibilidad en el Gobierno y la 
+administración pública; agudiza la crisis de legitimidad del sistema político; interﬁ ere en los 
+mecanismos para la adecuada asignación y administración de los recursos públicos; y, acentúa 
+las desigualdades sociales al anular las políticas gubernamentales orientadas a combatirlas, 
+comprometiendo el desarrollo sostenible y el imperio de la ley (Arcila Niño: 2000). En la actualidad 
+preocupan los costos sociales que derivan de este problema, de ahí la elaboración de estudios que 
+tratan de vincular las estrategias anticorrupción con los derechos humanos.
+
+Por otra parte, preocupa la relación que existe entre la corrupción y otras formas de delincuencia, en 
+particular la organizada y la económica, incluidos el blanqueo de dinero, el ﬁ nanciamiento al terrorismo, 
+así como los mecanismos para la elusión y evasión ﬁ scal. El contexto de la globalización muestra que 
+este ﬂ agelo ha dejado de ser un problema local para convertirse en un fenómeno transnacional que 
+afecta a todas las sociedades y economías, lo que hace esencial la cooperación internacional para 
+prevenirlo y luchar contra él, desde un enfoque amplio y multidisciplinario.
+
+Los esfuerzos para medir la corrupción demuestran que es una práctica extendida en países ricos y 
+pobres, sin importar su nivel de desarrollo, no obstante que algunos estudios han demostrado que es 
+mayor el impacto negativo en los últimos. De acuerdo con los resultados de la edición 2014 del Índice 
+de Percepción de la Corrupción (IPC) que anualmente elabora Transparencia Internacional (TI), más de 
+dos tercios de los 175 países incluidos en el IPC obtuvieron una puntuación inferior a 50, en una escala 
+de 0 (percepción de altos niveles de corrupción) a 100 (percepción de bajos niveles de corrupción). En 
+el mundo, Dinamarca se situó en la primera posición con una puntuación de 92, mientras que Corea 
+del Norte y Somalia compartieron el último lugar, con apenas 8 puntos. En América Latina y el Caribe, 
+Barbados (74) y Chile (73) aparecen como los países con menor percepción de corrupción, mientras que 
+en el otro extremo, Haití y Venezuela tienen una alta percepción de corrupción al obtener 19 puntos. 
+
+Los resultados para América Latina y el Caribe en el IPC 2014 expresan que aunque los contextos y 
+efectos particulares que tiene la corrupción en cada país son diferentes, permanece una alarmante 
+percepción de que las acciones desarrolladas hasta ahora para su combate no están rindiendo los 
+resultados esperados. Idéntica interpretación surge al analizar los resultados que obtuvieron los países 
+de Centroamérica (ver Tabla 1): con excepción de Nicaragua, que mantiene la misma puntuación del 
+2013, el resto de países reﬂ eja un leve aumento en su caliﬁ cación. Costa Rica y El Salvador aumentaron 
+su nota en un punto, Panamá en dos, mientras que Guatemala y Honduras lo hicieron con tres. 
+
+10
+
+Tabla 1
+Puntuación obtenida por los países de Centroamérica
+Índice de Percepción de la Corrupción de Transparencia Internacional
+2012-2014 
+
+2012
+
+54
+38
+38
+33
+29
+28
+
+Puesto Global 
+(de 176 países)
+48
+83
+83
+113
+130
+133
+
+2013
+
+53
+38
+35
+29
+28
+26
+
+Puesto Global 
+(de 177 países)
+49
+83
+102
+123
+127
+140
+
+2014
+
+54
+39
+37
+32
+28
+29
+
+Puesto Global 
+(de 175 países)
+47
+80
+94
+115
+133
+126
+
+Costa Rica
+El Salvador
+Panamá
+Guatemala
+Nicaragua
+Honduras
+
+Fuente: elaborado por el Iceﬁ  con base a información de Transparencia Internacional 
+
+Las caliﬁ caciones, lejos de constituir una esperanza sobre cambios efectivos como consecuencia de 
+los esfuerzos anticorrupción, denotan un estancamiento en el progreso de los Estados de la región en 
+esta materia. Además, los resultados reﬂ ejan un contexto en el que persiste la cultura de opacidad, 
+y en donde los escándalos que involucran a personas vinculadas a las altas esferas del poder en los 
+gobiernos siguen siendo muy frecuentes (ver Tabla 2). Como se mencionó al inicio, pese a que hay una 
+tendencia a concentrarse en el carácter público-estatal de la corrupción, existe una mayor conciencia 
+acerca del rol de los actores privados y su disposición para favorecer esta clase de actos.
+
+Al respecto, estudios como el Índice de Fuentes de Soborno elaborado por Transparencia Internacional, 
+evidencian que si bien algunos países desarrollados reciben buenas caliﬁ caciones en el IPC respecto 
+a percepción de corrupción hacia lo interno de sus sociedades, cuentan con empresas que de manera 
+habitual están dispuestas a pagar sobornos a funcionarios públicos durante el transcurso de actividades 
+comerciales en el extranjero. Es decir, las economías más inﬂ uyentes del mundo contribuyen a exportar 
+la corrupción, consintiendo que sus empresas actúen de forma indebida para conseguir la adjudicación 
+de licitaciones públicas, evitar el cumplimiento de reglamentaciones, agilizar procesos gubernamentales 
+o inﬂ uir en la determinación de políticas que puedan favorecer sus negocios. 
+
+11
+
+Tabla 2
+América Latina: Casos de corrupción de impacto en la opinión pública 2014 y 2015
+
+Brasil
+
+Chile 
+
+México
+
+Argentina
+
+Colombia
+
+El caso «Petrobras» involucra el pago de sobornos para la obtención fraudulenta de contratos 
+millonarios en la principal compañía petrolera nacional, así como el ﬁ nanciamiento de campañas 
+a partidos políticos.
+
+El caso «Penta» involucra esquemas para alterar la contabilidad de algunas empresas, evadir 
+impuestos y ﬁ nanciar de manera irregular campañas de partidos políticos, y el caso «Caval» 
+referido a un supuesto tráﬁ co de inﬂ uencias ejercido por el hijo de la presidenta Michelle 
+Bachelet.
+En el caso conocido como la «Casa Blanca», referido a una mansión que pertenece a la 
+esposa del presidente Peña Nieto pero que fue construida por un contratista del gobierno, se 
+cuestionó un probable conﬂ icto de interés por los vínculos que puedan existir entre proveedores y 
+autoridades gubernamentales. 
+El caso «Hotesur» involucra la denuncia de una compleja red de millonarios pagos a empresas 
+que administran hoteles de la presidenta Cristina Kirchner por parte de un contratista. En este 
+caso se investiga si hubo un incumplimiento en los registros de las referidas empresas y si existió 
+lavado de dinero. 
+En el caso de la «Yidispolítica», se emitieron sentencias condenatorias contra dos exministros 
+del gobierno de Álvaro Uribe, quienes pagaron sobornos a parlamentarios para que apoyaran la 
+reforma constitucional que permitió la reelección del expresidente Uribe en el 2006.
+
+El Salvador La denuncia contra el expresidente Francisco Flores (1999-2004), acusado por la apropiación de 
+
+Panamá
+
+donaciones que realizó el gobierno de Taiwán a El Salvador, luego de los terremotos de 2001, 
+y que presumiblemente fueron a parar a las cuentas del partido político Alianza Republicana 
+Nacionalista –ARENA–. 
+Las denuncias contra el expresidente Ricardo Martinelli (2009-2014), que incluyen presuntas 
+irregularidades y supuestos sobrecostos en el manejo de varios millones de dólares en contratos 
+de un programa estatal de asistencia alimentaria a centros educativos públicos. 
+
+Guatemala En el caso «La Línea», la CICIG y el MP desmantelaron una estructura criminal creada para 
+evadir el pago de impuestos en las aduanas guatemaltecas y en la que aparecen vinculados 
+el exsecretario privado de la Vicepresidencia, exsuperintendentes de administración tributaria, 
+empresarios, y otros funcionarios de medio y alto rango. 
+
+Fuente: elaborado por el Iceﬁ  con base en notas de prensa.
+
+Un estudio reciente,2 a partir del análisis de un archivo de 149 investigaciones periodísticas de casos de 
+mediana y gran corrupción ocurridos en 18 países de América Latina entre el 2000 y 2013, expone la 
+presencia sistemática de actores privados involucrados directamente en el 80% de los casos analizados 
+(sobre todo en sectores relacionados a la construcción e infraestructura y energía e hidrocarburos). 
+Además, permite identiﬁ car la presencia de intermediarios (facilitadores, gestores de intereses, 
+intermediarios de negocios, actores asociados a la administración del dinero ilícito, etc.), y sugieren la 
+idea de lógicas de tercerización de la «gestión de la corrupción» y la posibilidad de profesionalización de 
+este tipo de prácticas.3
+
+2  Mujica, Jaris (2015) Actores privados e intermediarios de la corrupción. Un estudio en base a las investigaciones periodísticas 
+
+en casos de gran y mediana corrupción en América Latina. Citar documento de TI. Pontiﬁ cia Universidad Católica del Perú: 
+Laboratorio de Criminología Social y Estudios sobre la Violencia. Perú
+
+Los investigadores tuvieron acceso a la base de datos del Premio Latinoamericano de Periodismo de Investigación, que 
+incluye más de 300 casos de corrupción de 18 países de América Latina publicados entre 2000 y 2013. De la totalidad de 
+casos disponibles, el equipo seleccionó 149 que se ajustaban a los criterios del estudio: datos sobre el tipo de ilícito, de los 
+actores y de la modalidad del acto de corrupción.
+
+3 
+
+12
+
+Los ejemplos enumerados, tanto del ámbito público como del privado, sirven para ejempliﬁ car la 
+magnitud de los retos y desafíos que tienen los Estados para mejorar el control y sanción de la 
+corrupción, complementados con el diseño de medidas y mecanismos de prevención, que ayuden 
+a crear el soporte institucional, político y social que inﬂ uya de manera decisiva para disminuir la 
+probabilidad de que se repitan más actos de corrupción. Por ello, se requieren reformas que permitan 
+avanzar hacia sistemas de transparencia, acceso a la información, rendición de cuentas y participación 
+ciudadana, que no solo aseguren la probidad en la administración y ejecución del gasto público, sino 
+también su eﬁ ciencia y concordancia con el interés general de cada sociedad.
+
+2.  Los principales caminos que llevan a la 
+
+corrupción en Guatemala
+
+El debate sobre las causas o factores que contribuyen a crear las condiciones para cometer actos de 
+corrupción, desemboca en las particularidades del lugar, el tiempo y la sociedad concreta que se analice. 
+Aunque no pretende constituirse en una lista deﬁ nitiva, el Iceﬁ  considera que en el contexto guatemalteco 
+es posible identiﬁ car seis caminos que conducen a la corrupción: a) legislación desactualizada; b) 
+institucionalidad débil; c) acceso deﬁ ciente a la información pública; d) participación ciudadana escasa; e) 
+existencia de conﬂ ictos de interés; y, f) la impunidad.
+
+2.1  Legislación desactualizada
+
+La falta de actualización del marco normativo necesario para combatir la corrupción constituye un 
+primer factor a considerar, e incluye varias particularidades. Primero, la falta de revisión constante de 
+las disposiciones que conﬁ eren altos niveles de discrecionalidad a los tomadores de decisión o a los 
+servidores públicos que tienen contacto con los usuarios de servicios administrativos. En este caso, el 
+problema no radica en la discrecionalidad misma, como potestad conferida por ley o por disposiciones 
+de inferior jerarquía (por ejemplo, reglamentos); sino el abuso en su ejercicio o aplicación, que puede 
+originar actos de corrupción. 
+
+Es el caso de la normativa aplicable en todas las áreas de trabajo de la Superintendencia de 
+Administración Tributaria (SAT), que establece grados de discrecionalidad en varios ámbitos. Por 
+ejemplo, la participación de una diversidad de instituciones en el proceso de despacho aduanero y 
+la poca coordinación existente entre ellas, produce muchos puntos de discrecionalidad que pueden 
+reﬂ ejarse en el ingreso de contenedores no manifestados, la administración irregular de los parqueos, la 
+falta de control de las puertas de salida de los recintos portuarios, el funcionamiento de las rampas de 
+revisión, el papel de los agentes aduaneros y sus auxiliares, entre otros. 
+
+En otro ejemplo, la negociación desordenada de los aranceles especiales que se aplican a las canastas 
+de productos de convenios comerciales, ha creado una diversidad excesiva de tasas arancelarias a la 
+importación, y con ello discrecionalidad de las autoridades aduaneras y los empresarios importadores 
+para elegir, legal o ilegalmente, la tasa arancelaria más conveniente a sus intereses. En este escenario, 
+el importador se beneﬁ cia logrando que los productos se clasiﬁ quen en la categoría con el arancel 
+más bajo, mientras que el técnico aduanero puede buscar el pago de un soborno para acceder a la 
+clasiﬁ cación espuria. En ambos casos, se afecta la capacidad recaudatoria del Estado. 
+
+13
+
+En segundo lugar, destaca la existencia de leyes desactualizadas o «parchadas». Implica la existencia 
+de normativas que no han sido revisadas desde hace mucho tiempo y que afectan el establecimiento de 
+mecanismos modernos o innovadores para asegurar una gestión pública capaz de prevenir y combatir 
+la corrupción. El ejemplo paradigmático de normas desactualizadas es la Ley de Servicio Civil (Decreto 
+Número 1748 del Congreso de la República), aprobada en 1968, resultando obsoleta para las exigencias 
+actuales en materia de administración de recursos humanos y para garantizar la carrera administrativa de 
+los servidores públicos, en función de la eﬁ ciencia y eﬁ cacia que se espera de la administración pública. En 
+cuanto a leyes «parchadas» sobresale la Ley de Contrataciones del Estado (Decreto 57-92 del Congreso 
+de la República), que ha sido objeto de múltiples reformas que no han logrado garantizar la transparencia 
+y certeza jurídica en los procesos de adquisiciones que realizan las entidades públicas, incorporando 
+únicamente paliativos que al cabo de un tiempo resultan insuﬁ cientes y requieren de nuevas reformas. 
+
+Como tercer aspecto, atendiendo al compromiso que tiene el Estado de Guatemala como suscriptor 
+de instrumentos jurídicos internacionales en materia de combate a la corrupción (especialmente 
+las convenciones internacionales de la Organización de los Estados Americanos –OEA– , y de la 
+Organización de Naciones Unidas –ONU–), se ha constatado que las reformas legales aprobadas 
+o nuevas leyes emitidas, no reﬂ ejan plenamente la adopción de los estándares internacionales 
+anticorrupción sugeridos al país. Como ejemplo resalta la falta de voluntad de incorporar en la Ley 
+de Probidad y de Responsabilidades de Funcionarios y Empleados Públicos (Decreto 89-2002 del 
+Congreso de la República), la regulación que asegure la publicidad de las declaraciones patrimoniales, 
+sugerida desde 2005 en los informes del Comité de Expertos del Mecanismo de Seguimiento de la 
+Implementación de la Convención Interamericana contra la Corrupción (MESISIC). 
+
+2.2 
+
+Institucionalidad débil
+
+Para promover la transparencia y combatir eﬁ cazmente la corrupción, se hace necesario contar con 
+dependencias públicas con funciones supervisoras (oﬁ cinas de auditoría interna) y órganos de control 
+externo (principalmente la Contraloría General de Cuentas –CGC– y el MP) que cumplan de manera 
+efectiva con sus atribuciones legales. Sin embargo, en el contexto guatemalteco ha prevalecido la 
+inefectividad e inoperancia de las acciones para prevenir, detectar y sancionar los actos de corrupción.
+
+La CGC, como la entidad gubernamental encargada del control sobre la correcta gestión de los recursos 
+del Estado y sobre el actuar de los funcionarios públicos, ha estado muy lejos de garantizar una evaluación 
+efectiva sobre la ejecución y calidad del gasto público. La principal carencia deviene del patrón histórico 
+de sustentar sus acciones en un modelo reactivo o ex post, es decir, que implica una intervención cuando 
+ya se ha consumado el uso indebido de los recursos públicos. A ello se agregan limitaciones legales, 
+institucionales, presupuestarias y de capital humano para el cumplimiento de sus atribuciones. 
+
+El MP, como titular de la acción penal y entidad responsable de llevar a cabo las investigaciones de los 
+delitos económicos y relacionados con la corrupción, tampoco ha logrado los resultados esperados. 
+Pese a que desde comienzos del presente siglo se han efectuado múltiples reestructuraciones a la 
+Fiscalía contra la Corrupción, esta entidad reporta exiguos resultados frente a la expectativa que tiene la 
+ciudadanía para que los actos de esta naturaleza (especialmente aquellos que impactan sensiblemente 
+en la opinión pública), no se queden sin castigo. 
+
+Otro factor es la falta de coordinación entre entidades que deben desarrollar operaciones conjuntas 
+en casos de corrupción. En muchos casos, los informes y denuncias que provee la CGC al MP suelen 
+ser deﬁ cientes debido a la inobservancia de Normas de Auditoría Gubernamental, en virtud de que los 
+auditores no obtienen la evidencia suﬁ ciente, competente y pertinente que respalde documentalmente 
+
+14
+
+los hallazgos detectados, y por entregar denuncias con datos ambiguos, imprecisos o incorrectos que 
+generan atraso a la investigación penal (Castillo Castellanos: 2012). A ello se agrega la lentitud en la 
+recepción de informes que deben proveer las entidades que por mandato legal deben colaborar en la 
+investigación, como la SAT o la Intendencia de Veriﬁ cación Especial de la Superintendencia de Bancos 
+(SIB), de manera que el MP se debe adecuar al ritmo de trabajo que dichas dependencias asumen. 
+
+En otra esfera de seguimiento, destaca la inefectividad de las unidades de auditoría interna, como 
+dependencias responsables de evaluar permanentemente todo el ámbito operacional (sistemas, 
+procesos y actividades) de las instituciones. El problema radica en que no brindan la seguridad razonable 
+para garantizar la consecución de los objetivos de las entidades públicas, relativos a la ﬁ abilidad de 
+la información ﬁ nanciera, la eﬁ cacia y eﬁ ciencia de las operaciones, así como al cumplimiento de 
+disposiciones legales y reglamentarias aplicables para el control interno. 
+
+Otro mecanismo institucional caduco, opaco, cuestionable y con escasos resultados es el que se reﬁ ere 
+a la «intervención administrativa». De acuerdo con el espíritu de los artículos 120 de la Constitución 
+Política de la República y 31 del Código Civil, el Presidente de la República tiene la facultad para 
+intervenir «empresas que prestan servicios públicos esenciales» así como instituciones del Estado que 
+prestan dichos servicios, aun cuando ostenten autonomía técnica. Si bien el objetivo de una intervención 
+es mantener la continuidad de un servicio público esencial, «cuando lo que pueda considerarse un 
+normal funcionamiento del ente objeto de intervención sea el que obstaculice la prestación de aquél», la 
+práctica demostró que contribuyen a crear condiciones para la administración discrecional de recursos y 
+comisión de actos de corrupción.
+
+Este fue el caso de las intervenciones de la Dirección General de Aeronáutica Civil del Ministerio de 
+Comunicaciones, Infraestructura y Vivienda, de la Empresa Portuaria Quetzal, así como de la Empresa 
+Portuaria Nacional Santo Tomas de Castilla, efectuadas desde 2009, 2011 y 2012, respectivamente, 
+y concluidas en junio de 2015. Lejos de haber alcanzado el objetivo primordial de normalizar y tornar 
+eﬁ ciente el funcionamiento de los entes objeto de intervención, durante su vigencia se caracterizaron 
+por decisiones controversiales en materia de adquisiciones públicas o concesiones avaladas por los 
+interventores y que involucraron cantidades millonarias. A la fecha permanece vigente la intervención 
+de la Dirección General de Migración del Ministerio de Gobernación, tampoco exenta de denuncias por 
+adquisiciones irregulares.
+
+2.3  Acceso deﬁ ciente a la información pública
+
+La aprobación de la Ley de Acceso a la Información Pública –LAIP– (Decreto 57-2008 del Congreso de la 
+República) constituyó un hito para la promoción de la transparencia en el contexto guatemalteco, porque 
+otorga la posibilidad de ejercer el derecho de las personas a conocer la información y documentos 
+en poder del Estado. Su importancia radica en que este instrumento jurídico facilita la ﬁ scalización 
+de las actuaciones de los funcionarios y empleados públicos, en especial de aquellos que tienen la 
+responsabilidad de administrar recursos públicos.
+
+Sin embargo, luego de los primeros cinco años de su vigencia prevalecen acciones destinadas a 
+bloquear el ejercicio de este derecho humano, evidenciando resistencia de los sujetos obligados a 
+entregar o actualizar información pública. En los informes anuales de monitoreo que desde 2010 elabora 
+la Procuraduría de los Derechos Humanos –PDH–, como autoridad designada por mandato legal 
+para proteger el acceso a la información pública, se hace una descripción de las principales acciones 
+mediante las cuales se maniﬁ esta el incumplimiento de esa normativa.
+
+15
+
+Se ha reiterado la escasa difusión que se hace de la LAIP, lo que repercute en la todavía pequeña 
+cantidad de personas que acuden a solicitar información pública. Otro hallazgo señala que no todos 
+los sujetos obligados tienen un órgano interno, funcionario o empleado para que funja como Unidad de 
+Información Pública (en especial en el ámbito municipal y algunas entidades descentralizadas), creando 
+confusión en las personas acerca de quién tiene la responsabilidad de recibir, dar trámite y entregar la 
+respuesta a las solicitudes que son formuladas. 
+
+De manera deliberada, también se promueve la falta de certeza jurídica en el procesamiento de 
+las solicitudes de información a través de varias formas. Por ejemplo: se emiten respuestas a las 
+solicitudes en un promedio mayor al plazo máximo de diez días regulado en la ley; se omite la entrega 
+de las resoluciones escritas que resuelven las solicitudes, cualquiera que sea su sentido; se emiten 
+resoluciones negativas por considerar que se trata de información clasiﬁ cada como conﬁ dencial o 
+reservada, pero incumpliendo las formalidades que exige la ley (por ejemplo, publicar en el Diario de 
+Centro América la resolución que concreta la reserva de información).
+
+En cuanto a la información de oﬁ cio, pese a que la ley establece que debe estar disponible sin necesidad 
+de requerimiento alguno, la PDH ha expresado que muchos sujetos obligados no la publican en sus 
+portales electrónicos y en ocasiones tampoco la tienen disponible de forma física en la sede de las 
+unidades de información. Cuando la información de oﬁ cio sí está disponible, los hallazgos frecuentes se 
+relacionan con su falta de actualización, así como la presentación de los reportes en forma desordenada 
+y con un contenido incomprensible o incompleto. Las entidades que evidencian mayores deﬁ ciencias 
+en este ámbito son las municipalidades, las gobernaciones departamentales, las entidades del sector 
+deporte (federaciones y asociaciones), así como algunas entidades descentralizadas y privadas que 
+administran recursos públicos.
+
+Por último, desde 2009 el Congreso de la República y el Ministerio de Finanzas Públicas (Minﬁ n) 
+incumplen lo prescrito en el artículo 69 de la LAIP, respecto a incluir una partida especíﬁ ca adicional 
+en el Presupuesto General de Ingresos y Egresos del Estado para que la PDH pueda cumplir con las 
+atribuciones que le asigna ese cuerpo normativo. En general, la ausencia de una entidad especializada 
+para sancionar el incumplimiento de la ley (que incluso tenga facultades para ordenar la entrega de la 
+información), o falta de fortalecimiento de las tareas de vigilancia asignadas a la autoridad reguladora 
+actual, repercuten en la fragilidad del ejercicio del derecho de acceso a la información en Guatemala.
+
+2.4  Participación ciudadana escasa
+
+Con el propósito de mejorar la calidad y legitimidad de las instituciones representativas, pero además 
+fortalecer la gobernabilidad en los sistemas democráticos, se ha expresado la necesidad de ampliar los 
+espacios de participación de las personas en el diseño, gestión y evaluación de las políticas públicas. Es 
+el «desafío de agrandar la política, es decir, someter a debate y decisión colectiva todas las materias que 
+afectan el destino colectivo» (PNUD: 2004). Sin embargo, a pesar del empoderamiento que comienza 
+a expandirse en la sociedad guatemalteca, siguen predominando esquemas limitados de participación 
+ciudadana, incluso susceptibles de intervención política. 
+
+Si bien existe una estructura jurídica que garantiza el derecho de participación de la ciudadanía en los 
+procesos de creación de políticas públicas en los diferentes estamentos gubernamentales (nacionales, 
+regionales, departamentales y municipales),4 todavía existen limitaciones para concretar la incorporación 
+
+4 
+
+Esa estructura básica está compuesta por la Ley de los Consejos de Desarrollo Urbano y Rural (Decreto 11-2002 
+del Congreso de la República), Código Municipal (Decreto 12-2002 del Congreso de la República) y Ley General de 
+Descentralización (Decreto 14-2002 del Congreso de la República).
+
+16
+
+de la opinión pública en los procesos de toma de decisiones. Esta situación obedece a que no se 
+fomentan las condiciones de conﬁ anza para dotar de efectividad a los canales de comunicación 
+existentes: las autoridades preﬁ eren adoptar la posición cómoda de «informar» y eventualmente 
+manifestar su apertura para «recibir» opiniones o comentarios, sin comprometerse a modiﬁ car sus 
+decisiones a partir de esos procesos de expresión. 
+
+Existe conciencia de que los mecanismos de participación ciudadana no pretenden sustituir los 
+mecanismos de representación política sino ampliar y abrir nuevos espacios en donde la ciudadanía 
+pueda intervenir en la elaboración y diseño de las políticas públicas. Los órganos competentes 
+y autoridades, aunque no están obligados a considerar las recomendaciones y sugerencias que 
+formalmente se entregan y originan de los espacios de participación, deben considerarlas y explicar las 
+razones en virtud de las cuales las adoptan o desechan. Al no alcanzar este mínimo formal, la realidad 
+muestra la decepción, desencanto y agotamiento de los incipientes espacios o canales de participación.
+
+La lucha de intereses entre actores políticos también lleva muchas veces a desvirtuar la participación 
+de la comunidad. Es el caso del Sistema de Consejos de Desarrollo Urbano y Rural, que pretende 
+ser un espacio de coordinación interinstitucional, integrado y articulado en sus diferentes niveles para 
+la planiﬁ cación coordinada (entre el sector público y la sociedad civil) de la administración pública. 
+Para el efecto, promueve el diagnóstico, priorización y diseño de políticas de desarrollo y programas 
+presupuestarios, desde las comunidades hasta el nivel nacional. El propósito es que el Organismo 
+Ejecutivo pueda formular una mejor y más adecuada política de desarrollo, teniendo en cuenta las 
+prioridades y necesidades priorizadas en los distintos ámbitos de la organización del sistema. 
+
+Sin embargo, de acuerdo con el Programa de las Naciones Unidas para el Desarrollo –PNUD– (2010), 
+como resultado de ﬁ ltros técnicos, económicos y políticos, de las negociaciones y decisiones que se 
+toman en los ámbitos formales e informales en los distintos niveles, anualmente, un porcentaje relevante 
+de los proyectos que ﬁ nalmente aprueba el Congreso no son los que las comunidades priorizaron. A esto 
+se suma que las reasignaciones presupuestarias que en ocasiones se realizan, permiten a los actores 
+que intervienen en el sistema modiﬁ car las prioridades de las comunidades. En síntesis, el complejo y 
+burocrático proceso de planiﬁ cación participativa del presupuesto es truncado: se ejecuta solamente un 
+porcentaje muy reducido de los proyectos priorizados por los Consejos Comunitarios de Desarrollo.
+
+Además de los mecanismos que deben contrarrestar la apatía, desconﬁ anza y desinterés de la 
+ciudadanía por lo que acontece en el sector público, actualmente la comunidad internacional promueve 
+la implementación de mecanismos o iniciativas especializadas que contemplan como eje básico la 
+intervención de la sociedad civil. Dentro de estos esfuerzos resaltan la Iniciativa de Transparencia en el 
+sector de la Construcción (CoST), la Iniciativa para la Transparencia en las Industrias Extractivas (EITI) 
+y la Alianza para el Gobierno Abierto (AGA), que representa la creación de mayores oportunidades de 
+participación ciudadana y control social. 
+
+2.5  Conﬂ ictos de intereses 
+
+De acuerdo con las deﬁ niciones más aceptadas, un conﬂ icto de intereses ocurre cuando el interés personal 
+de quien ejerce una función pública colisiona con los deberes y obligaciones del cargo que desempeña 
+(Cooper: 1982). Implica una confrontación entre el deber público y los intereses privados del funcionario 
+o empleado público (OCDE: 2003). Su presencia constituye una amenaza a los principios de equidad 
+e imparcialidad que debe regir el actuar de los servidores públicos, y que operan como una garantía 
+para evitar que se adopten decisiones arbitrarias en las que prevalezca un interés privado (el del propio 
+funcionario o de un tercero vinculado –familiares, amigos, socios, partidos políticos, grupos empresariales, 
+etc.–), por sobre el interés público (aquel que busca la promoción y protección del bien común). 
+
+17
+
+A diferencia de la corrupción, que requiere un acuerdo de al menos dos actores, un conﬂ icto de intereses 
+surge cuando una persona puede tener la oportunidad de anteponer sus intereses privados a sus 
+deberes profesionales. Dependiendo de su naturaleza, pueden identiﬁ carse de manera objetiva por 
+existir un beneﬁ cio concreto –económico o ﬁ nanciero– para el funcionario involucrado o bien, hay casos 
+en que no puede precisarse un beneﬁ cio pero existen dudas razonables acerca de la imparcialidad del 
+funcionario frente a una decisión concreta. En ocasiones, su comisión se conecta con algunas conductas 
+constitutivas de actos de corrupción como el tráﬁ co de inﬂ uencias, el cohecho –en sus diversas 
+modalidades– o el abuso de autoridad.
+
+Como la existencia de conﬂ ictos de intereses contribuye a minar la conﬁ anza de la población en la 
+legitimidad de las decisiones públicas y de quienes las toman, se ha incorporado su análisis en los 
+estándares internacionales que se promueven para luchar contra la corrupción, correspondiendo a 
+cada país la responsabilidad de conﬁ gurar su regulación en sus respectivos ordenamientos jurídicos. 
+Este proceso implica deﬁ nir los mecanismos para su prevención, detección, gestión y sanción. Y es 
+aquí en donde radica el principal problema del abordaje de los conﬂ ictos de intereses en el contexto 
+guatemalteco: la regulación todavía es escasa, débil y dispersa. 
+
+Aunque la Ley de Probidad y Responsabilidades de Funcionarios y Empleados Públicos contiene ciertas 
+previsiones en esta materia, resultan insuﬁ cientes. Destaca la ausencia de normas para especiﬁ car, con 
+alcance para la generalidad de todos los servidores públicos, ciertas eventualidades que podrían dar 
+lugar a conﬂ ictos de intereses; asegurar la presentación de una declaración de ausencia de conﬂ icto 
+de intereses; prevenir conﬂ ictos de intereses con posterioridad al desempeño de funciones públicas; 
+resolver consultas de los servidores públicos sobre casos de conﬂ ictos de intereses; y, para adoptar 
+medidas que permitan remediar los conﬂ ictos de intereses detectados. 
+
+En el país, algunas decisiones públicas de trascendencia social han puesto en evidencia la existencia 
+de conﬂ ictos de intereses: en el ámbito de las adquisiciones públicas (comprendiendo a los actores que 
+intervienen en todo el ciclo); en la promoción de leyes que favorecen a un grupo o sector especíﬁ co; en 
+la promoción o adopción de políticas públicas por el Organismo Ejecutivo que favorecen a un grupo o 
+determinado sector; en la integración y funcionamiento de las comisiones de postulación para nominar 
+candidatos a puestos estratégicos del sector público; en el funcionamiento y toma de decisiones en 
+órganos colegiados que presiden entidades descentralizadas (por ejemplo, el Directorio de la SAT) o 
+que tienen a su cargo decidir sobre el uso de recursos públicos (por ejemplo, los comités técnicos de 
+ﬁ deicomisos públicos), entre otros.
+
+La falta de regulación sobre conﬂ ictos de intereses que resulte aplicable a todos los servidores 
+públicos ha provocado que en casos notorios, expuestos a la opinión pública a través de los medios de 
+comunicación, las decisiones públicas se cuestionen pero no se puedan revertir y que los funcionarios 
+públicos se limiten a minimizar o desmentir que sus actuaciones constituyan este tipo de actos. 
+
+2.6 
+
+Impunidad
+
+La impunidad constituye una grave infracción al deber que tienen los Estados de proteger el derecho a 
+la vida e integridad de todos los habitantes del país, y de proporcionar una protección judicial efectiva. 
+Representa la posibilidad de que una persona pueda cometer un delito (de cualquier naturaleza, 
+incluyendo aquellos relacionados con actos de corrupción) y quedar sin castigo. En este caso se elude 
+la investigación, persecución, captura, enjuiciamiento y condena que el caso amerite. Como resultado, 
+conduce a la pérdida de conﬁ anza de la ciudadanía en las instituciones democráticas del país.
+
+18
+
+De acuerdo con un informe de la Oﬁ cina en Washington para asuntos Latinoamericanos –WOLA, por sus 
+siglas en inglés– (2014), Centroamérica es un buen ejemplo de una región en donde la debilidad de las 
+instituciones de seguridad y justicia y su corrupción por actores criminales y políticos ha dejado al Estado 
+sin la capacidad para responder a la violencia y criminalidad o atender los factores estructurales que 
+están detrás de la violencia.
+
+En Guatemala, la impunidad ha sido producto del contexto histórico y de condiciones estructurales, 
+económicas, políticas, culturales y sociales que la han favorecido. El informe ﬁ nal de la Comisión de 
+Esclarecimiento Histórico (CEH), Guatemala: Memoria del Silencio, señaló que durante el conﬂ icto 
+armado interno los «órganos de justicia se volvieron inoperantes en una de sus funciones fundamentales 
+de protección del individuo frente al Estado y perdieron toda credibilidad como garantes de la legalidad 
+vigente. Permitieron que la impunidad se convirtiera en uno de los más importantes mecanismos para 
+generar y mantener el clima de terror». 
+
+Con la ﬁ rma de los Acuerdos de Paz se adquirió conciencia sobre la necesidad de impulsar reformas 
+para buscar un óptimo funcionamiento del sistema de justicia, incluso para evitar la aplicación de la 
+ley por la ciudadanía (concretada en los linchamientos) y desenterrar la idea de la impunidad como un 
+«conﬂ icto y juego de poderes de quienes se creen intocables ante los tribunales de justicia», es decir, de 
+quienes creen estar por encima de la ley. Sin embargo, también demanda un esfuerzo para favorecer la 
+«cultura de la legalidad» a efecto de entender que cada persona tiene la responsabilidad individual de 
+ayudar a construir y mantener una sociedad con un Estado de derecho. 
+
+A pesar de los avances que se pueden registrar en los últimos diecinueve años, se ha expresado que en el 
+país no existen indicadores consensuados sobre impunidad, lo cual plantea una limitante importante para 
+la toma de decisiones sobre cómo reducirla y contrarrestarla. En consonancia con lo anterior, no se puede 
+abordar seriamente la justicia en términos de lucha contra la impunidad en el país, sin un trabajo orientado 
+a deﬁ nir, medir y sistematizar esos indicadores, tanto en el sistema de justicia, como en relación con los 
+componentes sociales y estructurales que permiten la impunidad (PDH: 2014). El trabajo que actualmente 
+desarrolla la CICIG podría aportar criterios para la construcción y deﬁ nición de esos indicadores.
+
+3.  Hagamos números de la corrupción 
+
+en Guatemala 
+
+Uno de los debates acerca del estudio de la corrupción gravita alrededor de las metodologías o fórmulas 
+que podrían ser utilizadas para estimar su costo económico. En la práctica resulta una tarea difícil, si no 
+imposible, porque se podría conceptualizar dicho costo como el valor monetario de los fondos que no 
+llegaron a su objetivo público o de desarrollo, o como el daño causado a instituciones clave que facilitan 
+la estabilidad y la inversión. También ha surgido un creciente consenso acerca del impacto negativo que 
+tiene sobre la inversión privada y, en consecuencia, el crecimiento económico. Es decir, unos niveles 
+más altos de corrupción corresponden a menor inversión y crecimiento (Quiroz: 2013).
+
+En varios países de la región se ha intentado cuantiﬁ car ese costo económico. En 2011, la Procuraduría 
+General de la Nación de Colombia estimó un costo aplicando al presupuesto de inversión del sector 
+central y las entidades territoriales el porcentaje promedio estimado (12.9%) que se debe pagar para 
+ser adjudicatario de un contrato estatal. En 2012, Transparencia por Colombia, capítulo colombiano de 
+Transparencia Internacional, estableció un monto a partir de una encuesta que abordó la percepción 
+de los empresarios sobre el valor que tendrían que pagar para ganar la adjudicación de un contrato. 
+
+19
+
+En México, a comienzos de 2015 fue publicado el reporte «Semáforo Económico Nacional, 2014», 
+que incluyó una estimación del costo de corrupción a través de un indicador del Fondo Monetario 
+Internacional según el cual, un aumento en el porcentaje de percepción de corrupción genera una 
+pérdida de 2% en el crecimiento del Producto Interno Bruto (PIB). En este último caso, se aclaró que el 
+valor estimado no implicaba el costo total de los actos de corrupción que se cometen en un país.
+
+Con los ejemplos citados y la diversidad de metodologías que podrían ser útiles para el esfuerzo de 
+cuantiﬁ cación, queda claro que no existe una fórmula exacta para calcular el costo económico de 
+la corrupción. A ello se agrega el carácter «oculto» de este ﬂ agelo social y a los múltiples actos que 
+involucra, según la cantidad de tipos penales o delitos que se contemplan en cada país (cohecho, 
+malversación, peculado, etc.). Precisamente porque no se conoce la cantidad exacta de actos de 
+corrupción que ocurren en un país, no se denuncia y castiga plenamente.
+
+Desde esta perspectiva, el siguiente análisis intenta más bien identiﬁ car algunos valores o montos 
+del presupuesto estatal guatemalteco aprobado para el 2015 que se encuentran «expuestos» a la 
+corrupción, es decir, que podrían no alcanzar los objetivos previstos debido a este ﬂ agelo. Además, se 
+reﬂ exiona sobre la pérdida si se supone que al menos el 20% de las cantidades evaluadas no alcancen 
+su propósito por causa de la corrupción.
+
+3.1  Los montos del presupuesto que pueden ser presa fácil 
+
+de la corrupción
+
+3.1.1  Los gastos de capital: el listado geográﬁ co de obras
+
+El presupuesto general de ingresos y egresos del Estado aprobado para 2015 contempla en el rubro de 
+gastos de capital un monto de Q 13,900 millones, que representa el 19.7% del presupuesto total y 2.9% 
+del PIB. Se trata del gasto destinado a la adquisición o producción de bienes materiales (construcción de 
+carreteras, ediﬁ cios, equipo tecnológico, etc.) e inmateriales y a inversión ﬁ nanciera, que incrementan el 
+activo del Estado y sirven de base para la producción de bienes y servicios. 
+
+Del monto señalado, el 24% (Q 3,364 millones) quedó asignado a la Administración Central, 
+especíﬁ camente al Ministerio de Comunicaciones, Infraestructura y Vivienda (CIV) y a otros ministerios 
+y secretarías. El restante 76% (equivalente a Q 10,536 millones) está catalogado como transferencias 
+de capital, es decir, constituido como desembolsos ﬁ nancieros destinados a la formación de capital, 
+bajo responsabilidad de municipalidades, Consejos Departamentales de Desarrollo y entes fuera del 
+sector privado.
+
+Del monto que corresponde a la Administración Central, el CIV dispone de Q 3,072 millones que son 
+administrados por la Dirección General de Caminos y la Unidad Ejecutora de Conservación Vial (Covial). 
+De ese presupuesto se utiliza el 87% (Q 2,929 millones) para la formación bruta de capital, es decir, para 
+la construcción de carreteras y cualquier otra clase de obras que se programen para el año. El 13% 
+(Q 435 millones) es invertido en equipamiento. 
+
+Del monto de transferencias de capital, se asignó a las municipalidades un total de Q 6,391 millones 
+(46%) y a los Consejos Departamentales de Desarrollo la cantidad de Q 2,051 millones (15%). El 
+restante 15% corresponde a entes fuera del sector público.
+
+El problema radica en que los gastos de capital quedan establecidos en el Programa de Inversión Física, 
+Transferencias de Capital e Inversión Financiera, conocido coloquialmente como «Listado Geográﬁ co 
+
+20
+
+de Obras», cuya elaboración contempla dos etapas: a) la técnica, a cargo de la Secretaría General de 
+Planiﬁ cación y Programación de la Presidencia, que incluye las obras para un ejercicio ﬁ scal en función 
+de las prioridades del Plan de Inversiones Públicas (PIP); y, b) la política, que corresponde a la Comisión 
+de Finanzas Públicas y Moneda (CFPM) del Congreso de la República, órgano que ejerce las facultades 
+conferidas por la legislación para dictaminar y modiﬁ car el listado, quien posteriormente lo remite al Pleno 
+para su aprobación.
+
+La exposición de los recursos públicos a la corrupción se da principalmente en la fase política, toda vez 
+que los cambios que realizan los diputados que integran la CFPM ocurren en reuniones celebradas 
+a puerta cerrada y con una opacidad enorme. Es el momento en que conﬂ uyen los intereses de los 
+legisladores para obtener una mayor porción de recursos para sus distritos, pero también para obtener 
+beneﬁ cios ilegítimos a través de la concesión de obras para sus empresas o de sus allegados (familiares, 
+ﬁ nancistas, socios, etc.). Solo los montos que en su conjunto administran el CIV, las municipalidades y 
+los Consejos Departamentales de Desarrollo (Q 11,514 millones), representan una considerable cantidad 
+de recursos públicos que pueden ser blanco de actos de corrupción.
+
+3.1.2  Rubros vulnerables en las adquisiciones públicas
+
+El presupuesto contempla varios rubros vulnerables a la corrupción en el gasto destinado a las 
+adquisiciones de la Administración Central, que se encuentran bajo la responsabilidad de los ministerios 
+y secretarías de Estado. Se pueden identiﬁ car ocho rubros que en el presupuesto vigente de 2015 
+representan Q 4,457 millones.5 El primero, «alimentos para personas» con un monto de Q 1,817 millones 
+destinado a personal civil, militar, particulares y colectividades, en instituciones tales como hospitales, 
+internados de estudiantes, detenidos en cárceles y prisiones, oﬁ cinas públicas cuando se realicen 
+trabajos durante el período de almuerzo o excedan de la jornada ordinaria, etcétera.
+
+El segundo, «productos farmacéuticos», con una asignación presupuestaria en 2015 de Q 821 millones, 
+y que comprende el suministro de productos como preparados medicinales, medicinas patentadas, 
+vitaminas y minerales, etc., proporcionados directamente por los médicos, dentistas y paramédicos a los 
+pacientes que acuden a consultas externas o por los hospitales y otros centros parecidos a los pacientes 
+que están ingresados, están incluidos en servicios de consulta externa o en servicios hospitalarios. 
+El tercer lugar los arrendamientos de ediﬁ cios, terrenos, maquinaria y equipos, así como el pago de 
+derechos sobre bienes intangibles, cuyo rubro asciende a Q 414 millones. 
+
+En cuarto lugar, «divulgación, impresión y encuadernación», que tiene asignado para 2015 un 
+total de Q 385 millones y comprende gastos realizados para difundir información oﬁ cial a través 
+de distintos medios de comunicación (radiodifusoras, televisión, cines, teatro, periódicos, revistas, 
+folletos, carteles, vallas, aﬁ ches, etc.), así como la impresión, encuadernación y reproducción de 
+publicaciones oﬁ ciales, tales como libros, folletos, entre otros. Un rubro sensible para el sector público 
+(por ejemplo, para las patrullas de la Policía Nacional Civil) es el de adquisición de combustibles, que 
+en 2015 cuenta con una asignación de Q 370 millones, e incluye la compra de productos derivados del 
+petróleo, como gasolina, aceites ligeros usados como carburantes, kerosene, aceite diésel y grasas 
+lubricantes, entre otros.
+
+Para la adquisición de abonos y fertilizantes en 2015 se presupuestó un gasto por Q 243 millones, 
+correspondiendo a uno de los principales programas del Ministerio de Agricultura, Ganadería y 
+Alimentación. También destaca el rubro «útiles menores médico quirúrgicos y de laboratorio» que 
+comprende gastos por compra de jeringas, agujas, gasas, vendajes, material de sutura, guantes para 
+
+5 
+
+Al 22 de mayo de 2015.
+
+21
+
+cirujanos, esparadrapo, alambiques, pipetas, vasos de precipitación, etcétera, todos insumos útiles para 
+el sistema hospitalario estatal, y que en 2015 tiene una asignación presupuestaria de Q 240 millones. 
+Finalmente, destaca el caso del equipo militar y de seguridad, que en 2015 tiene un presupuesto de 
+Q 167 millones para los gastos por compra de equipos, accesorios y repuestos destinados a la defensa 
+nacional y al mantenimiento del orden público.
+
+El propósito de citar estos ejemplos es mostrar rubros presupuestarios que la experiencia reciente ha 
+demostrado que son susceptibles de procedimientos irregulares por parte las unidades ejecutoras, 
+al momento de realizar o desarrollar las adquisiciones previstas para el presente ejercicio ﬁ scal. A 
+pesar de la relevancia que podrían tener estos recursos e insumos para el funcionamiento diario de 
+algunas instituciones o para la implementación de políticas públicas, ha trascendido a la opinión pública 
+denuncias que ponen de maniﬁ esto que en algunos casos las compras se han efectuado mediante 
+contravención a lo dispuesto en la Ley de Contrataciones del Estado, y no necesariamente se cumplen 
+los propósitos o resultados legítimos que motivan estos gastos.
+
+Otro ejemplo relevante, siempre en el área de adquisiciones, está constituido por la adquisición pública 
+de medicamentos, productos farmacéuticos y otros insumos hospitalarios, mediante la modalidad de 
+concurso por contrato abierto. El objeto del contrato abierto es seleccionar proveedores de bienes, 
+suministros y servicios de uso general, constante y de alta demanda, por medio de un concurso público 
+para la caliﬁ cación y adjudicación de los productos a precios ﬁ jos durante un período de tiempo, 
+facilitando así compras por volumen. Busca obtener mejores precios y estandarización de los productos 
+que hacen más económica y práctica la adquisición. Las entidades que han requerido esta modalidad 
+son el Ministerio de Salud Pública y Asistencia Social, el Instituto Guatemalteco de Seguridad Social y, en 
+cuantías menores, el Ministerio de la Defensa Nacional para el Centro Médico Militar.
+
+A mayo de 2015 se registraba en el Sistema de Adquisiciones y Contrataciones del Estado de Guatemala 
+(Guatecompras) un gasto de Q 1,434 millones para la adquisición de medicamentos e insumos 
+hospitalarios por contrato abierto. La polémica y cuestionamientos que acompañan este proceso 
+devienen de los intereses que tienen algunas empresas para mantener la hegemonía y control en estas 
+compras, así como el involucramiento de esas empresas con el ﬁ nanciamiento de partidos políticos, 
+según las conclusiones de diversas investigaciones periodísticas y del informe temático de CICIG sobre 
+el ﬁ nanciamiento de los partidos guatemaltecos.6 Resalta el dato de que a la fecha, los contratos abiertos 
+de medicamentos acumulan 80 proveedores vigentes (con al menos una adjudicación), pero tres de ellos 
+acumulan un total de Q 770 millones, es decir, más del 50% del monto total que aparece registrado en 
+Guatecompras.
+
+3.1.3  El gasto público a través de ﬁ deicomisos 
+
+Los ﬁ deicomisos públicos han sido deﬁ nidos por el Minﬁ n como los «instrumentos jurídicos creados 
+por la administración pública para cumplir con una ﬁ nalidad lícita y determinada, a efecto de fomentar 
+el desarrollo económico y social a través del manejo de los recursos públicos administrados por una 
+institución ﬁ duciaria. Asimismo, mediante el contrato de ﬁ deicomiso se da seguimiento a diversos 
+programas y proyectos estatales que persiguen el bien común». 
+
+Representan un rubro considerable del gasto público, sin embargo, su situación legal irregular (dependen 
+de disposiciones contenidas en varios cuerpos legales, y en general, de normas pertenecientes al 
+derecho privado) ha moldeado sus condiciones de funcionamiento bajo criterios de opacidad. En cuanto 
+a montos expuestos o vulnerables a corrupción, cabe indicar que diez ﬁ deicomisos ejecutados por la 
+
+6  Disponible al público en: http://www.cicig.org/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=616&cntnt01returnid=67
+
+22
+
+Administración Central representan un total de asignación presupuestaria para 2015 por un total de 
+Q 3,409 millones.7 Corresponden a: Fondo nacional para la conservación de la naturaleza (FONACON); 
+Fondo vial, Inversión para la vivienda (FIV), y Fondo Social de Solidaridad, del CIV; Fondo nacional para 
+la reactivación y modernización de la actividad agropecuaria (FONAGRO) y Fondo nacional de desarrollo 
+(FONADES), del Ministerio de Agricultura, Ganadería y Alimentación (MAGA); Fondo de protección 
+social, así como Desarrollo Social, del Ministerio de Desarrollo Social; Fondo de desarrollo indígena 
+guatemalteco (FODIGUA); y, Fondo Nacional de Ciencia y Tecnología (FONACYT).
+
+De los ﬁ deicomisos públicos indicados, cinco acumulan el 94% del presupuesto asignado para este 
+mecanismo de ejecución del gasto público (Q 3,211 millones). Estas asignaciones de gasto público 
+se consideran gravemente expuestas a la corrupción debido a que actualmente los ﬁ deicomisos 
+se caracterizan por una deﬁ ciente o nula rendición de cuentas; las diﬁ cultades para su control y 
+ﬁ scalización; las decisiones las toman los comités técnicos y ﬁ guras similares, integrados con actores 
+privados con responsabilidad y cuentadancia muy limitadas; las condiciones del contrato de ﬁ deicomiso 
+pueden cambiar sin control; se incumplen normas ﬁ nancieras y en materia de adquisiciones públicas, 
+entre otras.
+
+3.2  Algunas comparaciones con educación, salud, nutrición, 
+
+seguridad y justicia
+
+El análisis de los efectos nocivos de la corrupción permite reconocer que este ﬂ agelo distorsiona la 
+distribución de los recursos públicos, lo que ocasiona que su administración se vuelva discriminatoria 
+y arbitraria. Como consecuencia, la corrupción impacta las vidas de las personas vulnerables y en 
+condiciones de desventaja y socava sus derechos humanos porque se pueden quedar sin acceso a un 
+servicio esencial (salud, educación, nutrición, etc.), porque no pueden o se rehúsan a pagar un soborno o 
+no pertenecen a una red clientelar. En los casos más graves, como recientemente quedó en evidencia, la 
+corrupción también puede ocasionar muertes. 8
+
+Bajo esa premisa, a continuación se detalla una comparación de bienes o servicios públicos cuyo 
+costo ﬁ scal equivale al 20% de los presupuestos que en la sección anterior se consideran vulnerables 
+o expuestos a la corrupción. Este es un porcentaje indicativo, que se utiliza con ﬁ nes de análisis 
+comparativo, y cuyo uso se estima relevante para brindar una idea de los costos sociales y económicos 
+de la corrupción. Para construir esta comparación se tomó como referencia el presupuesto de ingresos 
+y egresos del Estado aprobado para el ejercicio ﬁ scal 2015, en especial lo concerniente a los ministerios 
+de Salud Pública y Asistencia Social, Gobernación, de Cultura y Deportes, de Desarrollo Social, de 
+Educación, y de Trabajo y Previsión Social.
+
+El 20% de los Q 11,514 millones que administran el CIV, las municipalidades y los Consejos 
+Departamentales de Desarrollo, efectivamente, vulnerables o que están expuestos a la corrupción, 
+equivalen a daños sociales como los siguientes:
+
+•  En materia de educación: que 2.6 millones de niños y niñas de los niveles preprimario y primario no 
+
+reciban atención en alimentación escolar, ni reciban los útiles escolares.
+
+7 
+
+8 
+
+Al 22 de mayo de 2015.
+
+Se hace referencia a la investigación realizada por la Cicig y el MP en el Instituto Guatemalteco de Seguridad Social para la 
+contratación de una empresa que prestaría servicios especializados de hemodiálisis para pacientes renales. Por las graves 
+anomalías y la corrupción en este contrato se han registrado más de una veintena de muertes de pacientes renales, en 
+tanto que todos los integrantes de la junta directiva del seguro social guardan prisión preventiva, acusados de la comisión 
+de delitos diversos.
+
+23
+
+•  En materia de protección social: que se dejen de entregar 1.2 millones aportes económicos a los 
+
+adultos mayores, y 2.9 millones aportes económicos a familias con niños y niñas menores de 5 años, 
+mujeres embarazadas o en período de lactancia, por concepto del bono seguro de salud.
+
+•  En materia de salud y nutrición: que más de cuatrocientos mil niños y niñas de 1 a 5 años no reciban 
+los refuerzos de vacunación; que 1.4 millones de niños y niñas menores de 5 años no reciban el 
+monitoreo de crecimiento; que 1.2 millones niños y niñas menores de 5 años no reciban atención 
+médica por causa de infección respiratoria aguda; y, que 1.2 millones de personas no reciban 
+atención médica por accidentes y violencia. 
+
+En el segundo caso, el 20% de Q 5,891 millones correspondientes a los rubros vulnerables a la 
+corrupción en las adquisiciones públicas y el contrato abierto de medicamentos, equivalen a los daños 
+sociales siguientes:
+
+•  En materia de educación: que veintidós mil estudiantes de nivel diversiﬁ cado con formación para 
+
+maestros dejen de ser atendidos por el sistema educativo, y que cerca de un millón de estudiantes 
+del nivel preprimario no reciban la dotación de cuadernos de trabajo para el año escolar.
+
+•  En materia de salud y nutrición: que más de quinientas mil mujeres no reciban atención prenatal 
+oportuna; que más de trescientas mil mujeres dejen de recibir atención del parto por personal 
+caliﬁ cado; que cerca de veinte mil niños y niñas menores de cinco años no reciban el diagnóstico y 
+tratamiento por la desnutrición aguda; que 1.2 millones de niñas y niños menores de cinco años no 
+reciban suplementos de micronutrientes; que se deje de brindar alimentación complementaria de 
+vitacereal a más de setecientos mil niños y niñas mayores de 6 meses pero menores de 24, madres 
+lactantes y mujeres embarazadas; y, que más de setecientos mil niños y niñas mayores de dos años 
+pero menores de cinco, no reciban tratamientos para desparasitación. También, que 7.9 millones de 
+personas dejen de ser beneﬁ ciadas con acciones de prevención, control y vigilancia de la malaria y 
+del dengue. 
+
+•  En materia de protección social: que se dejen de entregar más de cinco mil becas de educación 
+media destinadas para adolescentes y jóvenes (hombres y mujeres) en situación de riesgo y 
+vulnerabilidad social; que se dejen de brindar talleres y eventos de educación no formal a cincuenta 
+mil adolescentes y jóvenes en situación de riesgo y vulnerabilidad social; que se dejen de entregar 
+cerca de un millón de bolsas de alimentos (bolsas seguras) a familias que viven en pobreza y 
+pobreza extrema o sufren de emergencia, crisis o conﬂ ictos sociales; que se dejen de entregar 
+1.7 millones de aportes por concepto de bono seguro de educación (bono escolar) a familias con 
+niños, niñas y adolescentes de 6 a 15 años; y, que se deje de brindar atención integral en Hogares 
+Comunitarios a diecisiete mil niños y niñas de 0 a 6 años en situación de pobreza y pobreza extrema. 
+
+•  En materia de cultura y deportes: que 11.2 millones de personas dejen de ser beneﬁ ciadas con 
+
+actividades deportivas no escolares, no federadas y de recreación. 
+
+Por último, el 20% de los Q 3,409 millones que se prevén ejecutar mediante ﬁ deicomisos públicos en el 
+ejercicio ﬁ scal 2015 equivalen a los daños sociales siguientes:
+
+•  En materia de educación: que se dejen de producir y entregar cerca de trescientos mil libros 
+
+escolares para el nivel de educación primaria bilingüe intercultural; que más de cien mil estudiantes 
+del ciclo básico telesecundaria dejen de ser atendidos por el sistema escolar; y, que más de cien mil 
+docentes de los niveles pre-primario y primario dejen de recibir la valija didáctica.
+
+•  En materia de protección social: que más de tres mil adolescentes y jóvenes dejen de recibir el 
+
+beneﬁ cio de becas de educación superior, de empleo y de artesano.
+
+24
+
+•  En materia de salud y nutrición: que se deje de vacunar a más de un millón de niños y niñas 
+de 0 a 1 año, de acuerdo con su edad y el esquema de vacunación vigente; que se dejen de 
+brindar consejería sobre prácticas para el cuidado infantil a 1.3 millones de madres de niños y 
+niñas menores de 5 años; y, que 1.2 millones de personas dejen de tener acceso a métodos de 
+planiﬁ cación familiar.
+
+•  En materia de seguridad: que más de ochenta mil jóvenes dejen de participar en actividades de 
+
+prevención de la violencia, y que más de nueve mil policías dejen de recibir actividades de formación 
+y especialización. 
+
+Sin pretender defender el rigor del supuesto del 20%, este ejercicio muestra con claridad que los 
+costos ﬁ scales de la corrupción equivalen a un golpe enorme para los grupos sociales más vulnerables 
+y para garantizar la plena vigencia de los derechos humanos. El reto es que los partidos políticos 
+comiencen a delinear propuestas más profundas y de largo plazo para lograr resultados efectivos en la 
+lucha contra la corrupción.
+
+4.  Propuestas iniciales para luchar contra 
+
+la corrupción en Guatemala
+
+A criterio del Iceﬁ , para promover la transparencia y la lucha contra la corrupción en Guatemala se debe 
+considerar al menos cuatro perspectivas de análisis: legislación, institucionalidad, acceso a la información 
+pública y participación ciudadana. Estos cuatro elementos, sin embargo, deben abordarse de manera 
+integral, ya que las debilidades o falencias de uno de ellos pueden afectar en la efectividad de los demás.
+
+4.1  Ejes de trabajo a considerar
+
+4.1.1  Legislación
+
+Mediante la emisión, modiﬁ cación o derogación de leyes se interpreta y da sentido a las normas 
+constitucionales; además, se actualiza el ordenamiento jurídico ante una realidad que cambia de manera 
+permanente. Para el ejercicio de esta función, los legisladores no tienen más límites que los textos 
+constitucionales y los tratados internacionales (Solís Fallas: 1995). En ese contexto dinámico, durante los 
+últimos años se incrementó la demanda ciudadana para que la legislación nacional incluya disposiciones 
+que garanticen una gestión transparente y adecuada de los recursos públicos, pero que además 
+permitan el acceso a la información pública y el ejercicio de la auditoría social. 
+
+Los estándares internacionales asumidos por Guatemala al ratiﬁ car su incorporación como Estados Parte 
+en diversos instrumentos legales (en especial la Convención Interamericana contra la Corrupción –CICC– 
+y la Convención de las Naciones Unidas contra la Corrupción –CNUCC–), o al formalizar de manera 
+voluntaria su adhesión a iniciativas multilaterales en materia de transparencia y combate a la corrupción 
+(por ejemplo, la AGA), deben reﬂ ejarse en el marco legal interno. Naturalmente, este proceso conlleva la 
+necesidad de mantener consistencia y concordancia con la constitución y la realidad jurídica del país.
+
+Desde esta perspectiva, los principales protagonistas son los legisladores, quienes deben evidenciar 
+su voluntad política emitiendo nuevas leyes o aprobando las reformas a la legislación existente para 
+adaptarla a estándares y buenas prácticas de transparencia. En este esfuerzo legislativo se necesita 
+
+25
+
+asegurar que se respeten plenamente los propósitos originales de los instrumentos internacionales, o 
+que al menos garanticen su equivalencia en la búsqueda del cumplimiento de las ﬁ nalidades y objetivos 
+de cada compromiso internacional suscrito.
+
+En la práctica, presupone también una oportunidad para la ciudadanía y demás actores clave de la 
+sociedad, en el sentido de contar con una agenda de transparencia que se encuentre en sintonía con las 
+prioridades del país en este ámbito, acompañada de acciones efectivas de presión e incidencia ante los 
+tomadores de decisión, de manera que permitan avanzar de forma progresiva en cada uno de los tópicos 
+identiﬁ cados. Este último punto resulta crucial, porque aquellos que se beneﬁ cian de la opacidad resultan 
+ser actores política y económicamente poderosos, que buscan bloquear la adopción de decisiones en pro 
+de la transparencia.
+
+4.1.2  Institucionalidad
+
+El segundo factor de importancia está constituido por la eﬁ cacia de las instituciones responsables de 
+aplicar el marco legal vigente a través de: la ejecución del gasto público (el Minﬁ n); el control de los 
+ingresos públicos (la SAT); la promoción de la transparencia –en particular las entidades especializadas 
+del Organismo Ejecutivo y del Organismo Legislativo–; así como la auditoría y evaluación del gasto 
+público para determinar si los recursos estatales son invertidos de forma eﬁ ciente y eﬁ caz –las entidades 
+ﬁ scalizadoras superiores–. También incluye al sistema de administración de justicia –en especial, el 
+Organismo Judicial y el MP– para asegurar la persecución penal y sanción de los responsables de actos 
+de corrupción. 
+
+En el caso de la entidad ﬁ scalizadora superior, el caso de la CGC el reto es superlativo porque su 
+legislación orgánica debe estar diseñada estratégicamente para evitar la inﬂ uencia de intereses políticos, 
+económicos, o de naturaleza corporativa que puedan desnaturalizar su quehacer. De esa cuenta, su 
+cuerpo normativo debe garantizar que las autoridades superiores sean electas por mérito, capacidad 
+técnica y experiencia, de acuerdo con procedimientos de selección transparentes y abiertos al escrutinio 
+ciudadano; independencia presupuestaria y funcional; personal de apoyo idóneo que asegure una 
+carrera administrativa; cooperación interinstitucional; y, rendición de cuentas. 
+
+En cuanto a la institución especializada en la promoción de la transparencia dentro del Organismo 
+Ejecutivo (sea unipersonal o colegiada), el reto consiste en: primero, asegurar su incorporación 
+en la Ley del Organismo Ejecutivo, para terminar con la práctica que comenzó en el año 2000 de 
+concederles vigencia temporal, al prever su regulación mediante acuerdos gubernativos y con ello 
+limitar la continuidad de las políticas anticorrupción más allá de cada gestión gubernamental; además, 
+debe contemplar las facultades legales y el poder político para obligar a otras entidades del Ejecutivo a 
+seguir instrucciones y cooperar en los esfuerzos que se impulsen. En segundo lugar, se deben concretar 
+funciones que abarquen formular, coordinar y supervisar la implementación de políticas anticorrupción, 
+con énfasis en labores de prevención.
+
+4.1.3  Acceso a la información pública
+
+Es importante que la arquitectura legal atienda los principios democráticos que garantizan un régimen de 
+acceso a la información adecuado y efectivo, especíﬁ camente aquellos que sugieren los instrumentos 
+emitidos por diversos órganos de la OEA, entre los cuales destacan los Principios sobre el Derecho de 
+
+26
+
+Acceso a la Información9 y la Ley Modelo Interamericana sobre Acceso a la Información Pública.10 Al 
+respecto, el debate debería incluir: el fortalecimiento de la protección de este derecho humano; emisión 
+de leyes complementarias, (archivos y protección de datos personales); promoción de criterios para 
+mejorar la calidad del acceso a la información, en la información de oﬁ cio y la gestión de las solicitudes; 
+reforzar el entrenamiento y capacitación de los funcionarios públicos en esta materia; realizar campañas 
+para divulgar entre la población la existencia y los modos de poner en práctica el ejercicio del derecho de 
+acceso a la información.
+
+En el ámbito de las ﬁ nanzas públicas, el análisis desde esta perspectiva radica en determinar las 
+facilidades con que la ciudadanía cuenta para acceder a información ﬁ nanciera y contable, así como 
+aquella relacionada con el ciclo presupuestario (formulación, aprobación, ejecución y evaluación). Por 
+otra parte, las autoridades gubernamentales deben comunicar los objetivos que se proponen alcanzar 
+y los productos que generan con los recursos que se les confían, así como esforzarse por evaluar y 
+divulgar los resultados esperados en materia social, económica y ambiental.
+
+También comprende la obligación de innovar y fortalecer la disponibilidad de reportes a través de 
+portales de transparencia ﬁ scal y herramientas o sistemas de información ﬁ nanciera (como es el caso de 
+Sistema de Contabilidad Integrada –Sicoin–, Sistema de Gestión –Siges–. Sistema Nacional de Inversión 
+Pública –SNIP–, Portal de Gobiernos Locales, Guatecompras, etc.) que forman parte del Sistema 
+Integrado de Administración Financiera (Siaf) adoptado por la administración pública guatemalteca.11 
+También se debe asegurar la divulgación de los ocho informes que las buenas prácticas recomiendan 
+que los gobiernos hagan públicos en los diferentes momentos del ciclo presupuestario. 
+
+4.1.4  Participación ciudadana
+
+La ecuación de la transparencia ﬁ scal se valida con la creación de mecanismos que estimulen y faciliten 
+la participación de la ciudadanía en los asuntos relacionados con la gestión pública, especialmente los 
+que inﬂ uyen en la calidad de vida de las personas. Esto incluye la obligación del Estado de diseñar y 
+poner en marcha canales para que las personas puedan participar antes, durante y después de la toma 
+de decisiones. Este desafío se torna muy complejo en sociedades con un pasado reciente de guerra, 
+violencia y represión por parte de las fuerzas de seguridad del Estado. 
+
+Según Cunill (2006), una ciudadanía crítica y activa, conjuntamente con un gobierno abierto y receptivo, 
+son las dos caras de la moneda que hacen de la transparencia un medio útil para mejores decisiones y 
+servicios públicos. Aunque el Gobierno tenga una inclinación por la transparencia y la apertura hacia la 
+ciudadanía, transitar de una ciudadanía apática, desconﬁ ada y desinteresada a una ciudadanía activa, 
+protagónica, crítica y participativa requiere tiempo pero, sobre todo, un cambio cultural. 
+
+En la actualidad, las organizaciones de la sociedad civil continúan con la realización de acciones para 
+favorecer el diseño, construcción y aprobación de presupuestos participativos (con mayor énfasis en 
+el ámbito subnacional). También destacan los esfuerzos de participación activa en los mecanismos 
+de seguimiento a las convenciones internacionales anticorrupción, así como en los procesos para la 
+elaboración y seguimiento de los planes de acción que cada Estado que forma parte de la AGA se 
+
+9  Comité Jurídico Interamericano (2008). Resolución 147 del 73° Período Ordinario de Sesiones: Principios sobre el derecho de 
+acceso a la información. 7 de agosto de 2008. Punto resolutivo 1. Disponible en línea en: http://www.oas.org/cji/CJI-RES_147_
+LXXII-O-08_esp.pdf. 
+
+10  OEA, Asamblea General (2010). AG/RES. 2607 (XL-O/10), a través de la cual aprueba una Ley modelo interamericana sobre 
+acceso a la información. 8 de junio de 2010. Disponible en línea en: http://www.oas.org/dil/esp/AG-RES_2607-2010.pdf. 
+
+11  Un informe publicado por CEPAL en 2014 expone algunos casos relevantes de portales de transparencia ﬁ scal. El documento 
+
+está disponible en: http://www.cepal.org/publicaciones/xml/0/52060/Experienciasinternacionales.pdf.
+
+27
+
+compromete a implementar. Además, ha existido continuidad con otras iniciativas especializadas, por 
+ejemplo, en el ámbito de la construcción y de las industrias extractivas. 
+
+De estas experiencias se pueden extraer lecciones aprendidas para que las organizaciones sociales 
+puedan inﬂ uir de manera más efectiva y exigir que el Gobierno cumpla plenamente con sus compromisos 
+en materia de transparencia. A su vez, este análisis puede contribuir a minimizar los riesgos que pueden 
+devenir de prácticas gubernamentales cuestionables, mediante las cuales se establecen canales 
+restringidos de participación, únicamente para aparentar el cumplimiento formal de compromisos 
+internacionales, limitados en algunos casos a una función informativa, pero sin favorecer una genuina 
+consulta, retroalimentación e intercambio de visiones con la sociedad civil.
+
+4.2  Objetivos y agenda preliminar
+
+En concordancia con los cuatro ejes descritos, el Iceﬁ  considera que las autoridades que resulten electas 
+y asuman cargos públicos a partir de 2016 deberán considerar, como mínimo, los siguientes objetivos y 
+agendas preliminares para la promoción de la transparencia y el combate a la corrupción: 
+
+Objetivo 1. Garantizar el uso eﬁ ciente y transparente de los recursos públicos para incrementar la calidad 
+de vida de los guatemaltecos.
+
+Agenda preliminar. 
+
+1)  Transparentar la gestión presupuestaria, en especial aquellas fases que corresponden al Organismo 
+
+Ejecutivo, con el propósito de conﬁ gurar un efectivo sistema de información que permita a la 
+ciudadanía conocer quiénes y cómo se toman las decisiones más importantes en este ámbito, pero 
+además monitorear y comprender cómo se administran los recursos públicos.
+
+2)  Fortalecer y transparentar el régimen de adquisiciones del Estado, especialmente en áreas 
+
+estratégicas (sector construcción, medicamentos, insumos educativos, contratos abiertos, etc.), a 
+efecto de invertir de manera eﬁ ciente los recursos públicos contemplados para adquirir bienes, obras 
+y servicios que deben producir un beneﬁ cio social.
+
+3)  Fortalecer las herramientas y subsistemas que conforman el Sistema Integrado de Administración 
+
+Financiera (Sicoin, Guatecompras, Siges, SNIP, etc.), para garantizar la disponibilidad de información 
+estratégica y actualizada sobre la gestión y uso de los recursos públicos. 
+
+4)  Disminuir el uso de mecanismos paralelos de ejecución de gasto público, como el caso de 
+ejecución a través de organizaciones no gubernamentales, asociaciones y ﬁ deicomisos 
+constituidos con fondos públicos. 
+
+Objetivo 2. Asegurar la probidad de los funcionarios y empleados públicos, así como una cultura de 
+rendición de cuentas y gobierno abierto.
+
+Agenda preliminar: 
+
+1)  Modernizar el régimen de servicio civil, con el propósito de actualizar la estructura del sistema de 
+
+carrera administrativa, incorporando criterios de capacidad y mérito para la contratación, promoción, 
+permanencia y egreso de la función pública, que reduzcan los riesgos de arbitrariedad, nepotismo o 
+clientelismo en estos procesos.
+
+2)  Promover la implementación de mecanismos para el manejo de conﬂ ictos de interés, incluyendo 
+la presentación de las declaraciones de ausencia de conﬂ icto de intereses, medios para resolver 
+consultas de los servidores públicos en esta materia, y aplicación práctica de medidas para remediar 
+los conﬂ ictos de intereses detectados.
+
+28
+
+3)  Fortalecer el sistema de declaraciones juradas patrimoniales, asegurando su publicidad 
+
+y garantizando mecanismos efectivos que permitan a la CGC veriﬁ car el contenido de las 
+declaraciones a ﬁ n de establecer si existe o no enriquecimiento ilícito u otro acto constitutivo de 
+responsabilidad penal. 
+
+4)  Asegurar el cumplimiento de las normas de rendición de cuentas previstas en la Ley Orgánica del 
+
+Presupuesto, estableciendo los manuales, lineamientos y otras disposiciones técnicas que aseguren 
+la publicación de reportes comprensibles, ordenados y de fácil acceso para ejercer actividades de 
+auditoría social.
+
+Objetivo 3. Garantizar el acceso a la información pública, incluyendo políticas de datos abiertos y 
+protección de datos personales.
+
+Agenda preliminar: 
+
+1)  Asegurar la publicación de los documentos presupuestarios clave que recomiendan las buenas 
+
+prácticas internacionales, como el documento preliminar, la propuesta de presupuesto del Ejecutivo, 
+el presupuesto aprobado, el presupuesto ciudadano y el informe de medio año, entre otros. 
+
+2)  Aprovechar el uso de la tecnología para potenciar el ejercicio del derecho de acceso a la información, 
+incluyendo la innovación de portales y módulos electrónicos que contribuyan a difundir información 
+socialmente útil para la población (en materia ﬁ scal; sobre trámites y servicios administrativos; sobre 
+estadísticas; etc.). 
+
+3)  Consolidar una política pública de datos abiertos, para que la ciudadanía pueda acceder a 
+
+información pública gubernamental en formatos técnicos y legales que permitan su uso, reutilización 
+y redistribución para cualquier ﬁ n legal que se desee. 
+
+4)  Vigilar y alentar al estricto cumplimiento de la Ley de Acceso a la Información Pública, corrigiendo los 
+
+obstáculos administrativos y criterios adoptados en la práctica para bloquear o restringir el acceso a 
+la información pública, así como renovar la voluntad política para publicar y actualizar la información 
+de oﬁ cio establecida por ley. Requiere también un esfuerzo de coordinación entre la entidad 
+encargada de promover la transparencia en el Ejecutivo y la autoridad reguladora que deﬁ ne la LAIP.
+
+5)  Promover la aprobación de leyes complementarias a la Ley de Acceso a la Información Pública, 
+referidas al sistema de archivos públicos y protección de datos personales, que contribuyan a 
+garantizar la eﬁ cacia de un régimen efectivo para la protección del derecho humano de acceso a la 
+información pública en el país. 
+
+Objetivo 4. Facilitar participación ciudadana, mediante el impulso de espacios de colaboración entre 
+administración pública y sociedad civil.
+
+Agenda preliminar: 
+
+1)  Promover mecanismos abiertos e incluyentes para la participación de la sociedad civil en el diseño, 
+seguimiento y monitoreo de políticas públicas, en especial aquellas relacionadas con la prevención 
+de la corrupción. Conlleva la creación de un entorno y condiciones de conﬁ anza para estimular la 
+participación de la ciudadanía en el seguimiento de la gestión pública, ya sea antes (mecanismos 
+informativos y de consulta), durante (mecanismos de colaboración y participación directa) o después 
+(mecanismos de auditoría o control social) de la toma de decisiones.
+
+2)  Creación y fomento de mecanismos innovadores de participación ciudadana en áreas sensibles de 
+
+la gestión de las ﬁ nanzas públicas, como en el proceso de formulación presupuestaria, en el diseño, 
+
+29
+
+evaluación y mejora de trámites y servicios públicos, o en procesos estratégicos de las adquisiciones 
+públicas, entre otros.
+
+3)  Brindar continuidad a las iniciativas especializadas de transparencia en las que se posibilita la 
+
+colaboración entre actores gubernamentales y de sociedad civil, que incluyen la AGA, CoST, EITI y el 
+seguimiento a las convenciones anticorrupción de la OEA y de la ONU.
+
+4)  Renovar los esfuerzos para retomar la funcionalidad del sistema de consejos de desarrollo urbano 
+y rural, en donde el proceso de formulación de políticas parta de la base del sistema hasta el nivel 
+nacional, y del nivel nacional hacia la base, tomando en cuenta las prioridades de las comunidades 
+y las líneas y orientaciones generales de las políticas públicas de largo alcance (PNUD: 2010). 
+Además, reforzar los mecanismos de control y ﬁ scalización de la inversión pública efectuada a través 
+del sistema.
+
+5)  Fortalecer mecanismos para la atención, gestión y resolución de peticiones, denuncias, quejas, 
+sugerencias y reclamos de la ciudadanía, para efectos de evaluar acciones correctivas en los 
+servicios y trámites que brinda la administración pública, así como para poner en conocimiento 
+de las autoridades correspondientes la probable comisión de actos de corrupción, para facilitar su 
+persecución y sanción. 
+
+Objetivo 5. Lograr un marco legal actualizado, acorde con las buenas prácticas y estándares 
+internacionales en materia de transparencia.
+
+Agenda preliminar:
+
+1) 
+
+Impulsar una agenda legislativa para la promoción de la transparencia y el combate a la corrupción, 
+que atienda los estándares internacionales y recomendaciones formuladas por los mecanismos de 
+seguimiento a instrumentos jurídicos anticorrupción (en especial, las convenciones de la OEA y de 
+la ONU), y las que provienen de esfuerzos multilaterales de transparencia en los que participe el 
+Estado de Guatemala, como es el caso de la Alianza para el Gobierno Abierto. Esta agenda debería 
+considerar la revisión de las siguientes normas o temas:
+
+30
+
+Ley / Tema
+
+Ley de Servicio Civil (Decreto 
+número 1748 del Congreso 
+de la República)
+
+Ley de Contrataciones del 
+Estado (Decreto número 
+57-92 del Congreso de la 
+República)
+
+Objetivo de la legislación
+
+Actualizar la normativa fundamental de servicio civil para equipararla a 
+los derechos consagrados en la Constitución Política de la República 
+vigente, los instrumentos internacionales ratiﬁ cados por el Estado 
+guatemalteco en materia del Derecho de Trabajo y las buenas 
+prácticas internacionales que promueven la modernización de la 
+función pública. 
+
+Incorporar reformas integrales y estratégicas para la transparencia 
+ﬁ scal y el combate a la corrupción en el ámbito de las adquisiciones 
+públicas. Debe apuntar a cerrar las brechas legales que posibilitan 
+el abuso de potestades discrecionales asignadas a los funcionarios 
+responsables de realizar las compras y que han permitido o consentido 
+prácticas para defraudar al Estado.
+
+Ley de Fideicomisos Públicos Adoptar una ley especíﬁ ca para regular una ﬁ gura legal (proveniente 
+
+del ámbito mercantil) que las entidades estatales comenzaron a 
+utilizar desde hace algunos años como mecanismo paralelo de gasto 
+público. El propósito es incluir normas que brinden certeza sobre su 
+deﬁ nición y duración, el contenido de la escritura de constitución, las 
+responsabilidades y obligaciones de los sujetos que intervienen, el 
+régimen de contrataciones y adquisiciones, así como las disposiciones 
+que aseguren su control y ﬁ scalización por la CGC, entre otras.
+
+Fortalecer el sistema de declaraciones juradas patrimoniales y hacerlo 
+consistente y coherente con normas previas que han sido aprobadas 
+por el Congreso de la República (el caso más reciente, la Ley contra 
+la Corrupción). La revisión debería orientarse a: revisar el contenido a 
+incluir en las declaraciones patrimoniales para alcanzar los objetivos de 
+su presentación y revisión (detectar enriquecimiento ilícito); garantizar 
+su publicidad; reforzar las facultades de veriﬁ cación a cargo de la CGC 
+y la colaboración que deben proveer otras entidades públicas para 
+el cumplimiento de esa tarea. También esta revisión debería servir 
+para incorporar el régimen general sobre conﬂ ictos de interés en el 
+sector público, incluyendo la obligación de presentar la declaración de 
+ausencia de conﬂ ictos de interés, entre otras medidas. 
+
+Reforzar los controles de transparencia presupuestaria en función de los 
+resultados obtenidos a la fecha con la aplicación práctica de las reformas 
+aprobadas en octubre de 2013 y febrero de 2014, incluyendo nuevas 
+medidas relacionadas con la apertura y aprobación del presupuesto del 
+Estado, así como el control en la ejecución presupuestaria.
+
+Ley de Probidad y 
+Responsabilidad de 
+Funcionarios y Empleados 
+Públicos (Decreto número 
+89-2002 del Congreso 
+de la República)
+
+Ley Orgánica del Presupuesto 
+(Decreto número 101-97 del 
+Congreso de la República)
+
+31
+
+Objetivo de la legislación
+
+Fortalecer la regulación de las entidades que cumplen labores 
+de control o ﬁ scalización en el ámbito penal (MP y Organismo 
+Judicial), de seguimiento al gasto público (CGC), del control de los 
+ingresos públicos (Superintendencia de Administración Tributaria), 
+supervisión ﬁ nanciera (Superintendencia de Bancos), entre otras. 
+Atendiendo a su carácter autónomo o descentralizado, la idea es 
+revisar constantemente aquellas disposiciones que son clave para 
+evitar la inﬂ uencia de intereses políticos, económicos, o de naturaleza 
+corporativa que puedan desnaturalizar su quehacer, y asegurar 
+su efectivo funcionamiento: elección de autoridades superiores; 
+independencia presupuestaria y funcional; carrera administrativa 
+del personal de apoyo; coordinación interinstitucional; rendición de 
+cuentas, entre otras.
+
+Revisar las normas legales que conﬁ guran el marco general del 
+sistema de planiﬁ cación, partiendo de la premisa fundamental de que 
+fortalecer los nexos entre el presupuesto y la planiﬁ cación estratégica 
+contribuye a mejorar la administración de los recursos. También 
+dota al sector público de una herramienta de gestión que facilita el 
+seguimiento y evaluación de las políticas públicas (a partir de los 
+resultados e impactos de la ejecución de programas presupuestarios y 
+de la aplicación de recursos asignados a éstos).
+
+Incorporar a la legislación nacional los estándares y recomendaciones 
+de instancias como el Foro Global de Transparencia Fiscal e 
+Intercambio de Información Tributaria de la Organización para la 
+Cooperación y el Desarrollo Económicos –OCDE–, especialmente para 
+reconﬁ gurar el «secreto bancario», desde la perspectiva de facilitar el 
+acceso a información bancaria para ﬁ nes de control tributario. También 
+comprende la aprobación de los acuerdos que ha suscrito el Estado y 
+que autorizan el intercambio de información con otras administraciones 
+tributarias, como medida para combatir la evasión ﬁ scal.
+
+Complementar el marco legal existente para prevenir el lavado de 
+activos e incorporar el andamiaje jurídico necesario para apoyar el 
+combate de los «ﬂ ujos ﬁ nancieros ilícitos», especialmente aquellos que 
+provienen de la comisión de actos de corrupción y de la evasión ﬁ scal. 
+Implica reforzar la regulación de ﬁ guras como los ﬁ deicomisos, y el 
+beneﬁ ciario ﬁ nal, entre otros mecanismos.
+
+Complementar los esfuerzos impulsados para reformar la Ley Electoral 
+y de Partidos Políticos, pero desde la perspectiva de quienes hacen 
+negocios con el Estado. Por ejemplo, se precisa romper los nexos 
+entre el ﬁ nanciamiento de partidos políticos y quienes realizan 
+contratos con el Estado.
+
+Ley / Tema
+
+Leyes orgánicas de entes 
+contralores o ﬁ scalizadores
+
+Disposiciones para 
+fortalecimiento del sistema de 
+planiﬁ cación y vinculación con 
+el presupuesto por resultados
+
+Disposiciones sobre 
+transparencia tributaria y 
+contra la evasión ﬁ scal 
+
+Disposiciones sobre lavado 
+de dinero y otros activos
+
+Disposiciones sobre 
+ﬁ nanciamiento de los partidos 
+políticos 
+
+32
+
+Ley / Tema
+
+Disposiciones sobre 
+transparencia en el sector 
+privado
+
+Objetivo de la legislación
+
+Incorporar normas que prevén las convenciones internacionales sobre 
+la responsabilidad del sector privado en el combate a la corrupción. Por 
+ejemplo, regular mecanismos de cooperación entre el sector privado 
+y los organismos encargados de hacer cumplir la ley como factor 
+preventivo y disuasivo de la comisión de actos de corrupción; promover 
+medidas relativas a la identidad de las personas jurídicas y naturales 
+involucradas en el establecimiento y la gestión de empresas; prevenir 
+los conﬂ ictos de intereses imponiendo restricciones apropiadas, 
+durante un período razonable, a las actividades profesionales de ex 
+funcionarios públicos o a la contratación de funcionarios públicos en 
+el sector privado tras su renuncia o jubilación cuando esas actividades 
+o esa contratación estén directamente relacionadas con las funciones 
+desempeñadas o supervisadas por esos funcionarios públicos durante 
+su permanencia en el cargo; velar por que las empresas privadas, 
+teniendo en cuenta su estructura y tamaño, dispongan de suﬁ cientes 
+controles contables internos para ayudar a prevenir y detectar los 
+actos de corrupción y porque las cuentas y los estados ﬁ nancieros 
+requeridos de esas empresas privadas estén sujetos a procedimientos 
+apropiados de auditoría y certiﬁ cación.
+
+2) 
+
+Impulsar acciones para generar conciencia social sobre la importancia de la cultura de legalidad, 
+entendida como el «conjunto de valores, percepciones y actitudes que el individuo tiene hacia las 
+leyes y las instituciones», para reforzar la idea sobre la responsabilidad compartida que debemos 
+tener de respetar el Estado de Derecho.
+
+Objetivo 6. Establecer una institucionalidad pública moderna encargada de promover la transparencia y 
+el combate a la corrupción.
+
+Agenda preliminar:
+
+1) 
+
+Incorporar la dependencia presidencial de transparencia (unipersonal o colegiada) en la Ley del 
+Organismo Ejecutivo, ﬁ jando sus atribuciones desde una perspectiva de prevención de la corrupción 
+y sujetarla a mecanismos de auditoría social. El propósito es romper la inercia de duración temporal 
+(no más de 4 años) y de su vulnerabilidad normativa, al ser regulada desde el 2000 mediante 
+Acuerdos Gubernativos. 
+
+2)  Asegurar los mecanismos idóneos y efectivos para desarrollar acciones de coordinación 
+
+interinstitucional en esfuerzos anticorrupción y de promoción de la transparencia, en especial con las 
+entidades de control o ﬁ scalizadoras que contribuyen a la detección y persecución de la corrupción, 
+así como la autoridad reguladora en materia de acceso a la información. 
+
+3)  Fortalecer el rol de las unidades de auditoría interna, como dependencias que pueden tener un papel 
+protagónico en la prevención de los actos de corrupción, y para superar la debilidad en las tareas de 
+formación y capacitación de los responsables de estas dependencias.
+
+33
+
+Objetivo 7. Incorporar el análisis de la responsabilidad del sector privado en los esfuerzos de la lucha 
+contra la corrupción.
+
+Agenda preliminar:
+
+1) 
+
+Impulsar la regulación del secreto bancario para ﬁ nes de control tributario, de conformidad con los 
+compromisos que asumió el Estado de Guatemala ante el Foro Global de Transparencia Fiscal 
+e Intercambio de Información Tributaria de la OCDE, en el marco de la lucha contra la evasión y 
+elusión ﬁ scal.
+
+2)  Promover el debate sobre la responsabilidad del sector privado en la lucha contra la corrupción, 
+
+incluyendo la necesidad de promoción de la ética en los negocios como elemento de la 
+responsabilidad social empresarial, así como otros elementos sugeridos por la convención 
+anticorrupción de la ONU.
+
+Objetivo 8. Promover la elaboración, discusión, aprobación e implementación de la política nacional de 
+transparencia, combate a la corrupción y gobierno abierto.
+
+Agenda preliminar:
+
+1)  Asegurar un proceso participativo para elaborar durante el primer año de gobierno la política 
+
+nacional de transparencia, combate a la corrupción y gobierno abierto, que permita planiﬁ car y 
+articular las estrategias priorizadas en esta materia durante un plazo deﬁ nido, pero además que 
+asigne responsables, deﬁ na metas, indicadores y medios de veriﬁ cación, así como una estimación 
+presupuestaria para alcanzar los objetivos propuestos.
+
+Aunque no existe un modelo estándar para la elaboración de una política nacional de transparencia, 
+la experiencia comparada permite identiﬁ car una estructura de contenido en la siguiente línea:
+
+a.  Diagnóstico (para identiﬁ car el conjunto sistemático de situaciones –espacios, procedimientos 
+o procesos– que por sus características pueden originar prácticas de corrupción, así como una 
+aproximación al conjunto de actividades para evitar y reducir sus efectos).
+
+b.  Objetivos (general y especíﬁ cos), estrategias (directrices que ayudan a elegir las acciones 
+
+adecuadas para alcanzar las metas que se formulen) y acciones (medidas concretas planteadas 
+en respuesta a los riesgos y problemas identiﬁ cados en el diagnóstico).
+
+c.  Metas (establecimiento de la magnitud o grado de realización de un objetivo, en un plazo 
+
+determinado, incluyendo responsables y recursos técnicos, humanos y ﬁ nancieros), indicadores 
+(instrumentos que permiten evaluar de forma cuantitativa o cualitativa la implementación de 
+procesos) y medios de veriﬁ cación. 
+
+d.  Seguimiento, monitoreo y evaluación (para identiﬁ car el desempeño de las entidades 
+
+responsables de cumplir la política, retroalimentar el proceso de planiﬁ cación y adoptar 
+decisiones estratégicas y operativas encaminadas a asegurar el logro efectivo de los objetivos 
+y metas).
+
+2)  Divulgar e informar periódicamente sobre los avances en el cumplimiento de la política nacional de 
+
+política nacional de transparencia, combate a la corrupción y gobierno abierto.
+
+34
+
+ 
+5.  Los ofrecimientos de los partidos políticos 
+
+para luchar contra la corrupción 
+
+En el contexto de los procesos electorales, los partidos políticos suelen hacer promesas de campaña 
+como sinónimo de los planes de trabajo que implementarán en caso de resultar electos, pero es 
+cuestionable lo poco que dicen sobre cómo dichas propuestas se convertirán en políticas públicas o 
+legislación. El proceso de consolidación democrática y de madurez de la ciudadanía, ha obligado a que 
+los partidos políticos intenten dar respuesta a este cuestionamiento a través de la presentación de planes 
+de gobierno. Estos documentos deben aportar alguna idea sobre las prioridades programáticas de los 
+partidos y, en el mejor de los casos, sobre cómo se llevarán a la práctica.
+
+En el proceso electoral 2015 en Guatemala, el Iceﬁ  ha decidido implementar una estrategia de acción 
+e incidencia ciudadana, con el objetivo de contribuir a la creación de espacios de diálogo y debate 
+sobre la ﬁ scalidad pública como una forma de evaluar y caliﬁ car la oferta electoral. Para el efecto, se ha 
+desarrollado un proceso para recopilar y analizar los programas de gobierno disponibles, que al 20 de 
+julio de 2015 son los siguientes: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+«Plan Nacional del Pueblo 2016-2020» de Libertad Democrática Renovada (Líder)
+
+«ABC de la Dignidad» del Partido Republicano Institucional (PRI)
+
+«Plan de Gobierno: ¡Cambiemos Guatemala YA!» del Partido Todos; y, 
+
+«Programa político de Frente Amplio» de los partidos Unidad Revolucionaria Nacional Guatemalteca 
+(URNG-Maíz) y el Movimiento político Winaq. 
+
+A criterio del Iceﬁ , la transparencia constituye un elemento esencial de la política ﬁ scal, toda vez que 
+la población necesita garantías de que los recursos públicos que provee a través del pago de sus 
+impuestos, serán administrados de forma correcta para alcanzar los objetivos del Estado, especialmente 
+la consecución del bien común. En atención a las circunstancias sociales y políticas que atraviesa 
+Guatemala, la demanda por transparencia se ha convertido en un tema central de la campaña política y 
+de quienes aspiran a cargos de elección popular. 
+
+Es frecuente en este periodo escuchar a los candidatos prometiendo administraciones transparentes en 
+caso de que obtengan el voto favorable de la población, y asegurar que su gestión se caracterizará por la 
+lucha frontal contra la corrupción. Bajo esta premisa, se han analizado los planes de gobierno disponibles 
+a la fecha, con la idea de identiﬁ car los compromisos concretos que en materia de transparencia están 
+expresando los partidos políticos en contienda dentro de su plataforma programática.
+
+Algunas particularidades sobre la temática de transparencia y combate a la corrupción contenidos en los 
+cuatro planes de trabajo analizados son:
+
+«Plan Nacional del Pueblo 2016-2020» de Libertad Democrática Renovada (Lider)
+
+•  Se aborda de manera expresa en dos áreas: en el de seguridad económica, ﬁ nanciera y geopolítica 
+(política ﬁ scal), así como en el de seguridad democrática, justicia y Estado (política de seguridad 
+y justicia).
+
+• 
+
+La propuesta de política ﬁ scal incorpora una «estrategia de transparencia y combate a la corrupción» 
+con dos objetivos: apuntar a una utilización honesta, responsable y apropiada de los recursos 
+públicos, y garantizar el derecho de acceso a la información pública.
+
+35
+
+•  Dentro de las acciones se incluyen medidas preventivas y correctivas. En las primeras destaca el 
+
+compromiso de reforzar los controles internos de las instituciones públicas y la creación del instituto 
+de auditores internos. En las acciones correctivas expresan que será reforzada la dependencia de 
+transparencia en la Vicepresidencia de la República y que conformarán cinco equipos de trabajo 
+interinstitucionales.
+
+• 
+
+La política de seguridad y justicia contempla una «estrategia de transparencia y anticorrupción», 
+dentro de las que destacan acciones para fomentar la cultura de participación ciudadana, e incluye la 
+promoción de un código de ética para funcionarios.
+
+•  Algunos elementos de transparencia ﬁ scal están incluidos en el componente de política ﬁ scal, pero 
+de manera dispersa, enfocados en promover una ejecución transparente en materia presupuestaria 
+(gestión por resultados; que todo gasto esté justiﬁ cado y documentado; propiciar uso racional del 
+gasto; impulsar cambios legales necesarios para estos objetivos).
+
+«ABC de la Dignidad» del Partido Republicano Institucional (PRI)
+
+•  Se limita a expresar el deseo de instalar un gobierno «no solamente probo, sino transparente y 
+
+eﬁ caz». También se aﬁ rma que el candidato está «ﬁ rmemente decidido a establecer la obligación de 
+todos los funcionarios de entregar cuentas transparentes».
+
+•  En materia institucional, se limita a expresar que la CGC y el MP serán «vigiladas» para que 
+
+cumplan con sus obligaciones, pese a que ambas son entidades que gozan de autonomía como los 
+principales órganos de control.
+
+•  En materia de legislación, de forma aislada se indica que para lograr que se practique la 
+
+transparencia es «indispensable establecer una Ley del Servicio Civil», pero no profundiza ni 
+complementa esta idea. 
+
+«Plan de Gobierno: ¡Cambiemos Guatemala YA!» del Partido Todos 
+
+•  El eje «la reforma del Estado para rescatar las instituciones» incluye un apartado de «reforma contra 
+la corrupción» que contempla modiﬁ caciones al marco normativo tendientes a mejorar la eﬁ ciencia 
+en los procesos de contratación pública; reformar el sistema de declaraciones patrimoniales y 
+prevenir conﬂ ictos de interés de los funcionarios públicos; y, regular los ﬁ deicomisos públicos y 
+fondos sociales. 
+
+•  El eje de «un gobierno al servicio de la gente» contempla promover una «gestión pública proba» 
+a partir de dos pilares: aplicar una política de tolerancia cero y lucha frontal contra la corrupción, 
+y priorizar el uso eﬁ ciente de los recursos estatales. Para el efecto proponen crear una Secretaría 
+Nacional contra la Corrupción; el rescate institucional de la SAT; el control en puertos, aeropuertos y 
+pasos fronterizos; la ﬁ scalización de ﬁ deicomisos y organizaciones no gubernamentales que ejecuten 
+fondos públicos.
+
+•  También prevén esfuerzos para «recuperar la gobernabilidad presupuestaria» a través de: priorizar 
+el gasto público; eliminar gradualmente los ingresos con destino especíﬁ co; monitorear los pasivos 
+contingentes y las deudas por pagar de las instituciones; evitar los incrementos injustiﬁ cados del 
+costo de la planilla del sector público; reencauzar programas asistencialistas que no han demostrado 
+ser efectivos; impulsar la gestión por resultados; además, impulsar reformas que restrinjan el uso y 
+contratación de nueva deuda pública. 
+
+•  En materia de participación ciudadana, plantean utilizar mecanismos centrados en tres ámbitos: 
+
+primero, el ámbito de institucionalización del diálogo; segundo, el ámbito del Sistema de Consejos 
+
+36
+
+de Desarrollo Urbano y Rural; y, tercero, el ámbito de la auditoría social en el combate contra 
+la corrupción. Señalan que abarca un esfuerzo para facilitar a la sociedad civil las herramientas 
+necesarias para que esta ejerza su rol de auditoría social. 
+
+•  En cuanto a coordinación interinstitucional, contemplan acopiar la información que surja de las 
+
+actividades de auditoría social; vigilar y estandarizar los mecanismos de cumplimiento de la LAIP 
+por parte de las instituciones del Estado; y, trasladar los hallazgos y denuncias pertinentes a las 
+entidades de control (CGC y MP), así como darle seguimiento a las mismas. 
+
+«Programa político de Frente Amplio» de los partidos Unidad Revolucionaria Nacional Guatemalteca 
+(URNG-Maíz) y el Movimiento político Winaq 
+
+•  En el eje «La seguridad democrática constituye un eje fundamental de la Plataforma política. 
+
+Seguridad democrática como esfuerzo de todos», se asume el compromiso de apoyar con todos 
+los recursos al Ministerio Público, así como a la labor de la Cicig, tomando en cuenta la importancia 
+que reviste el papel que juega en la lucha contra la impunidad y la corrupción. Se habla también de 
+impulsar una estrategia coordinada para la identiﬁ cación y persecución de la riqueza ilícita, a través 
+de la Intendencia de Veriﬁ cación Especial y de la SAT.
+
+•  En el eje «Construcción de territorios democráticos y sustentables de soberanía como lugar de vida, 
+productividad y manejo de los bienes naturales», hablan de impulsar la nueva política integral de 
+descentralización participativa y de desarrollo comunitario y municipal orientada hacia el bienestar de 
+la población, deﬁ niendo en cada territorio las políticas públicas y sociales producto de la participación 
+social y comunitaria.
+
+•  En el eje «Política Fiscal como fuente económica para el desarrollo humano y social» se 
+
+comprometen a promover la racionalización en el uso de los recursos públicos, garantizando con ello 
+la eﬁ ciencia, productividad y calidad del gasto público.
+
+En términos globales, los partidos políticos TODOS y LIDER muestran un mayor desarrollo explicativo 
+en cuanto a: garantizar el uso eﬁ ciente y transparente de los recursos públicos, asegurar la probidad 
+de los funcionarios y empleados públicos, y rendición de cuentas, garantizar y promover el acceso a la 
+información pública, facilitar la participación ciudadana para contribuir a prevenir la corrupción, lograr 
+un marco legal acorde con estándares internacionales de transparencia y establecer institucionalidad 
+pública moderna para promover la transparencia. 
+
+En materia institucional para la promoción de la transparencia en el Organismo Ejecutivo, Lider indica 
+que se reforzará la dependencia que actualmente existe en la Vicepresidencia de la República (hoy 
+la Comisión Presidencial de Transparencia y Gobierno Electrónico –COPRET–) y la conformación de 
+cinco equipos de trabajo interinstitucionales. Por su parte, TODOS plantea establecer un Consejo y la 
+Secretaría Nacional de Combate a la Corrupción. Los planes de gobierno del PRI y del Frente Amplio no 
+mencionan nada al respecto.
+
+Por su parte, las propuestas programáticas del PRI y del Frente Amplio son las más débiles porque 
+únicamente expresan algunos objetivos, mediante enunciados ampliamente generales, pero no incluyen 
+ni propuestas ni metas. En lo que sí coinciden los cuatro planes analizados es que no incorporan ninguna 
+mención sobre la responsabilidad del sector privado en la lucha contra la corrupción, ni un compromiso 
+concreto para promover una política nacional de transparencia y combate a la corrupción.
+
+Como se aprecia en el cuadro siguiente, los resultados hasta el momento no resultan alentadores: 
+prevalecen los compromisos retóricos a favor de la transparencia; identiﬁ can algunos temas que 
+interesan a la población (a modo de lineamientos estratégicos), pero no profundizan sobre cómo 
+
+37
+
+enfrentarán esta tarea; además, evaden la inclusión de metas, actividades e indicadores que 
+permitirían contrastar en el tiempo si los compromisos expuestos por el partido político 
+se alcanzarán o no.
+
+Al considerar que probablemente participen catorce binomios presidenciales, causa preocupación que a 
+la fecha solo estén disponibles cuatro planes de gobierno. La expectativa sería que durante las próximas 
+semanas se conozcan las demás ofertas programáticas, con el objeto de permitir a la ciudadanía analizar 
+y valorar cada una de ellas para emitir un voto consciente e informado.
+
+E
+T
+N
+E
+R
+F
+
+I
+
+O
+L
+P
+M
+A
+
+S
+O
+D
+O
+T
+
+I
+
+R
+P
+
+R
+E
+D
+L
+
+I
+
+¿Especiﬁ có metas?
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+¿Presentó propuesta?
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+¿Se menciona?
+
+✓
+
+✘
+
+✘
+
+✓
+
+✘
+
+✓
+
+✘
+
+✘
+
+¿Especiﬁ có metas?
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+¿Presentó propuesta?
+
+¿Se menciona?
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✘
+
+✘
+
+✘
+
+✘
+
+¿Especiﬁ có metas?
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+¿Presentó propuesta?
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+¿Se menciona?
+
+✓
+
+✓
+
+✘
+
+✘
+
+✓
+
+✓
+
+✘
+
+✘
+
+¿Especiﬁ có metas?
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+✘
+
+¿Presentó propuesta?
+
+¿Se menciona?
+
+s
+o
+v
+i
+t
+e
+j
+b
+o
+e
+d
+n
+ó
+i
+c
+p
+i
+r
+c
+s
+e
+D
+
+✘
+
+✓
+
+e
+d
+
+e
+
+t
+
+n
+e
+r
+a
+p
+s
+n
+a
+r
+t
+
+y
+e
+t
+n
+e
+c
+ﬁ 
+e
+
+i
+
+o
+s
+u
+
+l
+
+e
+r
+a
+z
+i
+t
+n
+a
+r
+a
+G
+
+s
+o
+c
+
+i
+l
+
+b
+ú
+p
+s
+o
+s
+r
+u
+c
+e
+r
+
+s
+o
+
+l
+
+✓
+
+✓
+
+s
+a
+
+t
+
+n
+e
+u
+c
+e
+d
+n
+ó
+c
+d
+n
+e
+r
+a
+
+i
+
+i
+
+l
+
+y
+
+,
+s
+o
+c
+
+i
+l
+
+b
+ú
+p
+s
+o
+d
+a
+e
+p
+m
+e
+
+l
+
+y
+
+s
+o
+i
+r
+a
+n
+o
+c
+n
+u
+f
+
+i
+
+s
+o
+
+l
+
+e
+d
+
+i
+
+d
+a
+d
+b
+o
+r
+p
+
+a
+
+l
+
+r
+a
+r
+u
+g
+e
+s
+A
+
+✘
+
+✓
+
+✓
+
+✓
+
+✘
+
+✓
+
+✓
+
+✓
+
+✘
+
+✘
+
+✘
+
+✘
+
+s
+e
+r
+a
+d
+n
+á
+t
+s
+e
+
+n
+o
+c
+
+e
+d
+r
+o
+c
+a
+
+l
+
+a
+g
+e
+
+l
+
+o
+c
+r
+a
+m
+n
+u
+
+r
+a
+r
+g
+o
+L
+
+i
+
+n
+ó
+c
+p
+u
+r
+r
+o
+c
+a
+
+l
+
+r
+i
+n
+e
+v
+e
+r
+p
+
+a
+
+r
+i
+u
+b
+i
+r
+t
+n
+o
+c
+
+i
+
+a
+c
+n
+e
+r
+a
+p
+s
+n
+a
+r
+t
+e
+d
+
+l
+
+i
+
+s
+e
+a
+n
+o
+c
+a
+n
+r
+e
+t
+n
+
+i
+
+a
+n
+r
+e
+d
+o
+m
+a
+c
+
+i
+l
+
+b
+ú
+p
+
+d
+a
+d
+
+i
+l
+
+i
+
+a
+n
+o
+c
+u
+t
+i
+t
+s
+n
+
+i
+
+l
+
+r
+e
+c
+e
+b
+a
+t
+s
+E
+
+i
+
+a
+c
+n
+e
+r
+a
+p
+s
+n
+a
+r
+t
+
+a
+
+l
+
+r
+e
+v
+o
+m
+o
+r
+p
+
+a
+r
+a
+p
+
+r
+o
+t
+c
+e
+s
+
+l
+
+e
+d
+
+d
+a
+d
+
+i
+l
+i
+
+b
+a
+s
+n
+o
+p
+s
+e
+r
+
+a
+
+l
+
+r
+a
+r
+o
+p
+r
+o
+c
+n
+I
+
+i
+
+n
+ó
+c
+p
+u
+r
+r
+o
+c
+
+a
+
+l
+
+a
+r
+t
+n
+o
+c
+
+a
+h
+c
+u
+
+l
+
+a
+
+l
+
+n
+e
+
+o
+d
+a
+v
+i
+r
+p
+
+,
+
+i
+
+a
+c
+n
+e
+r
+a
+p
+s
+n
+a
+r
+t
+
+e
+d
+
+l
+
+a
+n
+o
+c
+a
+n
+
+i
+
+a
+c
+i
+t
+í
+l
+o
+p
+
+r
+e
+v
+o
+m
+o
+r
+P
+
+o
+
+t
+r
+e
+b
+a
+
+i
+
+o
+n
+r
+e
+b
+o
+g
+
+i
+
+y
+
+i
+
+n
+ó
+c
+p
+u
+r
+r
+o
+c
+
+a
+
+l
+
+a
+e
+t
+a
+b
+m
+o
+c
+
+a
+r
+a
+p
+
+a
+n
+a
+d
+a
+d
+u
+c
+
+i
+
+i
+
+n
+ó
+c
+a
+p
+c
+i
+t
+r
+a
+p
+
+i
+
+a
+
+l
+
+r
+a
+t
+i
+l
+i
+
+c
+a
+F
+
+a
+
+l
+
+a
+
+o
+s
+e
+c
+c
+a
+
+l
+
+e
+r
+e
+v
+o
+m
+o
+r
+p
+
+y
+
+r
+a
+z
+i
+t
+n
+a
+r
+a
+G
+
+a
+c
+
+i
+l
+
+i
+
+b
+ú
+p
+n
+ó
+c
+a
+m
+r
+o
+f
+n
+
+i
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.  Bibliografía
+
+Arcila Niño, O. (2000). Aproximación teórica y metodológica para estudiar el fenómeno de la corrupción. 
+En: Riesgos de corrupción en la administración pública. Estudio de casos. Colombia: Departamento 
+Administrativo de la Función Pública.
+
+U4 Anti-Corruption Resource Centre (2009). Arreglos institucionales para la prevención de corrupción: 
+consideraciones para la implementación del artículo 6 de la Convención de las Naciones Unidas contra la 
+Corrupción. Bergen, Noruega.
+
+Bacigalupo, S. y Jesús L. (2013). Responsabilidad penal y administrativa de las personas jurídicas 
+en delitos relacionados con la corrupción. España: Fundación Internacional y para Iberoamérica de 
+Administración y Políticas Públicas.
+
+Banco Interamericano de Desarrollo (2009). Propuesta del plan de acción para el apoyo a los países 
+en sus esfuerzos por combatir la corrupción y fomentar la transparencia. Washington, D.C.: División de 
+Capacidad del Estado.
+
+Buscaglia, E. y van Dijk, J. (2003). Controlling organized crime and corruption in the public sector. En: 
+ONUDD. Forum on Crime and Society. Viena, Austria.
+
+Castillo, N. (2012). Deﬁ ciencias de las denuncias e informes de la Contraloría General de Cuentas por 
+ilícitos contra el patrimonio público nacional, que diﬁ cultan la investigación penal a cargo de la Fiscalía 
+contra la Corrupción y vulneran los principios de celeridad y economía procesal. Trabajo de tesis, 
+Guatemala. 
+
+Centro Global para el Desarrollo y la Democracia (2014). Prevención y Gestión de Riesgos de 
+Corrupción para el sector público en América Latina. Perú. 
+
+Cepal (2012). Panorama de la gestión pública en América Latina. En la hora de la igualdad. Santiago de 
+Chile: Cepal.
+
+CIPPEC (2014). La vinculación entre la planiﬁ cación y el presupuesto. Recomendaciones para su 
+implementación. Documento de trabajo No. 119. Buenos Aires, Argentina. 
+
+Comisión Europea (2014). Detección de conﬂ ictos de intereses en los procedimientos de contratación 
+pública en el marco de las acciones estructurales. Guía práctica para los responsables de la gestión. 
+Bruselas, Bélgica. 
+
+Comisión de Alto Nivel Anticorrupción (2014). Lineamientos para la elaboración de planes anticorrupción. 
+Lima, Perú.
+
+Concha, G. y A. Naser (2012). El desafío hacia el gobierno abierto en la hora de la igualdad. Instituto 
+Latinoamericano y del Caribe de Planiﬁ cación Económica y Social, Chile: Cepal.
+
+Cooper, T. (1982). The Responsible Administrator. Estados Unidos: Kennicat Press Corporation.
+
+Consejo Internacional de Políticas de Derechos Humanos (2011). La integración de los derechos 
+humanos en la agenda de combate a la corrupción: retos, posibilidades y oportunidades. Ginebra, Suiza.
+
+Consejo para la Transparencia (2012). Evaluación de la transparencia. Estado del arte de los 
+indicadores. Santiago de Chile.
+
+39
+
+Cunill Grau, N. (2006). La transparencia en la gestión pública: ¿cómo construirle viabilidad? En: Estado, 
+gobierno, gestión pública. Santiago de Chile: Revista Chilena de Administración Pública.
+
+Fundación Ecología y Desarrollo (2013). Programas y políticas públicas para la prevención de la 
+corrupción en el ámbito privado. Buenas prácticas en América Latina y la Unión Europea. España: 
+Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas.
+
+Gobierno de Argentina (2009). Ética, transparencia y lucha contra la corrupción en la administración 
+pública: manual para el ejercicio de la función pública. Buenos Aires: Oﬁ cina Anticorrupción, Ministerio de 
+Justicia y Derechos Humanos de la Nación. 
+
+Gobierno de Argentina (2009). Conﬂ ictos de intereses: disyuntivas entre lo público y lo privado y 
+prevención de la corrupción. Buenos Aires: Oﬁ cina Anticorrupción, Ministerio de Justicia y Derechos 
+Humanos de la Nación. 
+
+Gobierno de Colombia (2000). Aproximación teórica y práctica al estudio e identiﬁ cación de riesgos de 
+corrupción. Colombia: Dirección General de Políticas de Administración Pública.
+
+Gobierno de Colombia (2013). Estrategias para la construcción del Plan Anticorrupción y de Atención al 
+Ciudadano. Colombia: Secretaría de Transparencia.
+
+Gonzáles Llaca, E. (2005). Corrupción: patología colectiva. México: Instituto Nacional de 
+Administración Pública.
+
+IBP (2011). Guía para la transparencia en las ﬁ nanzas públicas: buscar más allá del presupuesto central. 
+Washington, D.C.
+
+Klitgaard, Robert (1984). Prevención de la corrupción en el servicio público: un enfoque internacional. 
+México: Instituto Nacional de Administración Pública.
+
+Mendel, T. (2009). El derecho a la información en América Latina: comparación jurídica. Quito, 
+Ecuador: Unesco.
+
+Mezones, F. (editor) (2006). Transparencia en la gestión pública: ideas y experiencias para su viabilidad. 
+Ciudad de Guatemala, Guatemala.
+
+ONUDD (2004). UN Anti-Corruption Toolkit. The Global Programme Against Corruption, 3rd Edition. 
+Viena, Austria.
+
+ONUDD (2007). Guía legislativa para la aplicación de la Convención de las Naciones Unidas contra la 
+Corrupción. Departamento para Asuntos de Tratados, Viena, Austria.
+
+ONUDD (2010). Guía técnica de la Convención de las Naciones Unidas contra la Corrupción. 
+Departamento para Asuntos de Tratados, Viena, Austria.
+
+ONUDD (2012). Hacia una primera reﬂ exión sobre políticas anticorrupción: algunos insumos para la 
+implementación de la Convención de las Naciones Unidas contra la Corrupción desde la experiencia de 
+América Latina. Panamá. 
+
+Pacheco, Paula y Juan F. López (2006) Participación ciudadana y calidad de las políticas sociales. 
+Santiago de Chile.
+
+PNUD (2010). Consejos de desarrollo y participación ciudadana en Guatemala (1985-2009). Cuadernos 
+de Desarrollo Humano, Guatemala.
+
+40
+
+PNUD (2011) Programas Anticorrupción en América Latina y el Caribe. Estudio Sobre Tendencias 
+Anticorrupción y Proyectos del PNUD. Panamá. 
+
+Pontiﬁ cia Universidad Católica del Perú (2012). Estudios críticos sobre los delitos de corrupción de 
+funcionarios en Perú. Instituto de Democracia y Derechos Humanos, Perú. 
+
+Procurador de los Derechos Humanos (2014). Nota conceptual: el problema de la falta de indicadores de 
+impunidad en Guatemala. Guatemala: Dirección de Investigación en Derechos Humanos.
+
+Quiroz, A. (2013) Historia de la corrupción en el Perú. Lima, Perú: Instituto de Estudios Peruanos e 
+Instituto de Defensa Legal.
+
+Relatoría Especial para la Libertad de Expresión (2011). El derecho de acceso a la información en las 
+Américas: documentos básicos. Washington, D.C.: Comisión Interamericana de Derechos Humanos. 
+
+Relatoría Especial para la Libertad de Expresión (2015). El derecho de acceso a la información en las 
+Américas: entidades especializadas para la supervisión y cumplimiento. Washington, D.C.: Comisión 
+Interamericana de Derechos Humanos. 
+
+Solís Fallas, A. (1995). El control parlamentario. San José, Costa Rica: Asamblea Legislativa. 
+
+Tortosa, José María (1994). Corrupción. Icaria editorial. Madrid, España.
+
+Transparencia Internacional (2009). Guía de lenguaje claro sobre lucha contra la corrupción. 
+Berlín, Alemania.
+
+Transparencia Internacional (2011) Índice de Fuentes de Soborno.
+
+Transparencia Internacional (2014) Índice de Percepción de la Corrupción.
+
+USAID (2004). La corrupción en América Latina: estudio analítico basado en una revisión bibliográﬁ ca y 
+entrevistas. Oﬁ cina de América Latina y el Caribe, Estados Unidos.<
+
+41
+
+

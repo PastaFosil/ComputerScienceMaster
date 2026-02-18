@@ -1,0 +1,3873 @@
+Metodología para el 
+Diagnóstico, Prevención y 
+Control de la Corrupción 
+en Programas de 
+Seguridad Ciudadana
+
+Mauricio García Mejía
+
+Banco 
+Interamericano de 
+Desarrollo
+
+Sector de Capacidad 
+Institucional y 
+Finanzas
+
+DOCUMENTO DE DEBATE
+
+#
+
+IDB-DP-117
+
+Noviembre 2010
+
+Metodología para el 
+Diagnóstico, Prevención y 
+Control de la Corrupción 
+en Programas de 
+Seguridad Ciudadana
+
+Mauricio García Mejía
+
+Banco Interamericano de Desarrollo
+
+2010
+
+http://www.iadb.org
+
+Los “Documentos de debate” y las presentaciones son preparados por funcionarios del Banco y otros 
+profesionales como material de apoyo para eventos. Suelen producirse en plazos muy breves de 
+publicación y no se someten a una edición o revisión formal. La información y las opiniones que se 
+presentan en estas publicaciones son exclusivamente de los autores y no expresan ni implican el aval del 
+Banco Interamericano de Desarrollo, de su Directorio Ejecutivo ni de los países que representan. 
+
+Este documento puede reproducirse libremente.
+
+1300 New York Ave. NW, Washington, D.C., U.S.A.
+
+RESUMEN 
+
+La  corrupción  y  la  inseguridad  ciudadana  están  íntimamente  relacionadas.  La  criminalidad  se 
+
+vale de la corrupción para lograr el apoyo de las autoridades para continuar con sus actividades 
+
+delictivas, lo que deteriora la seguridad ciudadana y la gobernabilidad democrática. Los actores 
+
+involucrados  en  los  programas  de  seguridad  ciudadana  son  particularmente  susceptibles  a  la 
+
+corrupción  por  los  bajos  sueldos,  débiles  controles  y  en  general  la  debilidad  institucional  de 
+
+muchos de los países de la región.  
+
+Por  tanto,  es  necesario  definir  un  proceso  sistemático  de  identificación,  análisis  y 
+
+respuesta  los  riesgos  de  corrupción  en  programas  de  seguridad  ciudadana.  La  metodología 
+
+propuesta, basada en la cadena de valor, permite esto, por lo que incrementa la probabilidad de 
+
+éxito de estos programas de alcanzar sus objetivos esperados de alcance, costo, tiempo y calidad. 
+
+Los macro procesos críticos de la cadena de valor de la seguridad ciudadana identificados son: 
+
+(i) Desarrollar  Políticas de Seguridad,  (ii) Prevenir la violencia, (iii) Controlar y sancionar;  (iv) 
+
+Rehabilitar  y  reinsertar  a  la  sociedad;  y  (v)  Supervisar  y  Evaluar  las  Políticas.  Los  procesos 
+
+administrativos  o  de  apoyo  son  (i)  Infraestructura  de  la  Organización,  (ii)  Desarrollar 
+
+Tecnología, (iii) Gestionar Recursos, y (iv) Gestionar Abastecimiento. 
+
+Esta  metodología  se  complementa  con  metodologías  de  análisis  de  riesgo  sistémico  de 
+
+corrupción de los países. La metodología planteada es propositiva, en el sentido de que plantea 
+
+una serie de medidas para responder a los riesgos identificados. 
+
+De no controlarse  el círculo vicioso corrupción-inseguridad, muchos de los países de la 
+
+región podrían caer en grave inestabilidad política, pérdida de control de su territorio y guerras 
+
+de grupos rivales extendidas con pérdidas de vidas en la población. 
+
+1
+
+ 
+1.  Introducción1,2 
+
+El presente documento presenta la Metodología para  el diagnóstico, prevención y  control de la 
+
+corrupción en programas de seguridad ciudadana elaborada por un equipo de trabajo del Banco 
+
+Interamericano  de  Desarrollo,  que  parte  de  la  correlación  entre  la  seguridad  ciudadana  y  la 
+
+corrupción,  y  se  basa  en  el  análisis  de  la  cadena  de  valor.  Si  bien  el  enfoque  general  de  la 
+
+metodología  puede  ser  aplicable  para  otro  tipo  de  programas,  su  objetivo  es  presentar  una 
+
+aproximación  metodológica  para  la  gestión  de  riesgos  de  corrupción,  específicamente  en 
+
+programas  de  seguridad  ciudadana.  Esta  Metodología  puede  ser  complementada  con  la 
+
+aplicación  de  otras  metodologías  de  diagnóstico  de  corrupción,  que  ofrecen  una  evaluación 
+
+“macro”  sobre  la  percepción  o  situación  de  la  corrupción  en  cada  país,  como  se  describe  más 
+
+adelante. 
+
+2.  Antecedentes 
+
+Recientemente, el BID ha revisado y actualizado su orientación estratégica en lo relativo al Plan 
+
+de Acción para el Apoyo a los Países en sus Esfuerzos por Combatir la Corrupción y Fomentar la 
+
+Transparencia  (PAACT).  El  PAACT  propone  un  marco  de  actuación  para  apoyar  reformas  de 
+
+buen gobierno y prevención y control de la corrupción en la Región, tanto a nivel externo como 
+
+interno. En este sentido, propone la institucionalización de un enfoque sistémico, que partiendo 
+
+de  un  diagnóstico  contextualizado  a  nivel  de  país  y  sector,  identifique  necesidades  de  apoyo  y 
+
+medidas para canalizarlo a lo largo del ciclo de proyecto.  
+
+Considerando lo reconocido por la comunidad internacional, respecto a que la corrupción 
+
+tiene dinámicas y consecuencias particulares que responden a la naturaleza del sector en el cual 
+
+se  manifiesta,  se  ha  visto  la  necesidad  de  desarrollar  enfoques  y  metodologías  para  el 
+
+1 Este documento ha sido preparado a partir de la metodología elaborada por un equipo de trabajo conformado por 
+Ana Inés Basco, Gustavo Beliz, Jorge Srur, Karelia Villa y Mauricio García Mejía, bajo la coordinación de Paloma 
+Baena, de la División de Capacidad Institucional del Estado (ICF/ICS) del Banco Interamericano de Desarrollo, con 
+el  aporte técnico de Gino Costa.  Las  opiniones expresadas en este  documento son responsabilidad del autor  y del 
+equipo, y no necesariamente reflejan los puntos de vista del BID. 
+2 Documento  preparado  para  el  XV  congreso  Internacional  del  CLAD  sobre  la  Reforma  del  Estado  y  de  la 
+Administración  Pública.  Santo  Domingo,  República  Dominicana,  9-12  de  noviembre  de  2010.  Panel.  “Nuevos 
+enfoques en la prevención y control de la corrupción en la esfera pública.  
+
+2
+
+ 
+ 
+diagnóstico, prevención y control de la corrupción a nivel sectorial3, siendo uno de los sectores 
+
+prioritarios la seguridad ciudadana. 
+
+Existe consenso en que la inseguridad ciudadana es uno de los principales problemas que 
+
+enfrentan América Latina y el Caribe. Es un serio desafío para la gobernabilidad y el desarrollo 
+
+económico  y  social  de  la  región.  Son  muchas  las  formas  a  través  de  las  cuales  la  violencia 
+
+amenaza  el  bienestar  de  los  ciudadanos,  especialmente  a  la  población  más  pobre,  además  de 
+
+inhibir la inversión, el comercio y la actividad productiva. Erosiona también la confianza en las 
+
+instituciones,  especialmente  en  aquellas  encargadas  de  velar  por  los  derechos  y  deberes  de  los 
+
+individuos. Estos factores, entre otros, restan competitividad a la Región (BID 2009a). 
+
+América Latina y el Caribe es la segunda región más violenta del mundo, reportando las 
+
+tasas  de  homicidio  más  altas  del  planeta  después  de  África  Subsahariana  (BID  2009a).  La 
+
+pobreza, el narcotráfico y la debilidad institucional hacen particularmente vulnerable a la región 
+
+frente a este fenómeno.  El reconocimiento de la  severidad de ésta problemática por parte de la 
+
+comunidad  internacional,  hace  que  sean  cada  vez  más  frecuentes  los  programas  y  políticas 
+
+públicas de seguridad ciudadana que se implementan.  
+
+El BID ha sido el primer organismo multilateral en acompañar a los países de la Región 
+
+en  proyectos  en  el  ámbito  de  la  prevención  de  la  violencia  y  la  seguridad  ciudadana  con  el 
+
+objetivo  de  promover  el  desarrollo  económico  en  la  Región.  En  los  últimos  diez  años  esta 
+
+institución ha aprobado gran cantidad de cooperaciones técnicas y préstamos en este sector para 
+
+la  mayor  parte  de  los  países  de  la  Región  por  un  valor  de  US$234  millones  de  dólares, 
+
+incluyendo, entre otras áreas de actuación, aspectos de fortalecimiento institucional, prevención, 
+
+justicia penal alternativa y rehabilitación. Esto le ha permitido acumular una importante capital 
+
+de experiencia y conocimiento en la materia. 
+
+Pase  a  la  relevancia  del  tema,  las  respuestas  de  los  Estados  al  problema  no  han  sido 
+
+siempre  efectivas;  por  el  contrario,  en  algunos  casos,  las  políticas  de  “mano  dura”  han 
+
+exacerbado  el  problema,  incrementando  la  violencia  y  restando  credibilidad  al  Estado.  En  los 
+
+países  donde  se  han  implementado  estas  políticas,  han  dado  lugar  a  violaciones  de  derechos 
+
+humanos  y  a  mayor  corrupción  en  las  fuerzas  de  seguridad,  por  lo  que  es  necesario  un  nuevo 
+
+3 Ejemplo  de  ello son  la  metodología de la  cadena de  valor  elaborada  por  el  Banco  Mundial,  el  Segundo Plan  de 
+Acción  sobre  Gobernabilidad  y  Corrupción  (GACAP  II)  del  Banco  Asiático  de  Desarrollo,  y  el  Manual  de 
+entrenamiento  sobre  anti-corrupción    del  Global  Infrastructure  Anti-Corruption  Center  (GIACC)  y  Transparencia 
+Internacional,  entre otros. 
+
+3
+
+ 
+enfoque para resolver el problema de la inseguridad. En este sentido, el BID ha identificado diez 
+
+lecciones  aprendidas  en  el  desarrollo  de  programas  y  proyectos  de  seguridad  ciudadana  y 
+
+prevención de la violencia: (BID 2009a)  (i) No existen  formulas únicas de intervención en los 
+
+países;  (ii)  Los  sistemas  confiables  de  información  son  un  eje  central  para  la  formulación  de 
+
+políticas públicas; (iii) El liderazgo y la coordinación interinstitucional son imprescindibles; (iv) 
+
+Un servicio civil profesional y permanente para la seguridad ciudadana es indispensable; (v) Se 
+
+debe  procurar  jerarquizar  los  problemas  y  focalizar  la  acción;  (vi)  Las  victorias  tempranas  son 
+
+necesarias;  (vii)  Los  gobiernos  locales  son  agentes  claves;  (viii)  Es  deseable  la  realización  de 
+
+diagnósticos comprehensivos institucionales de las entidades de seguridad; (ix) Las asociaciones 
+
+y la participación de la comunidad son fundamentales para garantizar transparencia; (x) Se debe 
+
+continuar progresando en implantar mecanismos de monitoreo y evaluación de las acciones.  
+
+3.  Corrupción y Seguridad Ciudadana 
+
+La  inseguridad  ciudadana  está  altamente  vinculada  con  la  corrupción,  se  retroalimentan.  Esta 
+
+vinculación entre inseguridad ciudadana y corrupción se manifiesta de diferentes formas, por lo 
+
+que es necesario contar con herramientas metodológicas que permitan un claro entendimiento del 
+
+problema para poder desarrollar medidas integrales de respuesta a este riesgo. 
+
+Vamos  a  entender  seguridad  ciudadana  como  la  “situación  de  tranquilidad  social  que 
+
+permite a todas las personas tener la expectativa razonable de que pueden ejercer libremente sus 
+
+derechos individuales y colectivos, sin temor a verse expuestas a hechos de violencia originados 
+
+en actos individuales o sociales”. (Arias 2009) 
+
+Este  es  un  concepto  distinto  al  de  seguridad  pública,  que  está  más  vinculada  al 
+
+mantenimiento  del  orden  público.  Es  diferente  porque  comprende  elementos  de  “seguridad 
+
+subjetiva”  o  “temor  al  delito”,  que  le  son  propios  a  la  seguridad  ciudadana.  Esta  diferencia  es 
+
+importante  ya  que  tiene  consecuencias  importantes  en  la  identificación  de  los  procesos,  y  por 
+
+tanto de los riesgos y las acciones de respuesta a los mismos. 
+
+Si bien no existe una definición  generalmente aceptada para el concepto  de  corrupción, 
+
+entenderemos como una práctica corruptiva, el acto de ofrecer, dar, recibir o solicitar, de manera 
+
+directa  o  indirecta,  cualquier  cosa  de  valor  para  influir  las  acciones  de  otra  parte.  (BID  2006). 
+
+Asimismo,  la  corrupción  comprende  actos  indebidos  cometidos  por  funcionarios  en  beneficio 
+
+personal o de terceros, por iniciativa propia o a petición de otros. Entre los actos de corrupción 
+
+4
+
+ 
+figuran,  entre  otros,  la  solicitud,  pago  o  aceptación  de  soborno  o  gratificaciones  y  comisiones 
+
+ilícitas,  la  extorsión,  el  uso  indebido  de  información  o  bienes  y  el  tráfico  de  influencias  (BID 
+
+2001). 
+
+La  corrupción también puede ser entendida como aquellas conductas que  se  desvían de 
+
+los  deberes  formales  de  una  función  pública  por  beneficios  particulares  (para  sí,  familiares 
+
+cercanos, camarilla), pecuniarios, o ganancias de status; o violan las reglas contra el ejercicio de 
+
+ciertos tipos de influencia para beneficio privado. Esto incluye conductas tales como el soborno 
+
+(uso  de  recompensas  para  cambiar  las  decisiones  de  una  persona);  el  nepotismo  (concesión  de 
+
+apoyo por una relación estrecha en lugar del mérito), y la  malversación (uso ilegal de recursos 
+
+públicos para fines privados). (Nye 1989) 
+
+Las  manifestaciones  de  la  corrupción  son  muy  diversas  en  las  organizaciones  públicas. 
+
+Además, la definición de lo que es “corrupto” puede tener matices importantes dependiendo de 
+
+cada sociedad. Quizás la característica central de la corrupción en la mayoría de los casos sea la 
+
+influencia indebida en la conducta de una persona en una posición de decisión.  
+
+Hoy  en  día  existe  evidencia  de  que  la  corrupción  afecta  de  manera  negativa  no  sólo  el 
+
+desarrollo  económico,  sino  también  la  distribución  del  ingreso,  la  legitimidad  del  sistema 
+
+político, la viabilidad del Estado  y  el  grado  de criminalidad. Es decir, afecta  la  gobernabilidad 
+democrática4. El  consenso  de  los  expertos  es  que  cualquier  beneficio  que  pueda  tener  la 
+
+corrupción  es  contrarrestado  con  creces  por  sus  severos  efectos  negativos.  (BID  2009b).  Por 
+
+tanto vamos a tratar la corrupción como un riesgo que puede afectar a los programas y políticas 
+
+públicas de seguridad ciudadana. 
+
+En  este  sentido,  vamos  a  entender  por  riesgo  un  evento  o  condición  incierta  que,  si  se 
+
+produce, tiene efectos positivos o negativos en los objetivos del proyecto (PMI 2008);y por, un 
+
+programa  un  grupo  de  proyectos  relacionados  cuya  gestión  se  realiza  de  manera  coordinada 
+
+para  obtener  beneficios  y  control,  que  no  se  obtendrían  si  se  gestionaran  en  forma  individual 
+
+(PMI 2008). Entenderemos por política pública a la respuesta estructurada de un Estado a una 
+
+demanda  o  necesidad  social,  son  estrategias  para  la  acción  pública  que  normalmente  son 
+
+4 “La gobernabilidad comprende el proceso a través del cual la autoridad se ejerce en una determinada comunidad 
+política,  incluyendo:  (i)  la  forma  mediante  la  cual  los  titulares  de  la  autoridad  son  elegidos,  controlados  y 
+reemplazados; (ii) los principios y normas bajo los que se ejercen las interacciones entre el Estado, el sector privado 
+y las  organizaciones  de  la  sociedad  civil  en  términos  de  competencias,  responsabilidad  y  funciones;  y,  (iii)  la 
+capacidad  de  la  autoridad  para  identificar  necesidades,  captar  recursos,  definir  políticas y  llevarlas  a  cabo.”  (BID 
+2003) 
+
+5
+
+ 
+plasmadas  en  normas  y  son  ejecutadas  a  través  de  entidades  públicas.  Estas  políticas  pueden 
+
+tener alcance nacional, regional o local. (García 2007) 
+
+La evidencia recopilada por diversas investigaciones nos demuestra que en varios países 
+
+de la región, la corrupción y la impunidad han permitido a organizaciones criminales desarrollar 
+
+y establecer  verdaderas  estructuras  de  poder  paralelas.  (CIDH  2009).  En  este  sentido,  la 
+
+corrupción  de  funcionarios  públicos  con  frecuencia  es  un  producto  de  la  delincuencia 
+
+organizada. Los individuos que participan en actividades ilícitas  graves  y rentables (estén o no 
+
+relacionadas con el contrabando de esculturas antiguas, materiales nucleares, drogas o migrantes 
+
+ilegales o prostitución) invariablemente cuentan en algún momento con el apoyo de funcionarios 
+
+públicos  corruptos.  La  corrupción  es  necesaria  para  que  la  delincuencia  organizada  pueda 
+
+funcionar. (Savona 2006: 48) 
+
+Esta relación entre  corrupción  y seguridad es tan estrecha, que incluso se afirma que la 
+
+capacidad  de  los  grupos  delictivos  organizados  para  crecer  depende  en  gran  medida  de  las 
+
+relaciones  que  establezcan  con  funcionarios  corruptos.  La  mayoría  de  los  grupos  delictivos 
+
+organizados  deben  el  enorme  éxito  de  sus  empresas  ilícitas  a  su  capacidad  para  corromper  a 
+
+funcionarios públicos. (Savona 2006: 48) 
+
+La  influencia  de  la  corrupción  en  las  entidades  participantes  de  la  seguridad  ciudadana 
+
+tiene distintas manifestaciones dependiendo del actor de que se trate. En el caso de la Policía son 
+
+tres  los  principales  niveles  de  corrupción.  El  primero  corresponde  al  área  administrativa  e 
+
+incluye los oscuros manejos de recursos humanos y económicos que se realizan en la institución 
+
+a través de ascensos, destinos, recaudaciones, compras, etc.; el segundo foco de corrupción es el 
+
+nivel operativo, aquel donde la Policía mantiene una estrecha relación con la sociedad a través de 
+
+su  trabajo  cotidiano  en  la  prestación  de  servicios  y  donde  determinadas  unidades  policiales 
+
+tienen un amplio margen de maniobra para protagonizar actos de corrupción; el tercer escenario 
+
+de  la  corrupción  policial  es  el  ámbito  político  que,  por  su  envergadura,  es  el  que  más 
+
+controversia  ha  despertado  porque  incluye,  en  la  relación  policía-gobierno,  el  intercambio  de 
+
+privilegios, prebendas y prerrogativas gubernamentales a cambio de protección y lealtad policial. 
+
+(Quitana 2005: 207) 
+
+Existen  cuatro  elementos  que  contribuyen  a  crear  oportunidades  para  la  corrupción,  a 
+
+saber,  la  existencia  de  un  poder  monopólico,  una  alta  tasa  de  discrecionalidad  de  quien  lo 
+
+ostenta,  la  falta  de  transparencia  en  el  proceso  de  toma  de  decisiones  y  la  ausencia  de 
+
+6
+
+mecanismos  de  rendición  de  cuentas.  Esto  ha  quedado  graficado  en  la  siguiente  fórmula: 
+
+corrupción = monopolio + discreción – responsabilidad (integridad, transparencia y rendición de 
+
+cuentas) (Klitgaard: 1996).  
+
+En el mismo sentido, Echebarría (2007) sostiene que tres son los factores que determinan 
+
+la  naturaleza  y  la  envergadura  de  la  corrupción.  Primero,  la  extensión  de  las  “zonas  grises”, 
+
+entendidas como espacios de amplia discrecionalidad, sin transparencia ni supervisión. Mientras 
+
+más  extensas  y  numerosas  sean  estas  zonas,  mayor  podrá  ser  la  corrupción.  Segundo,  las 
+
+características del control disuasorio sobre los hechos de corrupción, en especial en lo referido a 
+
+los costos, sobre todo sanciones, que impone a quienes incurran en ella. Tercero, los incentivos 
+
+que tienen los funcionarios públicos para actuar con probidad. De ello se deriva la necesidad de 
+
+reducir al mínimo las “zonas grises”; de elevar los riesgos a la exposición, es decir, la posibilidad 
+
+de ser descubierto; y, de contar con una adecuada estructura de incentivos y compensaciones en 
+
+la administración pública. 
+
+4.  Metodologías para la Medición de la Corrupción 
+
+Existen  tres  grandes  tipos  de  indicadores  para  medir  la  corrupción,  a  saber,  las  encuestas  de 
+
+opinión  pública,  las  encuestas  a  instituciones  especializadas  o  expertos,  y  los  diagnósticos 
+
+institucionales (Transparency International y PNUD 2006). Durante los últimos años, ha habido 
+
+una  profusión  de  instrumentos  de  medición  de  la  corrupción,  tanto  a  nivel  de  países  como  de 
+
+manera  transnacional.  La  más  destacada  encuesta  de  opinión  pública  que  se  hace  a  nivel 
+
+internacional es el Barómetro Global de la Corrupción de Transparency International, que acaba 
+
+de publicar su sexta y última encuesta correspondiente al año 2009. La encuesta evalúa en qué 
+
+grado se percibe a las instituciones y los servicios públicos clave (policías, sistemas de justicia, 
+
+administración pública, Poder Legislativo, medios de comunicación y empresas privadas) como 
+
+corruptos,  mide  la  opinión  de  los  ciudadanos  sobre  las  iniciativas  del  gobierno  contra  la 
+
+corrupción y este año, por primera vez, incluye preguntas indagatorias sobre el nivel de captura 
+
+del Estado y la predisposición de las personas a pagar una cantidad adicional a las empresas con 
+
+conducta transparente (Transparency International 2009b). Esta encuesta, realizada en 69 países 
+
+permite la comparación de resultados entre ellos.   
+
+En  América  Latina,  el  Latinobarómetro  realiza  encuestas  anuales  para  medir  la 
+
+percepción ciudadana sobre la democracia y otros asuntos de interés público. Durante los últimos 
+
+7
+
+ 
+años, ha venido midiendo la corrupción como un indicador de desempeño de la democracia, en 
+
+base a dos preguntas fundamentales, a saber, si el encuestado considera que hay progresos en la 
+
+lucha  contra  la  corrupción  y  si  él  o  ella,  o  alguien  de  su  familia,  ha  sabido  de  un  hecho  de 
+
+corrupción  el  último  año  (Latinobarómetro  2009).  Al  igual  que  el  Barómetro  Global,  tiene  la 
+
+ventaja de permitir la comparación de resultados entre los países de la región.  
+
+Estas encuestas de opinión pública son complementadas con otras que recogen la opinión 
+
+de  especialistas  y  empresarios.  La  más  destacada  entre  ellas  es  el  Índice  de  Percepción  de 
+
+Corrupción  que  realiza  Transparencia  Internacional,  a  partir  de  datos  de  13  fuentes  de  10 
+
+instituciones.  Todas  ellas  miden  el  alcance  general  de  la  corrupción  en  el  sector  público  y 
+
+político, y ofrecen una clasificación por países, en base a una calificación de cero a diez, donde 
+
+este  último  significa 
+
+la  ausencia  de  corrupción  (Transparency  International  2009a). 
+
+Transparencia Internacional también construye cada año un índice de fuentes de soborno, en base 
+
+a la  opinión  de  los  empresarios  sobre  el  potencial  de  soborno  transnacional  de  las  principales 
+
+exportadoras de bienes y de capital (Transparency International 2008). 
+
+Las encuestas de clima de inversión, desarrolladas recientemente por el Banco Mundial, 
+
+recogen  la  opinión  de  los  empresarios,  sean  éstos  grandes,  medianos  o  pequeños,  y  permiten 
+
+identificar  las  áreas  o  sectores  especialmente  vulnerables  a  la  corrupción,  por  lo  menos  en  lo 
+
+referido  al  desarrollo  del  sector  privado.  Una  variante  de  esta  metodología  son  las  encuestas 
+
+ciudadanas que se realizan para medir los niveles de satisfacción con los servicios públicos, las 
+
+que se pueden aplicar en ciudades, provincias, regiones o países (Campos y Pradhan 2007).  
+
+El  Índice  de  Gobernabilidad  del  Banco  Mundial,  que  se  viene  aplicando  desde  el  año 
+
+1996,  es  una  de  las  metodologías  más  antiguas  en  uso,  que  combina  encuestas  de  percepción 
+
+ciudadana y de agencias especializadas. Incluye seis categorías principales, una de las cuales es 
+
+el control de la corrupción. Los indicadores se construyen en base a 35 fuentes de información 
+
+distintas, pertenecientes a 33 instituciones. Actualmente, cubre a 212 países (Kaufman, Kraay y 
+
+Mastruzzi 2009). 
+
+En  lo  que  se  refiere  a  diagnósticos  institucionales  de  la  corrupción,  existe  una  gran 
+
+variedad de metodologías. Aquí mencionaremos dos: El Índice de Integridad Pública de Global 
+
+Integrity,  que  es,  quizá,  la  herramienta  más  completa  y  sofisticada  para  medir  las  fortalezas  y 
+
+debilidades  institucionales  de  los  países  para  enfrentar  la  corrupción  (no  es  en  si  mismo  un 
+
+8
+
+instrumento de medición de la corrupción, sino de la arquitectura institucional para enfrentarla); 
+
+y, la metodología de la cadena de valor que se aplica en este caso a la seguridad ciudadana. 
+
+Todas estas metodologías han contribuido a mejorar el conocimiento sobre los problemas 
+
+de corrupción y alertar y movilizar a la opinión pública y a las autoridades sobre los desafíos. Sin 
+
+embargo, las metodologías que se basan en encuestas adolecen de dos problemas. Primero, están 
+
+referidas  a  percepciones.  Segundo,  las  percepciones  suelen  ser  lentas  en  dar  cuenta  de  los 
+
+cambios operados por los esfuerzos para superar la corrupción. Tercero, con frecuencia, carecen 
+
+del detalle necesario para iluminar las acciones de política pública. El diagnóstico institucional se 
+
+desarrolla,  precisamente,  para  subsanar  esas  deficiencias,  pues,  a  partir  de  una  arquitectura 
+
+institucional ideal, busca, por un lado, contribuir al diagnóstico de dónde se encuentran los países 
+
+en su capacidad para enfrentar la corrupción y, por el otro, llama la atención y alienta a los países 
+
+sobre  las  medidas  necesarias  a  adoptar.  Mientras  que  el  Índice  de  Integridad  Pública  tiene  por 
+
+objeto  hacer  el  diagnóstico  institucional  a  nivel  nacional,  la  cadena  de  valor  persigue  no  solo 
+
+identificar  las  principales  vulnerabilidades  en  el  ámbito  sectorial,  sino  las  respuestas 
+
+institucionales necesarias. Una virtud adicional de esta última metodología es que  contribuye a 
+
+identificar la manera cómo la corrupción  afecta la provisión, a los ciudadanos, de uno o varios 
+
+servicios públicos. 
+
+5.  Cadena de Valor de la Seguridad Ciudadana 
+
+El  concepto  de  cadena  de  valor  consiste  en  la  identificación  de  los  principales  procesos  que 
+
+aportan más a la generación de valor en una organización o programa, de manera que al revisarse 
+
+todos los principales procesos de manera integral, es posible perfeccionar su desempeño. En este 
+
+caso particular, la utilizaremos para diagnosticar los riesgos de corrupción a lo largo de las etapas 
+
+necesarias para la provisión del servicio de seguridad ciudadana, e identificar medidas prácticas 
+
+que permitan reducir su incidencia 
+
+La cadena de valor de una organización o programa gubernamental constituye una forma 
+
+alterna  de  visualizarla.  Mientras  que  en  el  modelo  tradicional  las  diversas  actividades  que  la 
+
+institución  ejecuta  se  agrupan  de  acuerdo  con  su  naturaleza  (contables,  comerciales,  técnicas, 
+
+etc.), en el modelo de procesos estas mismas actividades se reagrupan en función de su papel en 
+
+la creación de valor. Se dividen en dos tipos: Actividades primarias o críticas, que son las que 
+
+9
+
+ 
+contribuyen directamente a la creación de valor; y actividades administrativas o de soporte, que 
+
+son aquellas que sustentan el desarrollo de las actividades primarias. 
+
+Para  diseñar  la  cadena  de  valor  de  los  programas  de  seguridad  ciudadana  se  han 
+
+identificado las diversas tareas que se deben ejecutar en cada uno de sus estamentos para el cabal 
+
+cumplimiento de los objetivos, funciones y restricciones. Estas tareas se han desagregado en dos 
+
+niveles,  denominados  macro-procesos  y  sub  procesos.  Cada  uno  de  los  sub  procesos  está 
+
+dividido en actividades, pero para fines de este documento solo se desarrollarán los procesos y se 
+
+mencionarán  algunas  actividades  como  referencia.  Para 
+
+la  correcta 
+
+identificación  y 
+
+desagregación de las tareas se ha aplicado la vasta experiencia del BID, que constituye una forma 
+
+indirecta de benchmarking, y se ha empleado la técnica de la cadena de valor de Michael Porter 
+
+(Porter 1996), universalmente reconocida como una herramienta muy eficaz para dicho fin. En 
+
+primer término se identificaron nueve macro-procesos, que constituyen los grandes pasos que las 
+
+instituciones ejecutan para el logro de la misión de un programa de seguridad ciudadana. Luego, 
+
+aplicando  el  modelo  de  la  cadena  de  valor,  se  procedió  a  identificar  los  sub  procesos. 
+
+Entendemos acá a un proceso como un grupo de actividades de diversa índole que en conjunto 
+
+conducen  al logro de un resultado perfectamente identificable  y  mensurable, el cual  constituye 
+
+generación de valor. A continuación se estableció la relación entre macro-procesos  y procesos, 
+
+creando una estructura de dos niveles. 
+
+Los  macro  procesos  críticos  de  la  cadena  de  valor  de  la  seguridad  ciudadana  son: 
+
+(i) Desarrollar  Políticas de Seguridad,  (ii) Prevenir la violencia, (iii) Controlar y sancionar;  (iv) 
+
+Rehabilitar y reinsertar a la sociedad; y (v) Supervisar y Evaluar las Políticas.  
+
+Cada  uno  de  estos  macroprocesos  está  compuesto  de  diferentes  sub  procesos,  que 
+
+pasamos a detallar. El resumen de la cadena de valor puede apreciarse en la Tabla del apéndice 1 
+
+5.1. Macro Procesos Críticos 
+
+5.1.1.  Desarrollar Políticas de Seguridad 
+
+a)  Descripción:  Articular  la  respuesta  pública  a  las  demandas  y  necesidades  sociales  de 
+
+seguridad ciudadana. 
+
+b)  Producto: Política pública de seguridad ciudadana y plan de acción desarrollado. 
+
+c)  Sub procesos: 
+
+10 
+
+ 
+ 
+i)  Incorporar  tema en la agenda pública. Generar  consciencia  en la sociedad  y  en  los 
+
+tomadores de decisión sobre la relevancia del problema de la seguridad ciudadana y 
+
+la necesidad de desarrollar acciones de respuesta.   
+
+ii)  Analizar  requerimientos.  Analizar  técnicamente  las  características  de  los  problemas 
+
+de la seguridad ciudadana y la respuesta más efectiva para su solución. 
+
+iii) Movilizar recursos. Identificar y gestionar recursos para apoyar la implementación de 
+
+la política. 
+
+iv)  Aprobar  normativa.  Desarrollar  y  aprobar  las  normas  requeridas  en  la  política  de 
+
+seguridad  ciudadana,  según  los  procedimientos  establecidos  para  la  jerarquía  de  la 
+
+norma correspondiente. 
+
+d)  Actores principales: 
+
+i)  Congreso, Ministerios de Gobernación y Justicia, Ministerio de Hacienda, Gobiernos 
+
+Sub Nacionales, ONGs. 
+
+5.1.2.  Prevenir la Violencia 
+
+a)  Descripción: Contrarrestar los factores  multidimensionales que aumentan los riesgos  de 
+
+criminalidad y victimización. 
+
+b)  Producto:  Estrategias  integrales  que  inciden  en  los  distintos  factores  de  riesgo 
+
+implementadas 
+
+c)  Sub procesos: 
+
+i)  Mejorar la Interacción Social en las Comunidades. Diseñar y ejecutar estrategias de 
+
+educación  y  sensibilización  en  valores  éticos  y  cultura  ciudadana;  valoración  de  la 
+
+diversidad  (étnica,  cultural,  religiosa,  política,  etc.)  y  la  igualdad  de  género; 
+
+resolución  de  conflictos  y  convivencia  pacífica;  involucramiento  y  participación 
+
+comunitaria;  mejoramiento  de  los  mecanismos  de  participación  comunitaria;  apoyo 
+
+para la conformación de redes de relaciones y organizaciones de la propia comunidad; 
+
+fortalecimiento  de  los  vínculos  entre  la  comunidad  y  las  instituciones  estatales; 
+
+financiamiento de obras comunitarias menores de infraestructura para la prevención, 
+
+priorizadas por la propia comunidad; entre otras; y planeación y gestión participativa 
+
+de  políticas,  mediante  el  fortalecimiento  institucional  de  instancias  de  participación 
+
+ciudadana,  tales  como  foros  comunitarios,  mesas  de  enlace,  consejos  ciudadanos  y 
+
+demás mecanismos, donde la sociedad civil pueda expresarse. (BID 2009a) 
+
+11 
+
+ 
+ii)  Prevenir Violencia Doméstica, Sexual y de Género. Diseñar y ejecutar estrategias de 
+
+promoción  de  una  educación  en  igualdad  de  género;  sensibilización  sobre  riesgos  e 
+
+impactos  de  la  violencia  intrafamiliar  y  sexual  y  la  trata;  mejoramiento  de  la 
+
+prevención, detección, investigación y manejo de casos por parte de operadores de la 
+
+policía, justicia, asistencia social y salud; apoyo a iniciativas y servicios ofrecidos por 
+
+la  sociedad  civil;  mejoramiento  de  sistemas  de  registro  de  casos;  fortalecimiento 
+
+institucional  de  instancias  de  prestación  de  servicios  de  atención  a  víctimas, 
+
+incluyendo la coordinación entre servicios de la red de atención; mejoramiento de la 
+
+infraestructura  de  servicios  de  atención,  incluyendo  la  creación  de  líneas  de 
+
+emergencia  e  inversión  en  casas  de  refugio;  fortalecimiento  del  sistema  para 
+
+cumplimiento  de  medidas  tutelares;  atención  integral  de  la  víctima  (legal,  médica, 
+
+psicológica,  educacional  y  capacitación 
+
+laboral),  entre  otros;  consejería  y 
+
+rehabilitación de perpetradores; recolección de información y análisis para determinar 
+
+las características y condiciones en que se presenta la violencia intrafamiliar y sexual 
+
+y/o  la  trata;  y  para  el  caso  específico  de  trata,  propuestas  de  reforma  legislativa  y 
+
+formulación  de  políticas  y  estrategias  multisectoriales  para  combatir  y  prevenir  la 
+
+trata;  apoyo  a  la  armonización  legislativa  y  el  desarrollo  de  acuerdos  y  protocolos 
+
+entre instituciones y entre países; y reparación de las víctimas. (BID 2009a) 
+
+iii) Prevenir Violencia Juvenil: Diseñar y ejecutar estrategias de resolución de conflictos 
+
+y prevención de la violencia escolar; nivelación y/o retención escolar;  sensibilización 
+
+de padres, alumnos y docentes en valores éticos y convivencia ciudadana, incluyendo 
+
+los materiales didácticos; detección temprana de abusos y de riesgos asociados con el 
+
+uso  de  drogas  y  alcohol  u  otras  adicciones;  formación  y/o  capacitación  laboral  y 
+
+apoyo a emprendimientos productivos para la reinserción social; convivencia pacífica 
+
+en el medio, a través de actividades extracurriculares (formación personal, recreativas 
+
+y culturales  de  diversa  índole);  técnicas  alternativas  de  disciplina,  mejora  de 
+
+capacidades  sociales  y  cognitivas;  integración  y  participación  en  la  comunidad; 
+
+infraestructura y programas deportivos, de integración social y cultural; generación de 
+
+programas con el sector empresarial y control de venta de alcohol y porte de armas; 
+
+entre otras. (BID 2009a) 
+
+12 
+
+ 
+iv)  Prevenir factores situacionales. Diseñar y ejecutar estrategias integrales para mejorar 
+
+la  seguridad  (mejoramiento  de  áreas  públicas,  accesos,  veredas,  parques  y 
+
+alumbrado), asegurando la participación comunitaria y del sector privado; analizando 
+
+e implementando  medidas  legislativas  reguladoras  para  reducir  la  violencia,  tales 
+
+como:  el  control  de  venta  de  alcohol  y  porte  de  armas;  e  incorporando  medidas 
+
+preventivas en instancias de renovación urbana integral, programas de mejoramiento 
+
+de barrios y recuperación de espacios públicos, áreas degradadas y centros históricos 
+
+urbanos y emprendimientos de vivienda social; así como el fomento y fortalecimiento 
+
+de mecanismos de animación comunitaria para el desarrollo de planes de prevención 
+
+situacional,  tales  como  marchas  exploratorias,  talleres  de  diagnóstico,  y  encuestas 
+
+permanentes ciudadanas; entre otros. (BID 2009a) 
+
+v)  Prevenir  criminalidad  organizada.  Diseñar  y  ejecutar  estrategias  integrales  para 
+
+prevenir la irrupción de la delincuencia organizada, comprendiendo el fortalecimiento 
+
+legislativo, institucional y administrativo de unidades de inteligencia financiera para 
+
+evitar  el 
+
+lavado  de  activos;  el  fortalecimiento 
+
+legislativo, 
+
+institucional  y 
+
+administrativo para prevenir la trata de personas, incluyendo campañas de difusión y 
+
+concientización;  el  fortalecimiento  legislativo,  institucional  y  administrativo  de 
+
+entidades  a  cargo  de  la  seguridad  portuaria,  aeroportuaria,  de  aduanas  y  de  zonas 
+
+fronterizas;  y  la  adopción  de  convenciones  internacionales  -con  sus  respectivos 
+
+mecanismos de seguimiento-, que  fomenten la cooperación regional para  abordar la 
+
+delincuencia organizada transnacional. (BID 2009a) 
+
+d)  Actores principales: 
+
+i)  Policía;  Gobiernos  Sub  Nacionales;  Ministerios  Sociales  (Educación,  Salud, 
+
+Juventud);  Organizaciones  de  la  Sociedad  Civil  (Comités  de  Prevención  del  Delito, 
+
+ONGs, etc). 
+
+5.1.3.  Controlar y Sancionar 
+
+a)  Descripción. Asegurar el respeto de la ley  y el orden público, proteger a las personas  y 
+
+bienes  ante  la  amenaza  de  delitos,  de  ser  el  caso,  aplicando  las  consecuencias  jurídicas 
+
+derivadas del incumplimiento de la Ley. 
+
+b)  Producto. Infracciones a la ley penal sancionadas. 
+
+c)  Sub procesos: 
+
+13 
+
+ 
+i)  Mantener  Seguridad  Pública.  Proteger  a  las  personas  y  bienes  ante  amenazas  de 
+
+delitos y mantener el orden público. 
+
+ii)  Procesar Denuncias. Tomar conocimiento de actividades delictivas (sea producto de 
+
+una denuncia o por investigación policial) e investigar los hechos mediante técnicas 
+
+de investigación criminal, a fin de sustentar la formulación de denuncias penales por 
+
+actividades criminales. Comprende desde la recepción de la denuncia hasta su puesta 
+
+en conocimiento del Ministerio Público. 
+
+iii) Ejercer  Acción  Penal.  Ejercer  la  acción  penal  pública  ante  la  noticia  de  un  hecho 
+
+criminal hasta la condenatoria o el archivo de la causa. 
+
+iv)  Juzgar  Causas.  Aplicar  el  derecho  a  los  casos  particulares  que  se  le  someten  a  los 
+
+tribunales de justicia. 
+
+v)  Proveer  Defensa  Judicial.  Proveer  o  garantizar  asistencia  jurídica  a  personas 
+
+envueltas en procesos judiciales penales o que  se encuentran  cumpliendo  sentencias 
+
+judiciales,  para  garantizar  el  respeto  al  debido  proceso  o  la  aplicación  de  las 
+
+consecuencias jurídicas derivadas de la violación de una norma penal. 
+
+vi)  Controlar  Fronteras.  Controlar  el  tráfico  de  personas  y  bienes  a  través  de  las 
+
+fronteras del País, evitando el ingreso o salida de personas de interés para la justicia o 
+
+de personas o de bienes relacionados a actividades de crimen organizado (tráfico de 
+
+armas, drogas, personas). 
+
+d)  Actores principales: 
+
+i)  Policía;  Ministerio  Público;  Poder  Judicial,  Defensorías  de  Oficio;  Migraciones, 
+
+Aduanas. 
+
+5.1.4.  Rehabilitar y Reinsertar a la Sociedad 
+
+a)  Descripción.  Tratar  y  rehabilitar  a  la  población  reclusa  o  menores  de  edad  que  han 
+
+infringido la ley (prevención terciaria) para su reinserción social, así como a las víctimas 
+
+de delitos. 
+
+b)  Productos: Probabilidad de reincidencia de los infractores de la ley reducida; derechos de 
+
+las víctimas respetados. 
+
+c)  Sub procesos: 
+
+i)  Atender Víctimas. Proporcionar asesoría y asistencia jurídica, médica o psicológica a 
+
+las víctimas directas e indirectas de delitos. 
+
+14 
+
+ 
+ii)  Rehabilitar  a  Privados  de  Libertad.  Brindar  tratamiento  a  personas  privadas  de 
+
+libertad  para  desarrollar  sus  valores  morales  y  ocupacionales  a  fin  de  lograr  una 
+
+reinserción social efectiva. 
+
+d)  Actores principales: 
+
+i)  Instituciones Penitenciarias; Organismos No Gubernamentales. 
+
+15 
+
+ 
+ 
+5.1.5.  Supervisar y Evaluar Políticas 
+
+a)  Descripción. Monitorear, supervisar y evaluar el cumplimiento de la misión, objetivos y 
+
+metas establecidos en los planes y actividades de manera ordenada y eficiente. 
+
+b)  Producto. Informes de evaluación y propuestas de políticas. 
+
+c)  Sub procesos: 
+
+i)  Monitorear ejecución. Recolectar sistemáticamente información acerca del programa 
+
+y compararla  con  patrones  técnicos  de  referencia  verificando  el  desempeño  del 
+
+programa e identificando las medidas correctivas que sean necesarias. 
+
+ii)  Evaluar  impacto.  Medir  y  valorar  los  efectos  de  las  acciones  desarrolladas  por  el 
+
+programa.  
+
+iii) Rendir cuentas. Informar a las autoridades superiores, población en general y órganos 
+
+de control sobre los resultados de la gestión. 
+
+iv)  Controlar  ejecución.  Desarrollar  las  actividades  de  control  interno  y  externo  para 
+
+verificar el adecuado uso de los recursos asignados para los fines establecidos en el 
+
+programa, de conformidad con las políticas y procedimientos establecidos. 
+
+d)  Actores principales: 
+
+i)  Contraloría  General  de  la  República;  Poder  Judicial;  Congreso;  Ministerios  de 
+
+Gobernación y Justicia; Ministerio de Hacienda; Medios de Comunicación. 
+
+5.2. Macro Procesos de Apoyo 
+
+Los  macroprocesos  de  apoyo  son:  (i)  Infraestructura  de  la  Organización,  (ii)  Desarrollar 
+
+Tecnología, (iii) Gestionar Recursos, y (iv) Gestionar Abastecimiento. Procederemos a explicitar 
+
+solamente los subprocesos principales  y no los actores, toda vez que son aplicables a todas las 
+
+entidades que han sido identificadas en los procesos operativos. Se harán las especificaciones  
+
+5.2.1.  Infraestructura de la Organización 
+
+a)  Descripción.  Mejorar  y  mantener  el  marco  institucional  y  gerencial  de  apoyo  a  toda  la 
+
+cadena completa. 
+
+b)  Producto. Marco institucional y gerencial soporta las necesidades del servicio. 
+
+c)  Sub Procesos: 
+
+16 
+
+ 
+i)  Liderar  el  desarrollo  de  actividades.  Asegurar  el  cumplimiento  de  la  misión, 
+
+objetivos  y  metas  del  programa  de  seguridad  ciudadana  de  una  manera  ordenada  y 
+
+eficiente. 
+
+ii)  Fortalecer  capacidad  de  coordinación  interinstitucional.  Definir  mecanismos  que 
+
+permitan  adecuados  flujos  de  comunicación,  articulación  y  responsabilidad  con 
+
+respecto a la ejecución de las actividades del programa. 
+
+iii) Desarrollar  planes 
+
+institucionales.  Diagnosticar  y  definir  planes  de  acción 
+
+institucional  en  concordancia  con  las  políticas  nacionales  en  materia  de  seguridad 
+
+ciudadana. 
+
+iv)  Modernizar estructuras y procesos de trabajo. A partir de la estrategia institucional, 
+
+redefinir procesos de trabajo y las estructuras organizacionales basadas en procesos. 
+
+v)  Gestionar recursos financieros. Administrar eficientemente los recursos económicos 
+
+de las entidades, asegurando su uso para los fines establecidos. 
+
+5.2.2.  Desarrollar Tecnología5
+
+a)  Descripción.  Promocionar  el  desarrollo  de  la  tecnología  que  permita  mejorar  los 
+
+productos y procesos en cumplimiento de la misión. 
+
+b)  Producto. Conocimiento adecuado para la toma de decisiones. 
+
+c)  Sub Procesos: 
+
+i)  Identificar  necesidades  de  información.  Diagnosticar  y  definir  las  necesidades  de 
+
+información para soportar la toma de decisiones. 
+
+ii)  Desarrollar sistemas de información. Definir los mecanismos y procedimientos para 
+
+recopilar  de  manera  ordenada,  rápida  y  confiable  la  información  necesaria  para  la 
+
+toma de decisiones. 
+
+iii) Analizar  información.  Aplicar  técnicas  científicas  para  sustentar  juicios  valorativos 
+
+sobre la información recopilada y proponer acciones. 
+
+5.2.3.  Gestionar Recursos Humanos 
+
+a)  Descripción.  Buscar  contratar,  reclutar  y  entrenar  los  recursos  humanos  de  las 
+
+organizaciones, así como la identificación y determinación de las habilidades necesarias 
+
+5 Entendiendo la tecnología desde el punto de vista de desarrollo del conocimiento en general y no sólo de la rama 
+científica, computación o de ingeniería. 
+
+17 
+
+ 
+ 
+para  lograr  una  ventaja  competitiva  en  el  capital  humano,  y  la  implementación  de 
+
+alternativas que permitan mejorarlo y mantenerlo. 
+
+b)  Producto. Capital humano idóneo para la prestación de los servicios. 
+
+c)  Sub Procesos: 
+
+i)  Definir Plan de RRHH. Definir las necesidades de personal de la organización en sus 
+
+diferentes áreas a lo largo del período de planificación. 
+
+ii)  Diseñar  perfiles.  Identificar  las  necesidades  de  competencias  que  deben  tener  los 
+
+funcionarios a cargo las diferentes responsabilidades a lo largo del a organización.  
+
+iii) Reclutar personal. Identificar a potenciales candidatos y gestionar su incorporación a 
+
+la organización. 
+
+iv)  Desarrollar  personal.  Gestionar  mecanismos  objetivos  para  acrecentar  habilidades, 
+
+oportunidades promocionales y alternativas de carrera al interior de la organización. 
+
+v)  Asignar personal. A partir de los perfiles establecidos para los diferentes cargos y de 
+
+las  competencias  del  personal  disponible,  distribuir  al  personal  a  lo  largo  de  la 
+
+organización mediante criterios objetivos. 
+
+vi)  Capacitar  personal.  Desarrollar  en  los  servidores  públicos  los  conocimientos, 
+
+habilidades y actitudes necesarios para el desempeño óptimo de sus funciones. 
+
+vii) Evaluar  personal.  Verificar  el  desempeño  del  personal  y  valorarlo  a  la  luz  de  los 
+
+objetivos establecidos y políticas aplicables. 
+
+viii)  Recompensar  personal.  Otorgar 
+
+compensaciones 
+
+adecuadas,  beneficios 
+
+complementarios y apoyo motivacional 
+
+5.2.4.  Gestionar Abastecimiento 
+
+a)  Descripción.  Adquirir  los  recursos  necesarios  para  el  cumplimiento  de  los  objetivos 
+
+estratégicos. 
+
+b)  Producto. Recursos disponibles oportunamente para la prestación del servicio 
+
+c)  Sub Procesos: 
+
+i)  Planear adquisiciones y contrataciones. A partir del análisis de las necesidades y del 
+
+mercado, prever  las necesidades de  contratación del Programa  y la  forma  en que se 
+
+gestionarán. 
+
+ii)  Adquirir  bienes  y  contratar  servicios  de  terceros.  Obtener  propuestas  de  los 
+
+proveedores, seleccionar a un proveedor y realizar contrato. 
+
+18 
+
+ 
+iii) Supervisar  servicios  de  terceros.  Verificar  el  cumplimiento  de  los  objetivos  de 
+
+alcance,  calidad  y  oportunidad,  y  las  actividades  definidas  en  los  términos  de 
+
+referencia. 
+
+iv)  Distribuir Bienes. Entregar los bienes adquiridos a quienes los requirieron en el lugar 
+
+donde los necesita. 
+
+v)  Mantener  bienes.  Asegurar  el  uso,  conservación  y  mantenimiento  adecuado  de  los 
+
+bienes adquiridos. 
+
+6.  Identificación y Análisis de los Riesgos 
+
+Una vez identificados los principales procesos de la seguridad ciudadana, es posible identificar 
+
+los riesgos de corrupción de cada uno, así como su nivel, entendido éste como la probabilidad de 
+
+ocurrencia y el impacto que generaría en caso de materializarse. Algunos de los procesos, por su 
+
+naturaleza y por las condiciones del entorno en que se desarrollan, son más propensos que otros a 
+
+presentar  riesgos  de  corrupción  significativos,  por  lo  que  enfocaremos  el  análisis  en  ellos.  La 
+
+literatura  especializada  y  el  análisis  de  la  experiencia  de  más  de  diez  años  de  programas 
+
+financiados por el BID en la materia, nos proporcionan una importante variedad de riesgos que 
+
+pueden afectar  el logro de los objetivos de estos programas. Asimismo, nos ayudan a entender 
+
+sus causas primarias y las relaciones de causalidad entre los riesgos, requisito indispensable para 
+
+identificar y planificar acciones efectivas de respuesta a los mismos: Un buen entendimiento del 
+
+problema es requisito indispensable para tomar medidas efectivas para resolverlo. 
+
+A continuación  se  mencionan  los  principales  riesgos  que  afectan  a  los  programas  de 
+
+seguridad  ciudadana,  así  como  su  descripción  y  análisis  del  impacto  que  pueden  tener  en  un 
+
+programa. Una vez más, es prudente recordar que el impacto del riesgo varía en cada proyecto, 
+
+por lo que debe ser analizado caso por caso. En la Tabla del apéndice 2 se listan los principales 
+
+riesgos  de  cada  uno  de  los  procesos.  Para  analizar  la  presencia  de  un  determinado  riesgo,  se 
+
+utiliza un conjunto de indicadores que contribuyen a determinar objetivamente si existe o no la 
+
+posibilidad  de  ocurrencia  de  un  riesgo  determinado,  así  como  las  posibles  consecuencias 
+
+(impacto) que este tendría de realizarse. Los indicadores miden la presencia de la buena práctica 
+
+a nivel  normativo  y  luego  su  nivel  de  implementación  real,  lo  que  da  una  aproximación  más 
+
+precisa de donde está la brecha y de las alternativas de solución más precisas. 
+
+19 
+
+ 
+ 
+ 
+6.1. Riesgos de los Macro Procesos Críticos 
+
+6.1.1.  Desarrollar Políticas de Seguridad 
+
+a)  Riesgos Típicos 
+
+i)  Desarrollo de políticas de seguridad que favorecen a un grupo de interés en particular. 
+
+ii)  Asignación de recursos y beneficios a cambio de apoyo institucional.  
+
+b)  Descripción/Impacto. Estos procesos presentan riesgos de naturaleza política. Si bien las 
+
+fuerzas policiales están sujetas a la autoridad civil, es posible que las autoridades políticas 
+
+exijan  el  apoyo  de  las  fuerzas  policiales  o  entidades  de  la  administración  de  justicia  a 
+
+actividades  del  partido  de  gobierno,  las  cuales  pueden  en  contra  de  las  funciones 
+
+jurisdiccionales o las propias de los cuerpos policiales. Como se señaló anteriormente, es 
+
+el  ámbito  de  la  corrupción  que  más  controversia  ha  despertado  porque  incluye,  en  la 
+
+relación  policía-gobierno,  el  intercambio  de  privilegios,  prebendas  y  prerrogativas 
+
+gubernamentales  a  cambio  de  protección  y  lealtad  policial  (Quintana  2005:  207).  Lo 
+
+mismo puede decirse a nivel jurisdiccional. 
+
+6.1.2.  Prevenir la Violencia 
+
+a)  Riesgos Típicos 
+
+i)  Direccionamiento  político  en  el  uso  de  los  recursos  destinados  a  programas  de 
+
+prevención. 
+
+b)  Descripción/Impacto. En  general,  el  proceso  de  prevención  de  la  violencia  es  menos 
+
+sensible  a  la  corrupción  que  el  proceso  de  controlar  y  sancionar,  por  cuanto  los 
+
+funcionarios  públicos  involucrados  no  son  responsables  de  hacer  cumplir  la  ley  y,  por 
+
+tanto, no están investidos de los poderes de uso de la fuerza o administración de justicia. 
+
+Por eso, en la prevención, las principales vulnerabilidades a la corrupción son de carácter 
+
+administrativo.  Así,  por  ejemplo,  la  prevención  situacional  –  ambiental  se  traduce, 
+
+normalmente, en obra física (la recuperación de un parque o una plaza, su iluminación o 
+
+proyectos  de  renovación  urbana  de  mayor  envergadura,  aseguramiento  de  perímetros 
+
+alrededor de escuelas, etc), que pueden involucrar licitaciones que constituyen un riesgo 
+
+de corrupción. Los programas de prevención social primaria normalmente son parte del 
+
+trabajo de rutina de los ministerios o secretarías sociales, pero también pueden involucrar 
+
+campañas importantes, al igual que las iniciativas de cultura ciudadana, lo que se puede 
+
+traducir  en  adquisición  de  materiales  en  gran  escala,  uso  de  medios  de  comunicación, 
+
+20 
+
+ 
+contratación de promotores, etcétera. Las intervenciones de prevención social secundaria 
+
+son  esfuerzos  más  focalizados  con  grupos  especialmente  vulnerables  y,  por  tanto,  más 
+
+reducidos,  aunque  no  por  ello  los  recursos  requeridos  sean  menores.  Estos  riesgos  se 
+
+reflejaran en los procesos administrativos. Desde el punto de vista operativo, el principal 
+
+riesgo  es  que  los  recursos  de  los  programas  de  prevención  sean  utilizados  con  fines 
+
+políticos,  lo  cual,  una  vez  más,  afecta  la  credibilidad  de  las  instituciones  y  reduce  la 
+
+efectividad de los programas, pues la criminalidad no tiene color político. 
+
+En 
+
+los  últimos  años, 
+
+los  gobiernos  han 
+
+iniciado  el  financiamiento  o 
+
+cofinanciamiento  de  iniciativas  de  prevención  del  delito  con  gobiernos  municipales  a 
+
+través  de  fondos,  concursables  o  no.  Más  allá  de  los  riesgos  que  acompañan  al  uso  de 
+
+esos  recursos  por  los  beneficiarios,  existe  también  el  peligro  de  que  en  su  asignación 
+
+primen criterios políticos y no técnicos, es decir, que los recursos se destinen donde hay 
+
+más rentabilidad política y no donde más se necesita. 
+
+6.1.3.  Controlar y Sancionar 
+
+a)  Riesgos Típicos 
+
+i)  Recibir, en virtud de su función, alguna forma de ventaja material sin violar la ley, 
+
+como una comida, un servicio, una invitación 
+
+ii)  La  recepción  de  bienes,  servicio  o  dinero  para  favorecer  permanentemente  los 
+
+intereses  de  un  tercero,  como  por  ejemplo,  otorgar  preferencia  al  patrullaje  de  una 
+
+determinada zona, calle o cuadra de la ciudad.  
+
+iii)  Robo de  oportunidad en la escena de un delito o a  las víctimas  de un  accidente  de 
+
+tránsito 
+
+iv)  Aceptar un soborno para no dar cumplimiento a la ley, como por ejemplo, detener a 
+
+una persona 
+
+v)  Protección  de  actividades  ilegales,  de  manera  de  permitir  su  continuación 
+
+(prostitución, drogas, pornografía) 
+
+vi)  Arreglos  que  llevan  a  socavar  la  investigación  criminal,  que  puede  implicar,  por 
+
+ejemplo, la pérdida de los elementos probatorios 
+
+vii)  Actividades  criminales  propiamente  dichas  realizadas  por  policías  (secuestros, 
+
+homicidios, tráfico de drogas, robos, estafas, etc). 
+
+21 
+
+ 
+viii) Compra  o  intercambio  de  beneficios  al  interior  de  la  institución  (vacaciones, 
+
+cambios de colocación, promociones). 
+
+ix)  Sembrar evidencias. 
+
+x)  Filtrar información. 
+
+xi)  Condicionar  la  activación  del  mecanismo  de  respuesta  policial  al  pago  de  un 
+
+soborno. 
+
+xii)  Soborno para orientar la investigación fiscal o para conseguir que se archive. 
+
+xiii) Cobro de comisión por los bienes recuperados. 
+
+xiv) Pago de soborno para el otorgamiento de visas, pasaportes y autorizaciones de salida 
+
+del país. 
+
+xv)  Cobro  de  soborno  para  permitir  el  contrabando  de  mercancías,  tráfico  ilícito  de 
+
+drogas e insumos químicos, de armas y municiones, de madera, de bienes culturales, 
+
+de animales y de recursos naturales protegidos. 
+
+xvi) Sobornos  para  evitar  sanciones  relacionadas  al  control  de  las  reglas  de  tránsito 
+
+vehicular.  
+
+xvii)  Pago  o  presión  política  a  autoridades  judiciales  para  obtener  resoluciones 
+
+favorables  contrarias  a  la  Ley  (prevaricato),  a  favor  o  contrarias  de  una  persona  o 
+
+partido político. 
+
+xviii)  Pagos a personal administrativo de auxilio judicial o fiscal para acelerar trámites, 
+
+extraviar expedientes, manipular notificaciones o alterar documentos. 
+
+xix) Falta de independencia judicial por nombramiento político de jueces y fiscales. 
+
+xx)  Uso de  la  fuerza pública o inteligencia  para  fines políticos. Esto incluye  extorsión, 
+
+agresión, violación derecho de privacidad. 
+
+b)  Descripción/Impacto. Newburn (1999) distingue entre sobornos y gratuidades, y resume 
+
+el  debate  entre  quienes  defienden  y  se  oponen  a  estas  últimas,  por  tratarse  del  primer 
+
+peldaño  en  la  escalera  que  lleva  a  poner  la  función  pública  al  servicio  de  intereses 
+
+privados, de terceros, de los mismos policías o de ambos, que no es otra que la escalera 
+
+de  la  corrupción.  Presenta,  además,  la  tipología  de  Roebuck  y  Barker  (1974),  quienes 
+
+postulan la existencia de ocho grandes tipos de corrupción policial, a la que Punch (1985) 
+
+le agrega una novena. Esta clasificación nos permite identificar los riesgos de corrupción 
+
+22 
+
+ 
+operativa  a  nivel  policial  en  los  procesos  de  Mantener  Seguridad  Pública  y  Procesar 
+
+Denuncias.  
+
+El proceso de mantenimiento de la seguridad pública es particularmente sensible 
+
+para la corrupción, pues es la primera restricción al ejercicio de las actividades irregulares 
+
+y un  punto  de  contacto  permanente  entre  el  Estado  y  la  delincuencia.  En  una  encuesta 
+
+realizada en Centroamérica (DEMOSCOPIA 2007: 92), el porcentaje de ex mareros que 
+
+reconocían la existencia de pagos por sobornos a la policía era hasta del 88%. Las formas 
+
+más  comunes  de  corrupción  identificadas  fueron    sobornos,  filtración  de  información, 
+
+beneficios  particulares,  encubrimiento  y  policías  que  también  son  mareros.  Dicha 
+
+encuesta también reveló información interesante en el sentido de vínculos estrechos entre 
+
+las  pandillas  y  la  policía,  al  punto  que  reconocían  incluso  la  existencia  de  pagos  de  la 
+
+Policía  a  las  pandillas.  Los  vínculos  entre  la  policía  y  las  pandillas  pasaban  por 
+
+intercambios  de  información,  ayudas  de  la  policía,  complicidad  negativa,  rivalidad, 
+
+amistad, intercambio de drogas, vínculos familiares y acuerdos para mantener el orden. 
+
+El proceso Procesar Denuncias involucra la reacción policial o fiscal al pedido de 
+
+intervención  ciudadana.  Aquí,  el  principal  riesgo  es  condicionar  la  activación  del 
+
+mecanismo  de  respuesta  al  pago  de  un  soborno,  lo  que  es  bastante  generalizado  en  la 
+
+región. La falta de atención gratuita del público es grave porque trastoca la naturaleza del 
+
+servicio  público  e  impone  onerosas  barreras  de  acceso  a  la  administración  de  justicia, 
+
+generando, además, gran malestar social y total descrédito de la institución concernida. 
+
+La  segunda  etapa  del  proceso  es  la  investigación  policial,  que  en  los  sistemas 
+
+modernos es conducida por el fiscal. Además de lo ya señalado en el sentido de que quien 
+
+no paga no recibe el servicio, se presentan, por lo menos, cuatro ámbitos de corrupción 
+
+operativa. La primera es el ya referido robo de oportunidad. La segunda, el soborno para 
+
+orientar la investigación o para conseguir que se archive. La tercera, el cobro de comisión 
+
+por  los  bienes  recuperados.  La  cuarta,  la  injerencia  de  los  mandos  policiales,  fiscales  o 
+
+políticos. Si la corrupción y las presiones no han logrado frenar las investigaciones en el 
+
+ámbito policial y fiscal, éstas se redoblarán en el ámbito judicial.  
+
+La investigación criminal y el juzgamiento entrañan especiales vulnerabilidades a 
+
+la corrupción cuando se trata de la criminalidad organizada, tanto por el poder corruptor 
+
+como por su poder destructor, así como por sus influencias dentro del sistema de justicia 
+
+23 
+
+ 
+penal  e,  incluso,  dentro  del  sistema  político.  El  peso  relativo  de  la  criminalidad 
+
+organizada entre los países de la región  varía, pero  su influencia  es creciente,  y socava 
+
+gravemente las bases de la gobernabilidad democrática. Para operar el crimen organizado 
+
+requiere,  cuando  menos,  de  la  connivencia  de  los  órganos  de  control  y  de  sanción,  y 
+
+éstos, a su vez, del necesario respaldo político. Sin éste, sus actividades y su influencia no 
+
+podrían crecer y expandirse. 
+
+En  cuanto  al  proceso  de  Controlar  Fronteras,  los  referidos  a  los  controles 
+
+migratorio  y  aduanero,  que  se  hacen  efectivos  en 
+
+los  aeropuertos  y  puertos 
+
+internacionales, y en las fronteras. El migratorio es especialmente vulnerable, por cuanto 
+
+de  él  depende  el  otorgamiento  de  visas,  pasaportes  y  autorizaciones  de  salida  del  país. 
+
+Esto último se relaciona con la existencia o no de órdenes de captura o impedimento de 
+
+salida  del  país,  decretados  por  mandato  judicial,  que  además  es  fuente  común  de 
+
+extorsión  por  parte  de  las  policías,  competentes  para  hacerlos  cumplir.  El  migratorio 
+
+también guarda relación con la salida del país de víctimas de trata de personas, actividad 
+
+criminal  crecientemente  importante  en  el  mundo.  Del  aduanero  depende  el  cobro  de 
+
+impuestos  al  comercio  exterior  y  la  identificación  del  contrabando  de  mercancías  y  el 
+
+tráfico  ilícito  de  drogas  e  insumos  químicos,  de  armas  y  municiones,  de  madera,  de 
+
+bienes culturales, de animales y de recursos naturales protegidos. Dadas estas funciones 
+
+de  control  descritas,  las  oficinas  de  migraciones  y  aduanas  son  muy  vulnerables  a  los 
+
+sobornos del crimen organizado. 
+
+Por otro lado, el control de las reglas de tránsito vehicular. Estos cuerpos son muy 
+
+vulnerables  a  la  corrupción  y  si  bien  los  volúmenes  de  los  sobornos  no  son 
+
+necesariamente significativos, la extensión de estas prácticas puede tener un efecto muy 
+
+perjudicial en la imagen de las instituciones concernidas.  
+
+En países con una frágil institucionalidad, los nombramientos de las jefaturas de 
+
+las  instituciones,  desde  los  ministros  de  Estado  para  abajo,  son  especialmente 
+
+importantes,  por  cuanto  la  ausencia  de  un  servicio  civil  profesional  que  garantiza  la 
+
+continuidad  de  las  políticas  públicas  les  otorga  un  poder  de  decisión  muy  grande.  Con 
+
+frecuencia, estas autoridades suplen estos vacíos ocupándolos con personal de confianza, 
+
+no necesariamente idóneo desde el punto de vista técnico, pero sí con lealtades políticas o 
+
+familiares  que  pueden  resultar  muy  peligrosas.  Es,  precisamente, 
+
+la  debilidad 
+
+24 
+
+ 
+institucional la que facilita formas de corrupción como el padrinazgo, el nepotismo y el 
+
+favoritismo,  que  luego  se  reproducen  hacia  abajo  en  la  cadena  de  mando  de  las 
+
+instituciones.  
+
+Otras  expresiones  de  este  tipo  de  corrupción  son  la  utilización  de  estas 
+
+instituciones  con  fines  políticos  y  personales,  o  el  uso  de  sus  recursos  con  los  mismos 
+
+propósitos. Es aquí donde la corrupción política se vincula a la administrativa, sobre todo 
+
+en  relación  con  las  grandes  adquisiciones,  aunque  nada  impide  que  se  vincule  a  una  o 
+
+varias  de  las  modalidades  operativas,  sobre  todo  aquellas  que  pueden  prosperar  en  los 
+
+ámbitos de control administrativo. Por esta vía, con frecuencia, se financian los partidos 
+
+políticos y las campañas electorales.  
+
+El  control  político  de  las  instituciones  policiales  o  de  inteligencia  puede  ser 
+
+utilizado para perseguir o amedrentar a la oposición o a centros de poder independientes, 
+
+como los medios de comunicación, y, eventualmente, extorsionarlos. Normalmente, estos 
+
+propósitos  se  persiguen  interceptando  ilegalmente  las  comunicaciones  y  violando  el 
+
+derecho a la privacidad, socavando en el proceso el Estado de derecho. 
+
+Otra  forma  de  corrupción  política  es  la  injerencia  indebida  en  las  instituciones 
+
+autónomas  del  sistema,  como  el  Ministerio  Público  y  el  Poder  Judicial,  que  puede  ser 
+
+parte de una estrategia de captura total del sistema de justicia penal.    
+
+6.1.4.  Rehabilitar y Reinsertar a la Sociedad 
+
+a)  Riesgos Típicos 
+
+i)  Requerir  pagos  para  obtener  beneficios  penitenciarios  que  no  corresponden  con  su 
+
+peligrosidad. 
+
+ii)  Requerir  pagos  a  cambio  de  seguridad  en  los  establecimientos  penitenciarios, 
+
+alimentación básica, o ingreso irregular de visitas o bienes (armas, celulares, drogas, 
+
+etc). 
+
+iii) Permitir fugas de los establecimientos penitenciarios o centros de reclusión. 
+
+b)  Descripción/Impacto.  Los sistemas penitenciarios tienen  asignaciones insuficientes para 
+
+cubrir sus servicios básicos, lo que marca el tipo de actos de corrupción que se aprecia en 
+
+estos procesos que está en parte originada en la precariedad de la calidad de los servicios. 
+
+La  presencia  de  corrupción  en  estos  establecimientos  dificulta  aún  más  los  procesos  de 
+
+rehabilitación y reinserción social. Asimismo, permite que aquellas personas sancionadas 
+
+25 
+
+ 
+puedan  continuar  con  las  actividades  delictivas  y/o  recluten  a  otros  durante  su 
+
+internamiento. 
+
+Los  sistemas  penitenciarios  en  América  Latina  y  el  Caribe  se  han  caracterizado 
+
+por ser un sector con poca prioridad en la asignación de recursos. Los sistemas son tan 
+
+deficitarios,  que  en  algunos  casos  no  cuentan  ni  con  recursos  para  ofrecer  una 
+
+alimentación mínima a los internos, menos aún servicios médicos básicos o incluso una 
+
+cama. Los controles de ingresos y salidas son mayoritariamente manuales, facilitando las  
+
+fugas y el ingreso de armas y drogas a los establecimientos. En algunos casos ni siquiera 
+
+se cuenta con registros confiables de la población penitenciaria. 
+
+La  justicia  penal  es  lenta  y  percibida  como  injusta,  presentando  un  elevado 
+
+porcentaje de detenidos sin condena aunada a un bajo presupuesto, lo que conlleva a un 
+
+déficit severo de centros de reclusión, deficiencias de los servicios básicos en los centros 
+
+penitenciarios, hacinamiento y limitado número de personal carcelario, que no cuenta con 
+
+una carrera profesional particular (BID 2009a). Asimismo, nos se cuenta con los recursos 
+
+ni con el personal calificado para el tratamiento diferenciado de adultos jóvenes, mujeres 
+
+o menores  que  requieren  los  estándares  internacionales.  Mucho  menos  se  cuenta  con 
+
+recursos o programas efectivos para la resocialización de los internos. Por tanto, estos son 
+
+procesos  de  muy  alto  riesgo,  por  estar  vinculados  además  a  la  violación  de  derechos 
+
+humanos. 
+
+6.1.5.  Supervisar y Evaluar Políticas 
+
+a)  Riesgos Típicos 
+
+i)  Falta  de  transparencia  en  la  información  sobre  desempeño  y  resultados  de  los 
+
+programas.  
+
+b)  Descripción/Impacto.  La debilidad en la implantación de medidas de  control  interno  en 
+
+las entidades, así  como una débil cultura de planificación impide tomar  decisiones para 
+
+corregir errores o replicar experiencias exitosas. Asimismo, existe una cultura de falta de 
+
+transparencia  en  la  información  sobre  los  resultados  de  la  gestión  de  las  entidades  del 
+
+sector.  Todo  esto  impide  el  control  social,  lo  que  incrementa  la  discrecionalidad  de  los 
+
+funcionarios y reduce la responsabilidad, lo cual en última instancia incrementa el riesgo 
+
+de corrupción. 
+
+26 
+
+ 
+ 
+6.2. Riesgos de los Macro Procesos de Apoyo 
+
+6.2.1.  Infraestructura de la Organización 
+
+a)  Riesgos Típicos 
+
+i)  Falta de transparencia en el uso de los recursos. 
+
+ii)  Malversación. 
+
+b)  Descripción/Impacto.  La  presencia  predominante  de  procesos  manuales  de  gestión  en 
+
+estas entidades, particularmente financiera desvinculada de otros sistemas administrativos 
+
+y de la producción de resultados, convierte a las entidades participantes en especialmente 
+
+vulnerables a malos manejos de sus recursos financieros.  
+
+Cuando  se  trata  de  recursos  destinados  a  labores  de  inteligencia,  debido  a  su 
+
+naturaleza  secreta,  éstos  son  distribuidos  discrecionalmente  por  los  responsables  de  la 
+
+seguridad  a  los  órganos  de  inteligencia  y  otras  unidades  operativas,  especialmente  las 
+
+competentes para enfrentar la criminalidad organizada. Por lo tanto, existe un alto riesgo 
+
+de malversación. 
+
+Asimismo,  la  falta  de  claridad  de  los  procedimientos  administrativos  que  se 
+
+desarrollan  en  las  entidades,  con  amplios  márgenes  de  discrecionalidad  funcionaria, 
+
+generan oportunidades para la realización de prácticas corruptas. 
+
+6.2.2.  Desarrollar Tecnología 
+
+a)  Riesgos Típicos 
+
+i)  No se aprecian riesgos específicos para este macro proceso. 
+
+b)  Descripción/Impacto. Los  riesgos  vinculados  a  este  macro  proceso  se  identifican  y 
+
+describen  en  los  procesos  de  desarrollo  de  políticas,  infraestructura  de  la  organización, 
+
+gestión de recursos humanos y gestión de abastecimiento. 
+
+6.2.3.  Gestionar Recursos Humanos 
+
+a)  Riesgos Típicos 
+
+i)  Nepotismo.  Se  contrata  a  personal  por  razones  distintas  al  mérito  (parentesco, 
+
+amistad, afiliación política) 
+
+ii)  Asignación  a  ciertas  posiciones  especialmente  atractivas  para  actos  de  corrupción 
+
+(drogas,  tránsito  e  inteligencia  en  lo  operativo,  logística  o  inspectoría)  por  cobros  o 
+
+con la expectativa de recibir parte del beneficio ilegal. 
+
+27 
+
+ 
+iii) Soborno  a  colegas  para 
+
+impedir  el  curso  normal  de 
+
+las 
+
+investigaciones 
+
+administrativas. 
+
+b)  Descripción/Impacto.  Una  cultura  de  corrupción  surge,  principalmente,  por  fallas  en 
+
+cuatro  áreas  principales:  (a)  selección,  entrenamiento  y  promoción  del  personal,  (b) 
+
+recursos, tales como salarios y equipamiento, (c) sistemas de rendición de cuentas y (d) 
+
+cultura organizacional que promueva la profesionalización.  (Hubert 2002; 86) 
+
+Por ejemplo, el desconocimiento de sus obligaciones legales hace que las fuerzas 
+
+policiales  caigan  en  actos  de  corrupción  e  incluso  violaciones  de  derechos  humanos. 
+
+Mantener  a  una  persona  detenida  para  que  pague  una  “coima”,  no  solo  es  un  acto  de 
+
+corrupción,  sino  también  una  violación  al  derecho  de  no  ser  detenido  arbitrariamente 
+
+(Artículo 9 de la Declaración Universal de los Derechos y Deberes del Hombre). 
+
+Muchas instituciones que integran el sistema de seguridad en la región carecen de 
+
+un  régimen  de  carrera  debidamente  estructurado,  lo  que  da  pie  para  muchas 
+
+irregularidades.  Incluso,  ahí  donde  existe  tal  régimen,  el  favoritismo,  el  padrinazgo,  el 
+
+nepotismo y el soborno afectan transversalmente a todos los procesos que lo componen. 
+
+Si bien la corrupción en esta esfera es de menor envergadura que la que puede afectar la 
+
+gestión  de  los  recursos  económicos,  logísticos  y  tecnológicos,  tiene  un  efecto  igual  de 
+
+devastador que aquella o, incluso, mayor porque atenta contra el recurso más importante 
+
+de las instituciones, que es su personal, al trastocar su escala de valores y desconocer y 
+
+reemplazar  la  cultura  de  la  excelencia,  la  meritocracia  y  la  legalidad  por  la  de  la 
+
+corrupción. Esto es especialmente grave en instituciones encargadas de hacer cumplir la 
+
+ley. 
+
+Se  pueden  destacar  dos  modalidades  a  la  corrupción  en  la  carrera  funcionaria. 
+
+Uno,  el  proceso  de  selección,  que  es  el  punto  de  partida  de  la  carrera  y  cuya  calidad 
+
+garantizará la del recurso humano de la institución, su capital más importante. Por ello, el 
+
+proceso  debe  estar  revestido  de  todas  las  garantías  que  aseguren  la  selección  de  los 
+
+mejores  candidatos,  de  acuerdo  al  perfil  institucional.  Atentan  contra  este  propósito  la 
+
+muy  extendida  injerencia  de  autoridades  de  la  institución  concernida  en  el  proceso  de 
+
+selección,  para  favorecer  a  un  familiar  o  amigo,  o  los  sobornos  que  se  pagan  a  los 
+
+encargados  del  proceso  para  favorecer  a  quienes  no  cumplen  los  requisitos.  La 
+
+subsistencia de  estas prácticas en muchas  instituciones de  la región vulnera,  además, el 
+
+28 
+
+ 
+principio  de  legalidad  y  de  igualdad  ante  la  ley,  que  corresponde  hacer  cumplir, 
+
+precisamente,  a  quienes  integran  las  instituciones  del  sistema  de  seguridad  ciudadana. 
+
+Constituyen  un  pésimo  punto  de  partida  de  la  carrera  funcionaria  y  una  desalentadora 
+
+señal para la lucha contra la corrupción. 
+
+En segundo lugar, la asignación de responsabilidades, o los llamados cambios de 
+
+colocación  dentro  de  las  instituciones  policiales,  son  también  puntos  vulnerables  a  la 
+
+corrupción. Esto por cuanto existen unidades operativas que son especialmente atractivas 
+
+para  los  corruptos,  como  drogas,  tránsito  e  inteligencia  en  lo  operativo,  y  logística  e 
+
+inspectoría  en  lo  administrativo.  Eso  da  pie  para  que  los  responsables  de  los  cambios 
+
+cobren por dicha asignación o seleccionen a gente amiga que compartirá los sobornos. 
+
+Finalmente, otro ámbito de corrupción administrativa es el asociado al que ocurre 
+
+en el marco de los procesos de supervisión y control de la conducta de los funcionarios. 
+
+Esto es así porque es parte de la carrera funcionaria, en la  medida en que es un aspecto 
+
+central  de  la  gestión  de  los  recursos  humanos.  Las  principales  manifestaciones  de  la 
+
+corrupción  son  muy  similares  a  las  que  se  expresan  en  el  marco  de  las  investigaciones 
+
+criminales,  solo  que,  en  este  caso,  son  funcionarios  que  sobornan  a  sus  colegas  para 
+
+impedir el curso normal de las investigaciones administrativas. Ello tiene un efecto muy 
+
+nocivo tanto en la moral como en la imagen institucional, pues la institución concernida 
+
+aparece convalidando prácticas, a todas luces, reñidas con una función pública honesta y 
+
+decente. 
+
+Existen limitaciones culturales que imponen retos significativos para la gestión de 
+
+los  riesgos  de  corrupción  en  las  entidades  policiales.  Como  se  ha  señalado  en  diversos 
+
+estudios,  los  cuerpos  policiales  tienen  una  tendencia  a  “cerrar  filas”  a  favor  de  sus 
+
+colegas,  aún  cuando  estos  se  encuentran  inmersos  en  actividades  ilícitas  (Crank  1999). 
+
+Esta  característica, propia de los cuerpos de  seguridad, sumada a la fácil disponibilidad 
+
+del uso de la fuerza hace que medidas como las tradicionales de whistleblowing puedan 
+
+tener impacto limitado.  
+
+6.2.4.  Gestionar Abastecimiento 
+
+a)  Riesgos Típicos 
+
+i)  Adquisiciones de emergencia sin aplicación de los controles de rutina. 
+
+ii)  Adquisiciones orientadas a un determinado proveedor. 
+
+29 
+
+ 
+iii) Falta de transparencia y publicidad de los procesos de adquisición. 
+
+iv)  Sustracción de bienes almacenados. 
+
+v)  Desviación de los bienes adquiridos al mercado (armas, municiones, combustible). 
+
+vi)  Recursos destinados a fines distintos a los del programa o servicio para el que fueron 
+
+adquiridos.   
+
+vii) Adquisición de bienes o servicios a precios sobrevaluados. 
+
+b)  Descripción/Impacto.  La  débil  planificación  de  las  adquisiciones  puede  derivar  en 
+
+adquisiciones de emergencia, que se hacen sin los controles de rutina y con frecuencia sin 
+
+competencia alguna.  
+
+La  redacción  de  las  bases  técnicas  de  las  adquisiciones  es  otro  punto  de  gran 
+
+vulnerabilidad, pues ellas pueden orientar la adquisición para favorecer a un proveedor en 
+
+detrimento de otros, eliminando la competencia, no porque cuente con el producto de más 
+
+calidad al mejor precio, sino porque ofrece las mejores comisiones ilegales o porque tiene 
+
+algún  tipo  de  vínculo  patrimonial  de  los  responsables  de  la  adquisición  (Campos  y 
+
+Pradham 2007).  
+
+La adquisición es, probablemente, la fase de gestión de recursos más vulnerable a 
+
+la corrupción administrativa en todas las cadenas de valor. Es una de las más estudiadas y 
+
+se han diseñado metodologías  muy sofisticadas para evaluar su eficiencia, efectividad  y 
+
+transparencia  (OECD/CAD  2007).  Sin  embargo,  sigue  siendo  un  ámbito  con  alta 
+
+presencia  de  corrupción  por  la  cantidad  de  recursos  involucrados.  Todos  los  actores  de 
+
+los programas de seguridad ciudadana cuentan con procesos de adquisición de bienes o 
+
+contratación  de  servicios  que  son  vulnerables  a  la  corrupción,  pero  especialmente  las 
+
+policías  y 
+
+los  sistemas  penitenciarios, 
+
+tanto  porque  concentran 
+
+los 
+
+recursos 
+
+presupuestarios  más  cuantiosos  de  la  cadena  de  valor,  como  porque  han  sido  muy 
+
+renuentes a la modernización de sus sistemas de gestión.  
+
+La falta de transparencia y publicidad de los procesos de adquisición disminuyen 
+
+la competencia y contribuyen a que solo un número reducido de proveedores ofrezcan los 
+
+productos  o  servicios  que  una  determina  institución  requiere.  Esto  facilita  la  colusión 
+
+entre  proveedores,  que  se  traduce  en  concertación  de  precios,  en  perjuicio  de  la 
+
+institución adquiriente. Es lo que, con frecuencia, ocurre en las adquisiciones en muchos 
+
+30 
+
+ 
+países  de  la  región,  sobre  todo  en  el  ámbito  de  las  instituciones  policiales  y 
+
+penitenciarias. 
+
+En la fase del almacenamiento de los productos  adquiridos  es muy  sensible a la 
+
+sustracción de los mismos y venta en el mercado. Este tipo de corrupción, cuando se trata 
+
+de armas y municiones, es particularmente delicado, pues normalmente quienes compran 
+
+armas robadas lo hacen para utilizarlas en actividades delictivas. En el caso de las maras, 
+
+se  señala  que  la  mayoría  de  las  armas  son  obtenidas  de  la  policía,  sea  por  asaltos  o 
+
+complicidad (DEMOSCOPÍA 2007: 90). 
+
+Los  bienes  adquiridos  y  almacenados  pueden  no  ser  distribuidos  a  sus 
+
+beneficiarios finales o pueden ser distribuidos solo en parte, con el pretexto de que no se 
+
+cuenta con el bien en cantidad suficiente, desviándose ilícitamente al mercado, o puede 
+
+ser que se deterioren en el almacén o transporte.  
+
+Los recursos distribuidos deben ser destinados, directa o indirectamente, a proveer 
+
+los  servicios  públicos  contemplados  en  los  programas.  Puede  ocurrir,  sin  embargo,  y 
+
+ocurre  con  frecuencia,  que  el  uso  final  de  esos  recursos  o  de  parte  de  ellos  tenga  un 
+
+destino distinto. Es lo que con frecuencia ocurre en muchas instituciones con el uso del 
+
+combustible o las medicinas.  
+
+Por  último,  existen  otros  controles  administrativos  donde  también  se  presentan 
+
+vulnerabilidades a la corrupción, tales como los que conciernen a las armas, municiones y 
+
+explosivos; las empresas de seguridad privada; y, la propiedad intelectual; entre otros.  
+
+En  las  actividades  de  patrullaje,  motorizado  y  a  pie.  Dos  son  las  principales 
+
+vulnerabilidades en este ámbito: las adquisiciones de vehículos patrulleros y equipos de 
+
+comunicación,  y  el  uso  del  combustible,  que  con  mucha  frecuencia  se  dispone 
+
+ilícitamente en detrimento de las labores de patrullaje. Como mucho del combustible se 
+
+trafica ilícitamente, los policías cobran a los ciudadanos que requieren una intervención, 
+
+acabando, así, con el carácter gratuito del servicio público.  
+
+En  términos  generales,  la  materialización  de  estos  riesgos  puede  afectar  la 
+
+reputación de las entidades participantes (tanto las que ejecutan como las que financian) 
+
+en  los  programas  de  seguridad  ciudadana;  significar  pérdidas  de  recursos;  y  afectar  la 
+
+calidad de los servicios prestados, dañando la confianza en las instituciones y el Estado 
+
+de Derecho. 
+
+31 
+
+ 
+7.  Respuesta a los Riesgos 
+
+Una vez identificados los riesgos de cada uno de los procesos, es posible identificar un abanico 
+
+de  alternativas  de  respuesta  a  estos.    Es  claro  que  la  alternativa  seleccionada  dependerá  de  las 
+
+características propias de cada situación  en particular, por lo que el objetivo de esta sección es 
+
+simplemente  ofrecer  al  tomador  de  decisiones  un  conjunto  de  alternativas  de  medidas  que 
+
+pueden  ser  respuestas  efectivas  a  los  riesgos.  Por  tanto,  se  pueden  seleccionar  uno  o  una 
+
+combinación de éstas acciones que puedan dar una respuesta efectiva a los riesgos identificados.  
+
+Dimensiones de Análisis. Para la identificación de las respuestas a los riesgos de cada proceso, se 
+
+han  tenido  en  cuenta  dos  dimensiones  de  análisis,  que  nos  han  permitido  construir  la  lista  de 
+
+respuestas a los riesgos que se presenta en la Tabla del apéndice 2.
+
+En  primer  lugar,  se  ha  visto  que  las  respuestas  a  los  riesgos  pueden  ser  de  dos  tipos: 
+
+transversales  y  específicas.  Las  primeras  son  válidas  para  prevenir  todos  los  riesgos  a  la 
+
+corrupción, cualquier que sea su modalidad y ubicación en la cadena de valor, sea o no una de las 
+
+áreas  o  procesos  especialmente  vulnerables.  Las  segundas  tienen  por  objeto  prevenir 
+
+manifestaciones  específicas  de  la  corrupción.  Estas  últimas  son  la  adaptación  a  un  riesgo 
+
+específico de las medidas transversales. 
+
+En segundo lugar, se han tenido en cuenta las categorías estratégicas de respuesta a los 
+riesgos  sugeridas  por  el  PMI,  principalmente  Evitar  y  Mitigar6 (PMI  2008).  Evitar  implica 
+
+modificar el programa de manera que el riesgo se elimine por completo. La forma más radical de 
+
+evitar  el  riesgo  sería  cerrar  el  programa  por  completo.  Sin  embargo,  como  los  riesgos  pueden 
+
+afectar de manera distinta a cada proceso, es posible también cancelar algún proceso u objetivo 
+
+determinado  que  es  más  susceptible  al  riesgo  y  no  se  encuentran  medidas  de  eliminación  o 
+
+mitigación  aceptables.  Por  su  parte,  mitigar  implica  reducir  la  probabilidad  de  ocurrencia  o  el 
+
+impacto  de  un  riesgo  dentro  de  un  límite  aceptable  para  las  organizaciones.  También  se  ha 
+
+considerado la posibilidad de diseñar  respuestas  para desarrollarse en caso de que un riesgo se 
+
+materialice, por lo que toman la forma de planes de contingencia.  
+
+Finalmente, se ha tenido en cuenta que en algunos casos las respuestas a los riesgos pasan 
+
+por  introducir  reformas  a  otros  procesos  de  la  cadena  de  valor,  no  directamente  al  proceso  en 
+
+riesgo, pues el origen del riesgo está en otro proceso. 
+
+6 El PMI también define como una alternativa general la aceptación del riesgo, pero por la naturaleza de los riesgos 
+de  corrupción,  ésta  no  se  plantea  como  una  estrategia  viable,  al  igual  que  transferir  el  riesgo  pues  el  objetivo  es 
+controlarlo y no solamente trasladar la responsabilidad de su administración a otros. 
+
+32 
+
+ 
+ 
+Revisión de las alternativas disponibles. La literatura sobre la materia discute extensamente las 
+
+responsabilidades  individuales,  institucionales  y  sociales  en  la  corrupción.  Existe,  en  general, 
+
+acuerdo en que es necesario contar con políticas de probidad que incidan en estos tres niveles, 
+
+aunque desde el Estado es mucho más fácil actuar en relación con las dos primeras, es decir, los 
+
+servidores públicos y la cultura de las instituciones. Investigaciones en profundidad de hechos de 
+
+corrupción, sobre todo policial, así como estudios académicos, han permitido develar la compleja 
+
+trama  detrás  de  estos  hechos,  que  normalmente  solo  son  posibles  gracias  a  la  complicidad  o, 
+
+incluso, el aliento de las instituciones. A este respecto, asuntos tales como el diseño institucional 
+
+y la cultura organizacional son fundamentales para entender los hechos de corrupción. Dentro de 
+
+esta lógica, tan o más importante como reclutar a gente proba será contar con instituciones cuyo 
+
+diseño  y  cultura  estén  alineadas  firmemente  con  la  lucha  contra  la  corrupción.  Esto  es 
+
+especialmente  importante  en  la  cadena  de  valor  la  seguridad  ciudadana,  considerando  que  las 
+
+instituciones  que  forman  parte  de  ella,  especialmente  las  policiales  y  penitenciarias,  están  de 
+
+manera permanente asociadas a quienes viven de la actividad criminal, para quienes neutralizar 
+
+su acción resulta fundamental. 
+
+Desde esta perspectiva, la lucha contra la corrupción no puede ser solo ni principalmente 
+
+un  esfuerzo  por  identificar  y  castigar  a  los  corruptos,  lo  que  en  cualquier  caso  es  necesario  e 
+
+imprescindible,  sino  por  identificar  los  patrones  de  la  corrupción,  esto  es,  sus  áreas  más 
+
+vulnerables  y  sus  principales  manifestaciones,  con  el  propósito  de  modernizar  la  gestión 
+
+institucional  para  reducir  la  discrecionalidad  de  los  servidores  públicos,  transparentar  su 
+
+actuación y hacerlos responsables de sus actos (Campos y Pradhan 2007). 
+
+La respuesta a la corrupción tiene gran incidencia en los procesos de apoyo, toda vez que 
+
+son transversales y dan soporte a todos los procesos críticos. Es decir, su implementación evita o 
+
+mitiga una amplia diversidad de riesgos que se manifiestan en los procesos críticos. 
+
+33 
+
+ 
+ 
+7.1. Alternativas de Respuesta a los Riesgos en Los Macro Procesos Críticos 
+
+7.1.1.  Desarrollar Políticas de Seguridad 
+
+Algunas medidas de carácter transversal y de mitigación es la activa promoción de la rendición 
+
+de  cuentas  públicas  y  la  participación  ciudadana.  Ambas  cosas  van  de  la  mano,  pues  si  las 
+
+instituciones no producen información dando cuenta de su gestión, es difícil que la ciudadanía se 
+
+involucre en la política pública, lo que es fundamental tanto para garantizar la transparencia y la 
+
+supervisión  pública,  como  para  nutrir  la  política  de  los  aportes,  preocupaciones  y  necesidades 
+
+ciudadanas. Ello contribuye, de manera importante, a que las políticas de seguridad sean no solo 
+
+inclusivas,  confiables  y  sostenibles,  sino  eficaces.  A  este  respecto,  cuatro  asuntos  revisten 
+
+especial importancia: (i) Rendición de cuentas públicas que deben llevar a cabo las instituciones 
+
+de  la  seguridad  en  sus  respectivos  ámbitos  de  actuación,  sea  éste  nacional,  regional,  estatal, 
+
+provincial  o  local.  Estas  rendiciones  son  muy  valiosas,  especialmente  si  existen  planes  y/o 
+
+estrategias e indicadores de resultado previamente establecidos, que permitan medir el impacto 
+
+de las intervenciones públicas (Ministerio del Interior de Chile 2009). (ii) Creación o ampliación 
+
+de canales de denuncia pública, que permitan un fácil, rápido y gratuito acceso ciudadano a las 
+
+más  altas  autoridades  de  las  instituciones  responsables  de  la  seguridad,  para  transmitir 
+
+información  útil  en  relación  con  los  servicios  públicos  que  se  brindan  y,  en  especial,  de  las 
+
+prácticas  corruptas  de  sus  funcionarios.  Esos  u  otros  canales  especialmente  diseñados  deben 
+
+existir  para  las  denuncias  de  corrupción  que  deseen  formular  los  miembros  de  las  propias 
+
+instituciones  de  seguridad,  quienes,  con  frecuencia,  son  los  que  mejor  conocen  las  prácticas 
+
+corruptas  y  sus  responsables.  Para  que  estos  canales  sean  instrumentos  efectivos  en  la  lucha 
+
+contra la corrupción, se debe contar con órganos de investigación de la inconducta funcional que 
+
+sean eficaces en responder a la denuncia ciudadana, que mantengan adecuadamente informados a 
+
+quienes  la  formularon  y  que,  incluso,  lleguen  al  extremo  de  brindar  la  protección  necesaria  si 
+
+fuera el caso. (iii) Auditoría ciudadana de los procesos críticos o áreas especialmente vulnerables 
+
+(Carballo 2007). Las propias instituciones de la seguridad pueden someter al escrutinio público 
+
+sus procesos más vulnerables.  La institución del Ombudsman, presente en casi todos los países 
+
+de América Latina y el Caribe, podría cumplir un importante papel en esta materia, convocando, 
+
+como  institución  pública  autónoma  de  los  otros  poderes  del  Estado,  a  instituciones  no 
+
+gubernamentales  o  cívicas  de  prestigio  a  que  la  acompañen  en  esta  tarea.  Los  capítulos 
+
+nacionales  de  Transparencia  Internacional  también  podrían  cumplir  un  rol  parecido,  sumando 
+
+34 
+
+ 
+fuerzas  con  las  universidades  más  serias,  las  iglesias,  los  medios  de  comunicación  y  algunos 
+
+colegios  profesionales.  (iv)  Políticas  de  activa  promoción  de  la  participación  ciudadana  en  la 
+
+política  de  seguridad.  Esto  se  puede  traducir  en  un  sinnúmero  de  acciones,  que  van  desde 
+
+cumplir  rápida  y  gratuitamente  con  la  ley  de  acceso  a  la  información  pública,  hasta  crear 
+
+espacios  de  participación  ciudadana  en  las  instancias  de  coordinación  interinstitucional  en  los 
+
+distintos niveles de gobierno, pasando por facilitar, colaborar  y responder proactivamente a los 
+
+resultados de las investigaciones periodísticas. 
+
+7.1.2.  Prevenir la Violencia 
+
+Si  bien  los  riesgos  asociados  a  este  proceso  son  menores  al  de  controlar  y  sancionar,  pueden 
+
+tener un impacto muy severo en la credibilidad y efectividad de los programas. Por tanto, como 
+
+son de naturaleza política principalmente, se puede recurrir a la definición de procedimientos y 
+
+criterios  objetivos  que  reduzcan  el  margen  de  arbitrariedad  en  la  toma  de  decisiones  y  a  la 
+
+participación  en  la  toma  de  decisiones  y  en  el  control  externo  de  la  sociedad  civil, 
+
+particularmente  de 
+
+las  comunidades  directamente  afectadas  o  de  organizaciones  no 
+
+gubernamentales  especializadas  en  la  materia.  Para  que  la  participación  y  control  social  sea 
+
+efectivo, es necesario desarrollar salvaguardas para evitar la cooptación y conflicto de intereses 
+
+de los sectores de la sociedad civil que participan en los esquemas de selección de beneficiarios, 
+
+implementación de programas y supervisión. De lo contrario se podría estar utilizando a sectores 
+
+de la sociedad civil afines al gobierno que realizarían un control efectivo. 
+
+Los programas de policía comunitaria tienen también consecuencias en la mitigación de 
+
+estos riesgos, toda vez que se involucra a la comunidad en la planificación y supervisión de las 
+
+actividades de prevención. 
+
+7.1.3.  Controlar y Sancionar 
+
+Siguiendo la estrategia de Evitar ciertos riesgos, BID ha determinado una serie de actividades en 
+
+las que no debe prestar apoyo dado el alto riesgo reputacional que implican. Esto por la relación 
+
+tan  estrecha  que  existe  entre  ellas  con  abusos  de  los  derechos  humanos,  derechos  civiles  e 
+
+injerencia en asuntos políticos del país. Estas actividades son: (i) apoyo a operaciones bélicas de 
+
+fuerzas  militares;  (ii)  actividades  destinadas  a  preservar  la  seguridad  del  Estado  o  investigar 
+
+delitos con motivos políticos; (iii) operaciones secretas o encubiertas; (iv) adquisición de equipos 
+
+letales  tales  como  armas,  municiones  y  gases  lacrimógenos.  En  el  caso  de  automóviles 
+
+35 
+
+ 
+patrulleros,  sólo  podría  financiarse  su  adquisición  para  la  puesta  en  marcha  de  estrategias  de 
+
+policía,  de  proximidad  con  participación  de  la  comunidad;  (v)  apoyo  a  las  operaciones  de 
+
+unidades especiales, que supongan una alta complejidad en el manejo de la fuerza y exposición a 
+
+la  violencia,  tales  como  unidades  de  desactivación  de  bombas,  brigadas  de  erradicación  de 
+
+drogas,  unidades  antisecuestro  y  unidades  de  control  de  disturbios,  entre  otras;  y  (vi) 
+
+adiestramiento en la utilización de armas de fuego o letales. (BID 2009)  
+
+Para los demás riesgos, se plantean una serie de  alternativas específicas en la Tabla del 
+
+apéndice  2, que  están  orientadas  algunas  a  prevenir  las  causas  de  la  corrupción  y  otras  a 
+
+fortalecer la capacidad de reacción de las entidades ante la ocurrencia de dichos actos. 
+
+7.1.4.  Rehabilitar y Reinsertar a la Sociedad 
+
+Con  respecto  a  los  riesgos  en  los  procesos  de  rehabilitación  y  reinserción,  dada  su  alta 
+
+probabilidad  de  ocurrencia  e  impacto  por  la  vinculación  a  violaciones  de  derechos  humanos  y 
+
+daños a la reputación de gobiernos y cooperantes, muchas entidades se abstienen de particular en 
+
+este  tipo  de  programas,  siguiendo  también  estrategias  radicales  de  Evitar  antes  mencionadas. 
+
+Otras  entidades  como  BID  (BID  2009)  han  establecido  en  sus  políticas  medidas  de  mitigación 
+
+obligatorias  para  ser  incluidas  en  programas  con  actividades  en  estos  procesos.  Una  de  estas 
+
+medidas  es 
+
+la  conformación  de  alianzas  estratégicas  con  entes  especializados  y  de 
+
+reconocimiento internacional, con los cuales se definirán planes de acción y monitoreo, líneas de 
+
+base y metas que progresivamente se prevén alcanzar. Se espera que con el apoyo de estos entes 
+
+especializados, se garantice la aplicación de las convenciones internacionales que rigen el uso de 
+
+la fuerza y la administración de los centros de reclusión, las condiciones de trabajo del personal 
+
+en  los  centros  penitenciarios  y  el  tratamiento  integral  de  las  personas  en  conflicto  con  la  ley 
+
+penal  y/o privadas  de libertad, como así también las normas internacionales que establecen los 
+
+estándares físicos para su infraestructura. 
+
+Asimismo, se establece que deben ser complementadas con medidas de descongestión e 
+
+institucionalización de mecanismos de supervisión judicial de las penas. El caso de los centros de 
+
+reclusión  de  menores  de  edad,  como  medida  excepcional,  es  particularmente  sensible,  pues  la 
+
+región  cuenta  con  pocos  avances  en  el  cumplimiento  de  los  tratados  internacionales  sobre  la 
+
+materia.  
+
+36 
+
+ 
+ 
+7.1.5.  Supervisar y Evaluar Políticas 
+
+La  supervisión,  puede  ser  ejercida  por  órganos  de  control  de  las  propias  instituciones  o  por 
+
+órganos ajenos a ellas. Entre los órganos internos están los participantes del proceso de controlar 
+
+ejecución,  destacando  los  de  naturaleza  disciplinaria,  contable  y  administrativa.  El  control 
+
+disciplinario 
+
+tiene  por  objeto 
+
+investigar 
+
+la  ocurrencia  de 
+
+inconductas  funcionales  y, 
+
+eventualmente,  penales.  El  contable  persigue  identificar  malos  manejos  en  la  gestión  de  los 
+
+recursos  institucionales.  La  administrativa  se  propone  evaluar  la  concordancia  de  las  prácticas 
+
+con  los  procedimientos  y  normativa  institucionales.  Los  tres  son  complementarios  y  deben  ser 
+
+practicados por todas las instituciones del sistema. Estas modalidades son complementadas por la 
+
+supervisión externa, que es ejercida por los poderes ejecutivo, legislativo y judicial, así como las 
+
+instituciones del Ombudsman, las contralorías, los medios de comunicación y las organizaciones 
+
+de sociedad civil. 
+
+En cuanto al monitoreo, para hacerlo como una práctica regular y permanente, es preciso 
+
+adoptar varias medidas, que se pueden resumir en las siguientes: (Ammons 1999)  
+
+1.  Asegurar el compromiso de los directivos involucrados en el programa 
+
+2.  Elaborar un plan estratégico 
+
+3.  Asignar  la  responsabilidad  para  la  coordinación  general  del  Sistema  de  Información, 
+
+Control y Evaluación de Gestión 
+
+4.  Asignar  responsabilidad  (individual  o  de  grupo)  sobre  la  difusión  y  coordinación  de 
+
+esfuerzos de departamentos / actividades / funciones para desarrollar planes operativos y 
+
+medidas de desempeño 
+
+5.  Identificar medidas que reflejen un desempeño relacionado con los objetivos 
+
+6.  Determinar la frecuencia y la forma con la que se desea informar sobre el desempeño 
+
+7.  Asignar responsabilidades: 
+
+a.  A nivel departamental en la recolección de datos y preparación de informes 
+
+b.  Centralizada para la recepción de datos, la supervisión y retroalimentación 
+
+8.  Auditar periódicamente los datos sobre desempeño 
+
+9.  Asegurar  una  conexión  significativa  entre  el  sistema  de  medidas  de  desempeño  y  los 
+
+procesos importantes de toma de decisiones 
+
+10. Refinar  continuamente las  medidas de desempeño (balancear necesidad de perfeccionar 
+
+con necesidad de tener patrones comparables) 
+
+37 
+
+ 
+11. Incorporar las métricas seleccionadas en los reportes a los stakeholders  
+
+En lo que se refiere al proceso de control, tres asuntos deben ser considerados, a saber, su 
+
+diseño y organización, su funcionamiento, y las medidas de protección que requiere el sistema. 
+
+El diseño y organización incluye cuatro componentes. Uno, un sistema que integre los controles 
+
+disciplinario, contable y administrativo. Además, este sistema debe ser proactivo, es decir, debe 
+
+buscar  con  empeño  identificar  las  irregularidades  y,  eventualmente,  los  delitos,  especialmente 
+
+sus  patrones,  para  recomendar  las  medidas  que  contribuyan  a  su  superación.  En  ese  empeño, 
+
+debe  jugar  un  activo  rol  en  alentar  la  denuncia  ciudadana  y  la  del  personal  de  las  propias 
+
+instituciones concernidas, creando mecanismos adecuados para canalizarlas. Dos, una adecuada 
+
+normatividad, que esté alineada con lo que establecen las convenciones internacionales de lucha 
+
+contra la corrupción de las Naciones Unidas y de las Organización de Estados Americanos, que 
+
+establezca con claridad, entre otras cosas, la responsabilidad de los superiores jerárquicos por las 
+
+infracciones que ocurran (Mohor y Frühling 2006). Tres, una división de responsabilidades entre 
+
+los  órganos  de  investigación  e  inspección,  por  un  lado,  y  los  de  juzgamiento,  por  el  otro, 
+
+creando, si fuera el caso, instancias administrativo disciplinarias permanentes, con competencia 
+
+para asuntos propiamente disciplinarios, así como para infracciones contables y administrativas. 
+
+Cuatro,  un  mecanismo  extraordinario  y  excepcional  de  depuración,  cuando  han  fracasado  las 
+
+medidas de supervisión ordinarias.  
+
+El proceso de control de la ejecución debe tener un funcionamiento no solo eficaz, sino 
+
+rápido  y  transparente.  La  lentitud  para  adoptar  medidas  correctivas  frente  a  las  infracciones 
+
+contribuye  a  alentarlas.  Por  ello,  es  necesario  que  el  sistema  actúe  con  rapidez,  lo  que  da  un 
+
+mensaje de eficacia e intolerancia frente a la corrupción. La transparencia en su funcionamiento 
+
+tiene como propósito disuadir la corrupción. La publicidad de las actuaciones y sanciones de los 
+
+órganos  de  supervisión  cumple  el  mismo  propósito  (National  Justice  Institute  2007).  A  este 
+
+respecto,  cuatro  elementos  deben  ser  tomados  en  consideración.  Uno,  un  esfuerzo  permanente 
+
+para  reforzar,  reestructurar  y/o  reformar  las  entidades  de  supervisión  o  crear  nuevas  unidades 
+
+donde  ninguno  de  estos  esfuerzos  sea  posible.  Dos,  una  mirada  integral  a  los  problemas  de 
+
+corrupción,  que  los  vea  no  como  resultado  de  malas  conductas  individuales,  sino  como 
+
+manifestaciones de problemas en el funcionamiento de las instituciones, y que, por tanto, oriente 
+
+sus  investigaciones  no  solo  a  identificar  y  castigar  la  conducta  individual,  sino  a  corregir  o 
+
+rediseñar  los  procedimientos  institucionales.  Tres,  celeridad.  Cuatro,  transparencia.  Un  aspecto 
+
+38 
+
+ 
+de este último debe ser la oralización de los procedimientos, tal cual ha ocurrido en el marco de 
+
+las  reformas  procesales  penales,  lo  que  ha  contribuido  a  la  mayor  eficacia  y  celeridad  en  la 
+
+justicia. Lo anterior debe ir acompañado por un esfuerzo para blindar los órganos de supervisión 
+
+de  quienes  los  quieren  débiles  e  inservibles.  Al  respecto,  se  deben  considerar  al  menos  tres 
+
+elementos: (i) contar con un exigente sistema de selección, que responda al perfil adecuado, (ii) 
+
+una política de incentivos y de protección para el personal que se desempeña en estos órganos, 
+
+que incluya el necesario paso por estas unidades para prosperar en la carrera; y (iii) la existencia 
+
+de  mecanismos  de  protección  y  premiación  a  quienes  colaboren  con  el  sistema,  como,  por 
+
+ejemplo, denunciantes, testigos, peritos o colaboradores eficaces. 
+
+Las modalidades de control externo son varias: (i) la que se ejerce desde los tres poderes 
+
+del Estado, incluyendo al propio ejecutivo; (ii) la contable, que se ejerce desde las contralorías o 
+
+las cortes de cuentas; (iii) la que se ejerce desde las instituciones del Ombudsman; y, (iv) las que 
+
+se  ejercen  desde  las  organizaciones  no  gubernamentales  y  los  medios  de  comunicación.  Cabe 
+
+anotar que el control judicial se ejerce no solo a través de la acción de los jueces, sino también de 
+
+los fiscales, que ejercen la acción penal y tienen la responsabilidad de conducir la investigación 
+
+del delito. Para que estos órganos de control externo funcionen eficazmente, deben contar, por lo 
+
+menos con órganos especializados con atribuciones para investigar, de oficio o a pedido de parte, 
+
+inconductas  en  las  instituciones  que  integran  el  sistema  de  seguridad  y  para  formular 
+
+recomendaciones  o  imponer  medidas  correctivas;    y  recursos  profesionales  y  logísticos  para  el 
+
+ejercicio  de  sus  labores.  Es  también  fundamental  que  las  instituciones  del  sistema  sometidas  a 
+
+evaluación y supervisión acaten las decisiones o recomendaciones. En lo que se refiere a las dos 
+
+últimas  modalidades  de  control  externo,  cuyas  decisiones  no  necesariamente  obligan  a  las 
+
+instituciones  del  sistema  de  seguridad,  es  importante  que  éstas,  cuando  menos,  muestren  una 
+
+apertura a sus investigaciones, contribuyan a facilitarlas y las hagan suyas, activando sus propios 
+
+órganos de supervisión interna.  
+
+Para que las formas de control externo sean eficaces, es preciso que las instituciones del 
+
+sistema de seguridad adopten las medidas preventivas recomendadas en relación con la rendición 
+
+de  cuentas  y  la  participación  ciudadana,  que  incluyen,  especialmente,  una  activa  política  de 
+
+acceso a la información pública, fomenten la denuncia ciudadana y rindan cuentas. 
+
+39 
+
+ 
+ 
+7.2. Alternativas de Respuesta a los Riesgos en Macro Procesos de Apoyo 
+
+7.2.1.  Infraestructura de la Organización y Desarrollar Tecnología 
+
+Las  acciones  de  respuesta  a  los  riesgos  desde  la  perspectiva  de  los  Macroprocesos  de 
+
+Infraestructura  de  la  Organización  y  Desarrollar  Tecnología,  están  vinculadas  a  acciones  de 
+
+modernización institucional. 
+
+La  modernización  institucional  particularmente  enfocada  a  cuatro  aspectos:  (i)  La 
+
+necesidad  de  explicitar,  de  manera  clara  y  objetiva,  aquello  que  se  espera  de  la  conducta  del 
+
+servidor  público,  reduciendo  al  máximo  su  discrecionalidad.  Dichas  normas  también  deben 
+
+contener  las  sanciones  que  se  aplicarán  al  funcionario  en  caso  de  incumplimiento.  Tan 
+
+importante como ello, es que la institución aplique las sanciones y actúe en concordancia con las 
+
+normas. De lo contrario, existirá una brecha entre la política institucional explicitada y la práctica 
+
+diaria.  Cuando  ello  ocurre,  el  funcionario  sabrá  que  esta  última  es  la  norma  aplicable.  (ii) 
+
+Transparentar  la  actuación  de  los  funcionarios,  simplificando  y  de  ser  el  caso  eliminando, 
+
+procesos  y  procedimientos  oscuros  que  no  estén  sometidos  al  escrutinio  de  otros.  Para  ello,  es 
+
+preciso  que  las  instituciones  produzcan  la  mayor  cantidad  de  información  sobre  la  actuación 
+
+institucional y la de sus miembros, y la pongan al servicio del público. (iii) La incorporación de 
+
+tecnología  de  la  información  y  las  comunicaciones.  Este  proceso  puede  constituir  una 
+
+oportunidad para modificar prácticas muy enraizadas, no solo ineficientes sino corruptas, lo que 
+
+demanda principalmente la revisión de los procesos existentes y la sensibilización y capacitación 
+
+del  personal  para  adecuarse  a  nuevas  formas  de  hacer  el  trabajo.  Puede  demandar,  también,  la 
+
+selección  de  nuevo  personal  para  operar  los  nuevos  procedimientos.  (iv)  La  gestión  por 
+
+resultados. La evaluación de desempeño a nivel de instituciones, de unidades o de individuos es, 
+
+en  sí  misma,  un  antídoto  contra  la  corrupción.  Además,  permite  que  se  tomen  medidas  para 
+
+corregir  lo  que  no  funciona  y  contribuye  al  desarrollo  de  un  espíritu  meritocrático  y  de  una 
+
+cultura de la excelencia en el servicio público, que está reñida con la corrupción.  
+
+7.2.2.  Gestionar Recursos Humanos 
+
+En materia de gestión de recursos humanos, el desarrollo de una cultura de valores en cada una 
+
+de las instituciones involucradas en la cadena de valor de la seguridad ciudadana es una medida 
+
+que  contribuye  a  la  mitigación  de  los  riesgos  de  corrupción.  Esto  comprende  al  menos  cinco 
+
+aspectos centrales: (i) Discurso y la práctica de los líderes institucionales. Es imprescindible que 
+
+40 
+
+ 
+éstos cuenten  con un  discurso comprometido con la probidad  y  que sean  ellos los primeros  en 
+
+hacer  público  los  hechos  de  corrupción,  posicionándose  a  la  vanguardia  en  esta  materia.  Este 
+
+mensaje es importante tanto al interior de las instituciones de seguridad, cuyos miembros sabrán 
+
+a qué  atenerse,  como  a  nivel  de  la  opinión  pública,  pues  generará  confianza  en  ella,  lo  que 
+
+eventualmente  se  traducirá  en  su  colaboración  en  la  lucha  contra  la  corrupción.  Para  que  este 
+
+discurso sea creíble, es preciso que vaya acompañado de una práctica institucional que le haga 
+
+eco, lo  reafirme  y  lo fortalezca. (ii) Discurso  y práctica institucional deben ir acompañados  de 
+
+explícitas normas de probidad que son de obligatorio cumplimiento para los servidores públicos. 
+
+Estas  normas  deben  incluir  un  código  de  ética  y  reglamentos  disciplinarios  que  sean  claros  y 
+
+objetivos en señalar las conductas que son esperadas por parte de los funcionarios y las sanciones 
+
+que les aplicará  en caso de incumplimiento. Deben,  además, contar con un diseño institucional 
+
+que  permita  la  investigación  rápida  y  efectiva  de  las  inconductas.  (iii)  Selección  de  personal 
+
+idóneo. Ella se hace en base a un perfil predeterminado, el que debe establecer con claridad la 
+
+importancia de la probidad del futuro funcionario. Esa probidad debe evaluarse adecuadamente 
+
+en las pruebas de selección, que pueden incluir la aplicación del polígrafo o las evaluaciones del 
+
+entorno socioeconómico, que son componentes de las pruebas de integridad. (iv) Formación en 
+
+valores. Incluye la instrucción en ética pública que se debe impartir en las escuelas, tanto para la 
+
+formación básica como para las actividades de especialización, capacitación y perfeccionamiento 
+
+a lo largo de la carrera. (v) Reconocimiento permanente de la conducta proba y la sanción de la 
+
+corrupta.  Estudios  en  cuerpos  policiales  han  demostrado  que  la  severa  sanción  de  inconductas 
+
+menores  constituye  un  mensaje  claro  de  que  las  mayores  no  serán  toleradas  (National  Justice 
+
+Institute 1997). 
+
+Otra medida fundamental en esta materia es la profesionalización de la función pública, 
+
+que  implica  tres  ámbitos  de  intervención:  el  desarrollo  de  una  carrera  funcionaria,  el  logro  de 
+
+atractivas  condiciones  de  trabajo  y  de  bienestar  para  el  funcionario  público  y  su  familia,  y  la 
+
+dignificación de la función pública. En relación con la carrera funcionaria, es conveniente que las 
+
+instituciones de seguridad cuenten con una ley que establezca, clara y objetivamente, el plan de 
+
+la carrera funcionaria y que, en su progresión, reconozca y premie el mérito y la probidad, y que 
+
+penalice  ejemplarmente  a  los  funcionarios  corruptos.  Un  adecuado  plan  de  carrera  funcionaria 
+
+podría ir acompañado por atractivas condiciones de trabajo y de bienestar para el funcionario y 
+
+su  familia,  que  principalmente  contemple  una  retribución  económica  que  le  permita  vivir 
+
+41 
+
+ 
+decentemente de su trabajo, los medios para cumplir eficientemente su función, y programas de 
+
+bienestar  que  incluyan,  como  mínimo,  un  seguro  de  salud,  un  seguro  de  vida  y  una  pensión. 
+
+Tanto  un  plan  de  carrera  como  atractivas  condiciones  de  trabajo  y  de  bienestar  deberían 
+
+propender a la dignificación de la función pública y a su prestigio social. No obstante, si esos y 
+
+otras medidas no revierten las actuales de desconfianza hacia nuestras instituciones de seguridad, 
+
+que, con frecuencia, resultan del abuso y de la corrupción, la función pública en el ámbito de la 
+
+seguridad seguirá siendo mal percibida por la ciudadanía.  
+
+7.2.3.  Gestionar Abastecimiento 
+
+La mayoría de las medidas de respuesta a los riesgos en este campo son de carácter general,  y 
+
+pasan por la implementación de mejores prácticas como las recogidas por la Metodología para la 
+
+Evaluación  de  los  Sistemas  Nacionales  de  Adquisiciones  Públicas  de  la  OECD/CAD.  En  este 
+
+sentido, las medidas de mitigación pasan por el desarrollo de sistemas de control y auditoría de 
+
+las  compra  públicas,  la  mejora  de  los  sistemas  de  apelaciones,  incremento  de  los  niveles  de 
+
+acceso a la información, la implementación de medidas preventivas como códigos de conducta 
+
+de  los  compradores  públicos,  marcos  legales  que  definen,  regulen  y  sanciones  las  prácticas 
+
+corruptas, y mecanismos seguros de denuncia. 
+
+Dada la baja capacidad que se observa en muchas de las unidades de adquisiciones de las 
+
+entidades del sector, además de las actividades de fortalecimiento de capacidades de las áreas de 
+
+compras (capacitación, mejora de procesos y regulaciones, preparación de documentos estándar 
+
+para adquisiciones, sistemas de información, introducción de mecanismos de compra electrónica, 
+
+etc),  la  tercerización  de  estos  servicios  también  es  una  alternativa  viable  cuando  se  trata  de 
+
+compras urgentes. Una particularidad de las adquisiciones de entidades de seguridad a tener en 
+
+cuenta es también el posible secreto para compras de bienes o servicios destinados a actividades 
+
+de inteligencia o armas, que en todo caso debe ser evitado o reducido al mínimo indispensable. 
+
+En  todo  caso,  siempre  es  importante  la  evaluación  permanente  de  la  efectividad  de  las 
+
+medidas tomadas para responder a los riesgos identificados, y así estar en condiciones de tomar 
+
+las medidas correctivas que sean oportunas. 
+
+En  la  Tabla  del  apéndice  2  se  presenta  un  resumen  de  los  principales  riesgos  y  las 
+
+medidas de mitigación correspondientes. 
+
+42 
+
+ 
+8.  REFLEXIONES FINALES 
+
+La  corrupción  y  la  inseguridad  ciudadana  están  íntimamente  relacionadas.  Los  actores 
+
+involucrados  en  los  programas  de  seguridad  ciudadana  son  particularmente  susceptibles  a  la 
+
+corrupción  por  los  bajos  sueldos,  débiles  controles  y  en  general  la  debilidad  institucional  de 
+
+muchos de los países de la región.  
+
+Por  tanto,  es  necesario  definir  un  proceso  sistemático  de  identificación,  análisis  y 
+
+respuesta  a  los  riesgos  de  corrupción  en  programas  de  seguridad  ciudadana.  La  metodología 
+
+propuesta, basada en la cadena de valor, permite esto, por lo que incrementa la probabilidad de 
+
+éxito de estos programas de alcanzar sus objetivos esperados de alcance, costo, tiempo y calidad. 
+
+Se complementa con metodologías de análisis de riesgo sistémico de corrupción de los países. 
+
+De no controlarse  el círculo vicioso corrupción-inseguridad, muchos de los países de la 
+
+región podrían caer en grave inestabilidad política, pérdida de control de su territorio y guerras 
+
+de grupos rivales extendidas con pérdidas de vidas en la población. 
+
+43 
+
+ 
+ 
+BIBLIOGRAFÍA 
+
+U Alda,  Erik  y  Beliz,  Gustavo  (2007).  “¿Cuál  es  la  salida?:  La  agenda  inconclusa  de  la 
+
+seguridad ciudadana”. Washington. BID. 
+
+U Ammons, David N. (99), “Medidas de Desempeño en los Gobiernos Estatales y Locales”, en 
+
+De  Burócratas  a  Gerentes:  Las  ciencias  de  la  gestión  aplicadas  a  la  administración  del 
+
+Estado, BID. 
+
+U Arias, Patricia (2009). “Mandato Policial y Conceptos de la Seguridad en América Latina”, 
+
+Red Latinoamericana de Policías y Sociedad, Brasil. 
+
+U Banco Interamericano de Desarrollo (2001). “Fortalecimiento de un Marco Sistémico contra 
+
+la corrupción para el Banco Interamericano de Desarrollo” GN-2117. 
+
+U Banco  Interamericano  de  Desarrollo  (2003).  “Estrategia  para  la  modernización  del  Estado” 
+
+GN-2235-1 
+
+U Banco Interamericano de Desarrollo (2006). “Marco para combatir el fraude y la corrupción 
+
+en las actividades financiadas por el Banco Interamericano de Desarrollo”. GN-2414-3. 
+
+U Banco Interamericano de Desarrollo (2009). “Guías operativas para el diseño y ejecución de 
+
+programas en el área de seguridad y convivencia ciudadana”. GN-2535 
+
+U Banco Interamericano de Desarrollo (2009). “Plan de acción para el apoyo a los países en sus 
+
+esfuerzos por combatir la corrupción y fomentar la transparencia (PAACT)”. OP-262-1 
+
+U Campos,  Edgardo  y  Sanjay  Pradhan  (2007),  “The  many  faces  of  the  corruption:  Tracking 
+
+vulnerabilities at the sector level”. World Bank, Washington D.C. 
+
+U Crank, John P. "Digging up police skeletons", The Economist, 11 December 1999 
+
+U Dammert,  Lucia  (2007).  “Report  on  the  Security  Sector  in  Latin  America  and  the 
+
+Caribbean”. FLACSO (ed) Santiago, Chile.  
+
+U DEMOSCOPÍA  (2007).  “Maras  y  Pandillas,  Comunidad  y  Policía  en  Centroamérica”.  San 
+
+José, Costa Rica. 
+
+U Echebarría, Koldo (2007). Corrupción. Un análisis a través de indicadores de gobernabilidad. 
+
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=1970958 consultado 20/07/10. 
+
+U García,  Mauricio  (2007),  “Gestión  de  Riesgos  de  Políticas  Públicas:  Un  gran  ausente  en  la 
+
+Reforma del Estado”, en Gestión Pública, Vol. 1, N° 4, Lima, Perú. 
+
+44 
+
+ 
+ 
+U Hubert,  Williams  (1992),  "Why  we  should  establish  a  police  code  of  ethics",  Criminal 
+
+Justice Ethics, vol. 11, no. 2. 
+
+U Hubert, Williams (1996) "Cops on the edge", Nieman Reports, vol. 50, no. 3 
+
+U Inter‐American  Commission  on  Human  Rights  (CIDH).  (2009).  “Informe  sobre  seguridad 
+
+ciudadana  y  derechos  humanos  =  Report  on  citizen  security  and  human  rights  / 
+
+Inter‐American Commission on Human Rights.” OEA. 
+
+U Kaufman,  Daniel;  Aart  Kraay  y  Massimo  Mastruzzi  (2009).  Governance  Matters  VIII. 
+
+Aggregate  and  individual  governance  indicators  1996  –  2008.  The  World  Bank,  Policy 
+
+Research Working Paper 4978.   
+
+U Klitgaard,  Robert  (1996),  Combatiendo  la  corrupción.  Información  e  incentivos.  En  Nueva 
+
+Sociedad 145, septiembre – octubre 1996, pp. 56 – 65. 
+
+U Ministerio  del  Interior  de  Chile  (2009),  Cuenta  Pública  2008.  Estrategia  Nacional  de 
+
+Seguridad Pública. Santiago de Chile. 
+
+U Mohor,  Alejandra  y  Hugo  Frühling.  2006.  Reflexiones  en  torno  a  la  corrupción  policial. 
+
+Centro de Estudios en Seguridad Ciudadana, Santiago de Chile. 
+
+U National Institute of Justice and the Office of Community Oriented Policing Services (2007). 
+
+Police Integrity. Public service with honor. Washington D.C., January. 
+
+U Newburn,  Tim  (1999),  Understanding  and  preventing  police  corruption:  lessons  from  the 
+
+literature. Police Research Series, Paper 110, Research Development Statistics, London. 
+
+U Nye, Joseph (1889) "Political Corruption: A Cost Benefit Analysis in Political Corruption: A 
+
+Handbook”, A.J. 
+
+U OCDE/CAD  (2007a),  “Metodología  para  la  evaluación  de  los  sistemas  nacionales  de 
+
+adquisiciones públicas”, OECD Publishing. 
+
+U OCDE/CAD (2007b). “Manual del OCDE/CAD sobre la reforma del sistema de seguridad: 
+
+apoyo a la seguridad y a la justicia”. OECD Publishing, Paris, Francia. 
+
+U Osse,  Anneke  (2007)  “  Entender  la  labor  policial  :  recursos  para  activistas  de  derechos 
+
+humanos” Amnistía Internacional (ed) Madrid. España 
+
+U PMI (2008),  “A Guide to the Project  Management Body of  Knowledge (PMBOK Guide)”, 
+
+4th Edition, Project Management Institute, Pennsylvania. 
+
+U PNUD (2009) Informe sobre Desarrollo Humano para América Central 2009-2010.  
+
+45 
+
+ 
+U Porter,  Michael  (1996).  “What  is  strategy?”  Harvard  Business  Review, Noviembre-
+
+Diciembre, 61-78. The value chain 
+
+U Programa Estado de la Nación (2008). “Informe Estado de la Región en Desarrollo Humano 
+
+Sostenible”. San José, Costa Rica 
+
+U Quintana,  Juan;  et  al  (2005),  “Policía  y  democracia  en  Bolivia:  una  política  institucional 
+
+pendiente” Fundación PIEB(ed) La Paz, Bolivia. 
+
+U Savona, Ernesto Ugo (2006) “Metodología para medir la probabilidad de que se produzca un 
+
+acto determinado de la delincuencia organizada”, Naciones Unidas. Foro sobre el Delito y La 
+
+Sociedad, Volumen 5, número 1.  
+
+U Transparency Internacional (2008), “Índice de Fuentes de Soborno 2008”. 
+
+U Transparency Internacional (2009a), “Índice de Percepción de la Corrupción 2009”. 
+
+U Transparency  Internacional  (2009b),  “Informe  sobre  el  Barómetro  Global  de  la  Corrupción 
+
+de Transparency International 2009”. 
+
+U Weisburd,  D.,  Greenspan,  R.,  Hamilton,  E.  E.,  Bryant,  K.  and  Williams,  H.  (2001),  “The 
+
+Abuse of Police Authority: a National Study of Police Officers' Attitudes” Police Foundation, 
+
+Washington, D.C. 
+
+46 
+
+ 
+ 
+APÉNDICE 1:  CADENA DE VALOR DE LA SEGURIDAD CIUDADANA 
+
+(cid:127) Liderar el 
+
+desarrollo de 
+actividades 
+
+Infraestructura de la Organización 
+
+(cid:127) Fortalecer 
+
+capacidad de 
+coordinación 
+interinstitucional 
+
+(cid:127) Modernizar 
+estructuras y 
+procesos de 
+trabajo 
+
+(cid:127) Desarrollar 
+planes 
+institucionales 
+
+(cid:127) Asegurar y 
+controlar 
+recursos 
+financieros 
+
+Identificar necesidades de 
+información 
+
+Desarrollar Tecnología 
+
+(cid:127) Desarrollar sistemas de 
+
+información 
+Gestionar Recursos Humanos 
+
+(cid:127) Analizar información 
+
+(cid:127) Definir Plan de 
+
+RRHH 
+
+(cid:127) Diseñar perfiles  
+(cid:127) Reclutar 
+personal 
+
+(cid:127) Seleccionar 
+personal  
+(cid:127) Desarrollar 
+personal 
+
+(cid:127) Capacitar 
+personal  
+
+(cid:127) Evaluar personal 
+
+(cid:127) Recompensar 
+personal 
+
+Gestionar Abastecimiento 
+
+(cid:127) Adquirir bienes 
+
+(cid:127) Distribuir Bienes 
+(cid:127) Mantener bienes 
+
+Rehabilitar y 
+Reinsertar a la 
+Sociedad 
+
+(cid:127) Atender 
+Víctimas 
+(cid:127) Rehabilitar a 
+Privados de 
+Libertad 
+
+Supervisar y 
+Evaluar Políticas 
+
+(cid:127) Monitorear 
+ejecución de 
+programas 
+
+(cid:127) Evaluar impacto 
+(cid:127) Rendir cuentas 
+(cid:127) Controlar 
+ejecución 
+
+(cid:127) Planear 
+
+adquisiciones y 
+contrataciones 
+Desarrollar 
+Políticas de 
+Seguridad 
+Incorporar tema 
+en la agenda 
+pública 
+(cid:127) Analizar 
+
+requerimientos 
+
+(cid:127) Movilizar 
+recursos 
+(cid:127) Aprobar 
+
+normativa 
+
+(cid:127) Supervisar 
+servicios de 
+terceros 
+
+Controlar y 
+Sancionar 
+
+(cid:127) Mantener 
+Seguridad 
+Pública 
+(cid:127) Procesar 
+
+Denuncias 
+(cid:127) Ejercer Acción 
+
+Penal 
+Juzgar Causas 
+(cid:127) Proveer Defensa 
+
+Judicial 
+(cid:127) Controlar 
+Fronteras 
+
+(cid:127) Contratar 
+
+servicios de 
+terceros 
+
+Prevenir la 
+Violencia 
+
+(cid:127) Mejorar la 
+Interacción 
+Social en las 
+Comunidades 
+
+(cid:127) Prevenir 
+Violencia 
+Doméstica, 
+Sexual y de 
+Género 
+(cid:127) Prevenir 
+Violencia 
+Juvenil 
+
+(cid:127) Prevenir factores 
+situacionales 
+
+(cid:127) Prevenir 
+
+criminalidad 
+organizada 
+
+Fuente: Elaboración Propia 
+
+47 
+
+ 
+ 
+ 
+(cid:127)
+ 
+(cid:127)
+(cid:127)
+APÉNDICE 2: PRINCIPALES RIESGOS Y MEDIDAS DE MITIGACIÓN 
+
+MACRO 
+PROCESO 
+
+RIESGO 
+
+RESPUESTA 
+
+MACRO PROCESOS CRÍTICOS 
+Desarrollar 
+Políticas 
+Seguridad 
+
+de 
+
+de 
+
+políticas 
+
+(cid:127) Desarrollo 
+de 
+seguridad  que  favorecen  a  un 
+grupo de interés en particular 
+(cid:127) Asignación 
+y 
+recursos 
+de 
+beneficios  a  cambio  de  apoyo 
+institucional. 
+
+Prevenir la 
+Violencia 
+
+(cid:127) Direccionamiento  político  en  el 
+uso  de  los  recursos  destinados  a 
+programas de prevención. 
+
+48 
+
+y 
+
+la  actuación  de 
+justicia  ante 
+
+(cid:127) Desarrollar  observatorios  de  seguridad 
+ciudadana 
+proporcionen 
+que 
+información objetiva sobre la situación 
+de  la  criminalidad  en  el  país  y  que 
+faciliten la discusión pública acerca  de 
+las  opciones  de  estrategias  para 
+afrontar la problemática 
+(cid:127) Fortalecer mecanismos de rendición de 
+la 
+cuentas  sobre 
+administración  de 
+la 
+sociedad 
+organizaciones 
+civil 
+internacionales especializadas 
+(cid:127) Desarrollar  políticas  de 
+seguridad 
+integrales y vincular el apoyo externo a 
+estas políticas 
+(cid:127) Fortalecimiento  de  la  independencia 
+institucional,  particularmente  de 
+la 
+policía y poder judicial. 
+(cid:127) Implementar  programas  de  policía 
+comunitaria 
+(cid:127) Implementar mecanismos que aseguren 
+la  pluralidad  en  la  partición  de  la 
+población en la definición de los planes 
+locales de seguridad ciudadana 
+(cid:127) Implementar  mecanismos  objetivos, 
+transparentes  y  verificables  para  la 
+los 
+selección  de  beneficiarios  de 
+programas,  para  asegurar  que  esta  es 
+independiente  de  su  afiliación  política, 
+religión  o  cualquier  otra  forma  de 
+discriminación. 
+(cid:127) Desarrollar  mecanismos  de  control 
+ciudadano 
+comunidad 
+organizada  o  por  organizaciones  no 
+gubernamentales 
+reconocido 
+prestigio  en  la  materia  que  generen 
+los  mecanismos  de 
+sinergias  con 
+los  distintos 
+control 
+procesos de prevención. 
+(cid:127) Desarrollar  salvaguardas  para  evitar  la 
+cooptación  y  conflicto  de  intereses  de 
+
+externo 
+
+por 
+
+de 
+
+en 
+
+la 
+
+ 
+ 
+Controlar y 
+Sancionar 
+
+(cid:127) Cuando  un  policía,  en  virtud  de 
+su  función,  recibe  alguna  forma 
+de  ventaja  material  sin  violar  la 
+ley,  como  una  comida,  un 
+servicio, una invitación 
+(cid:127) La recepción de bienes, servicio o 
+dinero 
+favorecer 
+para 
+permanentemente los intereses de 
+un  tercero,  como  por  ejemplo, 
+otorgar  preferencia  al  patrullaje 
+de  una determinada zona, calle o 
+cuadra de la ciudad.  
+(cid:127) Robo de oportunidad en la escena 
+de un delito o a las víctimas de un 
+accidente de tránsito 
+(cid:127) Aceptar  un  soborno  para  no  dar 
+cumplimiento  a  la  ley,  como  por 
+ejemplo, detener a una persona 
+(cid:127) Protección 
+actividades 
+de 
+ilegales, de manera de permitir su 
+continuación 
+(prostitución, 
+drogas, pornografía) 
+(cid:127) Arreglos  que  llevan  a  socavar  la 
+investigación criminal, que puede 
+implicar,  por  ejemplo,  la  pérdida 
+de los elementos probatorios 
+(cid:127) Actividades 
+propiamente  dichas 
+por 
+homicidios, 
+robos, estafas, etc). 
+(cid:127) Compra 
+de 
+beneficios  al 
+la 
+institución  (vacaciones,  cambios 
+de colocación, promociones) 
+(cid:127) Sembrar evidencias. 
+(cid:127) Condicionar 
+la  activación  del 
+mecanismo  de  respuesta  policial 
+al pago de un soborno 
+(cid:127) Soborno 
+investigación 
+o 
+conseguir que se archive. 
+
+criminales 
+realizadas 
+(secuestros, 
+tráfico  de  drogas, 
+
+intercambio 
+interior  de 
+
+la 
+para 
+
+orientar 
+
+policías 
+
+fiscal 
+
+para 
+
+o 
+
+49 
+
+la 
+
+de 
+
+en 
+
+actos 
+
+canales 
+
+pública 
+
+procedimientos 
+
+los  sectores  de  la  sociedad  civil  que 
+participan en los esquemas de selección 
+de  beneficiarios,  implementación  de 
+programas y supervisión. 
+(cid:127) Establecer 
+permanentes, 
+confidenciales  y  de  fácil  acceso  de 
+denuncia 
+de 
+corrupción 
+(cid:127) Revisar  y  dinamizar 
+los  procesos 
+involucrados 
+recepción, 
+investigación,  y  sanción  de  denuncias 
+sobre corrupción.  
+(cid:127) Capacitar  al  personal  directamente 
+involucrado  en  el  uso  de  la  fuerza  en 
+materia  de  derechos  humanos  y 
+procedimientos policiales. 
+(cid:127) Implementar  Códigos  de  Ética  con  los 
+correspondientes  mecanismos 
+de 
+monitoreo. 
+(cid:127) Desarrollar 
+para 
+identificar  las  irregularidades  y  los 
+delitos,  especialmente  sus  patrones, 
+para  recomendar 
+las  medidas  que 
+contribuyan a su superación. 
+(cid:127) Fortalecer  controles  de  salida  del  país 
+de menores de edad. 
+(cid:127) Reglamentar 
+de 
+intervenciones y operativos policiales a 
+fin  de  reducir 
+la  oportunidad  de 
+corrupción. 
+(cid:127) Desarrollar  mecanismos  de  control 
+ciudadano 
+comunidad 
+organizada  o  por  organizaciones  no 
+gubernamentales 
+reconocido 
+prestigio  en  la  materia  que  generen 
+los  mecanismos  de 
+sinergias  con 
+control 
+los  distintos 
+procesos de control y sanción. 
+(cid:127) Desarrollar  salvaguardas  para  evitar  la 
+cooptación  y  conflicto  de  intereses  de 
+los  sectores  de  la  sociedad  civil  que 
+participan  en  la  supervisión  de  las 
+actividades  del  proceso  de  controlar  y 
+sancionar. 
+(cid:127) Establecer  mecanismos  automatizados 
+que refuercen el control de la cadena de 
+
+realización 
+
+externo 
+
+por 
+
+de 
+
+en 
+
+la 
+
+la 
+
+ 
+para 
+
+(cid:127) Cobro de comisión por los bienes 
+recuperados. 
+(cid:127) Pago  de 
+el 
+soborno 
+otorgamiento de visas, pasaportes 
+y autorizaciones  de  salida  del 
+país. 
+(cid:127) Cobro de soborno para permitir el 
+contrabando 
+de  mercancías, 
+tráfico ilícito de drogas e insumos 
+químicos, de armas y municiones, 
+de  madera,  de  bienes  culturales, 
+de  animales  y  de 
+recursos 
+naturales protegidos. 
+(cid:127) Sobornos  para  evitar  sanciones 
+relacionadas  al  control  de  las 
+reglas de tránsito vehicular.  
+(cid:127) Pago  o  presión  política 
+a 
+autoridades 
+para 
+obtener  resoluciones  favorables 
+contrarias  a  la  Ley  (prevaricato), 
+a favor  o  contrarias  de  una 
+persona o partido político. 
+(cid:127) Pagos  a  personal  administrativo 
+de  auxilio  judicial  o  fiscal  para 
+extraviar 
+acelerar 
+trámites, 
+manipular 
+expedientes, 
+notificaciones 
+alterar 
+documentos. 
+(cid:127) Falta  de  independencia  judicial 
+por  nombramiento  político  de 
+jueces y fiscales 
+(cid:127) Uso  de 
+la  fuerza  pública  o 
+inteligencia  para  fines  políticos. 
+Esto  incluye  extorsión,  agresión, 
+violación derecho de privacidad. 
+
+judiciales 
+
+o 
+
+50 
+
+justicia 
+
+vinculados 
+
+custodia de la prueba. 
+(cid:127) Desarrollar  programas  de 
+alternativa. 
+(cid:127) Desarrollar  estrategias  para  agilizar  el 
+funcionamiento de la administración de 
+justicia. 
+(cid:127) Establecer  mecanismos  de  asignación 
+aleatoria de causas judiciales 
+(cid:127) Establecer  sistemas  de 
+información 
+para  el  seguimiento  y  auditoría  de  los 
+casos  conducidos  en  sede  fiscal  y 
+judicial. 
+(cid:127) Simplificar 
+procedimientos 
+administrativos 
+al 
+otorgamiento  de  permisos  o  derechos, 
+definir  los,  plazos,  costos  oficiales 
+asociados, y publicarlos. 
+(cid:127) Tercerizar  a  entidades  financieras  la 
+recaudación  y  el  manejo  de  recursos 
+por servicios públicos. 
+(cid:127) Desarrollar  mecanismos  de  control 
+patrimonial de funcionarios. 
+(cid:127) Incrementar  el  conocimiento  de 
+la 
+existencia, 
+sobre 
+población 
+funcionamiento  y  formas  de  acceso  a 
+los  mecanismos  disponibles  para  la 
+presentación de denuncias y control de 
+la corrupción en las entidades. 
+(cid:127) Reducir 
+la 
+participación 
+población  en  actos  de  corrupción,  a 
+través de la generación conciencia en la 
+población sobre los efectos dañinos que 
+ésta produce.  
+(cid:127) Disminuir 
+las  oportunidades  para 
+realizar prácticas corruptas y reducir la 
+discrecionalidad 
+(cid:127) Prohibir  a 
+fuerzas 
+integrantes  de 
+policiales 
+o 
+participar, 
+indirectamente,  en  empresas  dedicadas 
+a la venta de armas (evitar conflictos de 
+interés). 
+(cid:127) Revisar 
+protocolos 
+policial en materia de tránsito. 
+(cid:127) Desarrollar  protocolos  de  destrucción 
+de 
+bienes 
+inmediata 
+incautados (madera ilegal, drogas, etc). 
+
+actuación 
+
+directa 
+
+valor 
+
+de 
+
+de 
+
+de 
+
+la 
+
+la 
+
+ 
+Rehabilitar y 
+Reinsertar a la 
+Sociedad 
+
+con 
+
+(cid:127) Requerir  pagos  para  obtener 
+beneficios  penitenciarios  que  no 
+corresponden 
+su 
+peligrosidad. 
+(cid:127) Requerir  pagos  a  cambio  de 
+seguridad en los establecimientos 
+penitenciarios, 
+alimentación 
+básica,  o  ingreso  irregular  de 
+visitas o bienes (armas, celulares, 
+drogas, etc). 
+(cid:127) Permitir 
+los 
+fugas 
+establecimientos  penitenciarios  o 
+centros de reclusión. 
+
+de 
+
+Supervisar 
+Evaluar 
+Políticas 
+
+y 
+
+transparencia  en 
+
+(cid:127) Falta  de 
+la 
+información  sobre  desempeño  y 
+resultados de los programas. 
+
+a 
+
+en 
+
+judicial 
+
+mecanismos 
+
+de 
+través  de 
+
+(cid:127) Implementar  procesos  de  trabajo  con 
+controles apoyados en tecnologías de la 
+información  (control  de  ingresos  y 
+salidas  a  los  centros  de  detención, 
+registro de internos, etc). 
+(cid:127) Establecer  mecanismos  de  control 
+permanente 
+establecimientos 
+penitenciarios  o  de  internamiento  de 
+jóvenes en conjunto con organizaciones 
+de  derechos  humanos  de  reconocido 
+prestigio  internacional,  con  los  cuales 
+se  definan  planes  de  acción  y 
+monitoreo,  líneas  de  base  y  metas  que 
+progresivamente se prevén alcanzar. 
+(cid:127) Establecer 
+de 
+transparencia  en  el  otorgamiento  de 
+beneficios penitenciarios. 
+(cid:127) Institucionalizar  mecanismos 
+supervisión 
+juzgados de ejecución penal. 
+(cid:127) Implementar  mecanismos 
+para el monitoreo de los programas 
+(cid:127) Implementar auditorías operativas o de 
+gestión. 
+(cid:127) Mejoras en los sistemas de información 
+al público. 
+(cid:127) Promover 
+ciudadanía. 
+(cid:127) Cursos de capacitación. 
+(cid:127) Fortalecimiento  del  control  interno  en 
+las  entidades  (capacitación  a  unidades 
+de 
+revisión  de 
+interno, 
+protocolos  o  guías  de  actuación, 
+construcción 
+de 
+cuadernos  de  trabajo,  desarrollo  de 
+sistemas  de  información  requeridos, 
+incorporación  de  normas  de  control 
+interno  en 
+las 
+entidades). 
+(cid:127) Fortalecer  mecanismos 
+transparentes 
+de seguimiento a la implementación de 
+las recomendaciones de las auditorías. 
+
+la  participación  de 
+
+los  procesos  de 
+
+conservación 
+
+efectivos 
+
+control 
+
+la 
+
+y 
+
+MACRO PROCESOS DE APOYO 
+Infraestructura 
+de 
+la 
+Organización 
+
+(cid:127) Falta  de  transparencia  en  el  uso 
+de los recursos. 
+
+(cid:127) Introducir  prácticas  de  la  gestión  para 
+resultados en las organizaciones. 
+
+51 
+
+ 
+Desarrollar 
+Tecnología 
+
+(cid:127) Malversación de recursos. 
+
+Gestionar 
+Recursos 
+Humanos 
+
+contrata 
+
+(cid:127) Nepotismo. 
+a 
+Se 
+personal  por  razones  distintas  al 
+mérito 
+amistad, 
+(parentesco, 
+afiliación política) 
+(cid:127) Asignación  a  ciertas  posiciones 
+atractivas  para 
+especialmente 
+(drogas, 
+actos  de  corrupción 
+lo 
+tránsito  e 
+operativo, logística o inspectoría) 
+por  cobros  o  con  la  expectativa 
+de  recibir  parte  del  beneficio 
+ilegal. 
+(cid:127) Soborno a colegas para impedir 
+el curso normal de las 
+investigaciones administrativas. 
+
+inteligencia  en 
+
+52 
+
+y 
+
+de 
+
+de 
+
+roles 
+
+a 
+de 
+
+administrativa 
+tecnologías 
+
+(cid:127) Simplificación 
+incorporación 
+información. 
+(cid:127) Definición 
+clara 
+responsabilidades. 
+(cid:127) Producir  informes  públicos  periódicos 
+sobre el estado de la corrupción en los 
+procesos vinculados al programa. 
+(cid:127) Desarrollar  mecanismos  de  control  de 
+usos  de  fondos  concursables  y  otros 
+mecanismos  de 
+financiamiento  de 
+iniciativas de seguridad ciudadana. 
+(cid:127) Aprobar  leyes  de  carrera  funcionaria 
+que  excluyan  la  influencia  política  en 
+los  procesos  de  la  gestión  de  recursos 
+humanos. 
+(cid:127) Publicación y difusión de vacantes. 
+(cid:127) Outsourcing de procesos de selección. 
+(cid:127) Incorporación  de  autoridades  locales  y 
+de  sociedad  civil  en  procesos  de 
+promoción. 
+(cid:127) Mecanismos  de  concurso  competitivo 
+para llenar vacantes. 
+(cid:127) Salarios competitivos. 
+(cid:127) Programas  de  capacitación  orientados 
+al 
+competencias 
+requeridas en los distintos perfiles. 
+(cid:127) Reconocimiento 
+institucional 
+permanente  de  la  conducta  proba  y 
+desarrollo de una cultura de valores. 
+(cid:127) Reforzar  mecanismos  objetivos  y 
+transparentes  para  la  reubicación  del 
+personal y asignación de beneficios 
+(cid:127) Desarrollo  y  fortalecimiento  de  entes 
+de asuntos internos, particularmente en 
+los 
+(i) 
+independencia  de  las  áreas  de  asuntos 
+internos  del  mando  funcional  y  su 
+jerarquía  en  las  áreas  ministeriales 
+respectivas,  o  incluso  su  consagración 
+(ii) 
+como 
+las 
+régimen 
+reglas  del  debido  proceso,  tanto  para 
+las  víctimas  de  abusos  como  para  el 
+personal  funcional  (policías,  jueces, 
+
+jurídico  que  garantice 
+
+independientes; 
+
+desarrollo 
+
+siguientes 
+
+aspectos: 
+
+entes 
+
+de 
+
+ 
+ 
+(iv) 
+
+adecuadas 
+
+constitución 
+
+los  criterios  de 
+
+información  para 
+
+fiscales);  (iii)  vinculación  entre  las 
+áreas  de  asuntos  internos  y  de  carrera 
+judicial,  fiscal), 
+funcional  (policial, 
+e 
+para 
+sanciones 
+las 
+incentivos; 
+de 
+tribunales independientes que canalicen 
+las  investigaciones  de  las  áreas  de 
+asuntos  internos;  (v)  protocolos  de 
+actuación,  que  garanticen  un  adecuado 
+flujo  de  información  entre  las  áreas 
+involucradas;  (vi)  sistemas  de  control 
+patrimonial  sobre  el  personal;  (vii) 
+la 
+sistemas  de 
+recepción,  tramitación  y  seguimiento 
+de las denuncias de corrupción; y  (viii) 
+salvaguardas  para  evitar  la  cooptación 
+y conflicto de intereses  de los sectores 
+de  la  sociedad  civil,  que  participan  en 
+los esquemas de supervisión. 
+(cid:127) Programas  de  protección  de  testigos 
+que denuncien actos de corrupción 
+(cid:127) Transparencia  en 
+sanción. 
+(cid:127) Pactos  de  integridad  con  proveedores 
+que participan en licitación. 
+(cid:127) Capacitar al personal responsable en el 
+análisis de necesidades y la preparación 
+de especificaciones técnicas y términos 
+de referencia 
+(cid:127) Publicitar  el  proyecto  de  bases  para 
+discusión y mejoramiento. 
+(cid:127) Contratar agencias especializadas o del 
+sector privado en compras públicas. 
+(cid:127) Mejorar el control patrimonial. 
+(cid:127) Capacitar  a  auditores  gubernamentales 
+en compras públicas 
+(cid:127) Implementar 
+alertas 
+sistemas 
+tempranas  de  riesgos  de  corrupción  en 
+los sistemas de compras. 
+(cid:127) Diseñar  mecanismos  seguros  para  la 
+denuncias de actos de corrupción 
+(cid:127) Publicar  Planes  de  Adquisiciones, 
+términos 
+referencia, 
+de 
+especificaciones 
+técnicas,  protestas 
+presentadas y su resolución. 
+(cid:127) Publicar 
+
+y  mantener 
+
+actualizada 
+
+de 
+
+Gestionar 
+Abastecimiento
+
+de 
+
+transparencia 
+
+(cid:127) Adquisiciones  de  emergencia  sin 
+aplicación  de  los  controles  de 
+rutina 
+(cid:127) Adquisiciones  orientadas  a  un 
+determinado proveedor  
+(cid:127) Falta 
+y 
+publicidad  de  los  procesos  de 
+adquisición  
+(cid:127) Sustracción 
+almacenados 
+(cid:127) Desviación 
+bienes 
+de 
+adquiridos  al  mercado  (armas, 
+municiones, combustible) 
+(cid:127) Recursos  destinados  a 
+fines 
+distintos  a  los  del  programa  o 
+fueron 
+servicio  para  el  que 
+adquiridos.   
+(cid:127) Adquisición de bienes o servicios 
+a precios sobrevaluados 
+
+bienes 
+
+los 
+
+de 
+
+53 
+
+ 
+sobre 
+sanciones  de 
+
+hallazgos, 
+información 
+las 
+seguimiento  y 
+auditorías que se realicen en materia de 
+compras.  
+(cid:127) Definir y fortalecer roles institucionales 
+a 
+para 
+responsables  de  actos  de  corrupción 
+relacionados 
+del 
+abastecimiento. 
+
+penalmente 
+
+denunciar 
+
+gestión 
+
+la 
+
+a 
+
+Fuente: Elaboración Propia 
+
+54 
+
+ 
+

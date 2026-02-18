@@ -1,0 +1,105 @@
+Formulario de análisis de textos sobre corrupción
+
+1. Tipo de entidad que publica el texto o sitio web:
+a) ONG o de la sociedad civil (ej. Mexicanos Contra la Corrupción y la Impunidad)
+b) Gobierno (ej. Secretaría de la Función Pública)
+c) Organismo internacional (ej. ONUDD)
+d) Prensa tradicional (ej. El Universal, Televisa)
+e) Agencia digital de noticias (ej. Animal Político)
+f) Empresa (ej. Deloitte)
+g) Plataforma educativa o de información general (ej. Wikipedia, Khan Academy)
+h) Academia (ej. universidad o revista científica)
+i) Blog personal o no institucional
+
+2. Origen de la entidad que publica:
+a) Nacional (México)
+b) Internacional
+
+3. Propósito principal del contenido:
+(Puedes seleccionar varios incisos)
+a) Denunciar un caso específico
+b) Reportar o comentar una situación
+c) Mostrar estadísticas del problema
+d) Educar sobre el tema
+e) Exponer una opinión
+f) Propaganda política
+g) Alertar sobre una situación general
+h) Guía o información para denunciar corrupción
+i) Página para registrar una denuncia o aviso
+
+4. Forma en que se presenta la información:
+(Puedes seleccionar varios incisos)
+a) Factual (datos concretos)
+b) Subjetiva (opiniones o interpretaciones)
+c) Emocional (busca provocar reacción emocional)
+
+5. Visión de la corrupción que presenta el texto:
+a) Problema sistémico
+b) Delitos o casos/personas particulares
+c) No aplica
+d) Otro (especificar)
+
+6. Consecuencias de la corrupción mencionadas:
+(Puedes seleccionar varios incisos)
+a) Penas o sanciones legales
+b) Consecuencias no legales (castigo social, pérdida de estatus)
+c) Impunidad (falta de sanciones)
+d) No aplica
+
+7. El texto centra la atención en:
+a) Propuestas de solución a la corrupción
+b) Problemas derivados de la corrupción
+c) Ambos
+d) Ninguna de las anteriores
+
+8. Intención del llamado hacia el lector:
+(Puedes seleccionar varios incisos)
+a) Conocer el diagnóstico de la corrupción
+b) Tomar conciencia general del problema
+c) Tomar acciones frente al problema
+d) Tener esperanza
+e) Realizar denuncias
+f) No aplica
+
+9. Nivel o localidad del problema de corrupción:
+(Puedes seleccionar varios incisos)
+a) Local (ej. Ciudad de México)
+b) Nacional (ej. México)
+c) Regional (ej. América Latina)
+d) Global
+e) No aplica
+
+10. Entes involucrados o descritos en el texto:
+(Puedes seleccionar varios incisos)
+a) Gobierno local (municipal o estatal)
+b) Gobierno nacional
+c) Empresas
+d) Ciudadanos concretos
+e) Empleados públicos sin alto rango
+f) Funcionarios públicos con capacidad de decisión
+g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.)
+h) Organizaciones internacionales o gobiernos extranjeros
+
+11. Nivel de formalidad del lenguaje:
+a) Formal
+b) Informal
+
+12. Nivel educativo al que parece dirigido o necesario para comprenderlo:
+a) Básica (6–11 años)
+b) Media (12–18 años)
+c) Superior (mayores de 18 años)
+
+13. Tono general del texto:
+a) Positivo
+b) Negativo
+
+14. Emociones a las que apela el texto:
+(Puedes seleccionar varios incisos)
+a) Alegría
+b) Tristeza
+c) Ira
+d) Miedo
+e) Sorpresa
+f) Vergüenza
+g) Culpa
+h) Ninguna

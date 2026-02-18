@@ -1,0 +1,2681 @@
+La corrupción como una violación de derechos humanos*
+
+Corruption as a Violation of International Human Rights
+
+ANNE PETERS**
+
+Resumen
+
+Los Estados que se perciben como altamente corruptos son, al mismo tiempo, aquellos 
+
+que tienen deficiencias en materia de derechos humanos. Por ello, ciertas instituciones 
+
+internacionales han asumido la existencia de un círculo de retroalimentación negativa 
+
+entre ambos perjuicios sociales. Éstas alegan que la corrupción menoscaba el disfrute 
+
+de los derechos humanos y, al mismo tiempo, utilizan los derechos humanos como un 
+
+marco normativo para denunciar y combatir la corrupción. Sin embargo, este enfoque 
+
+basado en los derechos humanos ha sido criticado por ser poco preciso y por extra­
+
+limitarse en su alcance. Para abordar dicha controversia, este artículo tiene por objeto 
+
+examinar  con  mayor  detalle  la  calidad  jurídica  de  la  supuesta  "conexión"  entre  la 
+
+corrupción y los derechos humanos. Específicamente, el artículo hace la pregunta dual 
+
+de si, y en qué condiciones, los actos u omisiones corruptos pueden ser calificados 
+
+* Texto publicado originalmente como Peters, A. (2019), "Corruption as a Violation of International 
+Human Rights", European Journal of International Law (29) 4, pp. 1251­1287. Traducción al español por 
+Lucas Sánchez y Henry Jiménez. Se reproduce con autorización de la autora.
+
+**  Directora  del  Instituto  Max  Planck  de  Derecho  Público  Comparado  y  Derecho  Internacional,  en 
+Heidelberg (Alemania), profesora en las universidades de Heidelberg, Freie Universität en Berlín, y Basilea 
+(Suiza).
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+123
+
+ 
+técnicamente como violaciones del derecho internacional de derechos humanos (aná­
+
+lisis doctrinal del derecho positivo) y si la corrupción debería ser conceptualizada como 
+
+una violación de derechos humanos (evaluación normativa). La respuesta es que tal 
+
+reconceptualización  es  jurídicamente  razonable  desde  el  análisis  positivo,  aunque 
+
+ello hace que surjan problemas doctrinales muy complejos. La evaluación normativa es 
+
+ambigua, pero los beneficios prácticos de dicha conceptualización parece que superan 
+
+al riesgo de afianzar el escepticismo antioccidental hacia la lucha contra la corrupción 
+
+y la ampliación desmedida de los derechos humanos. Enfocar la corrupción no sólo 
+
+como un problema de derechos humanos, sino incluso como una potencial violación a 
+
+estos derechos, puede contribuir a cerrar la brecha en la implementación de los instru­
+
+mentos internacionales anticorrupción y puede complementar de manera útil el enfoque 
+
+predominante basado en el derecho penal.
+
+Palabras clave: Derechos humanos, derecho penal, derecho internacional, violaciones 
+a los derechos humanos.
+
+Abstract
+
+States perceived to be highly corrupt are at the same time those with a poor human 
+
+rights record. International institutions have therefore assumed a negative feedback loop 
+
+between both social harms. They deplore that corruption undermines the enjoyment 
+
+of human rights and, concomitantly, employ human rights as a normative framework 
+
+to denounce and combat corruption. But the human rights­based approach has been 
+
+criticized as vague and over­reaching. Addressing this controversy, this article seeks to 
+
+examine the legal quality of the assumed ‘link’ between corruption and human rights 
+
+more closely. It specifically asks the dual question whether and under what conditions 
+
+corrupt acts or omissions can technically be qualified as an actual violation of interna­
+
+tional human rights (doctrinal analysis of the positive law) and whether corruption should 
+
+be conceptualized as a human rights violation (normative assessment). The answer is 
+
+that such a reconceptualization is legally sound as a matter of positive analysis, although 
+
+very difficult doctrinal problems arise. The normative assessment is ambivalent, but 
+
+the practical benefits of the conceptualization seem to outweigh the risks of reinforcing the 
+
+anti­Western scepticism towards the fight against corruption and of overblowing human 
+
+rights. The framing of corruption not only as a human rights issue but even as a potential 
+
+human rights violation can contribute to closing the implementation gap of the inter­
+
+national anti­corruption instruments and can usefully complement the predominant 
+
+criminal law­based approach.
+
+Keywords: Human rights, criminal law, international law, human rights violations.
+
+124 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALES1. Planteamiento del problema 
+
+La corrupción ocupa un lugar importante en la agenda de los derechos humanos 
+y el desarrollo. La Agenda 2030 para el desarrollo sostenible, adoptada en 2015 
+por la Asamblea General de la Organización de las Naciones Unidas (ONU), 
+solicita a los Estados "reducir sustancialmente la corrupción y el soborno en 
+todas sus formas" y devolver todos los activos robados para el año 2030 (A/RES/ 
+70/1, esp. 16.4 y 16.5). En sus contribuciones oficiales para esta Agenda, los 
+organismos de derechos humanos de la ONU han identificado "la mala admi­
+nistración de recursos y la corrupción como obstáculos para la distribución de 
+recursos destinados a promover derechos de igualdad" (ONU­Sustainable Deve­
+lopment Goals, 2016, p. 7).1 De hecho, los países con altos índices de corrupción 
+son los mismos que tienen deficiencias en materia de derechos humanos.2 Por 
+ejemplo, los Estados que ocupan los puestos más bajos en el Índice de Percep­
+ción de la Corrupción de Transparencia Internacional de 2017 son Siria, Sudán 
+del  Sur  y  Somalia,  todos  los  cuales  tienen  graves  problemas  de  derechos 
+humanos.3
+
+Ante  esta  situación,  tanto  académicos  como  profesionales  han  adoptado  un 
+enfoque hacia la corrupción basado en los derechos humanos (Pearson, 2001, 
+p.  30).4  Los  documentos  clave  de  la  ONU  fundamentan  este  enfoque  en  la 
+afirmación de que la corrupción tiene un "impacto negativo" en el disfrute de 
+los derechos humanos;5 que la corrupción menoscaba los derechos humanos;6 
+
+1 [N. T.] Traducción no oficial.
+2 Para un análisis estadístico, véase Landman y Schudel (2007), comprobando otras variables explicativas 
+(nivel de democracia, prosperidad, tamaño de la población y proporción de gasto público). Por supuesto 
+existen numerosas violaciones de derechos humanos que tienen poco o nada que ver con la corrupción, como 
+la discriminación contra la mujer. A la inversa, también existen formas de corrupción que apenas tienen un 
+vínculo con violaciones de derechos humanos, como el financiamiento ilegal de partidos políticos.
+
+3 Sobre la situación de derechos humanos, véase el Informe 2016/17 de Amnistía Internacional (2017).
+4 Véase, especialmente, ICHRP (2009); Boersma y Nelen (2010); Boersma (2012); y Olaniyan (2014).
+5 Véase el preámbulo de AGNU (2015, Doc. A/RES/69/199); Consejo de Derechos Humanos (2016, 
+UN Doc. A/HRC/32/22); Consejo de Derechos Humanos (2015, A/HRC/Res. 29/11); ONU (2015, UN Doc. 
+A/HRC/28/73, esp. párr. 21); y Navi Pillay (2013, pp. 8­10).
+
+6 En el segundo párrafo preambular de Comisión de Derechos Humanos de la ONU (2005, E/CN.4/
+Sub.2/2005/L.24/Rev.1) se lee: "Profundamente preocupada por el hecho de que el fenómeno de la corrupción 
+perjudica gravemente al disfrute de los derechos humanos, ya sean económicos, sociales y culturales o civiles 
+y políticos" (énfasis añadido).
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+125
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+que  "tiene  un  grave  y  devastador  efecto"  sobre  el  disfrute  de  los  derechos 
+humanos;7 que "la corrupción en el gobierno, en las instituciones y en la socie­
+dad en general constituye un obstáculo importante para el disfrute de los de­
+rechos humanos";8 y que las violaciones de los pactos de derechos humanos "son 
+facilitadas cuando existen medidas de protección insuficientes para abordar la 
+corrupción de funcionarios públicos o la corrupción entre agentes privados".9 
+A su vez, se afirma que el enfoque de derechos humanos "es un marco normativo 
+de gran utilidad" para abordar la corrupción (ONU, UN Doc. GA 72/137, 
+párr. 4). Esta afirmación de las instituciones de derechos humanos de la ONU 
+ha  sido  cuestionada  y  el  enfoque  basado  en  los  derechos  humanos  ha  sido 
+criticado por su "falta de claridad conceptual" (Rose, 2016, p. 417).
+
+Para abordar tal controversia, este artículo tiene como objeto examinar la calidad 
+jurídica de la supuesta ‘conexión’ entre la corrupción y los derechos humanos, 
+así como las consecuencias jurídicas concretas de un enfoque basado en los dere­
+chos humanos, su valor agregado y sus debilidades. Resulta importante distinguir 
+la idea imprecisa de una "conexión" entre la corrupción y los derechos humanos 
+de la aguda pretensión jurídica más rigurosa de que, en ciertas condiciones, un 
+acto corrupto (o la tolerancia a la corrupción) puede constituir una violación 
+efectiva de los derechos humanos (sobre esta distinción, véase infra parte 2.D). 
+Esta última pretensión será examinada a partir de un análisis positivo y norma­
+tivo.10  La  pregunta  doctrinal  del  derecho  positivo  es:  ¿Puede  una  conducta 
+
+7 Véase Comisión de Derechos Humanos de la ONU (2005, UN Doc. E/CN.4/ Sub.2/2005/18, párr. 41).
+8 Informe del Relator Especial sobre el derecho de toda persona al disfrute del más alto nivel posible 
+de salud física y mental (en adelante Informe sobre Salud), UN Doc. GA 72/137, 14 de julio de 2017, párr. 
+2 y sumario.
+
+9 Comité de Derechos Económicos, Sociales y Culturales (CDESC), Observación general núm. 24 (2017) 
+sobre las obligaciones de los Estados en virtud del Pacto Internacional de Derechos Económicos, Sociales y 
+Culturales en el contexto de las actividades empresariales (UN Doc. E/C.12/GC/24, 23 de junio de 2017, 
+párr. 18).
+
+10 Hay dos vínculos adicionales entre la corrupción y los derechos humanos que no son abordados en 
+este artículo. Primero, la protección efectiva de (algunos) derechos humanos (en particular, la libertad de acceso 
+a la información y la libertad de prensa) es necesaria para la lucha contra la corrupción. Muchas denuncias 
+en materia de derechos humanos tienen que ver con el asesinato, la desaparición forzada o la falta de protec­
+ción gubernamental a periodistas que han investigado y denunciado públicamente la corrupción. Véase, por 
+ejemplo, CIDH, Caso Irma Flaquer vs. Guatemala, Acuerdo de Solución Amistosa, Petición 11.766, Informe 
+no. 67/03, 10 de octubre de 2003; véase asimismo Relator Especial Michel Forst, Informe sobre la Situación 
+
+126 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALEScorrupta ser conceptualizada adecuadamente como una violación de la nor­
+mativa internacional sobre derechos humanos (parte 2)? La pregunta normativa 
+es:  ¿Deberían  ser  conceptualizados  los  actos  corruptos  como  violaciones  de 
+derechos humanos? Mi respuesta es que tal reconceptualización es jurídicamente 
+razonable desde un análisis positivo, aunque surgen problemas doctrinales 
+muy complicados. La evaluación normativa es ambigua, pero, con la debida 
+prudencia, diría que los beneficios prácticos de dicha conceptualización superan 
+al  riesgo  de  reforzar  el  escepticismo  antioccidental  hacia  la  lucha  contra  la 
+corrupción (parte 3). La parte 4 examina las medidas para subsanar violacio­
+nes de derechos humanos con origen en la corrupción, en forma de monitoreo 
+e implementación. La parte 5 concluye que la reconceptualización de la co­
+rrupción no sólo como un problema de derechos humanos, sino también como 
+una potencial violación de los mismos, puede contribuir a cerrar la brecha de 
+implementación de los instrumentos internacionales anticorrupción, aunque 
+las expectativas al respecto no deberían sacarse de proporción. 
+
+La propuesta de inculcar a la corrupción aspectos de derechos humanos res­
+ponde al modesto éxito de los instrumentos internacionales existentes para la 
+lucha  contra  la  corrupción  –por  lo  menos  10  tratados  internacionales  y  re­
+gionales  con  varios  protocolos  adicionales,  además  del  soft  law  (Terracino, 
+2012; Wouters, Ryngaert y Cloots, 2013, 209; Rose, 2015). Su aparición en 
+la dé cada de 1990 fue, a su vez, una reacción a la globalización de la propia 
+corrupción, desde el conocimiento de que la práctica de la corrupción mayor 
+había adquirido inevitablemente elementos transfronterizos. Estados Unidos 
+abogó por un tratado para criminalizar el soborno extranjero y logró persua­
+dir a un gran número de Estados en la Organización para la Cooperación y el 
+
+de los Defensores de los Derechos Humanos, Doc. A/70/217, 30 de julio de 2015, párrs. 69­70 (sobre ‘De­
+fensores que luchan contra la corrupción y la impunidad’); Relator Especial Mr. David Kaye, Informe sobre la 
+promoción y protección del derecho a la libertad de opinión y de expresión, Doc. A/70/361, 8 de septiembre 
+de 2015, s. A (sobre la protección jurídica de los denunciantes de irregularidades). Otro vínculo se relaciona 
+con que las medidas contra la corrupción pueden violar por sí mismas derechos humanos, concretamente la 
+violación de la presunción de inocencia, en especial durante la implementación del artículo 20 de la CNUCC; 
+la violación al derecho a la vida privada mediante el uso de medidas de vigilancia, el daño a la reputación 
+a través de publicaciones en los medios de comunicación y las violaciones a derechos de propiedad me­
+diante la incautación y recuperación de bienes. Véase Ivory (2014).
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+127
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+Desarrollo Económico (OCDE) para adoptar una Convención Anti­Cohecho 
+en 1997.11 En ese momento, la meta principal era eliminar las ventajas com­
+petitivas  no  equitativas  de  compañías  que  pagaban  sobornos  en  los  nuevos 
+mercados, particularmente en Europa del Este. En 2003 fue adoptada la Con­
+vención de las Naciones Unidas contra la Corrupción (CNUCC, 2349 UNTS 
+41. No. 42146), en septiembre de 2018 ya contaba con 186 Estados parte.
+
+Una de las autoridades principales en el tema de la corrupción menciona los 
+siguientes objetivos de la política internacional anticorrupción: primero, mejorar 
+el funcionamiento de los mercados globales; segundo, promover el crecimiento 
+económico; tercero, reducir la pobreza; y cuarto, salvaguardar la legitimidad 
+del Estado (Rose­Ackerman, 2013, 3­5).12 La lucha contra la corrupción ha sido 
+ampliamente integrada en la agenda de la buena gobernanza13 y en el discurso 
+del desarrollo. Por consiguiente, ya que tanto la buena gobernanza como el desa­
+rrollo hoy en día son frecuentemente analizados a partir de la perspectiva de 
+los derechos humanos, este tipo de análisis también parece ser adecuado para la 
+lucha contra la corrupción. 
+
+2. ¿Puede conceptualizarse la corrupción
+como una violación de derechos humanos? 
+
+A. Definir la corrupción 
+
+El término corrupción no es de índole técnico; no se considera un delito en la 
+mayoría de los códigos penales alrededor del mundo, y no tiene tampoco una 
+
+11 OCDE (1997), Convención para Combatir el Cohecho de Servidores Públicos Extranjeros en Transac­
+ciones Comerciales Internacionales, 1997, 2802 UNTS 225 (entró en vigor el 15 de febrero de 1999; en 
+septiembre de 2018 contaba con 44 Estados parte).
+
+12  Véase  también  el  preámbulo  de  la  CNUCC,  2003,  2349  UNTS  41.  No.  42146,  primer  párrafo 
+
+preambular.
+
+13 Véase por ejemplo el documento de Consejo de Derechos Humanos (2008), "La función del buen 
+gobierno en la promoción de los derechos humanos", UN Doc. A/HRC/RES/7/11, párr. 4: "Decide conti­
+nuar el examen de la cuestión de la función del buen gobierno, incluido el tema de la lucha contra la co­
+rrupción en la promoción y protección de los derechos humanos". Véase asimismo el Programa de Desarrollo 
+de las Naciones Unidas, Centro de Gobernabilidad de Oslo, The Impact of Corruption on the Human Rights 
+Based Approach to Development (2004).
+
+128 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESdefinición jurídica en la mayoría de los tratados internacionales. La definición 
+más común es la utilizada por la organización no gubernamental (ONG) Trans­
+parencia Internacional, según la cual, corrupción es el abuso del poder enco­
+mendado para beneficio particular. Tal abuso puede ocurrir en el nivel de la 
+Administración y los servicios públicos cotidianos ("corrupción menor") o en 
+los cargos políticos de alto nivel ("gran corrupción"). Estos términos no marcan 
+una  distinción  jurídica,  sino  que  tan  sólo  describen  variaciones  del  mismo 
+tema.  Con  frecuencia,  un  esquema  particular  de  corrupción  permea  en  los 
+distintos niveles de la Administración Pública y, por ende, vincula ambas for­
+mas de corrupción. Debido al creciente poder de las grandes corporaciones y 
+otros actores no estatales como la Fédération Internationale de Football Asso­
+ciation (FIFA), el abuso de las obligaciones que emanan del derecho privado 
+también se califica cada vez más a menudo como corrupción, en una relación 
+entre principal y agente basada en el derecho privado. Los delitos penales res­
+pectivos son el soborno activo y pasivo, el abuso de confianza, el peculado, el 
+enriquecimiento ilícito y así sucesivamente. En el sector privado, los delitos son 
+llamados "soborno entre particulares" o "soborno comercial", y pueden incluir 
+prácticas anticompetitivas y delitos regulatorios. 
+
+B. ¿Los derechos humanos de quién? 
+
+Tradicionalmente, el soborno –expresión prototípica de la corrupción– ha sido 
+considerado un "crimen sin víctimas" (Korte, 2014, párr. 12). De acuerdo con 
+la doctrina jurídica, la parte agraviada es principalmente el ciudadano. ¿Puede 
+considerarse también al sobornador una víctima? Esto no parece ser el caso 
+cuando la víctima toma la iniciativa de sobornar o cuando extorsiona al recep­
+tor. Sin embargo, el sobornador puede ser victimizado en muchos escenarios 
+de corrupción. Si una estudiante de una escuela pública tiene que pagarle un 
+soborno a la secretaria para recibir su diploma, o si tiene que pagar por clases 
+privadas adicionales a un profesor que le indica que no pasará el examen de otra 
+forma, entonces, la estudiante es una víctima, no una perpetradora, al menos 
+en términos de derechos humanos. Su consentimiento al quid pro quo ilegal es el 
+resultado de una situación desesperada: el consentimiento de la estudiante (o 
+de sus padres) no es "libre", sino coaccionado. 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+129
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+En las licitaciones públicas, los competidores sin éxito son las víctimas poten­
+ciales si no se les adjudica el contrato por criterios ajenos, si es que al menos 
+tenían una expectativa concreta respecto del contrato y no una mera prospec­
+tiva  abstracta.  A  menudo,  los  clientes  y  los  usuarios  finales  también  se  ven 
+afectados por la corrupción en las licitaciones públicas, cuando tienen que pagar 
+precios más altos o si reciben un producto que no vale lo que cuesta porque se 
+han desviado fondos durante el proceso de producción. Desde la perspectiva 
+de los derechos humanos sociales, cuyo disfrute adecuado incluye el elemento de 
+"asequibilidad" (tal como lo es la asequibilidad de medicamentos esenciales 
+como componente del derecho humano a la salud), el hecho de que el soborno 
+en el proceso de licitación pueda elevar el costo de las medicinas puede ser visto 
+como una violación de derechos humanos (UN Doc. GA 72/137, párr. 33). Cues­
+tiones relacionadas con esto tratan sobre cómo la corrupción puede afectar a 
+los  derechos  de  propiedad  e  inversión  de  los  adjudicatarios.  La  evaluación 
+variará dependiendo de si el adjudicatario ha ganado la licitación mediante la 
+corrupción o si su inversión ha sido alterada por actos corruptos posteriores 
+por parte del Estado. Estas cuestiones serán abordadas en la sección 3.C.
+
+En el proceso político, los votantes se ven afectados de manera adversa por la 
+dependencia financiera de los candidatos a los grandes contribuyentes, si los 
+candidatos están políticamente en deuda con tales contribuyentes después de 
+la elección y si los votantes desconocen de tales intereses personales. En general, 
+estos ejemplos demuestran que los derechos humanos de diversos tipos de per­
+sonas, en múltiples entornos sociales, pueden verse afectados por la corrupción. 
+La pregunta crucial entonces es si las personas afectadas directa o indirectamente 
+por la corrupción pueden ser suficientemente individualizadas para calificarlas 
+como "víctimas". Esta pregunta no puede responderse en abstracto, sino que 
+debe ser examinada en cada escenario concreto.
+
+C. ¿Cuáles derechos humanos? 
+
+La siguiente pregunta es ¿cuáles derechos humanos están implicados? Esta pre­
+gunta es importante, ya que la idea no es propagar un (nuevo) derecho humano 
+a una sociedad libre de corrupción (véanse Kofele­Kale, 2000; Spalding, 2014). 
+
+130 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESUn derecho de este tipo no está reconocido por la práctica jurídica ni existe 
+necesidad  de  ello.  Más  bien,  la  corrupción  afecta  los  derechos  humanos  ya 
+reconocidos internacionalmente tal y como están codificados en los Pactos de 
+derechos humanos de la Organización de las Naciones Unidas (ONU). En la 
+práctica, los derechos sociales son los que resultan más afectados, especial­
+mente por la corrupción menor. Por ejemplo, la corrupción en el sector de la 
+salud afecta el derecho de cada persona a recibir el más alto nivel posible de salud 
+(artículo 12 del Pacto Internacional de Derechos Económicos, Sociales y Cul­
+turales o PIDESC); en el sector educativo, el derecho a la educación (artículo 
+13 del PIDESC, 1966, 993 UNTS 3) está en juego. 
+
+Sin embargo, los derechos humanos liberales también pueden ser socavados 
+por la corrupción; si un preso tiene que darle algo al guardia a cambio de una 
+manta o mejor comida, entonces el derecho básico del prisionero a tener con­
+diciones humanas de detención (artículo 10 del Pacto Internacional de Derechos 
+Civiles y Políticos, en adelante PIDCP) se ve afectado.14 Si –como tienden a 
+pensar la mayoría de los observadores– el actual aumento del tráfico de personas 
+se hace posible y se ve facilitado principalmente por la corrupción que induce 
+a la policía y a los guardias fronterizos a mirar hacia otro lado, esto afecta al 
+derecho humano a la protección contra la esclavitud y la servidumbre (artículo 
+8 del PIDCP).15 Obviamente, la corrupción en la administración de justicia hace 
+peligrar los derechos básicos a la protección judicial, incluido el derecho a un 
+juicio justo sin demoras indebidas (artículo 14 del PIDCP).16 También pueden 
+
+14 Para una recomendación sobre la corrupción en prisiones que afecta los derechos de los presos, véase 
+ONU,  Doc.  CCPR/C/KHM/CO/2,  párr.  14.  Pacto  Internacional  de  Derechos  Civiles  y  Políticos  (PIDCP), 
+1966, 999 UNTS 171. 
+
+15 Véase TEDH, caso Rantsev vs. Cyprus and Russia, 25965/04, sentencia del 7 de enero de 2010: La hija 
+del demandante se había mudado de Rusia a Chipre para trabajar en un cabaret como "artista", y falleció allí en 
+circunstancias misteriosas. El Tribunal consideró que hubo una violación al derecho a la vida (art. 2 CEDH) 
+en su vertiente procedimental. El Tribunal explícitamente afirmó que "las autoridades se encontraban en la 
+obligación de investigar si se encontraba algún indicio de corrupción en el seno de las fuerzas policiales con relación 
+a los hechos que llevaron a la señorita Rantseva a la muerte" (párr. 238, énfasis añadido).
+
+16 Sobre la corrupción en el Poder Judicial, véase el Informe sobre la Rendición de Cuentas de G. Knaul, 
+Relator Especial sobre la Independencia de los Magistrados y Abogados (UN Doc. A/HRC/26/32, 28 de abril 
+de 2014); y Comisión Internacional de Juristas (2016). Para observaciones finales sobre el tema recientes, 
+véase Comité de Derechos Humanos, Benin, Doc. CCPR/C/BEN/CO/2, 23 de noviembre de 2015, párrs 28­29; 
+Comité de Derechos Humanos, Costa de Marfil, Doc. CCPR/C/CIV/CO/1, 28 de abril de 2015, párr. 20; 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+131
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+verse afectados el derecho humano a asociarse y el derecho (laboral) a organi­
+zarse (artículo 22 del PIDCP y las Convenciones relevantes de la Organización 
+Internacional del Trabajo [OIT]) por los sobornos ofrecidos por parte de la in­
+dustria a los funcionarios de un ministerio de trabajo a fin de facilitar la renuncia 
+de un líder sindical, como se señaló en una demanda laboral en Indonesia.17 
+No obstante, en otros casos de gran corrupción y de soborno de funcionarios 
+públicos extranjeros, las implicaciones para los derechos humanos –como el 
+efecto del nepotismo sobre el derecho al acceso a cargos públicos en condiciones 
+de igualdad (artículo 25.c del PIDCP)– son menos claras. 
+
+D. ¿Violaciones? 
+
+La siguiente interrogante es si tiene sentido hablar de violaciones de derechos 
+humanos. Sólo un par de informes y declaraciones gubernamentales lo hacen.18 
+En la práctica predominante de las Naciones Unidas sólo se utiliza un vocabu­
+lario más débil para hacer la conexión, tanto en los documentos estratégicos 
+–los nuevos informes del Consejo de Derechos Humanos– como en la práctica 
+específica de supervisión por parte de los cuerpos creados en virtud de tratados 
+
+Comité de Derechos Económicos, Sociales y Culturales, Italia, Doc. E/C.12/ITA/CO/5, 28 de octubre de 
+2015, párrs. 10­11; Comité para la Eliminación de la Discriminación contra la Mujer, Liberia, Doc. CEDAW/C/
+CO/17­8, 24 de noviembre de 2015, párrs. 15­16; Comité para la Eliminación de la Discriminación contra 
+la Mujer, Madagascar, Doc. CEDAW/C/MDG/ CO/6­7, 24 de noviembre de 2015, párrs. 8­10.
+
+17 El Comité de Libertad Sindical de la Organización Internacional del Trabajo (OIT) solicitó tanto al 
+querellante como al gobierno la presentación de mayores clarificaciones sobre el alegato de soborno. Comité 
+de Libertad Sindical de la OIT, Caso núm. 2116, La Unión Internacional de Trabajadores de la Alimentación, 
+Agrícolas, Hoteles, Restaurantes, Tabaco y Afines (UITA) vs. Indonesia, Informe Provisional del 23 de febrero de 2001, 
+párrs. 359 y 362 lit. d).
+
+18 Para una determinación de "violaciones", véase la declaración de Kofi Annan, Secretario General de 
+las Naciones Unidas: "La corrupción es una plaga insidiosa que tiene un amplio espectro de consecuencias 
+corrosivas para la sociedad. Socava la democracia y el Estado de derecho, da pie a violaciones de los dere­
+chos humanos, distorsiona los mercados, menoscaba la calidad de vida y permite el florecimiento de la 
+delincuencia organizada, el terrorismo y otras amenazas a la seguridad humana" (ONU, CNUCC, 2004) (énfa sis 
+añadido). En los Informes de la Relatora Especial, Christy Mbonu: "la corrupción, ya sea sistémica, endémica 
+o leve, impide a los ciudadanos disfrutar de todos los derechos recogidos en los instrumentos internacionales." 
+(UN Doc. E/CN.4/Sub.2/2004/23, párr. 57) (énfasis añadido); "Se viola un derecho fundamental si, aprove­
+chando la pobreza, los partidos políticos compran votos e impiden con ello al electorado votar por los mejores 
+candidatos." (UN Doc. E/CN.4/Sub.2/2005/18, párr. 24) (énfasis añadido). Consejo de Derechos Humanos, 
+Mejores Prácticas, declaración de Bahréin, párr. 15; declaración de Estonia, párr. 25; declaración de Georgia, 
+párr. 31; declaración de Mauritius, párr. 50; y declaración de Rumania, párr. 66.
+
+132 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESy el Consejo de Derechos Humanos derivado de la Carta de la ONU, ya sea por 
+países, por temas o casos individuales.19 
+
+Típica del enfoque predominante es una sentencia de 2010 del Tribunal de 
+Justicia de la Comunidad Económica de Estados de África Occidental (CEDEAO 
+o ECOWAS por sus siglas en inglés), en un procedimiento instituido por una 
+ONG respecto de la corrupción en el sector educativo de Nigeria. El Tribunal 
+señaló que la corrupción en el sector educativo tiene un "impacto negativo" 
+sobre el derecho humano a una educación de calidad, tal como se garantiza en 
+el artículo 17 de la Carta Africana de Derechos Humanos y de los Pueblos, pero 
+no constituye per se una violación de ese derecho.20 El Tribunal consideró que la 
+corrupción es, en primer lugar, un asunto de derecho penal y civil doméstico, 
+pero no del derecho internacional de los derechos humanos, por tanto compete 
+a los tribunales domésticos lidiar con ello. La Corte estimó que (al menos a 
+primera vista) la corrupción no entra en la jurisdicción del tribunal regional de 
+derechos humanos de la CEDEAO (SERAP, párrs. 20­21, 24).
+
+En cambio, los tribunales nacionales que le han dado forma de manera signi­
+ficativa a los contornos legales de los derechos humanos sociales –concreta­
+mente, las cortes constitucionales de la India y Sudáfrica– tienden a afirmar, y 
+no tanto a explicar debidamente, qué y cómo la corrupción viola los derechos 
+humanos. Por ejemplo, la Corte Constitucional de Sudáfrica sostuvo que la "[c]
+orrupción y la mala administración son inconsistentes con el imperio de la 
+ley y los valores fundamentales de nuestra Constitución. Éstos menoscaban 
+el compromiso constitucional hacia la dignidad humana, el logro de la igualdad 
+y el avance de los derechos humanos y las libertades".21 En una sentencia de 
+
+19 Véase más arriba las notas 5­10 junto al texto que las acompaña [en el original del 6 al 11].
+20 Tribunal de Justicia de la Comunidad CEDEAO, The Registered Trustees of the Socio­Economic Rights 
+and Accountability Project (SERAP) vs. the Federal Republic of Nigeria and Universal Basic Education Commission, 
+30 de noviembre de 2010 (ECW/CCJ/JUD/07/10), párrs. 19, 28. Carta Africana de Derechos Humanos y de 
+los Pueblos 1981, 1520 UNTS 217.
+
+21 Corte Constitucional de Sudáfrica, South African Association of Personal Injury Lawyers vs. Health and 
+Others, 28 de noviembre de 2000 (CCT 27/00) [2000] ZACC 22, párr. 4. Véase también Corte Constitucional 
+de Sudáfrica, Caso Hugh Glenister vs. President of the Republic of South Africa and others, 17 de marzo de 2011 
+(CCT 48/10) [2011] ZACC 6, párr. 176: "La corrupción endémica amenaza el mandato de que el gobierno 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+133
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+2012, la Corte Suprema de la India sostuvo que la "[c]orrupción […] menoscaba 
+los derechos humanos, violándolos indirectamente", y que "la corrupción sis­
+temática es una violación de los derechos humanos en sí misma" (No. 1648, 
+602, párr. 14). Desde un punto de vista jurídico, es crucial si una situación es 
+calificada como algo que meramente ‘menoscaba’ los derechos humanos –por 
+ejemplo, en un informe general de supervisión– o bien, si ello constituye una 
+verdadera violación de los derechos que pudiera ser declarada ilegal en procesos 
+individualizados de ejecución (véase más adelante la sección 4). 
+
+E. ¿Qué obligaciones estatales?
+
+A fin de determinar si hay o no una violación de derechos humanos mediante 
+acciones de corrupción estatal, debemos examinar tres clases de obligaciones –a 
+saber, las obligaciones de respetar, proteger y cumplir con los derechos huma­
+nos.  La  obligación  de  respetar  es  esencialmente  una  obligación  negativa  de 
+abstenerse de incumplir. La obligación de proteger se refiere principalmente 
+a la protección contra peligros que surgen de terceros. La obligación de cum­
+plir requiere una acción positiva por parte del Estado. A su vez, el Comité de 
+Derechos Económicos, Sociales y Culturales (CDESC) divide esta obligación 
+en las tres subcategorías de facilitar, otorgar y promover.22 
+
+A continuación, debemos precisar exactamente a qué actor están dirigidas las 
+obligaciones. Debemos distinguir dos puntos de contacto en este sentido: pri­
+mero, la conducta corrupta específica de un funcionario individual que se le 
+atribuye al Estado debido al estatus del funcionario; y segundo, la política anti­
+corrupción general del Estado en su conjunto, en calidad de persona jurídica 
+internacional.
+
+debe ser responsable, receptivo y abierto" y "Es indiscutible que la corrupción socava los derechos de la 
+Carta de Derechos y pone en peligro la democracia" (párr. 177) [traducción no oficial]. 
+
+22 Esta triple división fue introducida por el CDESC en la Observación General No. 14: "El derecho al dis­
+frute del más alto nivel posible de salud (art. 12)" (2000), párr. 37. [N. T.] En la versión en inglés de la 
+Observación General No. 14 del CDESC existen tres subcategorías de la obligación de cumplir (fulfil [facilitate], 
+fulfil [provide], fulfil [promote]); sin embargo, en su traducción oficial al español, sólo se observan dos de esas 
+subcategorías (cumplir [facilitar] […]cumplir [promover]). Para efectos de este artículo, se decidió traducir fulfil 
+[provide] por cumplir [otorgar], con lo que se mantiene la distinción original de tres subcategorías). 
+
+134 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESUn acto corrupto por parte de un funcionario individual puede potencialmente 
+violar, dependiendo del contexto y del derecho humano en cuestión, cada una 
+de las dimensiones mencionadas de la obligación. Si, por ejemplo, en el con­
+texto de la implementación de un plan de uso de la tierra, un funcionario evacua 
+a la fuerza a la gente que no pague un soborno, entonces esto puede violar el 
+derecho a la vivienda (artículo 11 del PIDESC) en la dimensión negativa de 
+la obligación de respetar. En ese mismo tenor, si el empleado de una oficina 
+de registro se niega a entregar un pasaporte sin el soborno adicional, enton­
+ces el derecho a dejar el país (artículo 12.2 del PIDCP) puede ser violado en la 
+dimensión positiva de la obligación estatal de facilitar. 
+
+1. Obligaciones estatales de proteger 
+
+En la siguiente discusión me centraré en el nivel macro (en el Estado en general, 
+no en funcionarios individuales). ¿Cómo debería calificarse la ausencia de me­
+didas  anticorrupción  efectivas?  La  deficiente  implementación,  aplicación  y 
+ejecución de medidas anticorrupción efectivas constituye esencialmente una 
+omisión por parte del Estado. Dado que los derechos humanos dan lugar a las 
+referidas obligaciones de actuar, las omisiones pueden constituir una violación 
+de derechos humanos.23 Al mismo tiempo, las medidas anticorrupción efectivas 
+pueden  considerarse  una  vía  para  cumplir  con  una  de  las  tres  facetas  de  la 
+obligación positiva de cumplir (facilitar, otorgar y promover).
+
+Empero, las obligaciones de proteger los derechos humanos parecen ser más 
+relevantes que las obligaciones de cumplir. En principio, tales obligaciones de 
+proteger están dirigidas a las tres ramas de gobierno. Obligan al Poder Legisla­
+
+23 Para los derechos humanos sociales, véase Directrices de Maastricht sobre Violaciones a los Derechos 
+Económicos, Sociales y Culturales (Directrices de Maastricht, 1997), reimpresas en Human Rights Quarterly 20 
+(1998), 691­704, párr. 11. Sobre el derecho a la educación véase, por ejemplo CDESC, Observación General 
+No. 13, El Derecho a la Educación (art. 13) (1999), párr. 58. Véase también la primera comunicación bajo 
+el rubro del procedimiento de denuncias individuales: CDESC, I.D.G. v. España, Comunicación 2/2014, 17 de 
+junio de 2015, párr. 12.4 (la notificación inadecuada por parte del Estado de la ejecución inminente de una 
+demanda por hipoteca (por tanto, una omisión) implica una violación del derecho a la vivienda, tal y como 
+se garantiza en el artículo 11.1 del PIDESC).
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+135
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+tivo a promulgar leyes efectivas; al Poder Ejecutivo a asumir medidas adminis­
+trativas efectivas; y al Poder Judicial a involucrarse con procesamientos jurí­
+dicos efectivos. La jurisprudencia de los órganos internacionales no responde 
+claramente a la interrogante de si las obligaciones de proteger –especialmente las 
+obligaciones de reformar leyes internas para cerrar brechas jurídicas o de llevar 
+a cabo procedimientos judiciales– se reflejan en derechos individuales de las 
+víctimas (Peters, 2016, pp. 267­269).24 La obligación de proteger fue desarro­
+llada con relación a los peligros que surgen de terceros, tales como los opera­
+dores económicos. La obligación de proteger es, por tanto, adecuada para otorgar 
+apoyo  adicional,  basado  en  los  derechos  humanos,  a  la  criminalización  del 
+cohecho, exigida por la Convención para Combatir el Cohecho de Servidores 
+Públicos Extranjeros en Transacciones Comerciales Internacionales de la OCDE.25 
+Las obligaciones del Estado de proteger respecto de las actividades las corpo­
+racio nes trasnacionales, con base en los derechos humanos, se exponen en el 
+soft law de los Principios Rectores sobre las Empresas y los Derechos Humanos 
+de la ONU del 2011.26 
+
+La obligación de proteger en virtud de las normas de derechos humanos no sólo 
+exige que el Estado proteja a los individuos frente a los actos de otras perso nas 
+privadas, sino que también reduce los riesgos estructurales para los derechos 
+humanos en los que están involucrados los propios funcionarios del Estado. 
+Por ejemplo, en el caso de violencia policial contraria a los derechos humanos, el 
+Tribunal Europeo de Derechos Humanos (TEDH) exige que el Estado investigue 
+y procese a los responsables luego de tales incidentes.27 La corrupción galopante 
+
+24 En el área de derechos sociales no ha sido necesario distinguir entre los deberes "objetivos" del Estado 
+y los derechos "subjetivos" a la acción estatal, hasta la entrada en vigor del Protocolo Facultativo del PIDESC, 
+que prevé comunicaciones individuales, ya que los derechos sociales hasta ese momento no eran (cuasi­)
+justiciables (en casos individuales).
+
+25 El cohecho de un servidor público extranjero es el soborno de funcionarios públicos extranjeros por 
+parte de una empresa sujeta a la jurisdicción de un Estado parte de la Convención para Combatir el Cohecho, 
+en los arts. 1 y 4.
+
+26 Principios Rectores de la ONU sobre los Derechos Humanos y las Empresas Trasnacionales y Otras 
+Empresas Comerciales, UN Doc. A/HRC/17/31, 21 de marzo de 2011; adoptados por el Consejo de Derechos 
+Humanos de la ONU el 6 de julio de 2011, UN Doc. A/HRC/RES/17/4.
+
+27  TEDH,  Caso  McCann  y  otros  vs.  Reino  Unido,  sentencia  del  27  de  septiembre  de  1995,  App.  No. 
+18984/91, párrs. 157 y ss.; TEDH, Caso Silih vs. Slovenia, sentencia del 9 de abril de 2009, App. No. 71463/01, 
+
+136 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESconstituye un peligro estructural permanente para muchos derechos humanos 
+de las personas sometidas al poder de los funcionarios. Por ello, en casos que 
+involucran la inacción plena del Estado o medidas anticorrupción evidentemente 
+deficientes, el Estado es responsable, de acuerdo con el derecho internacional, 
+por la omisión de cumplir con sus obligaciones de prevenir y proteger.28 
+
+El  reconocimiento  de  las  obligaciones  derivadas  de  los  derechos  humanos 
+fortalecería significativamente las obligaciones preventivas específicas en vir­
+tud de la normativa anticorrupción. El Capítulo II de la CNUCC exige que los 
+Estados parte adopten una serie de medidas preventivas, que van desde el esta­
+blecimiento de un cuerpo anticorrupción y la reorganización del servicio públi­
+co, hasta la promulgación de códigos de conducta para funcionarios públicos, 
+la reorganización de las adquisiciones públicas y la prevención del lavado de 
+dinero. Desde la perspectiva del derecho internacional general, éstas son obliga­
+ciones de prevención. Dado que la formulación de las obligaciones de la CNUCC 
+es más bien indicativa, es casi imposible atribuir responsabilidad internacional 
+a un Estado parte si omite el cumplimiento de sus obligaciones o lo hace de 
+manera  insuficiente.  Sin  embargo,  si  interpretamos  las  obligaciones  de  la 
+CNUCC de acuerdo con el derecho relativo a los derechos humanos (artículo 
+31.3.c de la Convención de Viena sobre el Derecho de los Tratados [CVDT] 
+1969, 1155 UNTS 331), resulta evidente que las medidas aquí mencionadas 
+deben, de hecho, tomarse de una manera efectiva para cumplir con las obli­
+gaciones de proteger y cumplir (incluida la prevención) sobre la base jurídica 
+de los derechos humanos.29 
+
+párrs. 192 y ss.; sobre la obligación de instaurar procesos penales: TEDH, Caso Maiorano y otros vs. Italia, 
+Sentencia del 15 de diciembre de 2009, App. No. 28634/06, párr. 128.
+
+28 Corte Constitucional de Sudáfrica CCT 48/10 [2011] ZACC 6, párr. 177: "Por tanto, la obligación del 
+Estado de "respetar, proteger, promover y cumplir" los derechos de la Carta de Derechos, inevitablemente, 
+en el Estado moderno, crea el deber de crear mecanismos eficientes contra la corrupción." [traducción no 
+oficial]. En la literatura, véase Sepúlveda y Bacio Terracino (en Boersma y Nelen, 2010, p. 27).
+
+29 En el caso de la Corte CEDEAO de Socio­Economic Rights and Accountability Project (SERAP) vs. Federal 
+Republic of Nigeria (sentencia del 14 de diciembre de 2012, párr. 32): "La obligación que se exige al Estado 
+para satisfacer esos derechos es el ejercicio de su autoridad para impedir que entidades poderosas impidan 
+que los más vulnerables disfruten del derecho que se les ha concedido" (énfasis anadido); el tema en cuestión 
+era la violación de los derechos humanos sociales por parte de compañías de prospección petrolífera. 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+137
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+2. Obligaciones procedimentales e independientes del resultado 
+
+Al atravesar las tres dimensiones de las obligaciones de derechos humanos, las 
+obligaciones procedimentales surgen de todos los tipos de derechos humanos. 
+En la jurisprudencia del TEDH, éstas constituyen la "rama procedimental" de 
+los derechos del Convenio Europeo de Derechos Humanos (CEDH). Dentro 
+del ámbito de los derechos humanos sociales, se hace referencia a las mismas 
+como "requerimientos procesales".30 Aquí, una de sus funciones es operar como 
+indicador para el cumplimiento de la obligación progresiva de implementa­
+ción, la cual es muy difícil de medir. Los elementos procedimentales también son 
+centrales para combatir la corrupción. Los requerimientos procesales más rele­
+vantes de los derechos humanos muy probablemente incluyen obligaciones de 
+planificación31 y de supervisión.32 Las obligaciones de transparencia son espe­
+cialmente importantes. No es coincidencia que la ONG anticorrupción más 
+conocida en el mundo se denomine "Transparencia Internacional". La transpa­
+rencia es además un principio fundamental de la CNUCC.33 Por consiguien­
+te, las obligaciones procesales derivadas de la CNUCC, especialmente los re­
+querimientos de divulgación y publicación que pueden ser un medio efectivo 
+para reducir la corrupción, se basan igualmente en los derechos humanos.34 
+En esa perspectiva, la no satisfacción de estas obligaciones constituye al mismo 
+tiempo una violación de los derechos humanos respectivos. Una pregunta com­
+plementaria es si un Estado corrupto viola sus obligaciones de protección y sus 
+
+30 Respecto de la determinación sobre si se utilizó "el máximo de los recursos disponibles", véase Alston 
+
+y Quinn (1987, p. 180).
+
+31 Véase CDESC, Observación General No. 1, Informes de los Estados Partes (1989), párr. 4; Corte 
+Constitucional de Sudáfrica, Caso Government of the Republic of South Africa and Others vs. Grootboom and Others 
+(CCT11/00) [2000] ZACC 19; 2001 (1) SA 46; 2000 (11) BCLR 1169 (4 de octubre de 2000), párrs. 39 y ss. 
+sobre un "programa estatal de vivienda coordinado".
+
+32 Véase CDESC, Observación General No. 3, La índole de las obligaciones de los Estados Partes (art. 2, 
+
+párr. 1) (1990), párr. 11; Directrices de Maastricht (1990, párr. 15.f).
+
+33 Véase, por ejemplo, los artículos 5, 7, 9, 10, 12, 13 del CNUCC. Véase también Líneas Directrices 
+de la OCDE para Empresas Multinacionales (2011), sección VII: Lucha contra la corrupción, las peticiones de 
+soborno y otras formas de extorsión, párr. 5: "mejorar la transparencia en sus actividades de lucha contra la 
+corrupción, el soborno y otras formas de extorsión". 
+
+34 Véase, por ejemplo, CDESC, Observación General No. 12, El Derecho a una alimentación adecuada 
+(art. 11) (1999), párr. 23 (sobre la transparencia como principio rector para la formulación de estrategias 
+nacionales respecto del derecho a la alimentación). 
+
+138 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESobligaciones procesales sólo cuando y si, de hecho, se cometen (o se continúan 
+cometiendo) actos individuales de corrupción. En el contexto de las obligaciones 
+internacionales de prevención, la obligación primaria específica determina en 
+principio si "prevenir" significa que el Estado debe en realidad evitar el resul­
+tado indeseable, o bien, si el Estado está meramente obligado a emplear todos 
+los medios razonables y apropiados, en el sentido de una obligación de diligencia 
+debida que es independiente del resultado (Crawford, 2013, p. 227).
+
+Conforme a los derechos humanos anteriormente mencionados, las obligaciones 
+anticorrupción se entienden como obligaciones de diligencia debida indepen­
+dientes del resultado. Esto se corresponde con el derecho general de los dere­
+chos humanos35 y establece un paralelismo con el derecho penal. El cohecho 
+y otros delitos que resumimos bajo el paraguas de la corrupción son, en términos 
+generales, "delitos de peligro". Esto significa que se criminaliza la conducta que 
+pone en peligro los intereses jurídicamente protegidos, incluso si dicha con­
+ducta no produce una consecuencia perjudicial específica. Esto es apropiado para 
+el bien jurídico que tradicionalmente era el único que resultaba protegido 
+por la criminalización de la corrupción, concretamente la integridad del ser­
+vicio público, ya que es generalmente imposible determinar si realmente ha 
+ocurrido un daño tangible. Si el cohecho de un servidor público no implica que 
+al sobornador se le dé una cita médica con mayor rapidez que si se hiciere sin el 
+soborno, o si el sobornador no recibiese un permiso de construcción que exceda 
+la discrecionalidad normal del funcionario, entonces los sobornos serían, en 
+un sentido no técnico, "infructuosos". No obstante, la confianza en el servicio 
+público ha sido socavada y, por ello, el acuerdo ilegal debería sancionarse como 
+cohecho. En los tribunales se hace referencia a este fundamento como sigue: 
+"No sólo debe hacerse justicia, sino que debe parecer que se hace de manera 
+manifiesta e indudable".36 Esta situación es diferente al caso de la obligación de 
+
+35 Véase, fundamentalmente, sobre las obligaciones de debida diligencia estatal como parte de la obliga­
+ción general del Estado de proteger los derechos humanos, Corte IDH, Caso Velásquez Rodriguez vs. Honduras, 
+Sentencia del 4 de julio de 1988, Series C No. 4, párr. 172.
+
+36 El caso The King vs. Sussex Justices, ex parte McCarthy, 1 KB 256­260, p. 259 (9 de noviembre de 1923); 
+
+citado sin fuente en TEDH, Caso Delcourt vs. Bélgica, App. No. 2689/65, 17 de enero de 1970, párr. 31.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+139
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+prevenir el genocidio, por ejemplo. En ese caso, la Corte Internacional de Jus­
+ticia  (CIJ)  sostuvo  que  "se  puede  responsabilizar  a  un  Estado  por  violar  la 
+obligación de prevenir el genocidio sólo si éste realmente fue cometido".37 Esta 
+diferencia en la evaluación se justifica porque, a diferencia de los delitos de peli­
+gro, el genocidio es un delito de resultado en términos del derecho penal.
+
+Por el contrario, la obligación (también de acuerdo con los derechos humanos) 
+de combatir la corrupción, como se señala por ejemplo en la CNUCC, no requiere 
+que los Estados detengan la corrupción en su totalidad. La satisfacción de tal 
+obligación "negativa" de resultado (y la medición de dicho resultado) sería impo­
+sible, dado que el logro de un bajo nivel de corrupción sistemática no constituye 
+un éxito que ocurre de una sola vez. En cambio, es fácil determinar, por ejem­
+plo, que no se ha cometido un genocidio. Por consiguiente, esto significa que 
+un Estado ya viola sus obligaciones preventivas y otras obligaciones procesales 
+impuestas tanto por el derecho anticorrupción como por el de los derechos 
+humanos cuando no actúa, aun si el nivel general de corrupción es bajo, a pesar 
+de la falta de rigor del Estado. Por el contrario, se libera de responsabilidad inter­
+nacional al Estado si toma medidas de protección razonables, aun cuando el 
+Estado no esté completamente "limpio". 
+
+F. La corrupción como una violación de las obligaciones fundamentales 
+expresadas en el artículo 2.1 del PIDESC
+
+En ciertas circunstancias, la corrupción (tanto la menor como la gran corrup­
+ción) debe considerarse particularmente una violación del PIDESC. Como se 
+mencionó anteriormente, la corrupción –por ejemplo, en las fuerzas policiales 
+y el Poder Judicial– también afecta a los derechos humanos consagrados en el 
+PIDCP. Sin embargo, esta sección se concentra en el PIDESC porque la deter­
+minación jurídica de la violación de este Pacto es particularmente desafiante. 
+El artículo 2.1 del PIDESC, el cual establece las obligaciones fundamentales 
+
+37 CIJ, Caso Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia 
+and Herzegovina v. Serbia and Montenegro), sentencia del 26 de febrero de 2007, ICJ Reports (2007) 43, párr. 431.
+
+140 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESde los Estados partes, contiene cuatro componentes que están sujetos a super­
+visión por el órgano del tratado, el CDESC. Cada componente es un punto de 
+partida para las obligaciones específicas del Estado, incluidas las del campo 
+de la anticorrupción. Cada una de estas obligaciones puede tornarse difícil o 
+imposible de cumplir en las circunstancias de la gran corrupción o la corrup­
+ción menor.
+
+El primer elemento –la obligación central– es "adoptar medidas". Tales medidas, 
+según el CDESC, deben ser "deliberadas, concretas y orientadas" (Observación 
+General No. 3, párr. 2). Es fácil ver que los pasos a tomar deben incluir la eli­
+minación de obstáculos a la realización de los derechos económicos, sociales 
+y culturales. Dado que la corrupción constituye uno de estos obstáculos, el 
+PIDESC requiere en principio que los Estados adopten medidas anticorrup­
+ción (véase Boersma, 2012, pp. 229­230). En sus lineamientos para el informe 
+nacional,  por  ejemplo,  la  Comisión  Interamericana  de  Derechos  Humanos 
+(OEA/Ser.L/V/II.132, Doc. 14, 19 de julio de 2008, 24) considera que la ratifi­
+cación de la Convención Interamericana contra la Corrupción y la existencia, 
+facultades y presupuesto de una autoridad anticorrupción nacional, son indi­
+cadores estructurales para los informes nacionales sobre el progreso (1996, 35 
+ILM 724 (1996)). 
+
+El segundo componente de la obligación de implementación establecido en el 
+artículo 2 del PIDESC es que el Estado parte debe adoptar estas medidas "para 
+lograr progresivamente, por todos los medios apropiados […] la plena efecti­
+vidad de los derechos aquí reconocidos". Este componente obliga a las partes 
+a otorgar cierta prioridad a la asignación de recursos para la realización de los 
+derechos humanos.38 La malversación de fondos públicos en el más alto nivel 
+viola esta obligación porque, en tales casos, se le da prioridad al financiamiento 
+del estándar de vida de funcionarios públicos de alto nivel por encima de la 
+realización de los derechos humanos sociales (Boersma, 2012, p. 233). 
+
+38 Véanse los Principios de Limburgo sobre la Aplicación del Pacto Internacional de Derechos Económi­
+cos, Sociales y Culturales (1986), reimpresos en 9 HRQ (1987) 122, párr. 28; CDESC, Observación General 
+No. 12, párr. 17; CDESC, Observación General No. 14, párr. 47. En la literatura, véase Sepúlveda, (2003, 
+pp. 332­335).
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+141
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+El tercer elemento consiste en agotar todas las posibilidades que tiene el Estado 
+a su disposición ("hasta el máximo de sus recursos disponibles"). Primeramente, 
+el  propio  Estado  parte  define  cuáles  recursos  están  disponibles  y  cuál  es  el 
+máximo de éstos. Sin embargo, de acuerdo con los Principios de Limburgo (párr. 
+27), el CDESC puede considerar el "uso equitativo y efectivo de […] los recur­
+sos dispo nibles" cuando determine si el Estado parte ha adoptado las medidas 
+apropiadas. Asimismo, el componente da lugar a una prohibición contra el desvío 
+de recursos asignados originalmente para propósitos sociales (Sepúlveda, 2003, 
+p. 315). En efecto, mediante la malversación de fondos y las medidas insufi­
+cientes contra la misma, se desvían fondos de los presupuestos sociales y, por 
+tanto, constituyen un incumplimiento de esta obligación estatal.39 La corrup­
+ción, además, reduce la capacidad de los gobiernos de generar un máximo de 
+recursos, incluyendo aquellos generados a partir de la cooperación internacional, 
+al hacer a los países menos atractivos para los donantes y para la inversión (ONU, 
+UN Doc. GA 72/137, párr. 25). En sus observaciones finales sobre los Estados 
+individuales, los distintos órganos de derechos humanos se refieren regularmente 
+al círculo de retroalimentación entre luchar contra la corrupción y dedicar sufi­
+cientes recursos a la protección de los derechos humanos.40
+
+De hecho, la gran corrupción priva al Estado de recursos de una manera "in­
+equitativa". Esto resulta evidente cuando los fondos son malversados directa­
+mente del presupuesto del gobierno. También ocurre en el caso de proyectos 
+de infraestructura excesivos o "elefantes blancos" y en la compra exagerada de 
+equipamiento militar. Cuando se desarrollan edificios, carreteras, aeropuertos, etc., 
+de una calidad inferior, los fondos presupuestados para los materiales de cons­
+trucción pueden ser desviados fácilmente por empleados de alto nivel de los 
+adjudicatarios del gobierno. Del mismo modo, la corrupción menor priva indi­
+rectamente al Estado de recursos, en tanto tiende a desalentar el cumplimiento 
+
+39 ONU, UN Doc. GA 72/137, párr. 25; CDESC, Observación General no. 24, párr. 20. 
+40 Véase, por ejemplo, Comité de los Derechos del Niño, Observaciones finales sobre los informes perió­
+dicos tercero a quinto combinados en Nepal, Doc. CRC/C/NPL/CO/3­5, 8 de julio de 2016, párrs. 12 y 13(b); 
+ONU, Comité de Derechos Humanos, Concluding Observations on the Second Periodic Report of Benin, 
+Doc. CCPR/C/BEN/CO/2, 23 de noviembre de 2015, párr. 29: "Por último, debe proporcionar los medios 
+suficientes para que el Poder Judicial funcione a un nivel óptimo, y al mismo tiempo combatir firmemente 
+la corrupción".
+
+142 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESde los pagos de impuestos (UN Doc. GA 72/137, párr. 25). Las personas afec­
+tadas no ven por qué deben pagar al gobierno dos veces –una vez a través de 
+impuestos y otra vez directamente a funcionarios gubernamentales corruptos–. 
+Incluso, la sola apropiación de un presupuesto inflado para el trabajo de relacio­
+nes públicas del gobierno puede ser inequitativo si los miembros del Parla­
+mento que lo aprueban saben que el renglón del presupuesto se está utilizando 
+para desviar fondos, típicamente por medio de la aceptación de facturas infladas 
+de compañías consultoras pagadas por agencias del gobierno, mientras los con­
+sultores transfieren el dinero nuevamente a las cuentas privadas de funcionarios 
+del ministerio (comisiones ilegales, kickbacks). Debe decidirse, caso por caso, 
+cuándo ha sido violada la obligación de utilizar todos los recursos disponibles, con­
+forme a lo establecido en el artículo 2.1 del PIDESC. 
+
+El cuarto componente de la obligación fundamental establecida en el PIDESC es 
+emplear "todos los medios apropiados", a la cual regresaré más adelante en la 
+sección 2.J. Cuando el Estado parte no cumple con ninguna de estas obliga­
+ciones,41 no está cumpliendo con el Pacto. En el análisis final, el CDESC podría, 
+lege artis y como una forma de continuar su propia práctica y aquella de los 
+Estados partes, utilizar los procedimientos de supervisión existentes para deter­
+minar con plena autoridad que, un Estado que adopta una política anticorrup­
+ción evidentemente deficiente frente a la corrupción galopante viola su obligación 
+fundamental establecida en el PIDESC.
+
+G.  La  corrupción  como  discriminación  bajo  el  artículo  29(2)  del 
+PIDESC y el artículo 2(1) del PIDCP
+
+Algunos  tipos  de  corrupción  pueden  considerarse  discriminación.42  La  dis­
+criminación en el sentido estricto de la palabra es distinta al trato desigual en 
+
+41 La difícil interrogante sobre el grado de precisión con el que el CDESC llega a esta determinación no 
+
+puede ser abordada aquí en detalle. 
+
+42 CDESC, E/C.12/GC/24, párr. 20: "La corrupción […] provoca discriminación en el acceso a los servicios 
+públicos en favor de quienes pueden influir en las autoridades, por ejemplo, mediante sobornos o recurriendo 
+a la presión política." (énfasis añadido). Asimismo, el Consejo de Derechos Humanos resumió las decla­
+raciones de los Estados participantes destacando que "la corrupción podía conducir a la discriminación 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+143
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+el sentido del artículo 26 del PIDCP. Este último básicamente prohíbe sólo la 
+arbitrariedad, y sus efectos se ven obstaculizados por varias reservas de los Es­
+tados partes. En general, la garantía autónoma de trato igualitario del artículo 
+26 no parece ofrecer un arma jurídica contra la corrupción. Las prohibiciones 
+de discriminación (por ejemplo, en virtud del artículo 2(2) del PIDESC y el 
+artículo 2(1) del PIDCP y en virtud de varias normas europeas) determinan "que 
+aquellas personas que se encuentran en condiciones similares deberían reci­
+bir un trato similar y no ser tratadas de manera menos favorable simplemente 
+por una característica particular ‘protegida’ que posean (discriminación ‘directa’). 
+Segundo, en algunas situaciones, el trato basado en una regla aparentemente 
+neutral también puede equivaler a una discriminación si pone en desventaja 
+a una persona o grupo de personas como resultado de sus características par­
+ticulares (discriminación ‘indirecta’)" (Agencia de los Derechos Fundamentales 
+de la Unión Europea y Consejo de Europa, 2018, p. 42). En el contexto de la 
+corrupción, la discriminación indirecta es particularmente relevante, y este tipo 
+de discriminación está prohibida por los instrumentos universales de dere­
+chos humanos.43 Por último, la discriminación también puede surgir a raíz de 
+una omisión,44 lo cual en ocasiones se denomina "discriminación pasiva". Este 
+tipo de discriminación también parece ser especialmente relevante en el con­
+texto de la corrupción.
+
+Es importante notar que, las prohibiciones adicionales de discriminación conte­
+nidas en los Pactos de la ONU resultan aplicables sólo en conexión con el ejer­
+cicio o disfrute de un derecho consagrado en dichos Pactos (artículo 2(1) del 
+PIDESC y artículo 2(1) del PIDCP). Por este motivo, la corrupción que afecta 
+a los derechos sociales y la corrupción relacionada con los derechos de los com­
+petidores en el ámbito de la contratación pública nunca podrán ser capturadas 
+
+y violaba el principio de igualdad". Consejo de Derechos Humanos, Mejores Prácticas, párr. 129. Para pro­
+nunciamientos gubernamentales explícitos en este sentido, véase OIE, Declaración de Bahréin, párr. 15; 
+ONU, CCPR/C/TKM/Q/1/Add.1, párr. 88. En la literatura, Kumar (2011, pp. 36, 46­47).
+
+43 Véase para el PIDESC, Observación General No. 20, E/C.12/GC/20, 2 de julio de 2009, párr. 8; véase 
+
+asimismo CDESC, Observación General No. 13, párr. 59; CDESC, Observación General No. 14, párr. 50.
+
+44 Sobre la prohibición de discriminación establecida en el PIDESC, véase CDESC, Observación General 
+
+No. 20, E/C.12/GC/20, párr. 14.
+
+144 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESbajo  las  cláusulas  adicionales  de  no  discriminación  del  PIDCP,  ya  que  estos 
+derechos no están consagrados en el propio PIDCP, por lo que la garantía adi­
+cional de no discriminación de este pacto (artículo 2(2)) no es aplicable en estos 
+contextos.45
+
+La discriminación bajo el artículo 2(2) del PIDESC y el artículo 2(1) del PIDCP 
+entra en juego sólo si ésta implica un trato desigual sobre la base de una carac­
+terística "protegida" en particular. Ambos pactos de derechos humanos prohíben 
+la discriminación basada en "otra condición social". La imposibilidad o falta de 
+voluntad para pagar un soborno puede ser considerada como "otra condición 
+social". Aunque tradicionalmente la pobreza no ha sido considerada una cate­
+goría tan sospechosa como el género o la raza. El CDESC sostuvo en su Co­
+mentario General No. 20 sobre no discriminación que las personas no deben 
+ser "tratadas arbitrariamente con base en su pertenencia a cierto grupo social o 
+económico" (CDESC, E/C.12/GC/20, párr. 35). En consecuencia, dicho comité 
+ha reconocido la imposibilidad de pagar como un criterio que merece especial 
+protección, aunque el escrutinio que se justifica en este contexto debería ser 
+menos exigente que en los casos de discriminación racial o por razones de gé­
+nero. Las distinciones basadas en la falta de voluntad o imposibilidad de pagar, 
+o los impactos negativos sobre las personas económicamente desfavorecidas 
+no constituyen automáticamente una discriminación directa o indirecta, sino 
+únicamente cuando la política estatal correspondiente carece de un objetivo legí­
+timo o es desproporcionada para alcanzar dicho objetivo.
+
+Por ejemplo, en las campañas electorales para elecciones democráticas, la pros­
+peridad económica de los candidatos puede desempeñar un papel indebido si 
+la legislación del Estado no regula las campañas electorales de manera adecuada. 
+En Tanzania, una ley electoral permitía la takrima o reparto de ciertos refrigerios 
+y regalos a los votantes por parte de los candidatos a cargos públicos. El Tri­
+bunal Superior de Tanzania determinó que las disposiciones legales que per­
+
+45 Además, la garantía general de trato igualitario tampoco protege de la corrupción a los competidores, 
+
+como se mencionó.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+145
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+mitían la takrima eran "discriminatorias entre los candidatos con altos ingresos 
+y los candidatos con bajos ingresos".46 La Corte Superior estableció que la ley 
+violaba los derechos al trato igualitario y a la no discriminación respecto a la par­
+ticipación política (artículos 7 y 21 de la Declaración Universal de los Derechos 
+Humanos), incorporados en la Constitución de Tanzania.47
+
+La solicitud o aceptación de sobornos menores también puede ser discrimina­
+toria. Un potencial aceptante de sobornos en el sector público probablemente 
+evaluaría  la  capacidad  y  la  voluntad  de  la  víctima  para  pagar  el  soborno  y 
+ajustaría su solicitud y la cantidad solicitada en consonancia. La distinción que 
+opera en este caso –la capacidad y voluntad de pagar de su objetivo– es en sí 
+misma ilícita y arbitraria. Además, la evaluación del funcionario a menudo se 
+basa en la situación patrimonial de la víctima o en su pertenencia a un grupo 
+social. Las personas que pertenecen a ciertos grupos pueden ser consideradas 
+por el aceptante de sobornos como personas mejor capacitadas para satisfacer 
+una solicitud (más alta) de soborno. Por tanto, las personas son tratadas en 
+forma distinta sin una justificación razonable. En consecuencia, si una persona 
+no tiene la capacidad o la voluntad de pagar un soborno –por ejemplo, para 
+pasar un control policial o para recibir su pasaporte– y se le impide por ello 
+continuar con su viaje o salir del país, y si el Estado no toma medidas para com­
+batir la corrupción de los funcionarios implicados, entonces tanto la acción 
+del aceptante de sobornos como la pasividad del Estado tienen un impacto 
+negativo desproporcionado en las personas que no cuentan con medios eco­
+nómicos. En estos casos, no sólo son restringidas las libertades civiles de las 
+personas. Debido a la ausencia de una base jurídica y de un objetivo legítimo 
+en la solicitud de un pago, estas personas también están siendo discriminadas en 
+relación con su derecho a circular libremente o salir del país. Considero que 
+esta evaluación jurídica captura el sentido social de la corrupción, tal y como 
+lo expresó el entonces secretario general de la ONU, Kofi Annan, en el prefacio 
+
+46 Tribunal Superior de Tanzania, Caso Civil núm. 77, Legal and Human Rights Centre and Others vs. 
+
+Attorney General, [2006] TZHC 1 (24 de abril de 2006), pp. 28, 29.
+
+47 Tribunal Superior de Tanzania, Caso Civil núm. 77, p. 39. Declaración Universal de los Derechos 
+
+Humanos, AG Res. 217, 10 de diciembre de 1948.
+
+146 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESde la CNUCC, cuando afirmó que "la corrupción afecta infinitamente más a los 
+pobres" y promueve "la desigualdad" (ONU, CNUCC, 2004).
+
+H. Causalidad 
+
+Un problema clave para poder determinar la violación de derechos humanos 
+a partir de una conducta corrupta es la causalidad (Schefer, 2010). Esto es cierto 
+para las omisiones del Estado en su conjunto, así como para los actos corrup­
+tos de funcionarios públicos individuales que ocurren de manera concomi­
+tante. Hasta ahora, los órganos internacionales y regionales de derechos humanos 
+que han abordado casos concretos de corrupción no trataron la cuestión de la 
+causalidad en forma sistemática. Por ejemplo, el Tribunal de la CEDEAO requirió 
+sólo un "vínculo claro entre los actos de corrupción y una denegación del dere­
+cho" (en este caso el derecho a la educación) sin describir ese "vínculo" de manera 
+detallada (SERAP, párr. 19). 
+
+1. Principios jurídicos internacionales sobre causalidad
+
+En el contexto de la corrupción estatal, la determinación de la causalidad jurí­
+dica debe basarse en los principios del derecho de la responsabilidad del Estado 
+(véanse Castellanos­Jankiewicz, 2012; Crawford, 2013, pp. 492­503). Salvo 
+que existan reglas especiales, estos principios se aplican a la responsabilidad 
+del Estado que surge de violaciones a los derechos humanos.48 Sin embargo, 
+no existen reglas de causalidad completamente asentadas en el derecho inter­
+nacional.49 El Proyecto de Artículos sobre la Responsabilidad del Estado por 
+Hechos Internacionalmente Ilícitos de la Comisión de Derecho Internacional (en 
+adelante, Proyecto de Artículos de la CDI) es omiso respecto del vínculo causal 
+
+48 Véase CDI, Artículos sobre la Responsabilidad de los Estados por Hechos Internacionalmente Ilícitos 
+
+(ARSIWA), UN Doc. A/56/83, 3 de agosto de 2001, arts. 33(2), 55.
+
+49 Véase Comisión de Reclamaciones Eritrea­Etiopía (EECC, por sus siglas en inglés), Decisión No. 7: 
+Guidance Regarding Jus ad Bellum Liability, 27 de julio de 2007, párrs. 8­9; Corte Penal Internacional, Situación 
+de la República Democrática del Congo en el caso del Fiscal vs. Thomas Lubanga Dyilo (ICC­01/04­01/06), Trial 
+Chamber I, 7 de agosto de 2012, párr. 248.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+147
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+entre la conducta y la transgresión jurídica ("causa de hecho").50 No obstante, 
+el artículo 31 del Proyecto de Artículos de la CDI rige el vínculo causal entre la 
+transgresión legal y el daño (el "ámbito de responsabilidad").51 En el área de 
+derechos humanos, el daño reside en la violación del derecho en sí misma, 
+y por  ende  es  principalmente  inmaterial.  Cualquier  daño  material  adicional 
+(como una pérdida de ingresos, costos de tratamiento médico, etc.) es más bien 
+la excepción. 
+
+Existe también la práctica estatal respecto del vínculo causal entre la transgre­
+sión jurídica y el daño (ámbito de responsabilidad) en el área de las violaciones 
+de derechos humanos y por daños de guerra.52 En este sentido, se reconoce que 
+la causalidad (en el sentido de una conditio sine qua non o "necesidad" en tér­
+minos de un but­for test) debe complementarse con un elemento evaluativo 
+que "en la consideración jurídica" corta las cadenas de la causalidad que son 
+excesivamente largas.53 Debe existir "inmediación" entre la transgresión jurí­
+dica y el daño.54 Sólo en los casos de daños/pérdidas que "no son muy distantes", 
+se amerita una reparación.55 La "inmediación" se determina sobre la base de los 
+
+50 En la terminología jurídica internacional, esto se refiere a la "violación de una obligación internacional 
+
+del Estado"; artículo 2.b) del Proyecto de Artículos de la CDI.
+
+51 Illias Plakokefalos (2015, p. 475) destaca la frecuente falta de distinción entre los dos aspectos de la 
+
+causalidad en la jurisprudencia internacional.
+
+52 Respecto del vínculo causal entre la transgresión jurídica y el daño (ámbito de responsabilidad) 
+en relación con la obtención de una "justa satisfacción" en virtud del artículo 41 del CEDH, véase TEDH, 
+Caso Chevrol vs. Francia, App. No. 49636/99, sentencia del 13 de febrero de 2003, párrs. 86­89; TEDH, Caso 
+Sylvester vs. Austria, App. No. 36812/97 y 40104/98, sentencia del 24 de abril de 2003, párrs. 79­92 (espe­
+cialmente, párrs. 81­84, 91); TEDH, Caso Nowicka vs. Polonia, App. No. 30218/96, sentencia del 3 de diciembre 
+de 2002, párrs. 79­83, especialmente, 82. En estos casos, el TEDH negó un vínculo causal suficiente entre las 
+violaciones de los derechos humanos identificadas y la pérdida pecuniaria reclamada, por ejemplo, la pérdida 
+de ingresos debido al no reconocimiento de un diploma (Chevrol), la pérdida del empleo debido a un viaje 
+emprendido para visitar a un niño que había sido secuestrado en violación del derecho a la vida en familia 
+(Sylvester), o la compensación por un encarcelamiento excesivamente largo en violación del artículo 4 de la 
+CEDH (Nowicka). Sin embargo, los requisitos para tal causalidad no fueron examinados en detalle. 
+
+53 Comisión Mixta de Reclamaciones Estados Unidos vs. Alemania, Decisión Administrativa No. II, 1 de 
+noviembre de 1923, reimpresa en (1956) 7 UNRIAA 23, pp. 29­30. Véase también ONU, Tribunal Arbi­
+tral, Provident Mutual Life Insurance Company and others (United States) vs. Germany, 18 de septiembre de 
+1924, reimpreso en (1956) 7 UNRIAA 91, pp. 112­113.
+
+54 EECC, Decisión No. 7, párr. 13; ICC­01/04­01/06 párr. 250 (‘proximate cause’). ‘Responsabilidad del 
+Estado. Comentario General’ (Comentario ARSIWA) 2(2) ILC Yearbook (2001), Art. 31, párr. 10, parte E (Pro­
+yecto de Artículos sobre la Responsabilidad del Estado por Hechos Internacionalmente Ilícitos), p. 93.
+
+55 Véase Tribunal Arbitral, Caso Trail Smelter Case, United States vs. Canada, reimpreso en (1931­1941) 
+3 UNRIAA 1905, p. 1931: "El daño que es demasiado indirecto, remoto e impreciso no está sujeto a com­
+pensación" [traducción no oficial].
+
+148 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALEScriterios objetivos de "consecuencia natural y normal"56 y el criterio subjetivo 
+de "previsibilidad".57 
+
+Estos términos, al ser aplicados a nuestro esfuerzo por determinar el vínculo 
+causal entre el acto estatal corrupto y la transgresión jurídica (causa de hecho), 
+transmiten la idea de que los actos (u omisiones) corruptos ocasionan viola­
+ciones de derechos humanos en el sentido jurídico sólo si las violaciones –a 
+derechos como el de alimentación, vivienda o educación– son previsibles y no 
+muy distantes de los funcionarios públicos corruptos (o el aparato pasivo del 
+Estado). En algunos casos, el cumplimiento de estos requisitos es posible. Por 
+ejemplo, el arreglo para que un funcionario judicial reciba una pequeña suma 
+de dinero para citar a un testigo está causalmente relacionado con la viola­
+ción del derecho a un juicio justo. Del mismo modo, los sobornos pagados a 
+un empleado de una autoridad ambiental supervisora, cuya intención es inducir 
+al empleado a "hacer la vista gorda" ante la creación de un basurero ilegal de 
+desechos tóxicos, deben –de acuerdo con estos principios– ser calificados como 
+una causa de los efectos adversos resultantes en la salud de los residentes locales. 
+En tales casos, la aprobación del basurero ilegal de desechos tóxicos y el daño 
+a la salud eran previsibles para el funcionario público, se encontraban dentro 
+del curso regular de las cosas. Por tanto, la tolerancia corrupta de la creación del 
+basurero de desechos tóxicos es, a los ojos de la ley, una causa de la violación 
+de los derechos humanos de los residentes locales en términos del respeto a su 
+vida privada e integridad física.58
+
+Por el contrario, no debería afirmarse la existencia de un vínculo causal jurídico 
+cuando una violación de derechos humanos no ocurre en el curso regular de las 
+
+56 ONU, Tribunal Arbitral, Provident Mutual Life Insurance Company, 113.
+57 EECC, Decisión No. 7 (2007), párr. 13. Véase ONU, Caso Naulilaa: Responsabilité de l’Allemagne à 
+raison des dommages causés dans les colonies portugaises du sud de l’Afrique (sentence sur le principe de la respon­
+sabilité) (Portugal vs. Germany), 31 de julio de 1928, reimpreso en (1949) 2 UNRIAA 1011, p.1031. Corte 
+Permanente de Arbitraje, Decisión 24, Afffaire relative à la concession des phares de l’Empire Ottoman (Grèce v. 
+France), 27 de julio de 1955, reimpreso en (1963) 12 UNRIAA 155, p. 218: "prévisible". El párrafo 14 de la 
+Decisión No. 7 (2007) de la EECC señala que la selección de una fórmula verbal para describir el grado 
+necesario de conexión no deriva necesariamente en resultados distintos.
+
+58 El Consejo Internacional de Políticas de Derechos Humanos y el Consejo de Europa (2018, p. 27) se 
+refieren a esta constelación como un "vínculo indirecto" entre la corrupción y las violaciones de derechos 
+humanos.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+149
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+cosas y no es previsible. Por ejemplo, asumamos que el cohecho electoral deriva 
+en disturbios después del anuncio de los resultados electorales –protestas que 
+a su vez son aplacadas mediante la fuerza excesiva de la policía–. Entonces, la 
+violación de la libertad de asociación e integridad física de los manifestantes no 
+ha sido –en términos jurídicos– ocasionada por la corrupción electoral (Sepúl­
+veda, Carmona y Bacio Terracino, en Boersma y Nelen, 2010, p. 30).
+
+2. Problemas especiales de la causalidad 
+
+Además de la situación en la que la "distancia" entre la causa y la violación de 
+derechos humanos es demasiado grande –lo cual es especialmente frecuente 
+en el contexto de la gran corrupción–, surgen otros problemas especiales de cau­
+salidad. Una situación común ocurre cuando la violación de derechos humanos 
+tiene varias causas, siendo la corrupción sólo una de entre ellas, mientras que 
+ambas causas en combinación traen consigo la violación de derechos humanos 
+("causalidad acumulativa"). Por ejemplo, asumamos que varios estudiantes mue­
+ren como consecuencia de los escombros que caen en una escuela que colapsa 
+a causa de un terremoto. Con posterioridad al incidente, se determina que la 
+escuela  fue  construida  de  manera  deficiente  porque  los  materiales  de  cons­
+trucción fueron desviados por funcionarios municipales para su propio uso y 
+el inspector de la construcción había sido sobornado. Aunque la corrupción 
+sólo fue una condición necesaria pero no suficiente (porque hacía falta el terre­
+moto) para que la escuela colapsara y ocasionara la muerte de los estudiantes, 
+la corrupción era aun así una conditio sine qua non y, por tanto, una causa de la 
+violación de derechos humanos en el sentido jurídico. 
+
+Un escenario diferente y generalizado se denomina causalidad "concurrente", 
+"dual", "rival" o "alternativa". Ésta es la situación en la que ambos factores, por 
+sí mismos, habrían sido suficientes para ocasionar el efecto. Por ejemplo, las 
+violaciones de derechos humanos sociales frecuentemente derivan de una dis­
+tribución de recursos sin la debida priorización de dichos derechos. Si encima 
+de ello emerge la corrupción, ambos factores sólo son concurrentes. O, en nuestro 
+ejemplo, el material de construcción utilizado debido a la corrupción podría 
+haber sido tan deficiente que la escuela habría colapsado sin un terremoto. Y, de 
+
+150 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESmanera concurrente, el terremoto podría haber sido tan severo que podría haber 
+derrumbado la escuela aun si hubiese sido construida con materiales y técnica 
+impecables.  En  este  escenario,  ninguno  de  los  factores  fue  una  "condición 
+necesaria" –conditio sine qua non– porque el resultado adverso habría ocurrido 
+de todas formas. Sin embargo, esto podría conducir a la conclusión absurda de 
+que no existe causa en absoluto. Por eso, debería sostenerse la causalidad en el 
+sentido jurídico; de hecho, esto es precisamente lo que se hace en la práctica jurí­
+dica internacional.59 Volviendo al ejemplo anterior, la existencia de otras causas 
+"concurrentes/rivales" (además de la corrupción) no implica que el soborno no 
+pueda ser considerado la causa jurídica de una violación de derechos humanos. 
+
+Una variante, cuando se observa la situación durante un lapso de tiempo, se 
+denomina causalidad "anticipada", "primordial" o "dominante". Por ejemplo, 
+asumamos que un juez es sobornado por una de las partes de un juicio civil con 
+el fin de prolongar el proceso. Sin embargo, como los tribunales no cuentan 
+con suficientes recursos humanos y económicos, el juicio se hubiera retrasado 
+en forma sustancial, aunque este acto de corrupción haya existido, y este retraso 
+hubiese violado en sí mismo el derecho de una de las partes a una audiencia en 
+un tiempo razonable. Típicamente, ya no se puede determinar a posteriori si los 
+factores fueron: i) acumulativos (ambos necesarios), ii) concurrentes ("duales", 
+"rivales" o "alternativos", es decir, cada uno suficiente por sí mismo); o iii) "domi­
+nantes". La situación más frecuente parece ser que la disfuncionalidad de un 
+determinado sector gubernamental tiene múltiples causas, de las cuales sólo 
+
+59 Sin embargo, existe sólo jurisprudencia en relación con el segundo vínculo causal que se requiere 
+para identificar un daño ("ámbito de responsabilidad"), y no en relación con el primer vínculo causal entre 
+la conducta y la violación jurídica ("causa de hecho"). Véase EECC, Final Award: Ethiopia’s Damages Claims, 
+17 de agosto de 2009, reimpreso en (2009) 26 UNRIAA 631, p. 733, párr. 330. La gente abandonó sus 
+lugares de residencia en parte por la sequía y en parte por la guerra, aunque la guerra fue el motivo principal. 
+La Comisión de Reclamaciones ignoró por completo la potencial causa adicional (la sequía) para determinar 
+el número de personas internamente desplazadas, lo cual a su vez fue utilizado para calcular la compensación. 
+Véase, asimismo, el caso Tehran Hostage, una situación modelo en la que no se pudo determinar qué factor 
+originó, cuándo y cómo, la violación del derecho internacional. Se produjo un ataque privado contra la 
+embajada, pero, al mismo tiempo, Irán fracasó a la hora de proteger la embajada. La Corte Internacional de 
+Justicia (CIJ) responsabilizó completamente a Irán y no redujo la responsabilidad del Estado en virtud 
+de alguna contribución no atribuibles al Estado para la violación del derecho internacional por parte de los 
+estudiantes particulares. ICJ, United States Diplomatic and Consular Staff in Tehran, sentencia del 24 de mayo 
+de 1980, ICJ Reports (1980) 3, párrs. 76­77, 90.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+151
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+una de ellas es la corrupción, y que es imposible determinar con certeza si la 
+corrupción fue un factor necesario en sentido estricto. Al usar nuestro ejemplo, 
+típicamente sigue siendo indeterminado si la escuela habría colapsado en el 
+terremoto, aun si hubiese sido construida en forma apropiada (sin corrupción). 
+El punto importante es que, en este tipo de casos, la corrupción todavía podría 
+ser calificada como una causa jurídica. Esto es lo que prevén los principios jurí­
+dicos generales, como los Principios de Derecho Europeo de la Responsabilidad 
+Civil.60 Con todo, persiste la ulterior pregunta de si el vínculo causal es lo su­
+ficientemente inmediato como para atribuirle las muertes al supervisor corrupto 
+de la construcción. Esta pregunta debe ser examinada en detalle y, en algunos 
+casos, puede negarse la causalidad. 
+
+Un asunto que se decidió con base en una posible causalidad "dominante", lo cual 
+sucedió en un contexto de indeterminación factual, lidió con el trabajo infantil 
+en Portugal durante la década de 1990. Una ONG que presentó una queja ante 
+el Comité Europeo de Derechos Sociales había afirmado, inter alia, que la Oficina 
+de Inspección Laboral era corrupta. Sin embargo, el Comité opinó que la Ofi­
+cina de Inspección (de todas formas) no trabajaba de manera suficientemente 
+eficiente para monitorear y remediar la situación (su mal funcionamiento era 
+por tanto una conditio sine qua non), estuviese inducida por la corrupción o no. 
+Sobre esta base, el Comité determinó que, en efecto, la situación en Portugal 
+respecto del trabajo infantil no era conforme con el artículo 7.1 de la Carta 
+Social Europea (que determina la edad mínima de 15 años para los empleos), 
+debido a que varios miles de niños con una edad menor a 15 años de hecho 
+trabajaban, pero no basó su conclusión en la corrupción.61 Este ejemplo de­
+muestra cómo en la práctica, los órganos encargados de la toma de decisiones, 
+cuando tienen otras razones suficientes para determinar una violación, tienden 
+a dejar abierta la pregunta sobre cuán importante y cuán "causal" es la corrup­
+ción  para  una  violación  de  derechos  humanos.  Sin  embargo,  es  importante 
+
+60 Véase Grupo Europeo sobre la Responsabilidad Civil, Texto y Comentarios, Principios de Derecho 
+
+Europeo de la Responsabilidad Civil (2005), art. 3:103 (causas alternativas), art. 3:101­106 (causalidad).
+
+61 ONU, Comité Europeo de Derechos Sociales, International Commission of Jurists vs. Portugal, Queja 
+No. 1/1998, 9 de septiembre de 1999, especialmente párr. 42, disponible en: «https://www.coe.int/t/dghl/
+monitoring/socialcharter/Complaints/CC1Merits_en.pdf»; Carta Social Europea 1961, 529 UNTS 89.
+
+152 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESinsistir en los principios sobre causalidad ya establecidos para no perder de 
+vista aquellas constelaciones en las que otros factores (aparte de la corrupción) 
+están ausentes o no pueden demostrarse.
+
+3. Causalidad en el caso de omisión 
+
+Las respectivas violaciones de derechos humanos vinculadas a la corrupción 
+consisten frecuentemente en el incumplimiento de las obligaciones de protec­
+ción y procedimentales. Esto hace que surja la interrogante de la causalidad 
+en caso de omisión. Normalmente, la causalidad jurídica en caso de omisión se 
+afirma si la acción positiva legalmente requerida pudiera, con cierto grado de 
+certeza, haber eliminado el resultado (indeseado). Es una prueba más flexibili­
+zada del but­for test. Cuando se trata de omitir meras obligaciones de conducta, no 
+obstante, esta prueba del but­for no tiene ningún sentido y no puede aplicarse, 
+ya que estas obligaciones no requieren que el Estado logre un resultado par­
+ticular (véase la sección 2.E.2 supra). 
+
+En el caso del genocidio en Bosnia, la Corte Internacional de Justicia determinó 
+que existe una obligación de prevenir el genocidio aun cuando el Estado no pueda 
+estar seguro de si las medidas preventivas serán exitosas o no.62 Esto significa 
+que el Estado no puede evadir la responsabilidad simplemente al demostrar que 
+el genocidio (o, en nuestro caso, la corrupción) habría ocurrido a pesar de todos 
+sus esfuerzos para prevenirlo. De tal manera que, aunque la acción preventiva apro­
+piada no hubiese eliminado el problema, la omisión de actuar adecuadamente 
+todavía  cuenta  como  una  causa  jurídica.  Si  la  causalidad  se  negara  aquí,  el 
+Estado sería capaz de evitar la responsabilidad muy fácilmente. Aun cuando en 
+un  sentido  científico  la  omisión  de  actuar  no  causó,  por  tanto,  el  resultado 
+indeseado (porque el resultado habría ocurrido de todos modos), la causalidad 
+se afirma, no obstante, en un sentido jurídico.63 De acuerdo con este análisis 
+
+62 En ese caso, el éxito habría sido la prevención del genocidio. Véase CIJ, Bosnian Genocide, párr. 461.
+63 En el CIJ, Bosnian Genocide; sin embargo, la CIJ consideró respecto del nexo causal entre la violación 
+y el contenido de la responsabilidad del Estado ("ámbito de responsabilidad", es decir, para determinar si 
+Serbia debía pagar reparaciones), si el genocidio habría ocurrido incluso a pesar de los esfuerzos para evitarlo 
+(párr. 462). Dado que esto no se pudo demostrar, la CIJ no consideró apropiada una compensación finan­
+ciera por parte de Serbia. 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+153
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+–común en el derecho de la responsabilidad civil y en el derecho penal–, se 
+puede considerar responsable a un Estado por un alto nivel de corrupción en 
+el ámbito de su administración, aunque las víctimas no puedan demostrar 
+que un escándalo específico de corrupción no hubiese ocurrido si el Estado 
+hubiese llevado a cabo políticas particulares (por ejemplo, el establecimiento 
+de una autoridad anticorrupción con facultades amplias y recursos financieros 
+considerables). Otra cuestión es si una mera correlación estadística de los in­
+dicadores de corrupción y los indicadores de incumplimiento de los dere­
+chos humanos puede ser suficiente para afirmar una violación de estos derechos 
+humanos "por" la omisión de esfuerzos anticorrupción por parte del Estado –de 
+manera análoga a la evidencia estadística que es comúnmente utilizada para 
+mostrar una discriminación indirecta–. Tal evidencia estadística parece difícil 
+de obtener mientras la medición de la corrupción en la mayoría de los Estados 
+esté basada únicamente en percepciones y no en hechos jurídicos como proce­
+samientos judiciales.
+
+I. Atribución 
+
+El siguiente problema doctrinal consiste en cómo atribuirle al Estado una con­
+ducta corrupta. De acuerdo con el artículo 4 del Proyecto de Artículos de la 
+CDI, la conducta de cualquier órgano del Estado es atribuible al propio Estado. 
+Esto no ha sido problemático respecto de las omisiones discutidas arriba, las 
+cuales violan obligaciones de prevención y protección previstas por los dere­
+chos humanos. Tales omisiones conciernen a los órganos Legislativo, Ejecutivo 
+y Judicial del Estado que incumplan las obligaciones que les fueron encargadas 
+directamente a ellos. 
+
+1. Actos ultra vires
+
+El análisis es diferente en el caso de actos individuales y particulares de funcio­
+narios públicos, especialmente en el área de la corrupción menor. ¿Pueden estos 
+atribuírsele al Estado en su conjunto de manera que generen responsabilidad 
+estatal por las violaciones de derechos humanos resultantes? Los funcionarios 
+públicos corruptos obviamente exceden su autoridad formal. Según las nor­
+mas de la responsabilidad del Estado, no obstante, los actos ultra vires también 
+
+154 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESson, en principio, atribuibles al Estado. La condición previa es que un órgano 
+del  Estado  o  una  persona  autorizada  para  ejercer  autoridad  gubernamental 
+actúe "con ese carácter" (artículo 7 del Proyecto de Artículos de la CDI). Dicha 
+conducta de carácter oficial debe distinguirse de la conducta privada (Crawford, 
+2013, pp. 136­140). De hecho, los casos emblemáticos en el derecho interna­
+cional que examinan esta distinción tratan sobre actos corruptos de funcionarios 
+públicos. De acuerdo con esta jurisprudencia, es importante saber si el funcio­
+nario actuó "amparado" por su cargo público y también si empleó las facultades 
+especiales (coercitivas) de su cargo (tal como la facultad de registrar o arrestar 
+individuos).64 Según el Comentario de la CDI, la pregunta clave es si las personas 
+corruptas estaban "supuestamente llevando a cabo sus funciones oficiales" y si 
+"actuaban con autoridad aparente" (ARSIWA, UN Doc. A/56/83, art. 7, p. 46, 
+párr. 8). Al aplicar estos principios a nuestra interrogante, vemos que, como 
+norma, el funcionario corrupto actúa con autoridad pública aparente y amparán­
+dose en la misma. El funcionario utiliza su posición para llevar a cabo u omitir 
+una medida que el funcionario no podría realizar como una persona privada, 
+como otorgar una autorización o licencia, evitar procesos judiciales o imponer 
+una multa. 
+
+64 El locus classicus de la Comisión de Reclamaciones Francia­México, es el caso Estate of Jean­Baptiste 
+Caire (France) vs. United Mexican States, 7 de junio de 1929, reimpreso en (1952) 5 UNRIAA 516. Caire, 
+ciudadano francés, administraba una casa­pensión en México. Un comandante mexicano de las tropas allí 
+apostadas y dos soldados intentaron extorsionar a Caire para quitarle dinero bajo amenaza del uso de la fuerza. 
+Cuando Caire rehusó, el comandante y un capitán de la misma brigada arrestaron a Caire, lo registraron, lo 
+llevaron a otro pueblo y lo mataron. El tribunal arbitral consideró esta conducta como un acto oficial atri­
+buible al Estado. La responsabilidad fue justificada "cuando esos órganos actúen fuera de su competencia, 
+utilizando su condición de órganos del Estado y los medios puestos a su disposición para ese fin" ["lorsque 
+ces organes agissent en dehors de leur compétence, en se couvrant de leur qualité d’organes de l’État, et en se servant 
+des moyens mis, à ce titre, à leur disposition"] (p. 530). Véase también Tribunal de Reclamaciones Irán­Estados 
+Unidos. Caso Yeager vs. Irán, Caso No. 10199, Sentencia No. 324­10199­1, 2 de noviembre de 1987, reim­
+preso en (1987) 17 Claims Tribunal Reports, 92­113. El asunto en cuestión aquí fue una reclamación contra 
+Irán, alegando un acto corrupto por parte de un empleado de la aerolínea estatal "Iran Air". El demandante fue 
+forzado de manera ilegal por la línea aérea a hacer un "pago extra" por un boleto aéreo. El tribunal no atribuyó 
+este acto corrupto del funcionario estatal a Irán: "Los actos que un órgano comete en una capacidad pura­
+mente privada, aunque haya utilizado los medios puestos a su disposición por el Estado para el ejercicio de 
+sus funciones, no son atribuibles al Estado. […] No hay indicios en este caso de que el agente de Iran Air 
+actuara por otra razón que no fuera el beneficio personal, o que hubiera pasado el pago a Iran Air. Eviden­
+temente no actuó en nombre o en interés de Iran Air. El tribunal considera, por tanto, que este agente actuó 
+a título privado y no en su calidad oficial de órgano de Iran Air" (p. 111, párr. 65). Esta conclusión es defen­
+dible, pero el razonamiento no es persuasivo. Más bien, era significativo que el empleado no pretendió estar 
+exigiendo el pago extra en nombre del Estado (véase también Crawford, 2013, p. 138). 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+155
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+Ciertamente,  surgen  otras  preguntas  específicas.  La  "corrupción  libremente 
+consumada" podría merecer ser considerada como algo que cae fuera tanto de 
+la autoridad real como aparente del servidor público, de tal manera que no 
+podría considerarse que actúa "en su función [gubernamental]" (Llamzon, 2014, 
+p. 261). Otra cuestión es si, en el caso del cohecho, la característica calificativa del 
+delito, particularmente la existencia de un acuerdo ilegal (quid pro quo) entre 
+el que soborna y el servidor público (dinero en efectivo a cambio de algún tipo 
+de acción o inacción gubernamental) tendría que ser tomado en cuenta para deter­
+minar la atribución de la acción o inacción del servidor público al Estado. Cabría 
+preguntarse si el conocimiento del que soborna sobre la ilegalidad de la con­
+ducta del servidor público, o su participación en ella, debería excluir cualquier 
+atribución de esa conducta al Estado. Pero tal falta de atribución sería justa sólo 
+si el funcionario hubiera sido principalmente pasivo, y atraído a la corrupción 
+por el "mal" sobornador –una situación que es imposible de reconstruir y que 
+también podría ser poco realista (Llamzon, 2014, p. 262). De cualquier manera, 
+la atribución al Estado no puede ser descartada en la relación entre el Estado 
+y otros actores que buscan invocar la responsabilidad estatal, y que no han 
+participado por sí mismos en la corrupción (ibidem, 264; UN Doc. A/56/83). Para 
+concluir, el hecho de que la conducta de un funcionario sea realizada como un 
+quid pro quo en el cohecho normalmente no excluye la atribución de esa con­
+ducta  al  Estado.65  Más  aun,  otros  tipos  de  conducta  corrupta  por  parte  de 
+servidores públicos pueden y deberían ser atribuidos al Estado de acuerdo con los 
+principios de responsabilidad estatal. 
+
+2. El razonamiento de ilegalizar la corrupción
+
+Sin embargo, desde una perspectiva normativa, ¿no debería limitarse aún más 
+la atribución como consecuencia del razonamiento detrás de la proscripción 
+de la corrupción? ¿Se relaciona en algo la proscripción contra los actos de fun­
+cionarios corruptos (o la obligación jurídica de mejorar las medidas anticorrup­
+
+65 Pero, véase CIADI, Caso World Duty Free Company Limited vs. The Republic of Kenya, Caso ICSID, Caso 
+No. ARB/00/7, 4 de octubre de 2006, párr. 185. El tribunal no atribuyó la extorsión y aceptación del soborno 
+del inversionista por parte del presidente de Kenia a dicho Estado, sino que consideró al Estado como "el 
+principal por lo demás inocente" del presidente, que actuó como su agente en el soborno. Pero este razo­
+namiento fue en aplicación del derecho inglés y keniano, no en virtud del derecho internacional. 
+
+156 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESción) con el objeto y propósito de los derechos humanos? Sólo entonces sería 
+jurídicamente apropiado clasificar la conducta corrupta del Estado no sólo como 
+un déficit de gestión pública y, en ciertas circunstancias, como un delito penal 
+de acuerdo con el derecho nacional, sino también, de manera simul tánea y 
+adicional, como una violación de derechos humanos. 
+
+A primera vista, el derecho penal sobre la corrupción y el de los derechos huma­
+nos persiguen objetivos distintos. El objetivo de la criminalización del cohecho 
+en el derecho penal alemán, por ejemplo, es "proteger el funcionamiento de la 
+administración pública y la confianza pública en la objetividad e independencia 
+de la conducta administrativa" (Korte en Joecks y Miebach, 2014, p. 331, párr. 8). 
+El objetivo es, por tanto, "proteger la institución del servicio pú blico y, por 
+ende, un bien público fundamentalmente importante" (ibidem, párr. 12). En este 
+sentido, ¿puede considerarse la corrupción como un ataque contra los derechos 
+humanos, el bien individual jurídicamente protegido por excelencia? Mi res­
+puesta es que sí, porque, por supuesto, los intereses del individuo son los 
+que sustentan al Estado y al servicio público protegidos por la criminalización 
+del cohecho. El derecho penal sobre la corrupción tiene que ver con "proteger 
+la confianza en el interés del ciudadano individual" (Heine y Eisele, 2014, § 
+331, párr. 9). La protección "del público" y la protección de los derechos hu­
+manos de todas las personas en un Estado dado no son, por ende, categorías 
+opuestas o diferentes. A pesar de que los intereses individuales del ciudadano 
+y el bien común pueden entrar en conflicto (razón por la cual los derechos 
+humanos exigen una ponderación con el interés público), el Estado liberal mo­
+derno se justifica, en gran parte, sólo en eso y en la medida en que protege 
+los derechos humanos.
+
+La diferencia restante es que la corrupción es un delito de conducta, mientras 
+que las violaciones de derechos humanos pueden establecerse sólo si se pro­
+duce realmente un daño concreto.66 Sin embargo, esta importante diferencia 
+
+66 Esta diferencia se reduce en cuanto que, de acuerdo con la jurisprudencia del TEDH, una futura 
+violación concreta de derechos humanos puede desde ese momento, en ciertas circunstancias, establecer 
+un carácter de víctima y ocasionar que una demanda individual sea admisible; véase, por ejemplo, TEDH, 
+Caso Open Door and Dublin Well Woman vs. Irlanda, App. No. 14234/88, sentencia del 29 de octubre de 1992, 
+párr. 44 (sobre las mujeres en edad de tener hijos como "víctimas" de la prohibición de abortar).
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+157
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+estructural  no  impide  la  atribución  a priori;  sólo  significa  que  no  todo  acto 
+corrupto constituye una violación de derechos humanos. Si, por ejemplo, los 
+obsequios de una compañía farmacéutica entregados a un ministro de salud 
+no tienen éxito, al final, modificando los patrones de compras del ministerio y 
+la distribución de vacunas en barrios urbanos, ello bien podría ser considerado 
+cohecho, pero los derechos de los residentes del barrio a la integridad física y al 
+cuidado de la salud no han sido violados puesto que el cohecho no tuvo un 
+impacto en su estándar de atención. En el análisis final, la proscripción contra 
+la corrupción se adecua al propósito de protección de los derechos humanos; 
+sobre la base de tales consideraciones, la relación atributiva entre los actos u omi­
+siones corruptas y las violaciones de derechos humanos no tiene por qué ser 
+negada. 
+
+J. Margen de apreciación
+
+Aun cuando consideremos un acto corrupto particular o el incumplimiento 
+general a la hora de implementar medidas anticorrupción como una causa de 
+interferencia con derechos humanos particulares y se lo atribuyamos al Estado, 
+esto no significa en modo alguno que todo cuanto afecte a los derechos huma­
+nos también constituya una violación de los mismos. Los derechos civiles/políticos 
+pueden ser legalmente restringidos. Pero el concepto de una restricción lícita 
+no encaja con los derechos humanos sociales. ¿Tiene sentido considerar como 
+una "restricción" de estos derechos la ausencia del progreso o cumplimiento 
+débil de la obligación de implementar estos derechos progresivamente? Para 
+responder a esta pregunta necesitamos mirar un componente de la obliga­
+ción fundamental del pacto establecida en el artículo 2.1 del PIDESC (véase el 
+apartado 2.F, supra), concretamente el uso de "todos los medios apropiados". 
+La obligación de utilizar todos los medios apropiados es aún más específica en el 
+Protocolo Facultativo del PIDESC en términos de "razonabilidad" (artículo 8.4 
+del Protocolo Facultativo).67
+
+67 Artículo 8(4) del Protocolo Facultativo del PIDESC (Protocolo Facultativo), 1966, 999 UNTS 302: 
+"Cuando se examinan las comunicaciones del presente Protocolo, el Comité considerará la razonabilidad 
+de los pasos adoptados por el Estado parte de acuerdo con la parte II del Pacto. Al hacerlo, el Comité tendrá en 
+
+158 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESPor una parte, estas calificaciones constituyen una limitación incorporada a 
+las obligaciones del Estado. Deben cumplirse sólo de manera "razonable". Los 
+derechos sociales no imponen ninguna obligación "absoluta o incondicional" 
+al Estado, según la Corte Constitucional de Sudáfrica en el caso emblemático 
+Grootboom.68 De acuerdo con la formulación de la Corte Constitucional Federal 
+de Alemania respecto de los derechos sociales de participación, a priori éstos 
+sólo están "sujetos a lo que es posible".69 Por otra parte, los términos "apropiado" 
+y "razonable" también representan una rendija para definir el mínimo funda­
+mental de la acción positiva del Estado (lo cual se denomina en la doctrina de 
+los  derechos  constitucionales  de  Alemania  como  Untermaßverbot).  No  está 
+permitido que las medidas del Estado disten de un nivel mínimo para ser consi­
+deradas "apropiadas" o "razonables". Podría entonces argumentarse que, en ciertas 
+situaciones, en el caso de corrupción empíricamente demostrada en un Estado 
+parte, la prohibición de acciones insuficientes requiere que el Estado no sólo rati­
+fique los instrumentos internacionales anticorrupción, sino también que lance 
+una  campaña  anticorrupción  y  formule  una  política  preventiva  (Boersman, 
+2012, p. 233). Los conceptos de "idoneidad" y "razonabilidad" cumplen, por 
+ende, una función dual: no sirven sólo como tope, sino también como suelo.70 
+Los Estados deben tomar medidas "apropiadas", ni más ni menos.
+
+Los interrogantes entonces son: ¿cuándo incumple un Estado con el nivel mí­
+nimo?, y ¿qué institución tiene la facultad para adoptar una determinación de 
+autoridad sobre ello? Una vez más, la responsabilidad primaria para evaluar 
+cuáles  son  los  medios  apropiados  y  razonables  para  satisfacer  los  derechos 
+sociales yace en los propios Estados parte del PIDESC. Un Estado debe, como 
+
+cuenta que el Estado parte puede adoptar una gama de posibles medidas de las políticas para la implementación de 
+los derechos establecidos en el Pacto" (énfasis añadido).
+
+68 Corte Constitucional de Sudáfrica, Caso Government of the Republic of South Africa and Others vs. Grootboom 
+and Others (CCT11/00) [2000] ZACC 19, párr. 38 (sobre el derecho a tener acceso a una vivienda adecuada 
+en virtud del artículo 26 de la Constitución de Sudáfrica). 
+
+69 BVerfGE 33, 303­358, sentencia del 18 de julio de 1972−1 BvL 32/70 y 25/71−Numerus clausus (sobre 
+
+el derecho a la educación universitaria), párr. 63 (traducción propia).
+
+70 Cf. Nota preparada por la Secretaría del Consejo de Derechos Humanos, "El uso de la prueba de ‘razo­
+nabilidad’  para  evaluar  el  cumplimiento  de  las  obligaciones  internacionales  en  materia  de  derechos  humanos", 
+A/HRC/8/WG.4/CRP.1, 1 de febrero de 2008.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+159
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+una primera aproximación, decidir qué estrategia anticorrupción desea formu­
+lar, qué medidas legislativas desea tomar, qué autoridades desea establecer y 
+qué facultades y recursos financieros desea otorgar a dichas autoridades. En su 
+jurisprudencia consolidada, el CDESC enfatiza que los Estados parte poseen 
+un "margen de apreciación" sustancial en relación con esto.71 El Protocolo Facul­
+tativo expresamente establece que un Estado parte "puede adoptar toda una 
+serie de posibles medidas de política para hacer efectivos los derechos enun­
+ciados en el Pacto." (artículo 8.4 del Protocolo Facultativo). En última instancia, 
+sin embargo, el CDESC se reserva el derecho a examinar con ejercicio de auto­
+ridad la "idoneidad" de los medios y, por ende, de los recursos financieros72 
+–aunque sin la facultad para hacer cumplir su determinación–. 
+
+En resumen, tanto los actos corruptos particulares de funcionarios públicos 
+individuales como una política anticorrupción completamente insuficiente o 
+la carencia de ella en un Estado en su conjunto pueden, en ciertas constelacio­
+nes, conceptualizarse como una violación de derechos humanos concretos; 
+por ejemplo, el derecho de un cliente en particular al disfrute del estándar más 
+alto posible de salud, o el derecho de un competidor empresarial al trato igua­
+litario. El mayor obstáculo doctrinal en este sentido no es la causalidad o la 
+atribución, sino, especialmente en el campo de los derechos sociales, el "margen 
+de apreciación" o la "razonabilidad". 
+
+3. ¿Debería conceptualizarse la corrupción
+como una violación de derechos humanos? 
+
+Una cuestión distinta es si el cambio de perspectiva –que se aleja de combatir 
+la corrupción con los medios del derecho penal y va hacia un enfoque comple­
+mentario basado en los derechos humanos– tiene un valor agregado en términos 
+de práctica y de políticas. 
+
+71 CDESC, Una Evaluación de la Obligación de Adoptar Medidas hasta el "Máximo de los Recursos 
+Disponibles" conforme a un Protocolo Facultativo del Pacto. Declaración, UN Doc. E/C.12/2007/1, 10 de 
+mayo de 2007, párrs. 11­12.
+
+72 Véase CDESC, Observación General No. 3, párr. 4; CDESC, Declaración de 2007, párrs. 8 y 12.
+
+160 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESA.  La  oportunidad  para  el  fortalecimiento  de  la  lucha  contra  la 
+corrupción 
+
+Los que proponen que se dote a los instrumentos anticorrupción de un enfoque 
+de derechos humanos creen que esto mejorará tales instrumentos en términos 
+políticos y morales y, por tanto, garantizará una mejor implementación de las 
+medidas anticorrupción.73 El argumento clásico es el "empoderamiento". El en­
+foque de los derechos humanos puede dilucidar los derechos de las personas 
+afectadas por la corrupción, como el derecho a tener acceso al agua potable y 
+a la educación primaria gratuita, y mostrarles cómo, por ejemplo, la malversa­
+ción de fondos públicos en esas áreas interfiere con el disfrute de los bienes a 
+los cuales tienen derecho. De esta forma, las personas afectadas estarían empo­
+deradas para denunciar la corrupción, a la que, de otro modo, estarían expuestas 
+sin poder hacer nada (Sepúlveda Carmona y Bacio Terracino, 2010, p. 48). 
+El Consejo de Derechos Humanos de la ONU considera que las mayores ventajas 
+consisten, primero, en alejar el foco del objeto habitual del derecho penal –es 
+decir, los perpetradores individuales– hacia los deberes sistémicos del Estado 
+y, segundo, en la mejora del estatus de las víctimas.74 Esa expectativa del Con­
+sejo de Derechos Humanos debe ser calificada en el sentido de que la perspectiva 
+basada en los derechos humanos no excluye el uso de instrumentos de derecho 
+penal por parte del Estado. El aspecto crucial es que la entidad responsable por 
+los derechos humanos es el Estado en su conjunto, el cual no puede eludir sus 
+responsabilidades simplemente deshaciéndose de los culpables individuales.
+
+Una debilidad del enfoque estrictamente de derecho penal hacia la corrupción 
+se ha vuelto evidente especialmente en los Estados represivos, donde se puede 
+
+73 "Se propone aquí que, al examinar el costo de la corrupción en materia de derechos humanos, se dé 
+mayor peso a los esfuerzos de lucha contra la corrupción, así como a la protección de los derechos humanos." 
+Pearson (en Larmour y Wolanin, 2001, p. 46); "Los enfoques basados en los derechos humanos ayudan a 
+exponer las violaciones y a empoderar a las víctimas […] en el momento en que se reconoce que la corrupción 
+es una violación de los derechos humanos, crea un tipo de respuesta social, política y moral que no es gene­
+rada por el crimen […]". (Kumar, 2011, p. 43) [traducción no oficial].
+
+74 En estos términos, véase Consejo de Derechos Humanos, UN Doc. A/HRC/32/22, párr. 130; Comité 
+Asesor del Consejo de Derechos Humanos, Informe Final sobre el asunto del impacto negativo de la corrup­
+ción en el disfrute de los derechos humanos (UN Doc. A/HRC/28/73), 5 de enero de 2015, párrs. 25 y 28.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+161
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+abusar fácilmente de las amplias e indeterminadas conductas penales para eli­
+minar o, al menos, desacreditar a los opositores políticos.75 La perspectiva de 
+los derechos humanos desplaza la atención de la represión hacia la prevención76 
+y, por tanto, está más lejos de la posibilidad de iniciar procesos penales abu­
+sivos. Por último, la transición del derecho penal a los derechos humanos cambia 
+la  intensidad  y  carga  de  la  demostración  y  la  prueba.  Mientras  un  servidor 
+público acusado de soborno o de abuso criminal de la confianza goza de la 
+presunción de inocencia, el enfoque basado en los derechos humanos requiere 
+que los Estados se exoneren a sí mismos ante los organismos de los tratados 
+cuando se les acuse de medidas anticorrupción deficientes. La jurisprudencia 
+en el área de los derechos humanos sociales requiere que los Estados demues­
+tren que, aunque estén dispuestos a asignar suficientes medios a una autoridad 
+que se encuentre a cargo de asegurar los derechos sociales, no tienen la capa­
+cidad para hacerlo debido a la falta de recursos.77 Esta regla general debe ser 
+aplicada  a  las  medidas  anticorrupción.  Por  ende,  mientras  que  "alegaciones 
+creíbles de corrupción estén vinculadas con violaciones de derechos humanos, 
+el Estado tendría el deber de demostrar que ha adoptado todas las medidas apro­
+piadas para garantizar la realización del derecho en cuestión. […] La ausencia 
+de medidas o las medidas manifiestamente inadecuadas para investigar o hacer 
+frente a los presuntos actos de corrupción constituirían prima facie un caso de 
+violación de derechos humanos" (Lapper, 2013, p. 18). 
+
+La pregunta complementaria sería si la evidencia estadística o la mera observación 
+del lujoso estilo de vida de los políticos de alto rango son suficientes para co­
+rroborar el reproche de una malversación de fondos públicos. El artículo 20 de 
+la CNUCC insta a los Estados parte a "considerar" configurar el "enriquecimiento 
+
+75  La  campaña  anticorrupción  china  fue  adoptada  formalmente  por  la  III  Sesión  Plenaria  del  XVIII 
+Congreso Nacional del Partido Comunista en noviembre de 2013. (Guo, 2014). En Corea del Norte, el general 
+Ri Yong Gil, jefe del Estado Mayor y en el tercer puesto de la jerarquía militar, fue ejecutado en febrero de 
+2016 bajo los cargos de "faccionario, abuso de poder y corrupción". (The New York Times, 11 de febrero de 2016, 
+A10); En Rusia, Nikita Belych, el gobernador liberal y reformista de Kirow que había criticado al gobierno, 
+fue arrestado por corrupción en junio de 2016. Neue Zürcher Zeitung (29 de junio de 2016).
+
+76 La prevención es también –independientemente de las consideraciones de derechos humanos– uno 
+
+de los cuatro pilares de la CNUCC, op. cit., cap. II.
+
+77 Véase CDESC, Observación General No. 3, párr. 10; CDESC, Declaración de 2007, párr. 9. En relación 
+
+con la protección de la salud, véase CDESC, Observación General No. 14, párr. 47.
+
+162 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESilícito" como un delito penal. De acuerdo con esta disposición de derecho 
+penal,  se  podría  sancionar  el  incremento  significativo  de  los  activos  de  un 
+funcionario público que no pueda explicar razonablemente dicha circunstan­
+cia en relación con sus ingresos legales. Sin embargo, la presunción implícita 
+de culpabilidad es problemática respecto al Estado de derecho. La debilidad 
+estructural anteriormente mencionada del enfoque de derecho penal está acom­
+pañada por el hecho de que el número de condenas penales por soborno nacional 
+e internacional es particularmente bajo en el plano mundial. Sólo siete de los 
+actuales 44 Estados parte de la Convención Anti­Cohecho de la OCDE parti­
+cipan de manera "activa" en la implementación de ésta.78 Tanto los problemas 
+sistémicos como la experiencia histórica nos advierten de no esperar demasiado 
+de un enfoque penal más "robusto".79 En su lugar, los argumentos e instrumen­
+tos de derechos humanos pueden ser útiles para complementar el derecho penal.
+
+En general, el novedoso, pero cada vez más practicado, enfoque de la corrupción 
+basado en los derechos humanos ejemplifica una tendencia general reciente: 
+la inyección de varios subcampos del derecho internacional con considera­
+ciones de derechos humanos. El enfoque basado en los derechos humanos ha 
+sido adoptado, entre otros, en el derecho del desarrollo, el derecho ambiental, 
+el derecho de los desastres naturales, el derecho internacional del trabajo y el 
+derecho relativo a los refugiados. Este enfoque abarca, primero, un principio de 
+interpretación; las reglas específicas del régimen deben ser interpretadas a la luz 
+de los derechos humanos. Segundo, las consecuencias procesales permiten, o 
+incluso requieren, la información y participación de los grupos afectados, así como 
+encargar  una  planificación  y  evaluación  de  impacto.  Ambas  consecuencias 
+legales  (la  interpretación  armonizada  y  la  "procedimentalización")  también 
+contribuyen a la lucha contra la corrupción y en última instancia perfeccio­
+nan el régimen internacional anticorrupción.80 Por último, la perspectiva de los 
+
+78 Transparency International (2018, p. 6); véase, asimismo, la tabla disponible en «www.transparency.
+org/whatwedo/publication/exporting_corruption_2018» (p. 10). Los siete Estados "activos" son los Estados 
+Unidos, el Reino Unido, Alemania, Italia, Suiza, Noruega e Israel.
+79 A favor del enfoque penal, véase Rose (2016, p. 438).
+80 En ámbitos como el derecho de las inversiones y del comercio, los derechos humanos sirven de contra­
+pesos a la orientación general de los regímenes que deben tenerse en cuenta siempre que haya espacio para 
+la ponderación. Esta consecuencia jurídica es menos pertinente para la lucha anticorrupción.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+163
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+derechos humanos podría también influir en la aplicación del derecho interno, 
+el cual debe ser interpretado a la luz de los derechos humanos internacionales en 
+muchos Estados. En general, la infusión del derecho internacional de los dere­
+chos humanos en los esfuerzos para combatir la corrupción parece ser apta para 
+complementar o reforzar la criminalización de la corrupción, y en esa medida 
+tiene efectos favorables.
+
+B. El riesgo de debilitar la lucha contra la corrupción
+
+La fuerza del enfoque basado en los derechos humanos de los instrumentos 
+anticorrupción es, al mismo tiempo, su debilidad. Esto se debe a la actitud am­
+bivalente del Sur Global hacia los derechos humanos. La crítica a los derechos 
+humanos  se  solapa  con  objeciones  fundamentales  a  la  agenda  internacional 
+anticorrupción (véanse Kennedy, 1999, p. 455; Rajagopal, 1999, p. 5; Kulama­
+dayil, 2018, p. 1). Este solapamiento resulta del escepticismo hacia dos insti­
+tuciones particularmente modernas y europeas, a saber, el Estado y los derechos 
+"liberales" basados en el Estado de derecho.
+
+1. ¿Un modelo occidental de Estado y de derechos? 
+
+De acuerdo con la crítica, la lucha mundial contra la corrupción, en la que la 
+corrupción es denunciada como un "cáncer" (usando el término del antiguo 
+presidente del Banco Mundial, James D. Wolfensohn (1996)), está ligada a una 
+imposición ilegítima de un modelo de Estado en particular. Este modelo no 
+sólo es occidental, sino también relativamente reciente. Hasta bien entrado el siglo 
+xix, el patrocinio y la compra de cargos públicos eran considerados compo­
+nentes legales y legítimos de la gobernanza en cualquier parte del mundo, in­
+cluida Europa.81 La consideración de estas formas de ejercer e influir en el poder 
+político y la administración como ilegítimas sólo pudo emerger con el de sarrollo 
+del Estado moderno en Europa, un Estado en el que una burocracia imparcial 
+
+81 Véase Bridenthal (2013, p. 4); van Klaveren en Heidenheimer y Johnston (2002, p. 83). La situación 
+es distinta para el soborno que para el patrocinio político y la compra de cargos públicos. Proscripciones 
+de soborno ya pueden encontrarse en culturas jurídicas antiguas.
+
+164 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESestá llamada a aplicar la ley de manera igualitaria y en el que se requiere que 
+todos los funcionarios públicos actúen en el interés público, no en interés de 
+su familia o su grupo étnico. Dicho de otra manera, la lucha contra la corrupción 
+está basada en la imagen de un Estado que cumple sus deberes públicos por 
+medio de funcionarios que son contratados con base en el mérito y que actúan 
+de  conformidad  con  normas  jurídicas  que  se  aplican  formalmente  para 
+todos.
+
+En un Estado patrimonial, en el que las posiciones políticas y administrativas 
+están principalmente destinadas a generar ingresos (búsqueda de rentas), la 
+idea de la corrupción no tiene cabida, porque los sobornos son rentas. En este 
+sentido, el concepto contemporáneo de corrupción está estrechamente vincu­
+lado al Estado moderno regido por el Estado de derecho. Esto explica por qué la 
+lucha contra la corrupción es difícil en algunas regiones del mundo, en donde esta 
+comprensión del Estado no está establecida con firmeza o es contemplada como 
+algo ajeno. La crítica es que el ideal del Estado meritocrático basado en el Estado 
+de derecho descalifica a comunidades basadas en relaciones de familia o de clan, 
+que  se  sostienen  mediante  el  intercambio  de  regalos  y  el  nombramiento  de 
+miembros del grupo en cargos públicos. Los valores de reciprocidad y lealtad 
+que fundamentan estas comunidades no son tenidos en cuenta, sino que son 
+reemplazados por el pensamiento meritocrático occidental y el trato igualita­
+rio formal.
+
+Asimismo, los críticos revelan las consecuencias económicas de este modelo afir­
+mando que el Estado liberal gobernado por el Estado de derecho es principal­
+mente utilizado como marco regulatorio para el libre mercado. Esto significaría 
+que, a fin de cuentas, la lucha contra la corrupción es indisociable de la agenda 
+neoliberal que rechaza un modelo de Estado intervencionista y profundamente 
+burocrático. La crítica, por tanto, acusa al "Estado de derecho" de servir princi­
+palmente a los intereses económicos de propietarios de bienes y de capital, además 
+de  ser  hegemónico  en  términos  culturales.  El  punto  es  que  la  alegación  de 
+imperialismo jurídico y cultural, y de la imposición del capital occidental que 
+he resumido, se nutre aún más del enfoque de derechos humanos en las estra­
+tegias de lucha contra la corrupción. Desde la perspectiva de los críticos, ambos 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+165
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+conjuntos de instrumentos internacionales son simplemente dos variantes de 
+imperialismo. 
+
+Efectivamente, el enfoque basado en los derechos contiene una discreta par­
+cialidad occidental que debe ser abordada con precaución. Hemos observado 
+que la comprobación de una violación concreta de derechos humanos me­
+diante la corrupción es más sencilla de determinar en el área de la corrupción 
+menor. Hoy en día las democracias occidentales no sufren tanto de corrup­ 
+ción menor como de la gran corrupción. La gran corrupción incluye notable­
+mente lo que de forma provocadora se conoce como "corrupción legal": la falta 
+de transparencia en el financiamiento electoral y los intereses resultantes adqui­
+ridos de la política, así como la tolerancia de la transición fluida de funcionarios 
+públicos a trabajos lucrativos en el sector privado, en los que la información 
+pri vilegiada obtenida en el cargo público puede ser utilizada en la nueva empre ­ 
+sa (el fenómeno de la "puerta giratoria" [Kaufmann y Vincente, 2011, 195]). 
+La conexión entre la conducta corrupta y las violaciones a los derechos humanos 
+de víctimas concretas e individualizadas es mucho más difícil de hacer. Signi­
+fica que, como la perspectiva de los derechos humanos funciona mejor para la 
+corrupción menor, dicha perspectiva sitúa el foco sobre el Sur Global. Por ejem­
+plo, la medición de corrupción en Kenia por organizaciones como Transparencia 
+Internacional  parece  tener  menos  credibilidad  porque  se  considera  que  no 
+toma en consideración la gran corrupción sistémica entre las élites, sino que se 
+centra en los sobornos por parte de la población en el día a día.82 En conclusión, 
+la acumulación de dos vertientes de ideas percibidas como "occidentales" pueden 
+generar más resistencia que cumplimiento.
+
+2. Universabilidad
+
+La crítica dual de la lucha contra la corrupción y de los derechos humanos debe 
+ser puesta en perspectiva. Observemos un ejemplo. ¿Es cierto que, como sugiere la 
+crítica, desde la perspectiva de un automovilista, se llega a la misma conclusión 
+
+82 En referencia a un caso de estudio, véanse Davis y Merry (2015, p. 16). 
+
+166 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESsi la suma de dinero que debe pagar en un puesto de control para continuar su 
+camino representa un soborno a un oficial de policía, como en muchos Estados 
+africanos, o un peaje de autopista, como en Francia? ¿Es cierto que, por tanto, 
+ambos modos de gobernanza –el estereotípico "occidental" y el estereotípico "afri­
+cano"–  deberían ser aceptados en vez de tildar a este último como "corrupto"? 
+En ambos casos, la libertad de movimiento del automovilista se ve limitada por 
+la obligación a pagar una suma de dinero. Incluso, con benevolencia, un soborno 
+puede ser comparado con una propina de un empleado en un contexto social 
+en el que los clientes saben que la propina puede reforzar el salario bajo de dicho 
+empleado. Esta perspectiva expresaría una lógica basada en el mercado de 
+que el precio de los servicios surge como resultado del encuentro de la oferta 
+y la demanda.
+
+Este ejemplo ilustra cómo la noción de corrupción está ligada a la concepción 
+de un Estado. Un peaje oficial es una institución basada en el derecho público 
+diseñada para servir al interés público, concretamente, al mantenimiento de 
+la red de autopistas. Sigue una estructura tarifaria definida mediante un pro­
+cedimiento político o administrativo, por tanto, es transparente y predecible. 
+Se aplica de forma igual para todos (haciendo distinciones razonables basadas en 
+el tipo de vehículo, el número de pasajeros u otros criterios relevantes). Estas 
+características de legalidad están ausentes en el caso de un soborno o de una 
+propina. Todo depende de si uno acepta la legalidad y la legitimidad de las ins­
+tituciones y de los procedimientos mediante los cuales el peaje (o cualquier otra 
+tarifa) es definido, recolectado y gastado; en resumen, depende de si uno acepta 
+la idea de un Estado moderno basado en el Estado de derecho. Considero que el 
+enfoque de la corrupción basado en los derechos humanos –centrado en la afir­
+mación de que la corrupción interfiere con los derechos de cada ciudadano– 
+contribuye, más que debilita, a la aceptación global de un modelo de Estado no 
+patrimonial y no criminal gobernado por el Estado de derecho, porque hace que 
+este modelo sea más concreto y lo acerca más a las necesidades de las personas.
+
+Además, las afirmaciones de que tanto la lucha contra la corrupción como 
+los derechos humanos son estrategias hegemónicas o dominadas por los Estados 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+167
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+Unidos o las estrategias impulsadas por el capital global, a menudo son un pre­
+texto  de  las  élites  cuyo  poder  y  prebendas  se  ven  amenazados  por  la  lucha 
+contra la corrupción y por la exigencia de respeto a los derechos humanos. 
+Especialmente, el hecho de acogerse a prácticas tradicionales –por ejemplo, el 
+intercambio de regalos y la hospitalidad en sociedades africanas– puede pres­
+tarse al abuso, y así está ocurriendo, por parte de los sectores ricos y poderosos 
+para encubrir la corrupción, particularmente, cuando los sobornos exceden 
+ampliamente toda proporción. Por ejemplo, en Tanzania existía una ley que per­
+mitía a los candidatos políticos ofrecer regalos a sus votantes, y llamaba a dichos 
+regalos  por  su  nombre  tradicional,  takrima,  presumiblemente  para  recabar 
+legitimidad  y  aceptación.  La  Corte  Superior  de  Tanzania  determinó  que  las 
+disposiciones de esta ley violaban los derechos humanos de los candidatos83 
+y de los votantes: "[S]u derecho a votar por el candidato de su preferencia no 
+puede ser libremente ejercido porque perderán esa libertad por ser influidos 
+por la ‘takrima’. Su derecho al voto quedará sometido a la ‘takrima’".84 La Corte 
+Superior no observó "ningún objetivo lícito que pretendan alcanzar las disposi­
+ciones de la ‘takrima’ aparte de legalizar la corrupción en las campañas elec­
+torales" (en [2006] TZHC 1 (24 de abril de 2006)). Otro ejemplo es el sistema 
+keniano tradicional de harambees, que exige a las personas que contribuyan 
+al financiamiento de proyectos comunitarios. Sin embargo, de acuerdo con 
+un informe keniano presentado ante su Ministerio de Justicia, "el espíritu del 
+harambee ha sufrido una metamorfosis que ha generado graves abusos. Ha sido 
+vinculado a la aparición de prácticas opresivas y extorsionistas, así como al 
+afianzamiento de la corrupción y el abuso de poder".85 Ante esta situación, con 
+tales formas de corrupción que de hecho pervierten las costumbres tradiciona­
+les, es comprensible que las personas afectadas en distintas regiones y culturas 
+del mundo se hayan manifestado, ya sea en la Plaza Tahrir en El Cairo o en el 
+Maidan en Kiev, en Caracas o en la Ciudad de México, no sólo por la libertad 
+y precios justos, sino también en contra de la corrupción de las élites. 
+
+83 Véanse más arriba las notas a pie 51 y 52 y el texto que las acompaña. 
+84 Tribunal Superior de Tanzania, Caso Civil núm. 77, Legal and Human Rights Centre and Others vs. 
+
+Attorney General, [2006] TZHC 1 (24 de abril de 2006), p. 37 [traducción no oficial].
+
+85 Informe presentado por el Grupo de Trabajo sobre Cobros Públicos o ‘Harambees’ al Ministro de Jus­
+ticia de Kenia en diciembre de 2003, citado en ICSID, Caso No.Arb/00/7, párr. 134 [traducción no oficial].
+
+168 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESC. El caso especial del derecho a la propiedad 
+
+La corrupción que afecta al derecho a la propiedad privada merece una evalua­
+ción separada. Cuando los funcionarios públicos se enriquecen despojando a 
+grandes empresas, sus actos constituyen varios crímenes que podríamos reu­ 
+nir bajo el paraguas de la corrupción. Desde la perspectiva de los derechos, 
+sus acciones, si son imputables al Estado, pueden equivaler a violaciones del 
+derecho a la propiedad (expropiaciones de facto u otro tipo de transgresiones). 
+El derecho a la propiedad está protegido, por ejemplo, en virtud del artículo 
+1o. del Protocolo 1 del Convenio Europeo de Derechos Humanos (CEDH), a 
+tratados regionales o bilaterales de protección de las inversiones, y del artículo 
+13 del Tratado sobre la Carta de Energía (TCE) (ONU, 1994, 2080 UNTS 95). 
+Existen dos conocidos procedimientos de arbitraje inversor­Estado que tratan 
+el tema de la corrupción. En World Duty Free se efectuó un pago en efectivo de 
+2 millones de dólares al presidente Daniel Moi, como una donación personal 
+de un inversionista extranjero, a cambio del permiso para establecer y operar 
+tiendas duty free en aeropuertos kenianos.86 Más tarde, World Duty Free alegó 
+que había sido expropiado ilícitamente en Kenia. El tribunal de arbitraje cali­
+ficó la donación como un soborno contrario a la "política pública transnaciona­
+lizada". Por ello, el contrato no podía ser respetado (ICSID, Caso No. ARB/00/7, 
+párr. 157) y la demanda de World Duty Free fue rechazada. 
+
+Por el contrario, la demanda de la firma Yukos contra Rusia sí fue aceptada. 
+El laudo arbitral Yukos de 2014,87 emitido por un tribunal constituido en vir­
+tud del TCE, ha sido elogiado por demostrar el potencial del "arbitraje de in­
+versión para exponer la corrupción y actuar como control externo de los Estados 
+corruptos" (Jouravleva, 2014). En Yukos, un tribunal arbitral consideró a Rusia 
+
+86 ICSID, Caso No.ARB/00/7, párr. 133. El inversionista actuó primero bajo el nombre de "House Perfume" 
+(ubicado en Dubái), y después bajo el nombre de "Duty Free Ltd" (incorporado bajo las leyes de la Isla de Man).
+87 Corte Permanente de Arbitraje, Caso núm. AA 227, In the Matter of an Arbitration before a Tribunal 
+Constituted in Accordance with Art. 26 of the ECT and the 1976 UNCITRAL Arbitration Rules between Yukos 
+Universal Limited (Isle of Man) and the Russian Federation, Laudo Final, 18 de julio de 2014, «https://pcacases.
+com/web/view/61». El laudo fue anulado por el Tribunal de Apelaciones de La Haya, decisión del 20 de abril 
+de 2016, pero la decisión relativa a la anulación no es definitiva, recurso presentado ante el Tribunal de Ape­
+laciones de La Haya el 28 de julio de 2016, pendiente de resolución a fecha de septiembre de 2018.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+169
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+responsable por violar su obligación bajo el artículo 13 del TCE por tomar una 
+medida "equivalente a una nacionalización o expropiación".88 Esta expropiación 
+de facto fue realizada por la Federación Rusa a través de la bancarrota delibe­
+rada y liquidación de Yukos por motivos políticos y económicos para apropiarse 
+de sus activos valiosos.89 El tribunal arbitral describió en detalle las acciones 
+corruptas tomadas por el gobierno en contra de Yukos, incluyendo "acoso, in­
+timidación y arrestos".90 La consecuencia jurídica de la violación de Rusia del 
+TCE consiste en la atribución de responsabilidad internacional a Rusia, lo cual 
+incluye la obligación de otorgar reparaciones por el daño en forma de com­
+pensación económica (de acuerdo con los principios de los artículos 31 y 36 
+del Proyecto de Artículos de la CDI sobre Responsabilidad del Estado, especi­
+ficados en el artículo 13 del TCE). En aplicación de estos principios, el tribunal 
+ordenó a la Federación Rusa pagar 50,000 millones de dólares por los daños 
+a Yukos.
+
+En tales casos de gran corrupción, el enfoque basado en los derechos humanos 
+no parece tener ningún valor agregado, debido a las características específicas 
+de esta constelación. Primero, en los procedimientos transnacionales o interna­
+cionales, la mayoría de los titulares de este derecho –inversores extranjeros– 
+son personas morales, no personas físicas y, por tanto, no son seres humanos con 
+intereses y necesidades humanos. Junto a ello, la propiedad privada en ocasiones 
+se califica de no ser un derecho humano "esencial" o "fundamental" (Van Boven, 
+en Vasak y Alston, 1982, p. 43).91 Por último, a diferencia de la protección inter­
+nacional de los derechos humanos habitualmente afectados por la corrupción 
+
+88 Véase Corte Permanente de Arbitraje, Caso núm. AA 227, resumen del tribunal, párrs. 1580­1585.
+89 Ibidem, párrs. 756, 1579. En paralelo a los procedimientos arbitrales, el TEDH determinó una violación 
+de los derechos a un proceso equitativo y a la propiedad, y concedió un importe de 1,900 millones de euros 
+a Yukos en concepto de satisfacción equitativa. TEDH, Caso OAO Neftyanaya Kompaniya Yukos vs. Russia, 
+App. No. 14902/04, sentencia sobre el fondo del 8 de marzo de 2012; sentencia sobre la satisfacción equita­
+tiva del 15 de diciembre de 2014.
+
+90 Corte Permanente de Arbitraje, Caso núm. AA 227, párrs 761­812. El tribunal consideró creíble al 
+testigo del demandante que describió en detalle como una unidad especial de 50 personas fue establecida 
+dentro de la Oficina del Fiscal General para "trabajar exclusivamente en la fabricación de pruebas contra el 
+Sr. Khodorkovsky y Yukos" (párrs. 767, 798­799) (traducción propia).
+
+91 Véase, asimismo G. Arangio­Ruiz, Fourth Report on State Responsibility, Doc. A/CN 4 Ser. A/1992/
+Add.1 (Part 1) 2(1) ILC Yearbook (1992), 32, párr. 83 ("[L]os derechos humanos que deben ser considerados 
+inviolables por las contramedidas, los derechos humanos ‘más esenciales’, no se entienden como los dere­
+chos de propiedad").
+
+170 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALES(especialmente, los derechos sociales), la protección transnacional del derecho 
+a la propiedad, al menos en los dos importantes casos sobre corrupción deci­
+didos hasta el momento por tribunales internacionales, ha beneficiado indirec­
+tamente a unas pocas personas muy ricas que se encuentran detrás de la inver­
+sión, como a Mikhail Khodorkovsky (el fundador de Yukos). Segundo, en el 
+arbitraje de inversiones, la compensación económica es una reparación princi­
+pal (en lugar de la restitución en especie). Por tanto, el establecimiento de una 
+obligación estatal de pagar compensaciones que ascienden a miles de millones 
+de dólares o euros, terminará afectando al conjunto de la población del Estado 
+condenado, cuyo presupuesto se verá afectado. Por el contrario, un enfoque 
+basado estrictamente en el derecho penal pondría el foco sobre la responsa­
+bilidad personal de los funcionarios corruptos y no terminaría afectando a los 
+contribuyentes en la misma medida. Por tanto, las violaciones del derecho a la 
+propiedad privada mediante la corrupción son una constelación específica para 
+la cual el enfoque de derechos humanos no encaja tanto como en relación con los 
+derechos humanos políticos y sociales.
+
+4. Reparaciones
+
+Complementar los esfuerzos tradicionales anticorrupción basados en el derecho 
+penal con estrategias basadas en los derechos humanos entraña riesgos, tiene 
+sus  costos,  pero  también  abre  paso  a  la  posibilidad  de  nuevas  reparaciones 
+internacionales. El vínculo entre la corrupción y los derechos humanos, como 
+se reconoce actualmente en la práctica, permite que la corrupción se convierta 
+en un tema a tratar en los esquemas generales de supervisión (el Examen Perió­
+dico Universal y los informes estatales basados en tratados). Particularmente, 
+el reconocimiento de esta conexión protege efectivamente a las instituciones de 
+derechos humanos de reproches por actuaciones ultra vires (véase Rose, 2016, 
+p. 418). Se afirma que las prácticas actuales podrían y deberían ser reforzadas 
+en dirección de una transversalización mutua.92 La incorporación de los dere­
+
+92 Véase,  especialmente,  Consejo  Internacional  de  Políticas  de  Derechos  Humanos  y  Transparencia 
+Internacional (preparado por Magdalena Sepúlveda Carmona), La Integración de los Derechos Humanos en la 
+Agenda de Combate a la Corrupción: Retos, Posibilidades y Oportunidades (2011).
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+171
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+chos humanos dentro de los esfuerzos anticorrupción significaría que el respeto 
+a éstos sería una de las metas de la lucha anticorrupción desde el principio. 
+En la práctica jurídica esto implicaría una interpretación de todos los delitos 
+penales relacionados con la corrupción, de manera que se tomen en conside­
+ración los derechos humanos de las víctimas. 
+
+De manera complementaria, los procedimientos internacionales de derechos 
+humanos podrían y deberían prestar atención a la corrupción de la siguiente 
+manera (Boersma, 2012, pp. 376­379). En el trabajo de los organismos deri­
+vados de tratados de derechos humanos, los lineamientos para todos los informes 
+de país y todas las observaciones finales relativas a un país deberían incluir la 
+corrupción como un punto que debe abordarse. La práctica reciente de órganos 
+de tratado,93 principalmente del CDESC,94 de profundizar en la necesidad de la 
+lucha contra la corrupción con mayor detalle es bien recibida y debería exten­
+derse. De la misma manera, los mandatos de los relatores especiales y expertos 
+independientes sobre derechos humanos deberían incluir el tema de la corrup­
+ción. La práctica emergente en este sentido también debería ser reforzada.95 
+
+93 Comité de Derechos Humanos, Observaciones Finales sobre Madagascar, Doc. CCPR/C/MDG/CO/4, 
+22 de agosto de 2017, párrs. 11­12; Comité de Derechos Humanos, Observaciones Finales sobre Camerún, 
+Doc. CCPR/C/CMR/CO/5, 30 de noviembre de 2017, párrs. 9­10, 37­38; Comité de Derechos Humanos, 
+Observaciones Finales sobre Rumanía, Doc. CCPR/C/ROU/CO/5, 11 de diciembre de 2017, párrs. 7­8. Véanse 
+ejemplos adicionales más arriba en las notas 24 y 26. 
+
+94 Véanse entre las observaciones finales CDESC, Observaciones Finales sobre Pakistán, Doc. E/C.12/ 
+PAK/CO/1, 20 de julio de 2017, párrs. 17­18; CDESC, Observaciones Finales sobre la Federación Rusa, Doc. 
+E/C.12/RUS/CO/6, 16 de octubre de 2017, párrs. 18­19; CDESC, Observaciones Finales sobre Colombia, 
+Doc. E/C.12/COL/CO/6, 19 de octubre de 2017, párrs. 21­22; CDESC, Observaciones Finales sobre Molda­
+via, Doc. E/C.12/MDA/CO/3, 19 de octubre de 2017, párrs. 16­17; CDESC, Observaciones Finales sobre 
+la República de Corea, Doc. E/C.12/KOR/CO/4, 19 de octubre de 2017, párrs. 13­14.
+
+95 Véase especialmente el informe de 2017 del Relator especial sobre el derecho a la salud, Dainius Puras; 
+Informe sobre Salud, UN Doc. GA 72/137. Relator Especial Léo Heller, Informe sobre el derecho humano 
+al agua potable y el saneamiento, Asequibilidad de los Servicios de Agua y Saneamiento, Doc. A/HRC/30/39, 
+5 de agosto de 2015, párrs. 19­20, 55 (sobre "los costos de la corrupción"): Relator Especial Urmila Bhoola, 
+Informe sobre las formas contemporáneas de la esclavitud, incluidas sus causas y consecuencias, Informe 
+temático sobre la erradicación de las formas contemporáneas de la esclavitud en las cadenas de suminis­
+tro, Doc. A/HRC/30/35, 8 de julio 2015, párrs. 23, 43, 46, 62; Relator Especial Kishore Singh, Informe sobre 
+el derecho a la educación: Protección del derecho a la educación contra la comercialización, Doc. A/HRC/29/30, 
+10 de junio de 2015, párrs. 93, 119, 121; Estudio final sobre las corrientes financieras ilícitas, los derechos 
+humanos y la Agenda 2030 para el Desarrollo Sostenible del Experto Independiente sobre las consecuencias 
+de la deuda externa y las obligaciones financieras internacionales conexas de los Estados para el pleno goce de 
+todos los derechos humanos, sobre todo los derechos económicos, sociales y culturales, Doc. A/HRC/31/61, 
+15 de enero de 2016, párrs. 5, 75. 
+
+172 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESLa ampliación de estos mandatos implicaría costos muy bajos en términos de 
+recursos humanos y financieros.
+
+Debería  permitirse  que,  en  la  Revisión  Periódica  Universal,  así  como  en  la 
+supervisión de tratados específicos, participen no sólo las ONG de derechos 
+humanos, sino también las ONG especializadas en la lucha contra la corrup­
+ción. Las ONG especializadas podrían aportar la información y los conocimientos 
+sobre la corrupción, de los cuales carecen por el momento las instituciones de 
+derechos humanos. Se podría concebir también una nueva observación general 
+sobre la corrupción y los derechos humanos que se aplicase a todos los trata­
+dos. Finalmente, se podría incluir un mandato anticorrupción en los estándares 
+internacionales que regulasen las competencias de las instituciones naciona­
+les de derechos humanos.96 La posibilidad de determinar violaciones de derechos 
+humanos, tal y como se ha examinado en este artículo, permitiría la creación 
+y el uso de estrategias jurídicas más específicas e individualizadas que las que 
+se acaban de mencionar. Para fundamentar una denuncia o comunicación indi­
+vidual a los comités de derechos humanos, a los tribunales regionales de dere­
+chos humanos y a los procedimientos arbitrales, la víctima debe formular el 
+argumento de que el comportamiento corrupto ha violado de hecho derechos 
+humanos específicos en casos concretos. Hemos visto que esta determinación 
+más rigurosa de una violación se enfrenta a numerosos problemas doctrinales. 
+Al final, los tribunales y comités de derechos humanos existentes pueden, y de 
+hecho ya lo hacen, incorporar la corrupción en sus procesos, y pueden reco­
+nocer  la  corrupción  como  factor  agravante  de  las  violaciones  de  derechos 
+humanos, sin la necesidad de conceptualizar la corrupción como una viola­
+ción de derechos humanos tout court.
+
+Sin embargo, tal reflexión parece importante para dilucidar la estructura de 
+los derechos sociales, el conjunto de derechos más afectado por la corrupción. 
+Hasta ahora la pregunta de en qué momento se viola realmente un derecho 
+
+96 Varias instituciones nacionales de derechos humanos ya tienen encomendado dicho mandato. Véase 
+Consejo de Derechos Humanos, Mejores prácticas; Declaración de Azerbaiyán, párr. 99; Declaración de Perú, 
+párr. 104.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+173
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+social  en  un  caso  en  particular,  en  el  sentido  de  que  constituya  un  incum­
+plimiento del derecho internacional que desencadene responsabilidad estatal, 
+no ha sido resuelta del todo. Por ejemplo, hasta el momento, no queda claro 
+qué hechos pueden ser apropiadamente calificados como una "restricción de" 
+o como una "interferencia con" un derecho social, como sí queda claro con los 
+derechos civiles y políticos. Debido a la escasez de mecanismos internaciona­
+les de denuncia individual en el ámbito de los derechos sociales, los órganos de 
+supervisión que examinan los informes de país y realizan evaluaciones generales 
+no se han visto obligados a emitir afirmaciones explícitas sobre estos asuntos. 
+Esto ha cambiado con la entrada en vigor del Protocolo Facultativo del PIDESC, el 
+cual permite las comunicaciones individuales. El CDESC se enfrentará a los pro­
+blemas del umbral de la violación, de la causalidad y de la atribución. El estudio 
+de estos elementos en el área de la corrupción ha puesto en relieve lo excesiva­
+mente complicado que es aplicarlos en el área de derechos humanos sociales.
+
+En general, los beneficios de la perspectiva de derechos humanos se ven dis­
+minuidos en el sentido de que los mecanismos internacionales son en sí mismos 
+débiles cuando se trata de implementar los derechos humanos. Ciertamente, 
+las instituciones nacionales son las ejecutoras principales de los derechos hu­
+manos internacionales.97 Si un tribunal nacional condenara a los órganos del 
+Estado por una violación de derechos humanos a causa de la corrupción, sería 
+una fuerte sanción. En muchos Estados, sin embargo, no se puede esperar esto 
+debido a la corrupción del sistema judicial.98 Esto significa que la perspec­
+
+97  Por  ejemplo,  una  organización  no  gubernamental  de  España  presentó  una  comunicación  ante  la 
+Comisión Africana para los Derechos Humanos y de los Pueblos (ACHPR, por sus siglas en inglés), alegando 
+que la familia del presidente de Guinea Ecuatorial (la familia Obiang) había desviado los recursos naturales 
+de los ecuatoguineanos para su beneficio propio, estableciendo y manteniendo un sistema corrupto dentro del 
+Estado, con lo que violó una serie de derechos garantizados en la Carta Africana de Derechos Humanos y de 
+los Pueblos: el derecho a los recursos naturales (art. 21), el derecho al desarrollo (art. 22), el derecho a la 
+salud (art. 16), el derecho a la educación (art. 17.1), y el derecho a adquirir propiedad privada en forma legal 
+(art. 14). La ACHPR declaró la comunicación inadmisible por la falta de agotamiento de los recursos internos. 
+ACHPR, Caso Asociación Pro Derechos Humanos de España (APDHE) vs. Equatorial Guinea, Comunicación 347/07, 
+Decisión sobre Inadmisibilidad, 12­16 de diciembre de 2011. Probablemente, el requisito de agotar los re­
+cursos internos debería ser abordado en forma flexible. En constelaciones de corrupción extrema prima facie 
+de la judicatura, el recurso a los tribunales nacionales no debería ser requerido por los organismos interna­
+cionales de supervisión.
+
+98 Véase más nota 20 supra. CNUCC, art. 11(1) (sobre la independencia e integridad de la judicatura 
+
+como elemento crucial para combatir la corrupción).
+
+174 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALEStiva de derechos humanos no necesariamente empodera a las víctimas indivi­
+duales de la corrupción en el sentido práctico de abrirles nuevos canales de acceso 
+a la justicia. Sin embargo, en los sistemas regionales de derechos humanos, las 
+denuncias individuales podrían estar basadas en alegaciones de corrupción, y 
+las conclusiones relacionadas con dicha alegación podrían conllevar pronun­
+ciamientos judiciales sobre reparaciones sistémicas, a poder obtener mayores 
+sumas en concepto de justa satisfacción, y a una supervisión de cumplimiento 
+más robusta. Por el contrario, a nivel universal, el efecto de potenciación del 
+enfoque basado en los derechos humanos es, principalmente, simbólico.
+
+5. Conclusión
+
+En términos de teoría comunicacional, el ‘marco’ de los derechos humanos 
+para la corrupción está asociado con una nueva prerrogativa de interpretación. 
+De manera importante, la prerrogativa también cambia en términos instituciona­
+les, se aleja del Banco Mundial y se acerca al Consejo de Derechos Humanos de 
+la ONU. Potencialmente, este nuevo poder discursivo implica un nuevo poder 
+de acción. En términos de teoría jurídica, la conexión entre el derecho antico­
+rrupción y la protección de los derechos humanos es un ejemplo de la inte­
+gración sistémica de dos subáreas del derecho internacional. También se puede 
+contemplar el enfoque de derechos humanos sobre los instrumentos antico­
+rrupción como la constitucionalización de estos últimos. Al elevar la corrupción 
+a un asunto constitucional, el nuevo marco hace que la lucha contra la corrup­
+ción sea una preocupación todavía más legítima de la comunidad internacional. 
+Algunos internacionalistas pueden quejarse de que esto conduce a un "derecho­
+humanismo" (human rightism) (Pellet, 2000, p. 3) o a una "soberbia" de los 
+derechos humanos (Posner, 2014, p. 148). De hecho, existe un riesgo en el uso 
+excesivo del lenguaje de los derechos humanos. En consecuencia, el enfoque 
+de la corrupción basado en los derechos humanos no debería ser utilizado como 
+una panacea.
+
+El lenguaje del derecho en general (y el de los derechos, en particular) es limi­
+tado, tal y como destaca la crítica del enfoque de la corrupción basado en los 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+175
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+derechos humanos (Rose, 2016, p. 430).99 En particular, un análisis jurídico 
+no puede responder el "porqué" y el "cómo", la corrupción persiste obstinada­
+mente. Pero éste no es su propósito. Un enfoque jurídico (a diferencia, por 
+ejemplo, de la economía del desarrollo) no pretende identificar los patrones 
+o causas políticas, económicas o psicológicas de la corrupción o cualquier otro 
+daño social. Más bien, la función de una investigación jurídica, y especialmente 
+una basada en los derechos, tiene tres aspectos principales: el análisis basado 
+en los derechos pretende establecer una distinción entre el comportamiento 
+lícito e ilícito; permite articular las demandas de justicia; y, puede posibilitar 
+el uso del sistema jurídico para rectificar y eliminar situaciones de ilegalidad. 
+Por supuesto, la ley y la institución de los derechos son sólo un modo de gober­
+nanza entre otros, con efectos tal vez modestos. Como en todos los modos de 
+gobernanza, los costos de su uso deben evaluarse adecuadamente, especial­
+mente en comparación con las alternativas. Con respecto a la corrupción, el 
+enfoque basado exclusivamente en el derecho penal no ha funcionado muy 
+bien  hasta  el  momento,  lo  cual  sugiere  la  posibilidad  de  probar  estrategias 
+complementarias.
+
+A efectos prácticos, el esfuerzo mundial contra la corrupción no necesita nue­
+vas reglas sino más bien una mejor implementación. El enfoque de derechos 
+humanos  puede  contribuir  a  cerrar  tal  brecha  de  implementación.  El  pleno 
+recono cimiento de que la corrupción menoscaba el disfrute de los derechos hu­
+manos permite a órganos de supervisión de derechos humanos universales y 
+no contenciosos abordar legítimamente la corrupción en detalle, sin excederse 
+en su mandato. No obstante, si la corrupción en sí misma puede constituir una 
+violación de derechos humanos que pueda ser alegada en un procedimiento 
+individual de denuncia es una cuestión diferente. Demostrar una violación en 
+términos tanto del argumento jurídico como de la prueba es difícil pero no impo­
+sible, como este artículo ha intentado mostrar. Al contribuir al cambio del marco 
+de referencia, y al abrir nuevas opciones para la supervisión y el litigio, la pers­
+
+99  Esta  crítica  se  solapa  con  las  objeciones  contra  una  "sobrelegalización"  (‘over­legalization’)  de  las 
+sociedades y las dudas sobre el enfoque basado en los derechos humanos para otros asuntos relacionados 
+con la gobernanza (que van desde el desarrollo, pasando por la democracia, hasta la protección ambiental).
+
+176 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESpectiva de derechos humanos puede complementar de manera útil el enfoque de 
+la corrupción basado en el derecho penal, y así contribuir al cumplimiento 
+de los objetivos de desarrollo de la Agenda 2030.
+
+Fuentes 
+
+Alston, P. y Quinn, G. (1987), "The Nature and Scope of State Parties’ Obliga­
+tions  under  the  International  Covenant  on  Economic,  Social  and  Cultural 
+Rights", Human Rights Quarterly (9) 2: 156­229. 
+
+Boersma, M. y Nelen H. (eds.) (2010), Corruption and Human Rights: Interdisci­
+plinary Perspectives, Cambridge: Intersentia.
+
+Boersma, M. (2012), Corruption: A Violation of Human Rights and a Crime under 
+International Law?, Cambridge: Intersentia.
+
+Bridenthal, R. (2013), "Introduction", en Bridenthal, R. (ed.), The Hidden History 
+of Crime, Corruption, and States, Nueva York­Oxford: Berrghahn.
+
+Castellanos­Jankiewicz, L. (2012), "Causation and International State Respon­
+sibility", Amsterdam Law School. Research Paper No. 2012. «https://ssrn.com/
+abstract=2039268».
+
+Crawford, J. (2013), State Responsibility: The General Part, Cambridge: Cam­
+bridge University Press.
+
+Comisión Internacional de Juristas (2016), Judicial Accountability: International 
+Standards on Accountability Mechanisms for Judicial Corruption and Judicial Involve­
+ment in Human Rights Violations, Practitioners Guide No. 13. Suiza: International 
+Commission of Jurist. 
+
+Guo, X. (2014), "Controlling Corruption in the Party: China’s Central Discipline 
+Inspection Commission", The China Quarterly (219): 597­624.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+177
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+Ivory,  R.  (2014),  Corruption,  Asset  Recovery,  and  the  Protection  of  Property  in 
+Public International Law, Cambridge: Cambridge University Press.
+
+Jouravleva, A. (2014), "Investment Arbitration as a Check on Corruption: The 
+Yukos  Award",  Global  Anticorruption  Blog.  12  de  noviembre  de  2014, 
+WordPress.
+
+Kaufmann, D. y Vicente, P. (2011), "Legal Corruption", Economics and Politics 
+(23) 2: 195­219.
+
+Kennedy, D. W. (1999), "The International Anti­Corruption Campaign", Con­
+necticut Journal of International Law (14): 455­465.
+
+Kingsbury, D. y Engle Merry, E. (2015), "Introduction: The Local­Global Life 
+of Indicators: Law Power, and Resistance", en Engle Merry, S., Davis K. E., y 
+Kingsbury.  B.,  (eds.),  The  Quiet  Power  of  Indicators:  Measuring  Governance, 
+Corruption and Rule of Law, Nueva York, Cambridge University Press.
+
+Kofele­Kale, N. (2000), "The Right to a Corruption­Free Society as an Individual 
+and Collective Human Right: Elevating Official Corruption to a Crime under 
+International Law", International Lawyer (34) 1: 149­178.
+
+Korte, M. (2014), "Commentary on § 331", en Joecks, W. y Miebach K. (eds.), 
+Münchener Kommentar zum StGB, 2a. ed.
+
+Kumar, C.R. (2011), Corruption and Human Rights in India Comparative Perspec­
+tives on Transparency and Good Governance, Oxford: Oxford University Press.
+
+Kulamadayil,  L.  (2018),  "When  International  Law  Distracts:  Reconsidering 
+Anti­Corruption Law", ESIL Reflections (7) 3.
+
+Landman,  T.  y  Schudel,  C.  J.  W.  (2007),  "Corruption  and  Human  Rights, 
+Empirical Relationships and Policy Advice". Documento de trabajo.
+
+178 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESLapper, R. (2013), "Understanding Corruption in Education as a Human Rights 
+Issue", en Transparencia Internacional et al. (eds.), Global Corruption Report: 
+Education (16­20). Abdington: Routledge.
+
+Llamzon, A. (2014), Corruption in International Investment Arbitration, Oxford: 
+Oxford University Press. 
+
+Olaniyan,  K.  (2014),  Corruption  and  Human  Rights  Law  in  Africa,  Oxford­
+Portland: Hart Publishing.
+
+Pearson, Z. (2001), "An International Human Rights Approach to Corruption", 
+en  Larmour,  P.y  Wolanin,  N.  (eds.),  Corruption and Anti­Corruption  (30­61), 
+ANU Press.
+
+Pellet, A. (2000), "‘Human Rightism’ and International Law", Italian Yearbook 
+of International Law (10): xvii­16.
+
+Peters, A. (2016), Beyond Human Rights, Cambridge: Cambridge University Press.
+
+Plakokefalos, I, (2015), "Causation in the Law of State Responsibility and 
+the Problem of Overdetermination: In Search of Clarity", European Journal of 
+International Law (26) 2: 471­492.
+
+Posner, E. (2014), The Twilight of Human Rights Law, Oxford, Oxford University 
+Press.
+
+Rajagopal, B. (1999), "Corruption, Legitimacy and Human Rights: The Dialectics 
+of a Relationship", Connecticut Journal of International Law (14) 2. 
+
+Rose, C. (2015) International Anti­corruption Norms: Their Creation and Influence 
+on Domestic Legal Systems, Oxford, Oxford University Press.
+
+  (2016),  "The  Limitations  of  a  Human  Rights  Approach  to 
+
+Corruption", International and Comparative Law Quarterly (65) 2: 405­438.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+179
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+Rose­Ackerman, S. (2013), "Introduction: The Role of International Actors 
+in  Fighting  Corruption",  en  Rose­Ackerman,  S.  y  Carrington,  P.  (eds),  Anti­
+Corruption Policy: Can International Actors Play a Constructive Role?, Durham, 
+North Carolina: Carolina Academic Press.
+
+Schefer, K. N. (2010), "Causation in the Corruption­Human Rights Relationship", 
+Rechtswissenschaft (1): 397­425. 
+
+Sepúlveda­Carmona, M. (2003), The Nature of the Obligations under the In­
+ternational  Covenant  on  Economic,  Social  and  Cultural  Rights,  Antwerp: 
+Intersentia.
+
+Sepúlveda­Carmona, M. y Terracino, J. (2010), "Corruption and Human Rights: 
+Making the Connection", en Boersma, M. y Nelen, H. (eds.), Corruption and 
+Human Rights: Interdisciplinary Perspectives, Cambridge: Intersentia.
+
+Spalding, A. B. (2014), "Corruption, Corporations and the New Human Right", 
+Washington University Law Review (91) 6: 1365­1428.
+
+Terracino, J. B. (2012), The International Legal Framework against Corruption: 
+States’ Obligations to Prevent and Repress Corruption, Cambridge: Intersentia.
+
+Van Boven (1982), "Distinguishing Criteria of Human Rights", en Vasak, K. y 
+Alston, P. (eds.), The International Dimension of Human Rights (43­60), Connec­
+ticut: UNESCO.
+
+Van Klaveren (2002), "Corruption as a Historical Phenomenon", en Heidenheimer, 
+A. J. y Johnston, M. (eds), Political Corruption: Concepts and Contexts. Londres: 
+Routledge.
+
+Wouters, J., Ryngaert, C. y Cloots, A. S. (2013), "The International Legal Fra­
+mework  against  Corruption:  Achievements  and  Challenges",  14  Melbourne 
+Journal of International Law (14): 205­280.
+
+180 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESONU
+
+Agencia de los Derechos Fundamentales de la Unión Europea y Consejo de 
+Europa (2018), Handbook on European Non­Discrimination Law, Luxemburgo: 
+Publicaciones oficiales de la Unión Europea. 
+
+Alto Comisionado de las Naciones Unidas para los Derechos Humanos, Discurso 
+de apertura del Panel sobre las consecuencias negativas de la corrupción en 
+los derechos humanos, 13 de marzo de 2013, 8­10.
+
+Asamblea General (2017). Informe del Relator Especial sobre el derecho de 
+toda persona al disfrute del más alto nivel posible de salud física y mental. 
+UN Doc. GA 72/137, 14 de julio de 2017.
+
+CDESC, Observación General No. 1, Informes de los Estados Partes (1989).
+
+, Observación General No. 3, La índole de las obligaciones de 
+
+los Estados Partes (art. 2, párr. 1) (1990).
+
+, Observación General No. 12, El Derecho a una alimentación 
+
+adecuada (art. 11) (1999).
+
+CDI, Artículos sobre la Responsabilidad de los Estados por Hechos Internacio­
+nalmente Ilícitos (ARSIWA), UN Doc. A/56/83, 3 de agosto de 2001.
+
+CEDH, Agencia de los Derechos Fundamentales de la Unión Europea y Consejo 
+de Europa, Handbook on European Non­Discrimination Law (2018), p. 42.
+
+CIDH, Caso Irma Flaquer vs. Guatemala, Acuerdo de Solución Amistosa, Petición 
+11.766, Informe No. 67/03, 10 de octubre de 2003.
+
+CIJ, Caso Application of the Convention on the Prevention and Punishment of the 
+Crime of Genocide (Bosnia and Herzegovina v. Serbia and Montenegro), sentencia 
+del 26 de febrero de 2007, ICJ Reports (2007) 43, párr. 431.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+181
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+Comisión de Derechos Humanos (2005). Informe provisional presentado por 
+la Relatora Especial, UN Doc. E/CN.4/ Sub.2/2005/18, 22 de junio de 2005.
+
+ (2005). Subcomisión para la Promoción y Protección de los 
+Derechos Humanos, Resolución E/CN.4/Sub.2/2005/L.24/Rev.1, 5 de agosto 
+de 2005.
+
+Comisión de Derechos Humanos de la ONU, Informe provisional presentado 
+por  la  Relatora  Especial,  UN  Doc.  E/CN.4/Sub.2/2005/18,  22  de  junio  de 
+2005, párr. 24.
+
+, La corrupción y sus repercusiones en el pleno disfrute de 
+los derechos humanos, en particular los derechos económicos, sociales y cul­
+turales, Informe preliminar de la Relatora Especial, Sra. Christy Mbonu, UN 
+Doc. E/CN.4/Sub.2/2004/23, 7 de julio de 2004, párrs. 5 y 57.
+
+Comisión Interamericana de Derechos Humanos, Lineamientos para la Prepa­
+ración de los Indicadores de Progreso en el Área de los Derechos Económicos, 
+Sociales y Culturales, OEA/Ser.L/V/II.132, Doc. 14, 19 de julio de 2008, p. 24; 
+Convención Interamericana contra la Corrupción 1996, 35 ILM 724 (1996).
+
+Comité de Derechos Humanos, Benin, Doc. CCPR/C/BEN/CO/2, 23 de noviem­
+bre de 2015, párrs. 28­29.
+
+, Concluding Observations on the Second Periodic Report of 
+
+Benin, Doc. CCPR/C/BEN/CO/2, 23 de noviembre de 2015, párr. 29.
+
+, Costa de Marfil, Doc. CCPR/C/CIV/CO/1, 28 de abril de 2015, 
+
+párr. 20.
+
+,  Observaciones  Finales  al  Segundo  Informe  Periódico  de 
+Camboya, Doc. CCPR/C/KHM/CO/2, 27 de abril de 2015, párr. 14. Pacto In­
+ternacional sobre Derechos Civiles y Políticos (PIDCP), 1966, 999 UNTS 171. 
+
+182 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALESComité  de los  Derechos del Niño,  Observaciones finales sobre los informes 
+periódicos tercero a quinto combinados en Nepal, Doc. CRC/C/NPL/CO/3­5, 
+8 de julio de 2016.
+
+Consejo de Derechos Humanos (2008), La función del buen gobierno en la 
+promoción de los derechos humanos, UN Doc. A/HRC/RES/7/11.
+
+ (2015), Informe final del Comité Asesor del Consejo de Dere­
+chos Humanos sobre las consecuencias negativas de la corrupción en el disfrute 
+de los derechos humanos, UN Doc. A/HRC/28/73, 5 de enero de 2015.
+
+ (2015), Las consecuencias negativas de la corrupción en el 
+
+disfrute de los derechos humanos, A_HRC_Res. 29/11, 2 de julio de 2015. 
+
+ (2016), Mejores prácticas para luchar contra las consecuen­
+cias negativas de la corrupción en el disfrute de todos los derechos humanos, 
+A/HRC/32/22. «https://www.refworld.org.es/docid/576b84c74.html».
+
+Consejo Económico y Social. Observación General núm. 24 (2017) sobre las 
+obligaciones de los Estados en virtud del Pacto Internacional de Derechos Eco­
+nómicos, Sociales y Culturales en el contexto de las actividades empresariales. 
+E/C.12/GC/24, 10 de agosto de 2017.
+
+Convención de Viena sobre el Derecho de los Tratados (CVDT), 1969, 1155 
+UNTS 331.
+
+Convención Interamericana contra la Corrupción, 1996, 35 ILM 724 (1996).
+
+Corte Constitucional de Sudáfrica, South African Association of Personal Injury 
+Lawyers v. Health and Others, 28 de noviembre de 2000, (CCT 27/00) [2000] 
+ZACC 22, párr. 4.
+
+Corte de Justicia de la Comunidad Económica de Estados de África Occiden­
+tal (Corte CEDEAO), Socio­Economic Rights and Accountability Project (SERAP) 
+v. Federal Republic of Nigeria, sentencia del 14 de diciembre de 2012, párr. 32.
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+183
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+Corte IDH, Caso Velásquez Rodríguez vs. Honduras, sentencia de 4 de julio de 
+1988, Series C No. 4, párr. 172.
+
+Corte Penal Internacional, Situación de la República Democrática del Congo en el 
+caso del Fiscal vs. Thomas Lubanga Dyilo (ICC­01/04­01/06), Trial Chamber I, 7 
+de agosto de 2012, párr. 248.
+
+Corte Suprema de la India, Apelación penal No. 1648, State of Maharashtra 
+through CBI, Anti Corruption Branch, Mumbai v. Balakrishna Dattatrya Kumbhar, 
+15 de octubre de 2012, [2012] 9 S.C.R. 601, p. 602, párr. 14.
+
+Directrices de Maastricht sobre Violaciones a los Derechos Económicos, Sociales 
+y  Culturales  (Directrices  de  Maastricht,  1997),  reimpresas  en  Human  Rights 
+Quarterly 20 (1998), 691­704, párr. 11.
+
+EECC, Final Award: Ethiopia’s Damages Claims, 17 de agosto de 2009, reimpreso 
+en (2009) 26 UNRIAA 631, p. 733, párr. 330.
+
+Knaul, G., Relator Especial sobre la Independencia de los Magistrados y Abo­
+gados, Informe sobre la Rendición de Cuentas, UN Doc. A/HRC/26/32, 28 de 
+abril de 2014.
+
+Líneas Directrices de la OCDE para Empresas Multinacionales (2011).
+
+OECD Convención para Combatir el Cohecho de Servidores Públicos Extran­
+jeros en Transacciones Comerciales Internacionales, 1997, 2802 UNTS 225. 
+
+ONU Convención de las Naciones Unidas contra la Corrupción (CNUCC), 
+2003, 2349 UNTS 41. CNUCC, 2349 UNTS 41. No. 42146.
+
+,  Convención  de  las  Naciones  Unidas  contra  la  Corrupción 
+
+(CNUCC), 2004. Disponible en: «https://bit.ly/2RHTa3P».
+
+,  Pacto  Internacional  de  Derechos  Económicos,  Sociales  y 
+
+Culturales (PIDESC), 1966, 993 UNTS 3.
+
+184 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020
+
+REVISTA DEL CENTRO DE ESTUDIOS CONSTITUCIONALES, Tratado sobre la Carta de la Energía, 1994, 2080 UNTS 95.
+
+Principios de Limburgo sobre la Aplicación del Pacto Internacional de Derechos 
+Económicos, Sociales y Culturales (1986), reimpresos en 9 HRQ (1987) 122.
+
+Presidente del Banco Mundial James D. Wolfensohn, Discurso sobre los pueblos 
+y el desarrollo, 1 de octubre de 1996.
+
+Programa de Desarrollo de las Naciones Unidas, Centro de Gobernabilidad de 
+Oslo, The Impact of Corruption on the Human Rights Based Approach to Development 
+(2004).
+
+TEDH, Caso Delcourt vs. Bélgica, App. No. 2689/65, 17 de enero de 1970, párr. 31.
+
+Transparency International (2018), Exporting Corruption: Progress Report 2018: 
+Assessing Enforcement of the OECD Anti­Bribery Convention. 
+
+AÑO VI. NÚM. 10    ENE/JUN 2020 
+
+185
+
+LA CORRUPCIÓN COMO UNA VIOLACIÓN DE DERECHOS HUMANOS 
+

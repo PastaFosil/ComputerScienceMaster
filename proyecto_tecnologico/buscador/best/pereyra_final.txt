@@ -1,0 +1,1605 @@
+USOS Y SIGNIFICADOS DE
+USOS Y SIGNIFICADOS DE
+LA CORRUPCIÓN
+LA CORRUPCIÓN
+
+S E B A S T I Á N   P E R E Y R A
+S E B A S T I Á N   P E R E Y R A
+
+Usos y significados de la corrupción.
+
+Sebastián Pereyra
+
+Autoridades
+
+Dr. Alberto Ángel Fernández
+
+Presidente de la Nación
+
+Dr. Félix Pablo Crous
+
+Titular de la Oficina Anticorrupción
+
+Dr. Luis Francisco Villanueva
+
+Director de Planificación de Políticas de Transparencia
+
+Lic. Natalia Torres
+
+Directora Nacional de Ética Pública
+
+Equipo de la Colección de Documentos de la Red Federal EMIC
+
+Dra. Paula Canelo
+
+Coordinadora de la Red Federal EMIC (Estudios Multidisciplinarios sobre
+Integridad y Corrupción) y Editora general
+
+Dra. María Cecilia Lascurain - Dr. Alejandro Dulitzky
+
+Coordinadores técnico/académicos de contenidos
+
+Lic. Agustina Arias
+
+Coordinadora de edición y diseño
+
+Ciudad de Buenos Aires, República Argentina, abril de 2022.
+
+2
+
+Usos y significados de la corrupción.
+
+Documento Nº3 de la Colección Red Federal EMIC (OA-PNUD)1 
+
+Sebastián Pereyra2
+
+Resumen:
+
+El documento reflexiona sobre los significados y usos del concepto de corrupción, su
+
+carácter polisémico y disputado, y sus transformaciones a lo largo del tiempo y las
+
+distintas sociedades y regiones. Para ello revisa, en primer lugar, algunos grandes
+
+cambios sufridos por el concepto entre la antigüedad clásica y la modernidad para ver
+
+cómo las discusiones actuales sobre la corrupción recuperan, a la vez que simplifican, los
+
+significados modernos. En segundo lugar, analiza el papel de las acusaciones de
+
+corrupción como parte de la lucha política en la historia argentina, en especial, desde la
+
+recuperación democrática en 1983. En tercer lugar, aborda el problema de cómo
+
+establecer parámetros para medir y establecer tendencias y, por lo tanto, evaluar la
+
+eficacia o no de las formas de intervención sobre la corrupción, tanto a nivel local como
+
+internacional. Por último, revisa cuáles han sido las características de la agenda de
+
+política pública sobre la corrupción en Argentina y cuáles son los desafíos del futuro, en
+
+torno a tres aspectos puntuales: la reforma judicial, la reforma política y la reforma de la
+
+administración pública.
+
+1 Los Documentos de la Colección Red Federal EMIC fueron realizados en el marco de las actividades del
+Proyecto ARG/16/019 “Cooperación para la implementación de políticas de transparencia y control de la
+corrupción aplicados en conjunto en gobiernos provinciales, Oficina Anticorrupción/Programa de las
+Naciones Unidas para el Desarrollo” (PNUD).
+2 Sociólogo, Doctor en Sociología por la Ecole des Hautes Etudes en Sciences Sociales (Francia), Investigador
+del CONICET, Profesor de Teoría Social en la Escuela Interdisciplinaria de Altos Estudios Sociales (IDAES) de
+la Universidad Nacional de San Martín (UNSAM). Especialista en el estudio de problemas públicos y
+movimientos de protesta en la Argentina contemporánea. Miembro de la Red Federal EMIC (OA-PNUD).
+Las opiniones expresadas en este documento son de exclusiva responsabilidad del autor y no representan
+necesariamente la opinión de la Oficina Anticorrupción.
+
+3
+
+1. Introducción: ¿qué es la corrupción?3
+
+Corrupción es un concepto complicado, esquivo. Su significado nos resulta comprensible,
+
+casi evidente, pero a la vez se nos escapa y significa muchas cosas diferentes. Podemos
+
+imaginar y evocar infinidad de ejemplos para responder a la pregunta qué es la
+
+corrupción. Un/a funcionario/a que pide o cobra sobornos, un/a político/a que exhibe un
+
+crecimiento notable de su patrimonio, un/a empresario/a o una empresa que controla los
+
+organismos públicos que deberían regular la actividad económica en la que este/a
+
+empresario/a o empresa produce, actores poderosos (del sector público o privado) con la
+
+capacidad de evadir impuestos a través, por ejemplo, de paraísos fiscales.
+
+A partir de estos ejemplos podríamos intentar construir una suerte de catálogo y sobre
+
+esa base llegar a una definición general sobre qué es la corrupción. Podríamos hablar,
+
+por ejemplo, del abuso de poder usado para el propio beneficio, o de la colusión entre
+
+interés público e interés privado en perjuicio del primero. Algunos libros clásicos sobre el
+
+tema como los de Robert Klitgaard o Susan Rose-Ackerman sostienen que la definición
+
+general del término corrupción es el mal uso de un cargo o función con fines no oficiales.
+
+Estas perspectivas han enfatizado un enfoque administrativo sobre la cuestión
+
+considerando que la corrupción es ante todo una cuestión de costos-beneficios que se
+
+generaliza o se controla en función de dos variables principales: en primer lugar, la
+
+capacidad excesiva o no de regulación de la vida social que tienen los funcionarios
+
+públicos y, en segundo lugar,
+
+la transparencia u opacidad con la que ejercen sus
+
+funciones.
+
+El derecho, a su vez, establece en el código penal un conjunto de delitos que se
+
+corresponden con las prácticas que más usualmente asociamos al término corrupción. El
+
+cohecho –la coima-, el tráfico de influencias, la malversación de caudales públicos, las
+
+negociaciones incompatibles con la función pública,
+
+las exacciones ilegales, el
+
+3 Agradezco muy especialmente a Paula Canelo, Daniela Urribarri y Luis Villanueva por los comentarios y
+sugerencias realizados en la lectura de una primera versión de este texto. También agradezco a María
+Soledad Gattoni por las discusiones e intercambios que están detrás de algunos de los argumentos que se
+presentan en el documento.
+
+4
+
+enriquecimiento ilícito, son todos delitos contra la administración pública que componen
+
+un catálogo de conductas corruptas penadas por la ley.
+
+Sin embargo, los delitos contra la administración pública no son siempre una buena guía
+
+o un buen indicador para definir qué son las prácticas corruptas. Por un lado, podemos
+
+reconocer sin mucha dificultad que hay conductas por parte de funcionarios/as que
+
+podrían implicar algún tipo de delito y que no necesariamente están vinculadas con este
+
+tipo de prácticas.
+
+Imaginemos, por ejemplo, un/a funcionario/a encargado/a de la
+
+regulación del comercio o de la implementación de la política comercial del Estado;
+
+supongamos que esta persona decide comprar un producto en el exterior para ampliar la
+
+oferta del mismo en el país y por esa vía lograr que baje el precio interno; admitamos
+
+que algo en todo ese procedimiento podría salir mal y que ello podría implicar, a su vez,
+
+que el/la funcionario/a en cuestión sea acusado de malversación de caudales públicos.
+
+Así, tendríamos delito y, sin embargo, no estaríamos frente a un caso de corrupción.
+
+Tengamos en cuenta también que en el desarrollo de la actividad política y/o de la
+
+función pública hay infinidad de decisiones y comportamientos que podrían claramente
+
+ser percibidos como ilegítimos y que, sin embargo, no necesariamente implican que se
+
+haya cometido un delito. Imaginemos, por ejemplo, que un/a legislador/a hace uso de los
+
+fondos que le asigna el Parlamento para gastos de traslado o gastos de representación.
+
+No caben dudas allí que la asignación y el uso de esos fondos no representa ni permitiría
+
+sospechar ningún indicio de delito. Al mismo tiempo, supongamos que ello ocurre en el
+
+contexto de un país que atraviesa dificultades o restricciones económicas. No es
+
+imposible pensar que una persona que trabaja en cualquier otra actividad y que no goza
+
+de esos mismos beneficios pueda percibir esos gastos como un privilegio ilegítimo e
+
+injustificado. ¿Se trata de una situación que implica algún tipo de corrupción o no? El
+
+derecho no nos ayuda en este punto  a resolver la pregunta que nos venimos haciendo.
+
+El problema con las definiciones generales y omnicomprensivas de la corrupción es que
+
+no son sensibles a este tipo de cuestiones y que, por eso, no nos ayudan a ponernos de
+
+acuerdo en una definición común y precisa de corrupción. Y, a la vez, este tipo de
+
+5
+
+cuestiones abundan en la dinámica de nuestra vida social y política. Más allá de los casos
+
+extremos que mencionamos más arriba, hay una infinidad de situaciones que implican
+
+zonas grises que difícilmente puedan resolverse apelando a fórmulas generales o
+
+siguiendo la tarea de tipificación de delitos que lleva adelante el derecho penal.
+
+Consideremos por un momento la idea de beneficio personal o particular contrario al
+
+interés público, que está implicada en nuestras definiciones habituales de corrupción. Un
+
+funcionario público recibiendo una suma de dinero (en efectivo) como contrapartida por
+
+tomar una determinada decisión (o para no hacerlo) representa una imagen gráfica y
+
+concreta de la corrupción. Con esa imagen en mente se puede entender la redacción del
+
+artículo de nuestro código penal relativo al cohecho: “…el funcionario público que por sí o
+
+por persona interpuesta, recibiere dinero o cualquier otra dádiva o aceptare una promesa
+
+directa o indirecta, para hacer, retardar o dejar de hacer algo relativo a sus funciones”
+
+(Art. 256). Sin embargo, esa situación tan gráfica puede ser menos clara si consideramos
+
+algunas cuestiones. Los intercambios corruptos pueden tener alcances y extensiones
+
+que dificulten la determinación de la contraprestación implicada. El término “dádiva”
+
+permite considerar otros elementos más allá del dinero que estén implicados en las
+
+formas de intercambio. Es decir, no es necesario que se pague una suma de dinero a
+
+cambio de una decisión; la contraprestación podría ser, por ejemplo, el alquiler de un
+
+inmueble o la puesta a disposición de capacidades de transporte o logística por parte de
+
+una empresa. Pero, como es evidente, cuanto más nos alejemos del dinero y de la
+
+posibilidad de establecer un valor a la dádiva, más complejo será mostrar el carácter
+
+corrupto de los intercambios. Luego, imaginemos que los intercambios corruptos se
+
+asientan en promesas o favores -como por ejemplo el apoyo o el acompañamiento en el
+
+marco de una campaña electoral- en lugar de en contraprestaciones efectivas. En ese
+
+caso, ¿cuál es el marco temporal que deberíamos considerar para evaluar el alcance del
+
+efectivo cumplimiento de las mismas? Si una empresa o empresaria/o otorgó un
+
+beneficio a una persona que un año más tarde accede a un puesto en la función pública,
+
+¿cómo se evalúa ese vínculo a la luz de las decisiones que pueda tomar esa persona una
+
+vez en su cargo? Finalmente, el beneficio personal -que parece un criterio tan claro en
+
+nuestra imagen gráfica de la corrupción- no necesariamente se define únicamente en
+
+6
+
+oposición al bien común sino también en relación con múltiples formas del beneficio
+
+colectivo y de otros/as. ¿Cuánto se extiende la red de relaciones que nos vincula con los
+
+demás y que puede implicar una noción indirecta de beneficio para una persona?
+
+En el caso argentino, como en muchos otros, una ley de ética pública regula las pautas
+
+de comportamiento de los funcionarios públicos y ello implica que el universo de las
+
+conductas reprochables sea más amplio que el de los delitos contra la administración
+
+pública. Ello se verifica, por ejemplo, en la regulación del conflicto de intereses. La Ley de
+
+Ética Pública (25.188) regula, en ese sentido, tanto la prohibición del desarrollo de
+
+actividades simultáneas (ejercer una actividad en el ámbito privado sobre la que tengan
+
+atribuciones en tanto funcionarios o ser proveedores del organismo donde desempeñen
+
+sus funciones) como también el deber de abstención (apartamiento del agente al que le
+
+corresponde intervenir en cuestiones o situaciones que puedan afectar
+
+su
+
+imparcialidad).4 Así y todo, vemos que el problema de la aplicación de la norma puede
+
+ser algo problemático y dificultoso.
+
+Como sostuvo hace algún tiempo la filósofa Nora Rabotnikof (1999), las definiciones
+
+técnicas y generales de la noción de corrupción muchas veces son inadecuadas para
+
+evaluar las complicadas formas de negociación implicadas en la dinámica cotidiana de la
+
+actividad política. Al mismo tiempo, queda claro que la corrupción no es un fenómeno
+
+particular y específico, sino que en el mejor de los casos se trata de un problema que
+
+incluye una variedad y diversidad de fenómenos diferentes. Los intercambios corruptos
+
+pueden tener formas y alcances muy variados y el tipo y variedad de los intercambios
+
+que vuelven a la corrupción un problema para nuestras sociedades cambia a lo largo del
+
+tiempo e incluso pueden ser materia de controversia en un momento determinado.
+
+Es importante darle profundidad histórica y contextual al término corrupción para
+
+entender mejor sus significados y usos y el modo en que estos se transforman a lo largo
+
+del tiempo y el espacio. Por ejemplo, en Argentina nos hemos acostumbrado a pensar
+
+4 Sobre esta cuestión puede consultarse la Guía para el Ejercicio Ético de la Función Pública, publicada por la
+Oficina Anticorrupción y la Secretaría de Gestión y Empleo Público en 2020.
+
+7
+
+que las denuncias de corrupción se instalaron a partir de los escándalos5 que surgieron a
+
+lo largo de la década de 1990, por ejemplo el Swiftgate o el contrabando de armas a
+
+Ecuador y Croacia. Desde ese momento y hasta hoy los escándalos de corrupción son la
+
+forma particular en la que cobra forma la corrupción en la escena política. Todos los
+
+períodos presidenciales de las últimas décadas han registrado escándalos de corrupción
+
+de magnitudes significativas. Por otro lado, como veremos, el uso de las denuncias de
+
+corrupción para degradar personajes políticos y planteles de gobierno ha sido un recurso
+
+recurrente a lo largo de nuestra historia. Al mismo tiempo, las denuncias de corrupción
+
+no son privativas de las oposiciones políticas o del periodismo; es una herramienta que
+
+también ha servido a los propios gobiernos para impulsar reformas. El gobierno de C.
+
+Menem (1989-1999), por ejemplo, fue el impulsor, en sus primeros años, de una crítica
+
+en términos de corrupción a los modos de intervención y regulación del Estado en la
+
+economía. En efecto, el recurso a las denuncias de corrupción para fundamentar los
+
+procesos de privatización de empresas públicas y la racionalización de organismos
+
+estatales fue una práctica recurrente.
+
+Más allá de los usos políticos e incluso de las demandas locales que se han multiplicado
+
+en diferentes países en las últimas décadas, el problema de la corrupción también tendió
+
+a globalizarse. Ello ha ido de la mano con la consagración de definiciones técnicas y
+
+formales del problema y el desarrollo de herramientas estandarizadas de política pública.
+
+Como en muchos otros temas,
+
+la celebración de acuerdos y convenciones a nivel
+
+internacional marca el
+
+interés que el problema tiene a nivel
+
+internacional y para
+
+diferentes estados. Sin embargo, ello no resuelve la cuestión. En distintas sociedades, en
+
+distintas regiones el problema de la corrupción tiene alcances y relevancias distintas. Se
+
+configura en relación con historias y actores disímiles. Entender esas diferencias es
+
+5 La noción de escándalo se refiere a las acciones o eventos que implican ciertos tipos de transgresiones que
+se dan a conocer frente a otros y que son lo suficientemente serias como para provocar una respuesta del
+público en términos de indignación. Los escándalos han sido en las últimas décadas el vehículo principal de
+denuncias de la corrupción política en una innumerable cantidad de países. Como puede notarse, la idea de
+transgresión no se refiere a elementos de orden jurídico. Las transgresiones son violaciones a normas
+sociales percibidas como tales por los/las denunciantes o por la opinión pública. Dichas violaciones pueden
+constituir o no delitos en sentido jurídico. Por ello, puede sostenerse que los escándalos siempre tienen una
+dinámica propia –una autonomía relativa- en relación con las causas judiciales que puedan estar vinculados
+a ellos.
+
+8
+
+fundamental para poder avanzar en la definición de una agenda de trabajo que sea
+
+significativa y sustantiva para la adopción de políticas públicas y que reconozca las
+
+particularidades y especificidades que el problema puede adoptar en contextos
+
+diferentes.
+
+En las páginas que siguen vamos a analizar las implicancias que tiene este carácter
+
+polisémico y disputado del problema de la corrupción. En primer lugar, revisaremos
+
+algunos grandes cambios sufridos por el término entre la antigüedad clásica y la
+
+modernidad. Podremos ver, de ese modo, cómo las discusiones actuales sobre la
+
+corrupción recuperan a la vez que simplifican una preocupación crucial ligada a las
+
+concepciones de la política en la modernidad. Luego, nos dedicaremos a analizar cuál ha
+
+sido el lugar de las acusaciones de corrupción en la historia política argentina. Veremos
+
+allí que aún cuando no se trata de un fenómeno nuevo sino más bien de una dinámica
+
+recurrente en nuestra vida política, el desarrollo y consolidación del régimen democrático
+
+implica algunos cambios y desafíos particulares que enmarcan y complejizan dichos usos
+
+políticos de las acusaciones de corrupción. Posteriormente dedicaremos un espacio al
+
+análisis de un aspecto importante y particular del problema de la corrupción, tanto a
+
+nivel local como internacional, esto es el problema de cómo establecer parámetros para
+
+medir y establecer tendencias y, por lo tanto, evaluar la eficacia o no de las formas de
+
+intervención sobre el mismo. Finalmente, para concluir, revisaremos brevemente cuáles
+
+han sido las características de la estructuración de una agenda de política pública sobre
+
+la corrupción en Argentina y cuáles son los desafíos con los que deberíamos
+
+comprometernos de aquí en adelante.
+
+9
+
+Las definiciones generales y omnicomprensivas de la corrupción no son sensibles a
+
+situaciones que implican zonas grises y a transgresiones que no necesariamente
+
+configuran delitos. Los intercambios corruptos pueden tener formas y alcances muy
+
+variados y el tipo y variedad de los intercambios que vuelven a la corrupción un
+
+problema para nuestras sociedades cambia a lo largo del tiempo, e incluso pueden ser
+
+materia de controversia en un momento determinado. Es fundamental contrastar las
+
+definiciones generales y estándares normativos con estudios históricos y análisis
+
+comparativos.
+
+2. Significados clásicos y modernos de la corrupción
+
+En la actualidad y en términos de sentido común nos hemos acostumbrado a pensar la
+
+corrupción a partir de algunos elementos principales: primero, está referida a la actividad
+
+de funcionarias/os públicos y políticas/os (aunque éstos no sean necesariamente los/as
+
+únicos/as involucrados/as); segundo, supone una diferenciación clara entre el interés
+
+público y el privado a partir de la cual la corrupción no es simplemente la comisión de un
+
+delito sino una superposición de esas dos esferas; y tercero, es un fenómeno que remite
+
+principalmente a la conducta individual, objeto principal de la denuncia de corrupción, y
+
+evaluada sobre el trasfondo de determinadas reglas morales o jurídicas.
+
+Esos son algunos de los elementos centrales de las definiciones contemporáneas sobre
+
+la corrupción; subrayamos el adjetivo contemporáneas pues se trata de una utilización
+
+entre otras de ese término. La corrupción es un tópico que reenvía de manera directa a
+
+las discusiones más clásicas de la teoría política desde la antigüedad a nuestros días. Sin
+
+embargo, el modo en el que se presentan las discusiones actuales sobre la corrupción es
+
+heredero de una tradición moderna que pone el acento en la problemática relación entre
+
+ética y política. Grandes pensadores de la política moderna como Nicolás Maquiavelo o
+
+Max Weber le han prestado particular atención a estas cuestiones.
+
+Nuestra visión actual del problema de la corrupción se diferencia significativamente de
+
+aquella de los antiguos para quienes la corrupción era entendida como el deterioro de la
+
+salud moral del conjunto de la comunidad. En los textos clásicos de la filosofía política la
+
+10
+
+corrupción aparece asociada generalmente a un diagnóstico sobre la decadencia de la
+
+ciudad, sobre el modo en que ha degenerado un régimen político, sobre la pérdida de
+
+sentido de la vida en común.
+
+Por el contrario, en los escritos de Maquiavelo, por ejemplo, pueden encontrarse algunas
+
+de las formulaciones más interesantes sobre cómo comprender el dilema que existe
+
+entre las artes del gobierno, por un lado, y el seguimiento de pautas o normas morales
+
+de comportamiento, por el otro. Maquiavelo pensaba que la secularización6 imponía una
+
+diferenciación definitiva entre la moral y la política, convirtiendo a ambas en dos órdenes
+
+de la vida completamente distintos. El gobierno requería, entonces, concentrarse en las
+
+reglas e imperativos de la política, independientemente de si esas reglas se ajustaban o
+
+no a preceptos éticos o morales.
+
+Esa mirada permite delinear el dilema moderno en el que los gobernantes se encuentran
+
+situados, por así decirlo, entre la ética de la convicción y la ética de la responsabilidad. La
+
+referencia evoca la célebre conferencia de Max Weber consagrada a un minucioso
+
+escrutinio de las implicancias de la política como profesión. Weber sostiene allí que hay
+
+una contradicción flagrante en la búsqueda de una moralización de la política. La política
+
+-sostiene- es el reino de los medios al servicio de un determinado fin. Lo que podríamos
+
+considerar en términos de responsabilidad política de gobernantes y funcionarios se
+
+vincula con la consecución o no de determinados fines u objetivos. Podríamos decir
+
+-siguiendo a Weber- que la política se vincula más con los resultados que con el proceso
+
+por el cual los mismos se obtienen o no se obtienen. Por el contrario, de la ética, en
+
+sentido evangélico se deduce una preocupación exclusiva por los medios. Es decir, lo que
+
+importa es el proceso y el modo en que se ajusta o no a criterios éticos. Se trata de un
+
+tipo de responsabilidad distinta que pierde de vista la cuestión de los fines y los logros a
+
+ser alcanzados. Desde ese punto de vista,
+
+la política moderna -aquella que está
+
+despojada y diferenciada de principios morales de orden religioso- pone en tensión dos
+
+6 Este término se utiliza en ciencias sociales para sintetizar los grandes cambios históricos que definen la
+transición hacia la época moderna en Occidente. Cambios que implicaron una pérdida de centralidad de los
+valores y creencias religiosas como criterios de organización de nuestra comprensión del mundo y de la vida
+en comunidad.
+
+11
+
+orientaciones de la acción, una preocupada exclusivamente por los fines, otra, atenta a
+
+los elementos que definen un actuar responsable en términos de principios éticos.
+
+Una actividad política asentada sobre límites claros y precisos entre lo público y lo
+
+privado es uno de los ideales y promesas ligadas al desarrollo de la modernidad. Por ello,
+
+durante décadas, la corrupción fue un tema que los estudios sociales asociaron a los
+
+países en vías de desarrollo, como un resabio de tradición que persistía pese a los
+
+procesos de modernización de las sociedades. Hoy esa visión lineal sobre la modernidad,
+
+el progreso y el desarrollo es ampliamente cuestionada considerando las desigualdades
+
+estructurales que existieron históricamente entre sociedades centrales y periféricas así
+
+como los caminos y puntos de llegada múltiples que se han producido en sociedades
+
+modernas no occidentales. Sin embargo, algo de esa vocación modernizadora persiste
+
+hoy en la mirada de los organismos internacionales, instituciones largamente abocadas a
+
+producir discursos sobre la corrupción para los países periféricos, además de recetas
+
+para resolverlos. Esa visión se apoya en la idea de que los países centrales son
+
+principalmente exportadores de corrupción y los países periféricos aquellos en los que el
+
+problema se arraiga y prolifera. Sin embargo,
+
+la situación de las últimas décadas
+
+muestra que países centrales y periféricos sufren modalidades y formas diversas de
+
+intercambios corruptos. El término corrupción es evocado en diversas latitudes para
+
+referirse a los problemas de la política contemporánea y, por tanto, vemos que proliferan
+
+demandas y reclamos relacionados con la corrupción en innumerables países alrededor
+
+del mundo, aunque dichas demandas y reclamos no siempre se refieran a fenómenos
+
+similares o equivalentes.
+
+Una particularidad del escenario actual es que los esfuerzos internacionales y las
+
+configuraciones locales del problema no siempre están acompasadas. En un caso, el
+
+horizonte de trabajo tiende a la formalización y a la síntesis, en el otro, se observan
+
+múltiples cruces entre demandas, denuncias, desarrollo de políticas, marchas y
+
+contramarchas que están a su vez cruzadas por disputas y tradiciones políticas diversas.
+
+Se produce así una ineludible tensión entre, por un lado, los modos en que se estructura
+
+el problema de la corrupción, crecientemente globalizado e interesado por definir rasgos
+
+12
+
+comunes y formas de intervención eficaces para los distintos contextos y, por el otro
+
+lado, el modo en que se generan demandas y reclamos locales sobre la cuestión. Entre
+
+uno y otro polo se producen las formas de intervención y las respuestas que los distintos
+
+estados movilizan para hacer frente al problema.
+
+Parte de la distancia entre los esfuerzos técnicos de trabajo y las configuraciones locales
+
+del problema se explica por la insistencia, de los primeros en aferrarse a definiciones
+
+abstractas del problema, enfatizando la cuestión de la evaluación de la conducta de los
+
+funcionarios. Ello supone a nuestro juicio el olvido de dos elementos fundamentales:
+
+primero, que la corrupción no puede ser pensada sólo en términos de conductas, sino
+
+que debe serlo en términos de formas de intercambio (que como tales implican
+
+fenómenos mucho más amplios que el de la moralidad de los funcionarios) y, segundo,
+
+que no es posible entender la configuración local del problema de la corrupción sin
+
+situar, cada vez, los debates en términos de sus usos políticos. Al mismo tiempo, es
+
+necesario precisar en cada contexto local cuáles son las formas de intercambio que son
+
+consideradas como corruptas -que resultan problemáticas e intolerables- y que son
+
+configuradas también por tradiciones y conflictos políticos particulares y específicos. Es
+
+decir, es necesario precisar que conjunto de fenómenos constituyen el problema de la
+
+corrupción en cada contexto particular sin asumir que esa relación entre fenómenos y
+
+problema es evidente o va de suyo.
+
+La corrupción debe ser abordada, entonces, no desde el punto de vista de las conductas
+
+individuales y más o menos morales, sino desde el ángulo de las transacciones, los
+
+intercambios y la interacción. Siguiendo este razonamiento, el eje del análisis no se
+
+centra solamente en el nivel de la conducta individual –ni sólo en las cualidades morales
+
+de los individuos- sino en los acuerdos y compromisos que posibilitan la recurrencia de
+
+intercambios corruptos.
+
+Estas consideraciones nos invitan a desconfiar de las definiciones universalistas del
+
+problema de la corrupción a las que estamos más acostumbrados. Varios análisis
+
+muestran que las distinciones abstractas entre interés público e interés privado pueden
+
+13
+
+ser muy problemáticas en algunos contextos culturales. Las definiciones generales del
+
+interés público tienden a dar prioridad y a jerarquizar la idea de que las relaciones
+
+humanas deben guiarse por criterios impersonales. Es decir, se supone que los vínculos
+
+de amistad,
+
+intimidad o familiares representan un modo de intromisión del interés
+
+privado en la vida pública, en particular en las decisiones y actuaciones de
+
+funcionarias/os y políticos/as. Sin embargo, la confianza y la reciprocidad, por ejemplo,
+
+suelen ser elementos muy importantes en el modo en que establecemos relaciones con
+
+los demás. Y en muchas sociedades esas dimensiones de confianza y reciprocidad se
+
+apoyan y descansan en relaciones de amistad o en vínculos y lazos familiares. El
+
+sociólogo Mark Granovetter ha llamado la atención sobre el modo en que los ideales de
+
+impersonalidad pueden entrar en conflicto con los deberes de amistad y de reciprocidad
+
+y que no hay fórmulas que permitan resolver de modo abstracto estas cuestiones. Los
+
+favores,
+
+la amistad,
+
+la lealtad,
+
+la confianza pueden tener un peso enorme en las
+
+relaciones interpersonales y no es esperable, en determinados contextos, que estos
+
+criterios sean reemplazados o sustituidos por normas que sostienen criterios abstractos
+
+de buenas prácticas en la función pública que no consideran el estatus y las implicancias
+
+de esos vínculos interpersonales.
+
+En cualquier caso, existe otro elemento importante que permite comprender el peso
+
+creciente que tiene el problema de la corrupción en nuestras sociedades. Se trata del
+
+conflicto que está asociado al uso de la corrupción como un elemento de descalificación,
+
+como una herramienta de la lucha política. En el siguiente apartado dedicaremos un
+
+poco de espacio al análisis de esta cuestión específica.
+
+La corrupción no debe ser abordada desde el punto de vista de las conductas
+
+individuales y la moralidad de las personas sino desde el ángulo de las transacciones, los
+
+intercambios y la interacción. De ese modo se puede dar cuenta de cuáles son los rasgos
+
+y aspectos centrales de la configuración local del problema y también relevar la
+
+dimensión de los usos políticos de las denuncias de corrupción.
+
+14
+
+3. Las acusaciones de corrupción como parte de la lucha política
+
+En 1962 Arturo Frondizi fue destituido como presidente de la Nación por un golpe
+
+militar. El golpe implicó una de las cíclicas interrupciones del régimen democrático que
+
+caracterizaron a casi todo el siglo XX en nuestro país. Frondizi, al
+
+igual que otros
+
+presidentes derrocados fue detenido y mantenido prisionero en la isla Martín García. Allí
+
+redactó el manuscrito de lo que luego sería su libro Estrategiaytácticadelmovimiento
+
+nacional, que consagra un capítulo al tema de la corrupción. Su enfoque es muy
+
+ilustrativo de los usos políticos de las denuncias de corrupción. Frondizi sostiene allí que
+
+las denuncias de corrupción han sido un instrumento de uso recurrente para justificar los
+
+golpes de estado y para deslegitimar a los gobiernos democráticamente elegidos: “La
+
+calumnia organizada, publicitada profusamente, recogida y amplificada por los más
+
+caracterizadosdirigentesdelaoposición,logrómovilizaraampliascapaspopulares–de
+
+trabajadores, estudiantes y profesionales- para derribar a gobernantes elegidosporla
+
+inmensa mayoría del pueblo” (p. 133). La estrategia del moralismo, es decir, una
+
+utilización instrumental de principios morales, está orientada –siempre según Frondizi- a
+
+movilizar la sensibilidad de los sectores medios de la sociedad con el objetivo de minar la
+
+fe y la confianza de los ciudadanos en sus gobernantes. En una rápida revisión, Frondizi
+
+repasa las denuncias de “negociados” realizadas contra los gobiernos democráticos que
+
+parecen exhibir una dinámica similar.
+
+Las denuncias
+
+vienen acompañadas de intensos procesos de investigación
+
+parlamentaria o judicial que, luego de consolidado el cambio de gobierno se abandonan
+
+o llegan a conclusiones inconducentes. Las denuncias de corrupción sirven como arma
+
+de la lucha política y como estrategia de degradación de los oponentes políticos sin que,
+
+a su vez, esas denuncias conduzcan a resultados significativos en los ulteriores procesos
+
+de investigación. En muchos casos –por ejemplo, aquellos que Frondizi reconstruye en
+
+relación con el derrotero de su gobierno- las denuncias operan precisamente en las
+
+zonas grises de la actividad política y el ejercicio del gobierno; oscilando en la evaluación
+
+de la legalidad y la legitimidad de las acciones de gobierno y sus consecuencias.
+
+15
+
+Verónica Giordano (2003) analizó la relación entre denuncias de corrupción y
+
+modernización política en Argentina a fines del siglo XIX. Pero su trabajo muestra
+
+también que a esa coyuntura crítica en la que se anudó lucha política y denuncia de
+
+corrupción le siguió un largo período de utilización de las denuncias de corrupción como
+
+estrategia de legitimación de los golpes militares a lo largo del siglo XX. La alternancia
+
+de períodos constitucionales y dictaduras militares muestra en el caso de nuestro país el
+
+modo en que los militares tendieron a justificar sus intervenciones en la vida política
+
+como un intento de ordenar y moralizar la política democrática. La historiadora Silvana
+
+Ferreyra (2018) mostró, por su parte, cómo la Comisión Nacional de Investigaciones
+
+puesta en marcha por el gobierno militar que llegó al poder en 1955 fue ampliando la
+
+consideración de denuncias específicas
+
+sobre sobornos o enriquecimiento de
+
+funcionarios hasta avanzar en una impugnación moral y política de carácter general
+
+sobre los gobiernos peronistas.
+
+Esta dinámica que ubica a los usos de las acusaciones de corrupción como un arma
+
+política para justificar la necesidad de intervenciones militares se alteró –como es obvio-
+
+en las últimas décadas de vida política en el país. El fin de la última dictadura militar en
+
+1983 dio lugar a un período de continuidad democrática en la que son los procesos
+
+electorales los que definen la suerte de gobiernos y agrupamientos políticos. De todos
+
+modos,
+
+la política democrática también es conflictiva y podemos comprobar que las
+
+denuncias de corrupción forman parte rutinaria y cotidiana de ella. En particular,
+
+podemos observar que -al menos desde fines de los años 90 hasta esta parte- los
+
+gobiernos nacionales entrantes movilizan denuncias y demandas de corrupción contra
+
+los planteles de gobierno salientes. Estos rasgos también pueden observarse en las
+
+denuncias judiciales de los casos de corrupción. Los datos del Observatorio de Causas de
+
+Corrupción de ACIJ muestran que las figuras presidenciales aparecen entre las más
+
+denunciadas y que “abuso de autoridad y violación a los deberes de funcionarios
+
+públicos” es, a su vez, uno de los delitos más denunciados. Sin embargo, la lógica de
+
+denuncia de la corrupción política está mediada por la producción de escándalos que
+
+involucran otros actores y otras dinámicas que nos alejan -al menos en parte- de los
+
+usos políticos más descarnados propios de las acusaciones que evocamos previamente.
+
+16
+
+Los escándalos han pasado a formar parte del paisaje habitual de nuestra vida política. Y
+
+de ese modo las denuncias de corrupción se han asociado progresivamente a una crítica
+
+de la actividad política en su conjunto. La dinámica de los escándalos refuerza entonces
+
+la figura de los denunciantes que no provienen del mundo político, y que aspiran a
+
+erigirse en agentes moralizadores y defensores del bien común frente a una actividad
+
+que es definida como degradada y orientada al interés particular. Si por un lado los
+
+escándalos reafirman nuevos significados sobre el modo correcto de comportamiento de
+
+los dirigentes, por otro favorecen la capacidad de nuevos actores -centralmente de los
+
+periodistas y los profesionales del derecho- para enjuiciar a la actividad política. Como
+
+muestran los datos del Observatorio de Causas de Corrupción de ACIJ esta misma
+
+dinámica se replica en la actividad de denuncia en la justicia. Esas denuncias resultan
+
+creíbles en la medida en que quienes las formulan no forman parte del campo de la
+
+política profesional (de donde, por otro lado, proviene la mayor parte de la información
+
+que las nutre).
+
+Al mismo tiempo, deberíamos considerar un fenómeno que no es específico de la
+
+Argentina y que llevó a un progresivo desinterés del público por los escándalos luego de
+
+la atención que estos produjeron durante la década de 1990. Este es, el de la rutinización
+
+de los escándalos. Como sostiene el sociólogo Ari Adut (2008), la atención hacia una ola
+
+de escándalos no puede, en este sentido, sostenerse por tiempo indefinido. El efecto de
+
+una serie en cuanto a la visibilización del problema tiene su reverso en un cierto
+
+acostumbramiento frente a la transgresión. La indignación va cediendo terreno en la
+
+medida en que los escándalos pasan a formar parte de la vida política en su registro
+
+cotidiano. Por otro lado, debemos considerar que existe siempre una asincronía entre los
+
+tiempos de los escándalos y los del tratamiento judicial de los casos en cuestión. Así, el
+
+desarrollo de las causas judiciales se independiza de los escándalos y, por tanto, la
+
+degradación no tiene como correlato la aplicación de una pena. Un informe de 2012 de
+
+ACIJ, CIPCE y el Ministerio Público Fiscal mostró que la duración promedio de una
+
+muestra de 21 causas importantes de corrupción era de 11 años. Los expedientes
+
+tardaban en promedio más de 7 años en llegar a la instancia del juicio oral y más de un
+
+17
+
+60% de los expedientes analizados no tenía resolución judicial. La asincronía entre las
+
+dos lógicas -la de los escándalos y la judicial- podría hacernos pensar en un efecto de
+
+desaliento en el público. El Poder Judicial pasa de ese modo a ocupar el centro de la
+
+escena en los debates sobre corrupción. A contrapelo de la opinión de los expertos que
+
+señalan que en contextos de corrupción sistémica es poco lo que puede hacer la justicia
+
+penal para resolver el problema de la corrupción, en Argentina la apelación al derecho
+
+penal y al castigo de los culpables se ha transformado en un argumento recurrente que
+
+refuerza esa dimensión de los usos políticos de las acusaciones de corrupción.
+
+La política democrática es conflictiva y las denuncias y los escándalos de corrupción
+
+forman parte rutinaria y cotidiana de ella. Las críticas y denuncias entre planteles de
+
+gobierno entrantes y salientes son recurrentes. Y existe siempre una asincronía entre los
+
+tiempos de los escándalos y los del tratamiento judicial de los casos en cuestión. Así, el
+
+desarrollo de las causas judiciales se independiza de los escándalos y, por tanto, la
+
+degradación de las figuras públicas no tiene como correlato la aplicación de una pena.
+
+4. Un problema difícil de medir
+
+Si, como vimos hasta aquí, el problema de la corrupción ha estado históricamente ligado
+
+a la lucha y a la confrontación política, es sumamente importante establecer parámetros
+
+y criterios sobre su alcance y magnitud. De otro modo, sólo podríamos decir que el
+
+problema de la corrupción es relativo a determinados contextos históricos y culturales y
+
+que sólo estamos en condiciones de describir y consignar esas variaciones. Sin embargo,
+
+al igual que otro tipo de problemas que afectan a nuestras sociedades podemos también
+
+establecer criterios que nos permitan, por un lado, comparar nuestra situación con la de
+
+otras sociedades y, por otro lado, verificar tendencias a lo largo del tiempo. A diferencia
+
+de lo que sucede con otros problemas, como la inflación o el desempleo, carecemos por
+
+completo de mediciones que permitan objetivar las representaciones que existen sobre
+
+la corrupción. Eso nos confronta a lidiar, por ejemplo, con situaciones que son
+
+igualmente problemáticas pero incomparables entre sí.
+
+18
+
+Imaginemos un país en el que existen intercambios corruptos ligados al funcionamiento
+
+cotidiano de las burocracias de calle7. Pensemos, por ejemplo, en un país en el que es
+
+habitual el pago y el cobro de sobornos por parte de la policía frente a la detección de
+
+infracciones de tránsito. Consideremos ahora otro país en el que este tipo de situaciones
+
+son prácticamente inexistentes. Sin embargo, en este último sí se producen de modo
+
+recurrente grandes escándalos de corrupción en los que se denuncian relaciones
+
+espurias entre funcionarios y funcionarias nacionales y grandes empresas proveedoras
+
+del Estado en áreas como construcción y obra pública. Si consideramos a la corrupción
+
+como un fenómeno único y homogéneo, ¿de qué modo podríamos establecer una
+
+comparación entre estos países? ¿Cómo se ubicarían estos países en una escala que
+
+quisiera medir mayor o menor incidencia de la corrupción en uno y en otro?
+
+De manera intuitiva, podríamos pensar que una simple correlación sería capaz de
+
+vincular las denuncias y las preocupaciones ciudadanas con una mayor incidencia de los
+
+actos de corrupción. Pero ese vínculo supuesto por la crítica no ha sido corroborado, y
+
+difícilmente pueda serlo. Una de las cuestiones interesantes sobre el problema de la
+
+corrupción es que pese a su omnipresencia no existen mediciones confiables sobre los
+
+niveles de corrupción en los distintos países. No sabemos, ni podemos saber, si la
+
+corrupción (¿de qué tipo?) se ha incrementado o no (¿en comparación con qué?) ni en
+
+qué medida lo ha hecho.
+
+Sí sabemos que existe preocupación en la población de nuestros países en relación con el
+
+tema corrupción. En la encuesta Latinobarómetro realizada en 2001, el 74,6% de la
+
+población encuestada en América Latina respondió que la corrupción era un problema
+
+muy serio en su país. En 2018, de acuerdo con la misma fuente, más del 57% de los
+
+encuestados en la región consideraba que su presidente y sus funcionarios están
+
+7 El término burocracias de calle alude, en términos generales, a aquellos funcionarios/as públicos/as que
+tienen algún tipo de operatividad a nivel del territorio y que cotidianamente establecen interacciones con los
+ciudadanos. Suelen ser piezas clave -aunque usualmente no tienen empleos jerarquizados- en la
+implementación de políticas públicas y en la experiencia que las personas tienen del Estado. En los estudios
+sociales se habla de burocracia de calle para referirse generalmente a policías, docentes, fiscales, médicos y
+enfermeros de urgencias, etc.). Sobre el tema consultar el Documento Nº2 de la presente Colección, “Las
+burocracias de calle como primera línea del Estado y su papel en las políticas de integridad”, de Luisina
+Perelmiter y Pilar Arcidiácono.
+
+19
+
+involucrados o tienen información sobre actos de corrupción. En Argentina, esa
+
+percepción era compartida por el 54% de los encuestados. En nuestro país,
+
+la
+
+consideración de la corrupción como un problema grave es de larga data. En 1997, un
+
+88% de los encuestados tenía ese punto de vista y en 2001 la proporción ascendía a
+
+más del 94%; y en 2018, el 54% de los encuestados consideraba que la corrupción había
+
+“aumentado algo o mucho” en el último año.
+
+Pero ese panorama cambia, por ejemplo, cuando la evaluación se pone en perspectiva
+
+con otros problemas. Así, encontramos que en Argentina entre 1995 y 2004 la
+
+corrupción representaba el principal problema sólo para el 10% de la población. Aunque
+
+esa proporción aumentaba en forma considerable hasta llegar al 18% en 2002, se
+
+mantenía muy por debajo de otras preocupaciones, en particular la de la desocupación.
+
+En 2010, sólo el 2,6% de los encuestados consideraba que la corrupción era el principal
+
+problema del país. En 2018, por tomar otro ejemplo, sólo el 3% tenía esa misma
+
+consideración.
+
+Algo similar ocurre cuando consideramos no ya la percepción sobre el aumento de la
+
+corrupción, sino el contacto directo con los casos de corrupción: frente a ese tipo de
+
+preguntas,
+
+las respuestas son mayoritariamente negativas. En 2010, por ejemplo,
+
+apenas un 5% de los encuestados manifestaba que un funcionario público le había
+
+solicitado una coima en el último año.
+
+Una de las herramientas de medición más conocidas a nivel internacional es el Índice de
+
+Percepción de la Corrupción (CPI) elaborado por Transparencia Internacional, que
+
+permite clasificar en un ranking a casi 200 países. Además de inducir a una confusión
+
+entre percepción y medición, el índice ha sido cuestionado porque recurre centralmente
+
+a consultoras financieras para realizar las evaluaciones, lo cual genera un fuerte sesgo
+
+que refleja lo que podríamos llamar genéricamente el punto de vista del mundo de los
+
+negocios. En cualquier caso, según esta medición en 2020, Argentina se ubicaba en el
+
+puesto 78, mientras que Chile, por tomar un ejemplo cercano, se ubica en el 25.
+
+¿Argentina es un país mucho más corrupto que Chile? Desde este punto de vista sí, pero
+
+20
+
+la información sólo da una pauta de la percepción. La otra gran herramienta de medición
+
+producida por la misma organización es el Barómetro Global de la Corrupción, cuyos
+
+datos para 2017 indican que, mientras que en la Argentina un promedio del 13% de los
+
+encuestados reconocía haber pagado un soborno en los últimos doce meses en distintas
+
+áreas de gobierno o administración, en Chile esa proporción se ubicaba en el 18%.
+
+Tal como señala Paul M. Heywood las mediciones estandarizadas de TI tienen muchos
+
+problemas. Entre ellos que, como dijimos, tiende a enfatizar las percepciones sobre el
+
+problema por sobre las experiencias de las personas en relación con distintos fenómenos
+
+o situaciones de corrupción. Luego que tienden a generar un efecto de unificación del
+
+problema como si hiciera referencia a un solo tipo de fenómeno o situación particular.
+
+Finalmente, dicha unificación se focaliza en las prácticas o intercambios ligados a
+
+sobornos -cuando se refiere a experiencias concretas- y no realiza ninguna
+
+especificación cuando se pregunta por la corrupción en un sentido genérico. Por lo tanto,
+
+la medición sobre percepción o aumento de la corrupción en un país no permite saber a
+
+ciencia cierta que tienen en mente concretamente las/os entrevistadas/os cuando se
+
+refieren al problema.
+
+Es sumamente importante establecer parámetros y criterios sobre el alcance y magnitud
+
+del problema de la corrupción. A diferencia de lo que sucede con otros problemas
+
+públicos como la inflación o el desempleo, carecemos por completo de mediciones que
+
+permitan objetivar las representaciones que existen sobre la corrupción. Esto produce
+
+como efecto una exacerbación y un sobredimensionamiento de los usos políticos de las
+
+denuncias y demandas anticorrupción.
+
+5. Anticorrupción y derechos humanos: una agenda de trabajo
+
+Argentina comenzó tempranamente a desarrollar una agenda de políticas públicas de
+
+transparencia como modo de enfrentar el problema de la corrupción. Ello ocurrió a lo
+
+largo de la década de 1990 y su génesis estuvo vinculada a los logros que registró el país
+
+en materia de derechos humanos en la posdictadura.
+
+21
+
+En ese sentido, los diagnósticos sobre la corrupción en ese entonces tuvieron varios
+
+puntos de contacto con el legado del movimiento de derechos humanos. En primer
+
+lugar, compartían un marco general de desconfianza hacia el Estado y pensaban el
+
+proceso de democratización del país como un modo de contrarrestar los abusos de
+
+poder. Se trataba de acotar los márgenes de discrecionalidad en el ejercicio del poder
+
+desde la función pública o desde la actividad política en general. El control por parte de
+
+los ciudadanos sobre el funcionamiento del Estado y los funcionarios públicos aparecía
+
+como uno de los grandes horizontes o promesas de la democratización. Por esos años,
+
+además, el financiamiento de la cooperación internacional modificó su interés en
+
+términos temáticos. De ese modo se registró un interés creciente en financiar programas
+
+y proyectos que focalizaran en el tema de la anticorrupción. Ese financiamiento
+
+promovió de modo particular los enfoques organizacionales -como el de Klitgaard
+
+(1991)- interesados en pensar el problema en relación con los procesos de reforma del
+
+Estado. En segundo lugar, ambas agendas proponían poner el foco en el problema de la
+
+justicia. El poder judicial fue central en los debates sobre derechos humanos al punto
+
+que la consigna “juicio y castigo” se estructuró en torno a la persecución penal de los
+
+crímenes cometidos durante la dictadura.
+
+Para la agenda anticorrupción, el tema judicial siempre tuvo una cierta ambigüedad. Por
+
+un lado, los diagnósticos apuntaban a cambiar el foco de la persecución penal de los
+
+actos de corrupción al control exante de los actos de gobierno. Modificar los incentivos
+
+para evitar o desalentar los intercambios corruptos, más que aumentar las penas en los
+
+delitos contra la administración pública. Sin embargo, el marco de la impunidad fue
+
+utilizado recurrentemente como modo de señalar los alcances y la gravedad del
+
+problema.
+
+Repensar una agenda anticorrupción para la democracia implica -creemos- volver sobre
+
+algunos aspectos de su génesis. Volverla más ambiciosa y sustantiva y, sobre todo,
+
+autonomizarla lo más posible de la lógica de los escándalos y acusaciones de corrupción
+
+que han dominado la escena política en las últimas décadas. Los escándalos de
+
+22
+
+corrupción trajeron aparejados malestares respecto de la representación política. Sin
+
+embargo, apostar por la moralización de la clase política como única alternativa para
+
+resolver dichos malestares no produce sino un efecto paradojal.
+
+Para repensar una agenda anticorrupción es necesario ampliar la mirada sobre el
+
+problema al menos en dos sentidos. El primero, tratar de aportar una visión más federal
+
+sobre la cuestión: volver a mirar el funcionamiento de la política, la administración y la
+
+justicia a escala provincial y local, a la vez que analizar el modo en que se trasladan o no
+
+las discusiones de la escala nacional a esos ámbitos de funcionamiento de la política y
+
+del Estado. El segundo, volver a vincular las diferentes aristas de la agenda
+
+anticorrupción que actualmente se presentan desconectadas: la reforma judicial, la
+
+reforma política y la reformadelaadministraciónpública. Algunos breves comentarios
+
+sobre estos últimos tres temas:
+
+● Reforma judicial
+
+Hay una diferencia importante entre afirmar que la justicia penal no puede resolver el
+
+problema de la corrupción y sostener que el Poder Judicial no puede lidiar con ninguna
+
+causa de corrupción. Este segundo escenario, que en términos generales es el que
+
+permea la situación argentina actual, es potencialmente muy destructivo.
+
+Pero cabe aquí hacer una distinción importante. La literatura especializada ha señalado
+
+que es necesario establecer una diferencia entre la alta corrupción (aquella que involucra
+
+a políticas/os, funcionarias/os, empresarias/os u otros actores sociales de alta jerarquía y
+
+perfil público) y la baja corrupción (la que implica intercambios corruptos más ligados al
+
+funcionamiento cotidiano de la administración y la vida social). Esta distinción es
+
+sumamente importante para analizar el tratamiento judicial de casos de corrupción. Al
+
+referirnos a las acusaciones de corrupción y al uso político de los escándalos
+
+mencionamos la dinámica de denuncias entre gobiernos entrantes y salientes. Ello se ha
+
+replicado también en investigaciones judiciales que se activan cuando las/os
+
+23
+
+funcionarias/os o políticas/os dejan el poder8. Esta cuestión ha contribuido sin duda a
+
+producir descrédito y una imagen partidizada del funcionamiento del Poder Judicial. Y
+
+sobre este aspecto es necesario considerar que -más allá del principio de igualdad ante
+
+la ley y sin olvidar que es necesario investigar y punir cualquier delito cometido- dirimir
+
+conflictos políticos en la arena judicial siempre es y será una estrategia problemática. Sin
+
+embargo, los modos de influencia recíproca entre poderes pueden y deben ser acotados
+
+y regulados lo más posible. En el caso de nuestro país hemos observado muchas
+
+discusiones y algunas marchas y contramarchas sobre el rol y las funciones del Consejo
+
+de la Magistratura como mecanismo de enlace del poder judicial con los otros poderes
+
+del Estado. Este parece un punto particularmente relevante para avanzar en reformas. El
+
+segundo se vincula con la composición y la carrera en el fuero penal federal.
+
+Como sabemos, este es el fuero por el que han pasado las grandes causas de corrupción
+
+y tenemos poca información sobre estos aspectos tan importantes que permiten
+
+entender sus modos de funcionamiento.
+
+Pero, este orden de cosas se refiere principalmente al tratamiento de casos de alta
+
+corrupción. Y la cuestión judicial es quizá más importante en lo que se refiere al
+
+tratamiento de casos de carácter más cotidiano y ordinario. Allí también hay elementos
+
+específicos señalados por los analistas que se vinculan con el procedimiento penal y el
+
+éxito de las estrategias de dilación de las causas. La reforma del código de
+
+procedimiento penal fue auspiciosa en ese sentido, pero la implementación ha mostrado
+
+también demoras y complicaciones. Finalmente, tampoco se ha producido y compartido
+
+demasiada expertise o protocolos sobre la investigación de los casos de corrupción, en
+
+particular a nivel de los ministerios públicos fiscales. En cualquier caso, volviendo sobre
+
+el panorama general es innegable también que el Poder Judicial se ha mantenido ajeno al
+
+despliegue de los sistemas de integridad y, por tanto, tiene deudas importantes
+
+vinculadas con el control –particularmente el de patrimonios- y la transparencia de sus
+
+actos.
+
+8 Como sostiene una investigación reciente “quienes hacen justicia, ya lo explicamos, buscan permanecer en
+sus cargos y para cumplir su objetivo apuntan a satisfacer los intereses del gobierno de turno” (Delgado y
+De Elía, 2016: 105).
+
+24
+
+● Reforma política
+
+La expresión reforma política se popularizó durante la crisis de 2001-2002 en virtud de la
+
+crítica generalizada al desempeño de los políticos profesionales; podemos recordar, al
+
+respecto, la difusión generalizada que tuvo en ese momento la consigna “¡Que se vayan
+
+todos!”. En ese marco, no se pensaban elementos específicos de modificación o ajuste de
+
+la actividad política, sino que existía una preocupación global sobre los mecanismos de
+
+representación y su legitimidad. Las principales inquietudes se vinculaban con los modos
+
+de sostener el proceso de profesionalización de la actividad política al tiempo que evitar
+
+su corporativización. Sintetizando mucho las discusiones, existen al menos tres núcleos
+
+de problemas sobre los que convendría avanzar y recuperar aquella agenda iniciada en
+
+2001.
+
+Un primer núcleo se vincula con los agrupamientos políticos. Hace décadas se discute la
+
+crisis de los partidos políticos y, sin embargo, ello no ha producido grandes avances en el
+
+debate sobre las formas de organización de la actividad política. Hasta ahora han
+
+prevalecido los intentos fallidos por volver a fortalecer los partidos (tal fue el espíritu de
+
+la Ley de Democratización de la Representación Política de 2009, que lo intentó a través
+
+de internas obligatorias, la suba del piso de avales para la constitución de partidos, la
+
+distribución de la publicidad oficial de campaña y algunos requisitos para el
+
+financiamiento de las mismas). Sin embargo,
+
+las figuras políticas siguen ganando
+
+preeminencia frente a los agrupamientos partidarios y poco sabemos sobre el estado de
+
+la carrera política profesional. ¿Cuáles son los mecanismos de acceso a la política y los
+
+ámbitos y modalidades de competencia interna efectivamente vigentes? Algunos
+
+análisis han mostrado, por ejemplo,
+
+las dificultades estructurales de las mujeres y
+
+minorías en relación con la carrera política. Esos elementos son fundamentales si se
+
+piensa en criterios de equidad y pluralidad para la actividad política que son centrales en
+
+las críticas sobre su funcionamiento corporativo.
+
+El segundo núcleo de problemas
+
+se refiere a los sistemas electorales y de
+
+representación. Poco se ha modificado en términos de métodos de votación y criterios
+
+de representación en los sistemas electorales. Tampoco se ha avanzado demasiado en
+
+25
+
+términos de autonomía y articulación en los distintos niveles de representación. ¿Cuáles
+
+son las ventajas y desventajas en la implementación del sistema de boleta única o en los
+
+mecanismos electrónicos de votación?
+
+Finalmente, un tercer núcleo es el financiamiento de la actividad política. El problema es
+
+la discusión en términos abstractos de lo que sería deseable que ocurriera sin saber qué
+
+tipos de equilibrios existen y permiten efectivamente el financiamiento de la actividad
+
+política en la actualidad. ¿Cuál es la relación entre empleo público y cargos políticos?
+
+¿Cómo se financian efectivamente las campañas? ¿Cuánto requiere la actividad política
+
+de las políticas públicas para su funcionamiento? Desde nuestro punto de vista, es
+
+imposible abordar estos temas sin diagnósticos y discusiones sobre el funcionamiento
+
+global de la actividad política.
+
+● Reforma de la administración
+
+En la Argentina y en América Latina, las reformas de la administración pública han
+
+estado asociadas a procesos de privatización y reducción del aparato estatal. Durante los
+
+años ‘90 las mismas estuvieron atadas a programas de reformas de mercado. La agenda
+
+de políticas anticorrupción se vinculó desde entonces a una serie de presupuestos
+
+(eficiencia y eficacia del aparato estatal, reducción del gasto y del empleo público,
+
+desregulación de la economía) más propios de los programas de liberalización económica
+
+que a las inquietudes ligadas al problema de la corrupción. Ninguno de esos
+
+presupuestos produce de modo directo ni necesariamente un acotamiento o control de
+
+los intercambios corruptos. Alcanza con recordar, por ejemplo, que el proceso de
+
+privatización de empresas públicas durante los años ‘90 fue prolífico en el desarrollo de
+
+negocios ilegales e ilegítimos. Algo similar podría decirse sobre el gasto o el tamaño del
+
+Estado; la corrupción no se vincula con el volumen del gasto ni del aparato del Estado
+
+sino con su performance y el tipo de articulación virtuosa o no con el sector privado y
+
+con la ciudadanía en general. Con esa marca de origen, las políticas de transparencia
+
+corren el riesgo de transformarse en el mascarón de proa de otros objetivos de reforma
+
+y de política y, por tanto, de limitarse a un conjunto de procedimientos y mecanismos de
+
+orden formal que no producen transformaciones ni persiguen objetivos sustantivos.
+
+26
+
+En ese sentido, es necesario clarificar qué tipo de transformaciones son deseables en
+
+términos de reforma de la administración. Y es necesario pensarlas al menos en dos
+
+sentidos. Por un lado, un conjunto de elementos que son de orden interno a la
+
+administración. Nos referimos a medidas que garanticen la igualdad e idoneidad en el
+
+acceso y en el ejercicio de los cargos públicos (considerando e incluyendo una revisión de
+
+la distinción entre cargos políticos y técnicos). El reclutamiento y la carrera en el Estado
+
+(nacional, provincial y municipal) requieren un ordenamiento claro y preciso. Por ello
+
+resulta indispensable una clarificación de los criterios de ética pública que se han ido
+
+multiplicando y superponiendo sin ninguna razonabilidad en las últimas décadas9. Por
+
+otro lado, elementos vinculados a las interacciones de la administración. En este sentido,
+
+resulta fundamental distinguir niveles y escalas de la interacción ya que las agencias del
+
+Estado se vinculan con actores que poseen capacidades e intereses muy desiguales. Por
+
+ejemplo, respecto del sector privado y de los actores económicos en general, esas
+
+interacciones deberían guiarse por criterios de diferenciación y articulación. La eficacia y
+
+la eficiencia son fundamentales en áreas históricamente sensibles como la obra pública o
+
+las compras públicas en general. Pero también es destacable la clarificación y el
+
+resguardo de los conflictos de interés que pueden ser tanto o más perjudiciales que el
+
+cohecho y los sobreprecios. En algunas áreas sobre todo resultan tan importantes los
+
+criterios de apertura y control como los de la eficiencia y eficacia. Pensemos por ejemplo
+
+el impacto que esto tiene en relación con la asignación de subsidios y la regulación de los
+
+servicios públicos o con la implementación de políticas que protejan el medioambiente.
+
+La información y la publicidad de los actos de gobierno son importantes en la medida en
+
+que éstos se asocian a mecanismos de participación y de involucramiento de los
+
+profanos en distintas áreas y cuestiones de gobierno específicas y sensibles.
+
+En conjunto -creemos- estas dimensiones vuelven a inscribir el problema de la
+
+corrupción como un asunto de ciudadanía; como un tema vinculado a las expectativas
+
+ligadas a la trayectoria de democratización del país, de ampliación de derechos y de
+
+9 Puede destacarse aquí la ya mencionada Guía para el Ejercicio Ético de la Función Pública (2020) pero ¿qué
+sucede a nivel de las administraciones provinciales y municipales?
+
+27
+
+igualación de condiciones. En esa estela es que se inscribieron las preocupaciones
+
+originarias sobre la corrupción política y es en esa huella que estos debates y conflictos
+
+pueden volverse nuevamente productivos.
+
+28
+
+BIBLIOGRAFÍA
+
+Adut, A. (2008). Onscandal:Moraldisturbancesinsociety,politics,andart(Vol. 31).
+Cambridge University Press.
+
+Delgado, F., & de Elía, C. (2016). La cara injusta de la justicia. Por qué la justicia
+argentina es su propia enemiga. Paidós.
+
+(2018). El peronismo denunciado. Antiperonismo, corrupción y
+Ferreyra, S.
+comisiones investigadoras durante el golpe de 1955. Editorial de la Universidad
+Nacional de Mar del Plata.
+
+Frondizi, A. (1964). Estrategia y táctica del movimientonacional/ArturoFrondizi.
+Editorial Desarrollo.
+
+Giordano, V. (2003). Quévachaché.CorrupciónyPoderPolíticoenArgentina1890
+cien años después. Facultad de Ciencias Sociales, Universidad de Buenos Aires.
+
+Granovetter, M. (2007). The social construction of corruption. En V. Nee & R.
+Swedberg (Eds.), On capitalism. Standford University Press.
+
+Heywood, P. M. (2015). Measuring corruption: Perspectives, critiques and limits. En
+Routledge handbook of political corruption(pp. 1-13). Routledge.
+
+Klitgaard, R. (1991). Controlling corruption. University of California Press.
+
+Krastev,
+anticorruption. Central European University Press.
+
+I.
+
+(2004). Shifting obsessions: Three essays on the politics of
+
+Maquiavelo, N. (1974). El Príncipe. Marymar.
+
+Oficina Anticorrupción; Secretaría de Gestión y Empleo Público (2020). Guíaparael
+Ejercicio Ético de la Función Pública.OA y SGEP.
+
+Oficina de Coordinación y Seguimiento en materia de Delitos contra la
+Administración Pública (OCDAP), Ministerio Público Fiscal, Asociación Civil por la
+Igualdad y la Justicia (ACIJ); Centro de Investigación y Prevención de la Criminalidad
+Económica (CIPCE) (2012). Los procesos judiciales en materia de corrupción. Los
+tiempos del proceso. Estado de situación.OCDAP, ACIJ y CIPCE.
+
+Pereyra, S. (2013). Política y transparencia: La corrupción como problema público.
+Siglo Veintiuno Editores.
+
+29
+
+Rabotnikof, N.
+sedimentados. Isonomía : Revista de Teoría y Filosofíadel Derecho, 10, 25-39.
+
+(1999). Corrupción política: Definiciones técnicas y sentidos
+
+Rose-Ackerman, S. (1978). Corruption: A study in political economy. Academic
+press.
+
+Weber, M. (1980). La política como vocación. En El políticoyelcientífico. Alianza
+Editorial.
+
+30
+
+

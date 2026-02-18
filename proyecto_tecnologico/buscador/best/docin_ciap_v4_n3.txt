@@ -1,0 +1,920 @@
+1 
+ Administración Púb lica ISSN Digital 1852 -0774  
+ 
+ 
+DOCUMENTOS  
+DE TRABAJO  
+CENTRO DE INVESTIGACIONES EN  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Año 4 Número 1  Volumen 3 Febrero 2004 
+ 
+ 
+ 
+CORRUPCIÓN Y POLÍTICAS PÚBLICAS:  
+ALGUNOS FACTORES ESTRUCTURANTES. 
+APUNTES PARA UNA AGENDA DE 
+INVESTIGACIÓN.  
+      
+     Alejandro M. Estévez y Guillermo Marini  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNA PUBLICACIÓN DE LA FACULTAD DE CIENCIAS ECONÓMICAS DE LA UNIVERSIDAD DE BUENOS AIRES  
+ 
+ 
+2 
+  
+ 
+ 
+ 
+CENTRO DE INVESTIGACIONES EN ADMINISTRACIÓN PÚBLICA - CIAP  
+Instituto de Investigaciones en Administración, Contabilidad y Métodos Cuantitativos para la 
+Gestión (IADCOM) - Facultad de Ciencias Económicas – Universidad de Buenos Aires  
+Documentos de Trabajo del CIAP Año 4 N°1 Volumen 3 – Febrero  2004 
+ISSN 1852 -0774  
+Director: Dr. Isidoro Felcman  
+Secretario Académico: Dr. Gustavo Blutman  
+Comité Editorial: Gustavo Blutman, Gabriela Rutty, Horacio Cao y Patricia Domench  
+Editor responsable: Centro de Investigaciones en Administración Pública  
+ciap@econ.uba.ar  
+ 
+ 
+ 
+ 
+ 
+ 
+Indizada por:  
+-Centro Latinoamericano de Administración para el Desarrollo (CLAD)  
+-Centro de Documentación e Información sobre Administración Pública (CEDIAP), INAP – 
+ARGENTINA  
+-Red Nacional de Documentación e Información sobre Administración Pública (REDIAP), INAP - 
+ARGENTINA  3 
+ UNIVERSIDAD DE BUENOS AIRES  
+FACULTAD DE CIENCIAS ECONÓMICAS  
+Facultad de Ciencias Económicas de la Universidad de Buenos Aires   
+AUTORIDADES DE LA FACULTAD VINCULADAS CON LOS INSTITUTOS DE INVESTIGACIÓN  (1) 
+ 
+Decano Dr. César Albornoz  
+ 
+Secretario de Investigación y Doctorado   
+Mg. Adrián Ramos  
+ 
+Subsecretaria de Investigación y Doctorado en Contabilidad   
+Dra. Elsa Beatriz Suarez Kimura  
+ 
+Directora del Instituto de Investigaciones en Administración, Contabilidad y  
+Métodos Cuantitativos para la Gestión   
+Dra. María Teresa Casparri  
+ 
+ 
+ 
+Director del Centro de Investigaciones  en Administración Pública  
+Dr. Isidoro Felcman  
+Subdirector  del Centro d e Investigaciones en Administración Pública  
+Dr. Horacio Cao  
+Secretario Académico del Centro de Investigaciones  en Administración Pública  
+Dr. Gustavo Blutman  
+ 
+ 
+ 
+ 
+(1) Autorida des a fecha 2017, momento de normalización de los documentos de trabajo CIAP  4 
+ UNIVERSIDAD DE BUENOS AIRES  
+FACULTAD DE CIENCIAS ECONOMICAS  
+INSTITUTO DE INVESTIGACIONES ADMINISTRATIVAS  
+CENTRO DE INVESTIGACIONES EN ADMNISTRACION PUBLICA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CORRUPCIÓN  Y POLÍTICAS PÚBLICAS:  
+ALGUNOS FACTORES ESTRUCTURANTES . APUNTES 
+PARA UNA AGENDA DE INVESTIGACIÓN.  
+   
+ 
+      Investigador: Alejandro M. Estévez1 
+Investigador Asistente: Guillermo Marini2 
+ 
+ 
+Resumen  
+El presente trabajo es una reflexión acerca de los factores estructurantes de la corrupción en las 
+políticas públicas desde un punto de vista interdisciplinario. En virtud del análisis de la bibliografía 
+académica disponible y de las evidencias que se recabaron en el proyecto "Cultura y Corrupción 
+Política" avanzam os sobre los factores que hemos identificado como funcionales al desarrollo y la 
+dinámica de la corrupción. En este sentido encontramos que: las grandes concentraciones de poder 
+(simbólico y material), la racionalidad instrumental, la baja institucionaliza ción, el individualismo 
+extremo y los escenarios de grandes transiciones, crisis o cambios; son elementos esenciales que 
+interactúan de una forma sistémica para explicar el fenómeno de la corrupción.  
+ 
+                                                      
+1 Universidad de Buenos Aires. Facultad de Ciencias Económicas. Instituto de Investigaciones en Administración, 
+Contabilidad y Métodos Cuantitativos para la Gestión (IADCOM). Centro de Investigaciones en Administración Pública 
+(CIAP). Buenos Aires, Argentina - ciap@econ.uba.ar  
+2 Universidad de Buenos Aires. Facultad de Ciencias Eco nómicas. Instituto de Investigaciones en Administración, 
+Contabilidad y Métodos Cuantitativos para la Gestión (IADCOM). Centro de Investigaciones en Administración Pública 
+(CIAP). Buenos Aires, Argentina - ciap@econ.uba.ar  5 
+ Abstract  
+ 
+The present paper is an analysis  about the st ructuring factors of corruption in public policy from an 
+interdisciplinary perspective. We advance about the factors that we have identified as functional to the 
+development and the dynamics of corruption. As concluding remarks, we find that: big power 
+concentrations (symbolic and material), the instrumental rationality, a weak institutionalization, the 
+extreme individualism and political scenarios of social transitions, crisis or changes; are essential 
+elements interacting in a systemic way to explain the corruption’s phenomenon.  6 
+ Tabla de Contenidos  
+ 
+INTRODUCCIÓN  ................................ ................................ ..............................  7 
+NUESTRO TRABAJO DE I NVESTIGACIÓN  ................................ ..............  7 
+EL PROBLEMA DE LA DE FINICIÓN  ................................ ..........................  8 
+LA DOBLE DIMENSIÓN D E LA CORRUPCIÓN  ................................ ........  8 
+CONCENTRACIÓN DE POD ER Y PROFUNDIZACIÓN DE LAS 
+DESIGUALDADES.  ................................ ................................ ...........................  9 
+1.1. EL TAMAÑO DEL ESTADO Y LA EFICIENCIA BUROCRÁTICA  ......................  9 
+1.2. CAPTURA DEL ESTADO E INDEPENDENCIA DE LA JUSTICIA  .......................  9 
+1.3. CORRUPCIÓN Y POBREZA  ................................ ................................ ........  10 
+1.4. COMPORTAMIENTO RENTÍSTICO  ................................ ..............................  11 
+ETHOS TECNOCRÁTICO, EFICIENTISMO, PRAGMA TISMO.  ..........  11 
+BAJA INSTITUCIONALIZ ACIÓN.  ................................ ..............................  11 
+1.5. LOS SISTEMAS POLÍTICOS  ................................ ................................ ........  11 
+1.6. LEGITIMIDAD Y PARTIDOS POLÍTICOS  ................................ .....................  12 
+1.7. CORRUPCIÓN ORGANIZACIONAL  ................................ .............................  13 
+1.8. CORRUPCIÓN  Y JERARQUÍA  ................................ ................................ ..... 13 
+1.9. LA FALTA DE TRANSPARENCIA EN LA INFORMACIÓN  .............................  13 
+1.10.  INEFICIENCIA EN LOS CONTRATOS  ................................ .......................  14 
+1.11.  CORRUPCIÓN EN LAS FINANZAS PÚBLICAS  ................................ ..........  15 
+1.12.  EMPLEO Y SALARIO  ................................ ................................ ..............  15 
+1.13.  COMERCIO INTERNACIONAL E INVERSIÓN EXTRANJERA  .....................  16 
+EGOÍSMO / INDI VIDUALISMO.  ................................ ................................ . 16 
+1.14.  CORRUPCIÓN Y CONFIANZA  ................................ ................................ . 16 
+TRAN SICIONES, CRISIS Y C AMBIOS  ................................ .......................  17 
+1.15.  DEMOCRACIAS INCIPIENTES  ................................ ................................ . 17 
+1.16.  ECONOMÍAS INCIPIENTES  ................................ ................................ ..... 18 
+1.17.  CRISIS MACROECONÓMICAS  ................................ ................................  18 
+CONCLUSIONES ................................ ................................ .............................  19 
+BIBLIOGRAFÍA ................................ ................................ ...............................  20 7 
+ INTRODUCCIÓN  
+Desde su explosión en la década del ´90, la corrupción ha irrumpido como un factor de tensión en la 
+realidad internaciona l3. Al día de hoy, no existe país, región o continente que no muestre los efectos de 
+esta realidad multifacética. Las distintas áreas de los Estados se han visto sorprendidas por prácticas 
+corruptas que difícilmente parecen ceder ante los esfuerzos combina dos de los actores políticos. Por 
+ello, en las reflexiones sobre políticas públicas que se han producido desde mediados de la década del 
+90, se observa una presencia constante del fenómeno. En los organismos multilaterales (FMI, Banco 
+Mundial, BID), se ha analizado extensamente el tema, con una mirada economicista, en virtud de los 
+problemas de corrupción que experimentaron en varios programas4. 
+En el ámbito político, la corrupción ha favorecido el crecimiento de la inestabilidad institucional y el 
+persiste nte desgaste de las relaciones tanto entre individuos como entre instituciones y Estados. La 
+pérdida de legitimidad política que experimentan muchos gobiernos, la polarización del poder y la 
+ineficiencia burocrática son algunos de los problemas políticos q ue se atribuyen a la acción de la 
+corrupción. El creciente desarrollo de bloques políticos da nuevos aires a esta cuestión, poniendo en la 
+agenda internacional como una prioridad relevante la necesidad de un acción colectiva anticorrupción.  
+Desde el punto de vista económico, la creación de una red electrónica internacional a través de la cual 
+opera el nuevo sistema financiero ha presentado un sinnúmero de interrogantes acerca de cómo 
+regular, controlar y evitar posibles fraudes informáticos. La experiencia nos muestra que la corrupción 
+se vale de los “paraísos fiscales”, la existencia de monopolios, la evasión impositiva, la licitación de 
+grandes obras civiles, la privatización de empresas estatales, etc. para nutrirse de los recursos 
+nacionales e internacio nales tanto públicos como privados.  
+Desde la óptica social, la corrupción se ha instalado como factor determinante de los escenarios de 
+extrema pobreza que padecen crecientes proporciones del planeta. Asimismo, los conflictos entre las 
+diversas jerarquías sociales y su participación en luchas por poder y beneficios personales han 
+demostrado la necesidad de repensar la estructura, relación y distancia entre los distintos estratos 
+sociales. La cuestión étnica también ha sido permeable a la corrupción, avivand o en muchos países los 
+conflictos raciales. En este sentido y vistas a un control de la corrupción parecen cobrar un papel 
+preponderante la transparencia de la información y al fortalecimiento de la confianza interpersonal 
+como medios para refortalecer el vínculo social entre los distintos actores.  
+ 
+NUESTRO TRABAJO DE INVESTIGACIÓN  
+Hemos realizado un pormenorizado análisis de la literatura disponible sobre la corrupción para dar 
+cuenta del "estado del arte" (Estévez y Marini, 2003). Luego de haber reflexio nado sobre la evidencia, 
+hemos arribado a la identificación de una serie de factores estructurantes del fenómeno. No 
+pretendemos señalarlos como únicos, pero sí sostenemos que constituyen condiciones necesarias para 
+que la corrupción pueda desplegarse en l os sistemas sociales. A continuación cabe detallar estos 
+factores:  
+1. Concentración de poder y profundización de las desigualdades.  
+2. "Ethos" tecnocrático, eficientismo, pragmatismo.  
+3. Baja institucionalización.  
+4. Individualismo extremo.  
+5. Grandes transiciones, cris is o cambios.  
+ 
+El desarrollo explicativo de estos factores nos dará la estructuración del presente documento.  
+                                                      
+3 Habermas (1998) habla de un mar co internacional en tensión, resultante de la interacción de tres fenómenos que han 
+atravesado el pasado siglo haciéndose especialmente complejos hacia su fin. Estos serían, la explosión demográfica, la 
+aparición de un cuarto sector laboral (conocimiento y  técnica de comunicaciones) y la actitud instrumental de la ciencia ante 
+la naturaleza. A éstas tres líneas, permítasenos sumar el proceso paulatino y creciente de democratización general.  
+4 En el ámbito privado los fenómenos de corrupción son conceptuali zados como “fraude”.  8 
+  
+EL PROBLEMA DE LA DEFINICIÓN  
+La mayor parte de los estudios sobre corrupción centran su perspectiva en las dimensiones políticas y 
+económicas del fenómeno. A su vez, la mayoría de estos estudios toman como definición operativa, 
+explicita o implícitamente, alguna definición análoga a a quella propuesta desde la modernidad según 
+la cual corrupción es “un abuso de lo público por parte de un privado”. Es un hecho constatable a lo 
+largo de los trabajos que tal definición trae aparejada la dificultad de delimitar qué sea lo público y lo 
+priva do, en concreto, dónde empieza lo uno y lo otro. Pero más allá de este escollo, parecería que la 
+mayor dificultad a la que nos exponemos es la de parcializar la mirada por sobre la realidad. Vale 
+aclarar que toda definición conlleva una necesaria delimitac ión por la cual decimos que todo aquello 
+que no entra dentro de nuestros parámetros no debe ser considerado como objeto de estudio. El 
+problema se suscita cuando hemos dejado de lado elementos que, sin embargo, se manifiestan en 
+nuestro objeto de estudio. En general, podría tratarse de un error fruto de desatención. En este caso 
+particular, parecería tratarse de una dificultad teórico - metodológica.  
+Desde el punto de vista teórico y según la concepción antropológica en la que descansan muchos de 
+los trabaj os más relevantes sobre corrupción, el ser humano parecería definirse sólo a partir de sus 
+relaciones políticas y económicas, y en vistas de alcanzar un cierto grado de bienestar en su vida. 
+Desde el punto de vista metodológico, es significativo que los tr abajos sobre corrupción aborden el 
+fenómeno, preponderantemente, a partir de la estadística y el estudio cuantificado de casos.  
+Sin embargo, la realidad social humana que comprende valores éticos y considera la importancia de la 
+responsabilidad individual surge de suyo. A lo largo de los estudios de corrupción se hace manifiesta 
+la desatención a éstas dos dimensiones fundamentales de la vida humana en comunidad. Es evidente la 
+dificultad de cuantificar elementos que son propiamente cualidades como sea la vi da moral y la 
+responsabilidad individual, pero tal hecho no alcanza a justificar la falta de reflexión científica sobre el 
+tema.  
+Creemos entonces que se vuelve perentorio incorporar las dimensiones ético -individuales a la 
+reflexión de una mejor definición.  
+ 
+LA DOBLE DIMENSIÓN DE LA  CORRUPCIÓN  
+A partir de lo visto más arriba, proponemos que el fenómeno de la corrupción se da en dos 
+dimensiones fundamentales: 1. Ético -individual 2. Estructural.  
+La dimensión ético -individual es la más general de las dos e incluye a la estructural. Lo ético -
+individual comprende al individuo en tanto autor de obras morales y responsable por ellas. La 
+dimensión estructural es la más particular de las dos. Ésta comprende a todas las instituciones 
+humanas susceptibles de sufrir corrupción.  
+Es necesario también remarcar el peligro que implica sustancializar a la corrupción en cualquiera de 
+estas dos dimensiones. Cuando se pretende señalar a un único sujeto como responsable de cierta 
+corrupción se corre el riesgo de estar creando u n “chivo expiatorio” que acabe por cargar con culpas 
+que no sean propias. Esta “víctima” también podría oficiar de distracción para velar la corrupción de 
+otras personas o estructuras. Cuando, por otro lado, se pretende cargar en una estructura todo el pes o 
+de la corrupción se corre el mismo riesgo de desatender a otros posibles responsables tanto personas 
+como estructuras.  
+Es Etkin (1993) quien señala el ejemplo de instituciones corruptas que han renovado su plana directiva 
+por hombres de probadas aptitude s éticas y técnicas, y que al tiempo se han visto nuevamente 
+inmersas en problemas de corrupción. Este ejemplo da cuenta de la importancia de una mirada integral 
+frente a la corrupción, mirada que atienda a las dimensiones antes citadas. Si no podemos nega r que 
+estructuras que desalienten los comportamientos corruptos tendrán poca eficacia en manos de hombres 
+corruptos, tampoco hay duda en que hombres probos experimentarán dificultades al momento de 
+trabajar en estructuras corruptas.  
+ 9 
+ CONCENTRACIÓN DE PODER  Y PROFUNDIZACIÓN DE LAS  DESIGUALDADES .  
+1.1. EL TAMAÑO DEL ESTADO Y LA EFICIENCIA BUROCRÁTICA  
+Entre las diversas razones de la polarización del poder, muchos autores atribuyen al tamaño del Estado 
+un papel preponderante (Mauro, 1995; Lambsdorff, 1999a; Trujill o, 2002). En los ´90, se ha 
+constituido en una idea común, el señalar que un Estado grande presenta mayores oportunidades para 
+que funcionarios desleales establezcan demoras innecesarias en los trámites, permisos, habilitaciones, 
+expedientes, etc., y media nte la aplicación de una cierta discrecionalidad obtengan rentas -no siempre 
+fundada en normativas -. 
+Sin embargo, Anvig (2000) afirma que un Estado grande5 no implica necesariamente altos niveles de 
+corrupción y pone como ejemplo a los países nórdicos que,  con elevados porcentajes de gasto público 
+en relación con el PBI, presentan muy buenos puestos en el ranking de Transparencia Internacional6. 
+La explicación a este fenómeno de elevado gasto público y buen desempeño en cuanto a percepción de 
+corrupción en los países nórdicos, podría estar dada desde la cultura política imperante y la naturaleza 
+de los mecanismos de control7. 
+Por otra parte, Paolo Mauro (1997) destaca a lo largo de sus investigaciones el papel determinante que 
+ocupa la eficiencia burocrática  en la consideración acerca de la corrupción. Mauro afirma que esta 
+variable posee una relación inversamente proporcional con el nivel de corrupción. Según el autor, los 
+países que presentan altos niveles de eficiencia burocrática también muestran un alto grado de 
+estabilidad política. Más aún, dicha estabilidad política repercute positivamente en el plano económico 
+favoreciendo la inversión privada en general. El PBI per capita también experimenta una tendencia de 
+crecimiento cuando la eficiencia burocráti ca tiene niveles altos.  
+Autores como Tanzi (1998) han señalado que el exceso de regulaciones y autorizaciones necesarias 
+para avanzar en trámites es causa de la corrupción política. Es un hecho descripto en casi todos los 
+estudios sobre corrupción que la s obrerregulación administrativa y la ineficiencia de los procesos 
+burocráticos pueden llevar a los ciudadanos a pagar un soborno para acelerar u obtener aquello que los 
+funcionarios debieran brindar de buena ley.  
+1.2. CAPTURA DEL ESTADO E INDEPENDENCIA DE LA JUSTICIA  
+Desde hace varios años se ha instalado en el ambiente académico un concepto conocido como 
+“Captura del Estado”. Esta noción intenta señalar el hecho de que individuos o empresas pueden 
+aprovechar su poder, influencias, amistades o asociaciones, para  condicionar la acción de una agencia 
+estatal mediante la instalación de personas afines en los cargos claves del organismo controlado8. De 
+esta forma la agencia pierde su autonomía y sus decisiones finales quedan condicionadas al interés del 
+grupo dominan te (Kaufmann, 2001).  
+Varios autores coinciden en que la mejor forma de evitar la "captura" es a través de una 
+profesionalización y estabilización del personal de las agencias en cuestión. La permanencia de los 
+funcionarios en los puestos públicos implica u na mayor profesionalización, al tiempo que evita la 
+                                                      
+5 Por tamaño del Estado entenderemos aquí a la relación de gasto público comparada con el PBI del país. Si bien no sería la 
+única forma de medir el tamaño del Estado, (podríamos medirlo según la cantidad de agentes públicos sobre la po blación 
+económicamente activa, por ejemplo) de acuerdo a la disponibilidad de los datos, esta forma ha resultado la más accesible.  
+6 Suecia, Noruega y Finlandia disponen, en promedio, un 62.1 % de su PBI en gasto público y son, en conjunto, los países 
+mejo r ubicados en el índice de Transparencia Internacional.  
+7 Según Tiihonen (2003), una de las razones de la baja corrupción en Finlandia es la estructura colectiva y colegiada de 
+decisión del país. El autor elogia a las formas colegiadas como difíciles de co rromper cuando la mayoría de sus miembros 
+están convencidos de ciertos valores éticos. De hecho, la decisión colegiada ha sido en Finlandia una tradición desde el sigl o 
+XVII. Por otra parte, existe un sistema de doble control en los organismos públicos; pa ra que la decisión de un ministro sea 
+válida, debe estar acompañada por la firma de un funcionario de jerarquía menor conocido como "rapporteur". Sin esta doble 
+signatura, el acto público es inválido.  
+8 Esta forma de utilizar a las instituciones públicas es potencialmente muy peligrosa ya que puede manifestarse desde formas 
+cuasi inocentes de lobby hasta la limitación de competencia y la exención impositiva (Reos, 2002).  10 
+ profusión desmedida de contactos con el sector privado. (Tiihonen, 2003; Andvig, 2000; Acemoglu y 
+Verdier, 2000).  
+En el caso de la independencia de la justicia9, podríamos utilizar una analogía de la "cap tura", dado 
+que si bien es muy difícil que se intente una captura sistemática del poder judicial, en el caso de los 
+países con baja institucionalización, los sistemas judiciales son fuertemente sensibles a la influencia 
+política y económica de ciertos acto res. Según Malem Seña (2002), los mecanismos de nombramiento 
+de jueces, fuertemente ligados a criterios de tipo partidistas, condicionan la independencia de los 
+magistrados.  
+El "World Development Report" de 1997 presentó la evidencia de que en 59 países l a falta de 
+predictibilidad del sistema judicial era causa del aumento de los niveles de corrupción10. Cuando la ley 
+se vuelve parcial, entonces la corrupción ataca el fundamento de la obligación social. En este marco, 
+aquellas acciones nocivas que no están prohibidas por la formulación explícita de una ley aparecerían 
+como legítimas. Etkin (1993) señala que éste es el ámbito a través del cual se filtra la corrupción en los 
+sistemas sociales y por ello cree que hay que hablar de norma en un doble sentido: com o ley y como 
+grandes principios morales que orientan el accionar humano.  
+1.3. CORRUPCIÓN Y POBREZA11 
+Según Reos (2002), cuando la corrupción se ha transformado en un factor determinante a la hora de 
+tomar decisiones, el tamaño y la complejidad de los proyectos d e inversión suelen inclinarse en favor 
+de las propuestas más costosas y opacas. La razón sería que éste tipo de proyecto es de difícil control 
+político. Por lo tanto, se ven favorecidas las oportunidades de corrupción en contratos, 
+nombramientos, consultor ías, etc. Tales proyectos pocas veces son utilizados en favor de los pobres. 
+Por su misma naturaleza, no resulta fácil abrir su ejecución a grupos de menores ingresos con mano de 
+obra de poca calificación.  
+En relación con los pequeños o micro emprendimien tos, los cuales surgen de los sectores de bajos 
+ingresos, la corrupción suele ser un obstáculo difícil de sortear si pretenden afianzar su crecimiento. 
+Generalmente, la presencia de corrupción administrativa suele expresarse en forma de excesivas 
+regulacio nes, controles y trámites para la puesta en funcionamiento del emprendimiento. Ello los 
+afecta en relación con otros emprendimientos de mayor envergadura pero del mismo rubro que no 
+están sujetos a tales controles o que pueden eludirlos a través de pagos i legales y/o contactos. De este 
+modo, las mayores dificultades para mantener la competitividad de su empresa, terminan por recaer 
+sobre los más pobres (Reos, 2002).  
+En forma similar, en el área rural los pequeños agricultores suelen tener limitaciones en la s opciones 
+de comercialización de sus cosechas. A menudo, para llegar a los grandes mercados se establecen 
+instituciones públicas de comercialización que actúan como distribuidores de los productos agrícolas. 
+Se argumenta que esas instituciones están cread as para favorecer a los campesinos pobres y evitarles 
+penurias en los mercados más lejanos o con mayor competencia. Como en otros ámbitos, esas 
+entidades tienen también límites en su capacidad de compra y por lo tanto deben racionar los recursos 
+disponible s. Cuando esos centros de comercialización son administrados por funcionarios corruptos, 
+se imponen “tarifas” para efectuar las compras de los productos seleccionados (Reos, 2002).  
+Por otra parte, Reos (2002) afirma que otra área en donde se producen perj uicios a los pobres, en el 
+marco de la corrupción, es la impositiva. Dado que las legislaciones tributarias son de por sí 
+complicadas y exigen un conocimiento especializado para su interpretación, los pobres tienen menos 
+posibilidades de aprovechar las opo rtunidades legales para reducir su carga impositiva. En términos 
+relativos, muchas veces la población pobre paga en forma de impuestos porcentajes más altos de sus 
+                                                      
+9 La independencia del poder judi cial es uno de los pocos puntos sobre los que existe un consenso unánime en la bibliografía 
+consultada. Allí en donde el mecanismo judicial no funciona eficientemente, la corrupción está fuera de control.  
+10 Consecuencias similares entre el desarrollo de la  corrupción y la dependencia del sistema judicial son profundizadas por 
+Ades y Di Tella (1996).  
+11 En general, las investigaciones coinciden en que la distribución del ingreso se ve negativamente afectada por la corrupción 
+ya que permite a personas bien pos icionadas y relacionadas aprovechar las actividades del gobierno a expensas del resto de la 
+población, a la vez que diminuye la posibilidad de los pobres de obtener ingresos más altos (Tanzi, 1998, Trujillo, 2002).  11 
+ ingresos que otros grupos sociales. Mientras que los grupos de ingresos medios o altos tiene n a su 
+alcance especialistas en materia tributaria, los pobres muchas veces deben conformarse con pagar 
+montos desproporcionados o directamente dejar de pagar sus impuestos.  
+1.4. COMPORTAMIENTO RENTÍSTICO12 
+El “Rent seeking” o el esfuerzo por adquirir rentas no está necesariamente prohibido por la ley o 
+considerado inmoral por la sociedad; tampoco es necesario que su efecto económico de largo plazo sea 
+negativo si las rentas son reinvertidas productivamente. Sin embargo, autores como Mauro (1998), lo 
+consideran d irectamente improductivo y económicamente ineficiente. Ya que la última fuente del 
+comportamiento rentístico es la disponibilidad de rentas, “la corrupción probablemente tenga lugar en 
+aquellos países donde las restricciones y la intervención del gobierno permitan la obtención de 
+ganancias excesivas.” Como ejemplos, Mauro incluye a las restricciones comerciales, las políticas de 
+favoritismo industrial, el control de precios y el control gubernamental de la provisión de crédito.  
+Por su parte, Reos (2002) señ ala que la opacidad de información en los mercados desencadenan fallas 
+en la asignación de recursos. Precisamente esta característica produce oportunidades de rentas 
+económicas. Aquellos que tienen acceso a más información acerca de las acciones de gobiern o pueden 
+utilizar esos datos en su beneficio y obtener así una renta. Ya sea que un funcionario tenga el poder de 
+aplicar multas sin necesidad de rendir cuentas a un órgano controlador o que pueda establecer el precio 
+máximo de ciertos productos, el manejo  unilateral de la información es ocasión para el 
+comportamiento rentístico.  
+ 
+ETHOS TECNOCRÁTICO , EFICIENTISMO , PRAGMATISMO . 
+Otras de las notas que estructuraría a la corrupción sería la racionalidad de tipo técnica que no delibera 
+respecto de los fines últ imos de la acción humana, sino sobre la "viabilidad técnica" o eficiencia de 
+una decisión. Esto ha llevado a un afianzamiento del pragmatismo como medida de valor de la acción 
+humana. Todo aquello que sea "práctico" es considerado bueno, sin deliberar resp ecto de sus 
+consecuencias en pos a fines morales. Por ello resulta central cuestionar a la racionalidad instrumental 
+y adoptar criterios ético -morales, más amplios que los exclusivamente "técnicos o científicos".  
+Por otra parte, nociones como "bien público " o "bienestar general" o "bien común" quedan excluidos 
+del esquema de decisiones de tipo "tecnocrático" que centra su motivación en la "utilidad pública", 
+medida únicamente en términos de costo -beneficios. Es necesario volver a deliberar sobre la finalida d 
+de las decisiones públicas, respecto de qué se busca conseguir y a quiénes se busca beneficiar 
+realmente.  
+ 
+BAJA INSTITUCIONALIZACIÓN . 
+1.5. LOS SISTEMAS POLÍTICOS  
+La Ciencia Política tradicional ha considerado que las causas de la corrupción están radicadas en  las 
+deficiencias del sistema político, en particular en el “déficit democrático” (Andvig, 2000). A partir de 
+la investigación de Doig y Theobald (2000) podemos caracterizar éste déficit como “la carencia de 
+democracias óptimas con división de poderes; y d e métodos de inspección y de balance de 
+instituciones”.  
+En general, la relación entre corrupción y democracia es considerada negativa, es decir, que cuanto 
+menos democrático es un sistema político, más corrupto también. La corrupción política generalizada 
+está considerada como efecto de un estado deficiente, con una severa falla de buena gobernancia, 
+liderazgo ético y consistencia democrática (Hope, 2000). La Ley de Democratización (Friedrich, 
+                                                      
+12 La renta económica surge cuando un indi viduo o empresa posee algo único. Alguien que tiene en su posesión un activo tan 
+especial puede cobrar un precio superior al normal y obtener así una renta económica; es decir, ganancias en exceso a todos 
+los costos relevantes. El clásico ejemplo es de las  rentas obtenidas vía monopolio.  12 
+ 1989) que establece que el grado de corrupción varía inversament e respecto al grado de consenso del 
+poder, también apoya a lo que se ha convertido en el argumento básico y más práctico contra la 
+corrupción y sus causas: la corrupción sólo puede ser revertida en un marco de democratización del 
+Estado.  
+Según Amundsen (19 99), dentro del grupo de los sistemas no democráticos parece confirmarse la 
+relación entre formas autoritarias de poder y escenarios con un alto nivel de corrupción.  
+Por el contrario, según Andvig (2000), es importante tener en cuenta que el control autori tario de la 
+política y la economía implica también un estricto control sobre los niveles de corrupción y los 
+mecanismos de distribución de los recursos. Little (1992) señala que los gobiernos militares en los 
+países del Tercer Mundo han padecido una mayor corrupción a nivel de "derechos humanos" que a 
+nivel económico. En esta línea, Naim (1995) indica que mientras que en los gobiernos autoritarios la 
+corrupción está institucionalizada y, por lo tanto, es predecible y controlable, en los gobiernos 
+democrátic os está librada a la competencia y al hecho de que una mayor participación de actores 
+implica una mayor cantidad de potenciales corruptos.  
+Finalmente, Andvig (2000) concluye que las teorías más esquemáticas encuentran una relación 
+inversamente proporcional  entre corrupción y democracia. Sin embargo, una teoría mejor elaborada 
+sostendría que la relación no es lineal sino acampanada. Es decir, que las democracias 
+"institucionalizadas" tienden a mostrar menores indicadores de corrupción.  
+1.6. LEGITIMIDAD Y PARTIDOS  POLÍTICOS  
+Una de las consecuencias más evidentes de la corrupción política es la pérdida de legitimidad ante el 
+pueblo que padecen los gobiernos con problemas de corrupción (Rose -Ackerman, 1996b; Gray y 
+Kaufmann, 1998; Seligson, 2002). No sorprende demasi ado que el estudio cuantitativo realizado por 
+Lederman (2001) encontrara evidencia que destaca la importancia del ejercicio de las instituciones 
+políticas en la determinación del nivel de corrupción. Los resultados del trabajo afirman que la 
+democracia, lo s sistemas políticos parlamentarios y la estabilidad política están directamente 
+relacionados con bajos índices de corrupción.  
+Por otra parte, según Caciagli (1996), la falta de alternancia de partidos políticos o de coaliciones de 
+partidos puede disminuir  el temor al castigo de los funcionarios; así también el prolongado ejercicio 
+del poder y la instancia del nombramiento de ciertos cargos muy influyentes pueden generar ocasiones 
+de corrupción. Por otro lado, el aumento de los miembros de los partidos polí ticos hace más altos los 
+costos de la política, lo que da lugar a una mayor necesidad de obtener recursos. Peces Barba (1996), 
+directamente responsabiliza a la crisis de identidad de los partidos políticos de la crisis de 
+representación y participación pol ítica.  
+Ahondando en esta línea, Trujillo (2002) señala que junto a los partidos políticos y sus funcionarios, 
+también pierde legitimidad la cuestión política en sí, es decir, la política como realidad. También 
+Tanzi (1998) indica el descrédito que sufre la  democracia como sistema político en la medida en que 
+la corrupción se va instalando en una sociedad. Por esto mismo, el cargo de funcionario público pierde 
+el reconocimiento positivo del pueblo y su status  se degrada. Las consecuencias de esta pérdida de 
+legitimidad son de largo y profundo alcance. Por un lado, el cargo público se convierte en una 
+vocación poco deseada y entre aquellos que aún quieren ocupar cargos públicos cabe esperar una 
+buena cantidad de hombres sin escrúpulos. Por otro lado, la carrer a política deja de considerarse como 
+una vocación de servicio, para convertirse más bien en un ámbito donde pueden obtenerse beneficios 
+personales muy redituables.  
+Según Amundsen (1997), la corrupción política implica la manipulación de las instituciones p olíticas y 
+las reglas de procedimiento en favor del beneficio privado. De esta manera, distorsiona las 
+instituciones del gobierno, desviando los valores que constituyen al Estado Moderno, imponiendo un 
+escenario de decadencia institucional. El problema bás ico de la corrupción política es la falta de 
+voluntad política para enfrentar el problema ya que quienes poseen el poder político no pretenden 
+cambiar un sistema del cual son los principales beneficiarios. Ante este hecho, diversos autores han 
+afirmado que  la falta de competencia en la carrera pública está relacionada con altos índices de 
+corrupción.  13 
+ 1.7. CORRUPCIÓN ORGANIZACIONAL  
+Por sistema de corrupción institucionalizada Suárez entiende a “las estructuras y los procesos que con 
+el tiempo se instalaron en la  sociedad como modalidades corrientes de lograr de manera continua 
+beneficios personales a expensas de un bien público”. Nos encontramos entonces ante organizaciones 
+cuyas estructuras favorecen el aprendizaje de la operatoria de la corrupción; organizacion es todas con 
+cierta forma legítima que directa o indirectamente ofrece un velo para la impunidad. Estas 
+organizaciones poseen además una forma de coerción, no necesariamente violenta, que desalienta a 
+aquellos que intentan denunciar el fenómeno corrupto. P or último, la corrupción organizacional se 
+arraigaría en la tendencia de supervivencia corporativa13. Es interesante señalar que el proceso de 
+corrupción que gradualmente va admitiendo nuevos miembros se constituye para éstos en garantía de 
+recursos, status  o bienes personales.  
+Además, Suárez (1998) encuentra dos elementos actitudinales que facilitan el afianzamiento de la 
+corrupción organizacional: la llamada “moral de frontera14” y las “técnicas de neutralización15”.  
+Desde otro punto de vista, Etkin (1993),  sostiene que la corrupción es una de las notas de la naturaleza 
+contradictoria de las instituciones humanas. Dicha contradicción tiene origen en la complejidad que 
+generan los distintos factores que componen a toda organización. Un ejemplo de esta contrad icción 
+está en que nos encontramos en la realidad con organizaciones que formalmente respetan el marco 
+legal vigente pero que cometen acciones corruptas "perversas". Otro ejemplo nos viene dado por el 
+ámbito empresarial en el cual optimizar un área de trab ajo implica siempre un costo para otra área. 
+Aún si se intentan homogeneizar los efectos de una acción sobre las distintas áreas de la empresa, 
+chocamos con la tendencia "natural" que experimentan los diversos actores organizacionales, de 
+padecer los cambi os desigualmente.  
+1.8. CORRUPCIÓN  Y JERARQUÍA  
+Husted (1999) ha investigado la relación entre las diversas formas de jerarquía  y el nivel de 
+corrupción. El autor considera que las organizaciones verticalmente jerarquizadas, inhiben el 
+desarrollo de una cultura  cívica participativa, factor determinante en el control de la corrupción. Una 
+de las variables más importantes de su estudio, “Distancia del Poder”, es definida como “la medida en 
+que los miembros menos poderosos de las instituciones y organizaciones dent ro de un país esperan y 
+aceptan que el poder esté distribuido desigualmente”. En esta línea, Lambsdorff (1999c) sostiene que 
+la baja accesibilidad a personas de mayor jerarquía es también causa de la corrupción. Es decir que 
+cuanto más grande es la distanc ia administrativa, psíquica y real entre un ciudadano común y la 
+autoridad, tanto mayor es el riesgo de corrupción. Desde la mayoría de las investigaciones, brota 
+nuevamente la necesidad de una participación política fluida, secundada por instituciones que  oficien 
+de intermediarias entre las distintas partes de la sociedad para realizar una política anticorrupción.  
+1.9. LA FALTA DE TRANSPARENCIA EN LA INFORMACIÓN  
+La mayor parte de los trabajos sobre corrupción destacan como una de sus causas más nocivas a la 
+falta de transparencia informativa; de hecho, hablan de la “opacidad de la información”. Tal opacidad 
+comprende a las distintas actitudes morales y estructurales que tergiversan la reproducción fiel de la 
+                                                      
+13 Desde la filosofía práctica realista tenemos la noción de que las organizaciones que el hombre crea, tienden a buscar su 
+supervivencia. En este sentido, es interesante la obra de Gareth Morgan "Imágenes de la Organización " en la que considera 
+éste principio desde una metáfora biológica y orgánica.  
+14 Según Sutherland (1966), la denominada “moral de frontera” es la responsable de ir corriendo los límites normativos, 
+favoreciendo una mayor permisividad social a través de expr esiones falaces que son psíquicamente sugestivas pero realmente 
+sin fundamento. (“El lavado de dinero ingresa capitales al país por lo que, en última instancia, es beneficioso para el mismo ”, 
+“No controlemos la facturación de esa empresa ya que deja grande s retornos en impuestos”).  
+15 David Matza (1957), por su parte, desarrolló las llamadas “técnicas de neutralización”. Éstas serían las vías a través de las  
+cuales los criminales racionalizarían sus actos, justificándolos finalmente. Los actores de la corrup ción tienden a justificar sus 
+acciones en tres grupos de generales de argumentos, a saber:  
+a) Justifican su inocencia en que las leyes que los juzgan son tan criminales como ellos.  
+b) Niegan haber quebrantado una ley ya que ésta es injusta y por ende, inv álida.  
+c) Justifican su accionar en que todos lo hacen.  14 
+ realidad. Algunos autores interpretan esta opacidad co mo consecuencia de una crisis anterior de la 
+libertad de expresión (Peces Barba, 1996). Muchos investigadores consideran que los medios de 
+comunicación actuales desvirtúan su vocación de asistir en la formación de opinión ya que exponen 
+mentiras o noticias  no confirmadas, y orientan sus esfuerzos en la creación de valores que pueden ser 
+engañosos.  
+Brunetti y Weder (1999), concluyen que la prensa independiente puede tener un fuerte papel de 
+control de la corrupción. Por ejemplo, en el caso de la Federación Rusa, una prensa independiente que 
+velara por la transparencia, incentivaría una reducción de la corrupción hacia nivel de Austria; para 
+Turquía del Reino Unido; y para Nigeria el nivel de Francia.  
+Por otra parte, Reos (2002) afirma que el acceso a la inf ormación sobre las acciones del gobierno es 
+parte fundamental del carácter democrático de una sociedad. Esta información tiene el carácter de un 
+bien público, es decir, un bien de todos y del que todos son responsables en la proporción en que 
+incidan sobre  dicho bien. Como tal bien público, tiene las cualidades de no -exclusión y no -rivalidad16.  
+1.10. INEFICIENCIA EN LOS CONTRATOS17 
+Según Rose -Ackerman (1996b), los sobornos realizados a funcionarios por parte de los potenciales 
+contratistas hacen que los contratos,  tanto del gobierno como de las empresas estatales privatizadas, no 
+sean asignados al contratista más eficiente sino al dispuesto a un soborno más alto. Las causas de la 
+consiguiente ineficiencia en el ejercicio de la labor del contratista son muchas: el c ontratista más 
+eficiente puede sentir escrúpulos de participar de prácticas fraudulentas y por ello abstenerse de 
+participar en la licitación; aquel que asume el pago de un soborno esperará obtener subsidios, 
+beneficios monopólicos y regulaciones cada vez menos estrictas; los proyectos pueden volverse más 
+complejos y difíciles de realizar ya que así es más fácil disimular los sobornos; para compensar el 
+pago del soborno el adjudicatario puede bajar la calidad de su servicio o la calidad de los materiales a 
+utilizar para realizar la obra; los procesos pueden demorarse a drede para obtener aún mayores pagos 
+de coimas.  
+Según Tanzi (1998), la corrupción económica tiene un impacto negativo en la calidad y productividad 
+de la inversión pública. También Mauro (199 7) señala que la corrupción origina una merma de las 
+inversiones públicas reales.  
+Desde otro punto de vista, Gray y Kaufmann (1998) y Busse (1996) han señalado que en el marco de 
+una economía con señales de corrupción, existe un aumento de los costos de t ransacción para el sector 
+privado causado no sólo por los sobornos sino también por las demoras intencionales para llevar 
+adelante los proyectos empresariales. En esta misma línea, la Encuesta de Competitividad Global del 
+Foro Económico Mundial de 1997 dem uestra que las empresas que pagan sobornos pasan más tiempo 
+en reuniones y negociaciones con funcionarios públicos, reportando un costo más alto del capital de la 
+empresa. Tanzi (1998) se vale de ésta encuesta para desarrollar su investigación y concluir e n los 
+mismos resultados que Gray y Kaufmann y Busee.  
+Por otra parte, Gupta y Davoodi (1998), además de concluir que la corrupción engendra la disparidad 
+de ingresos (a partir del estudio del coeficiente de Gini en varios países), afirman también que la 
+educación y la distribución de la tierra se ven igualmente afectadas por éste fenómeno. En esta misma 
+línea, la investigación Mauro (1997) encontró evidencia de que el gasto en educación, salud y áreas de 
+mantenimiento y operaciones, se ve reducido por la pr esencia de corrupción, ya que en éstas áreas es 
+más difícil que quienes toman las decisiones presupuestales puedan obtener una “rebanada de la torta”.  
+                                                      
+16 Por no -exclusión se entiende que este bien público es tal que no puede excluirse a nadie de su uso o aprovechamiento. La 
+nota de no -rivalidad significa que el bien público en cuestión puede ser comp artido por otros en iguales o diversas 
+proporciones sin perjuicios para ninguna de las partes.  
+17 Es interesante señalar que estudios de caso realizados por distintos autores y reunidos por Rose -Ackerman demuestran que 
+los pagos que se llevan a cabo en los contratos corruptos pueden incrementar los costos y disminuir la calidad de los 
+proyectos públicos de un 30% a 50% (Rose -Ackerman, 1996b).  15 
+ 1.11. CORRUPCIÓN EN LAS FINANZAS PÚBLICAS  
+Reos (2002) sostiene que el efecto fundamental de la corrupción en la recaudación de impuestos es 
+una disminución en los recursos del Estado con relación a lo que la legislación autoriza y los órganos 
+de ejecución del presupuesto han previsto obtener. Las leyes de presupuesto tienen la característica de 
+autorizar un máximo en el monto de los gastos del Estado y estimar un valor de lo que se espera 
+recaudar conforme a la legislación impositiva vigente y el nivel de actividad económica proyectado. 
+Mientras qu e la proyección de la recaudación depende de técnicas estadísticas y de la experiencia 
+económica del país, la autorización de los gastos es efectiva y ésta parte del presupuesto es 
+generalmente alcanzada. De esta manera, cuando las instituciones de recauda ción no cumplen sus 
+metas a raíz de la corrupción de sus funcionarios, el Estado padece un déficit. Éste se cubre a expensas 
+del endeudamiento público, es decir, con obligaciones para futuros presupuestos que conllevan un 
+creciente costo financiero con el transcurso del tiempo.  
+Por otra parte, Reos (2002) afirma que cuando se producen desbalances grandes y continuos en las 
+cuentas del Estado, se generan expectativas negativas en los mercados de capitales internacionales 
+acerca de las perspectivas de estabi lidad económica del país. Las agencias calificadoras de riesgo 
+financiero analizan esos desbalances y los toman en cuenta para establecer el nivel de riesgo de los 
+papeles financieros que el país emite. Ese nivel de riesgo está directamente asociado a las tasas de 
+interés que regirán para el futuro, no solamente para la deuda pública sino también para las deudas de 
+empresas privadas. Más aún, las Calificadoras del riesgo -país toman en cuenta puntualmente la 
+percepción de corrupción al elaborar los informes para los potenciales inversores. Cuando hay una 
+percepción de corrupción generalizada en las instituciones públicas, particularmente las vinculadas a 
+la recaudación impositiva y aduanas, esto anticipa las dificultades que tendrán las autoridades 
+económicas  para alcanzar estabilidad fiscal y, por lo tanto, para mantener o reducir los niveles de 
+endeudamiento.  
+Fons (1999), por su parte, encontró una fuerte relación entre los índices de Transparencia Internacional 
+y las calificaciones del potencial financiero  de Moody´s18 En su trabajo demuestra que aquellos países 
+que experimentan índices negativos según los estándares de Transparencia Internacional, poseen 
+también un elevado riesgo de crédito, con el consiguiente crecimiento de la tasas de interés.  
+1.12. EMPLEO Y SALARIO  
+Evans y Rauch (1996) investigan, en 35 países en desarrollo, el impacto sobre la corrupción que 
+genera la selección de personal basada en estándares de méritos y capacitación. Los autores 
+demuestran que exigir un alto nivel de capacitación exigido a  la hora de emplear a un trabajador 
+(posesión de título universitario en general y el haber aprobado un examen formal para ingresar al 
+empleo público en particular) tiende a reducir el nivel de corrupción en la función pública. En lo que 
+respecta a los sal arios y su relación con la corrupción, el índice de Evans y Rauch señala una tendencia 
+que sugiere que a salarios más altos se registran menores niveles de corrupción.  
+Por otro lado, la investigación de Rijckeghem y Weder (1997) afirma que los bajos salari os obligan a 
+los empleados públicos a cubrir sus necesidades de modo ilícito mientras que si el salario fuera alto, la 
+misma actitud implicaría un mayor peligro en caso de ser descubiertos. Analizando estas variables en 
+28 países, encuentran una importante  influencia negativa de los salarios del sector público (en relación 
+con los del sector privado) y los niveles de corrupción. De acuerdo con los autores, el duplicar los 
+salarios del sector público en un país implicaría una mejora de 2 puntos en el índice de percepción de 
+corrupción de Transparencia Internacional19. Según Acemoglu y Verdier (2000), “con salarios muy 
+bajos todos los burócratas serán corruptos y los oferentes del sector privado recibirán retornos sobre su 
+inversión sólo cuando un funcionario c orrupto sea atrapado”. Mientras que los salarios de la función 
+pública estén por debajo del nivel necesario para incentivar a los burócratas a ser honestos (o al menos 
+para evitar que la corrupción se vuelva algo necesario para ellos), un aumento salarial tan sólo 
+trasladará individuos al sector y provocará una merma en la producción del sector privado. Las 
+                                                      
+18 Moody´s es una de las principales calificadoras para inversionistas en New York. Se dedica a evaluar el riesgo y p otencial 
+de los bancos.  
+19 Haque y Sahay (1996), Ortiz (1997) y Mauro (1998) encuentran evidencia en el mismo sentido de Rijckeghem y Weder.  16 
+ desigualdades de salario entre ambos sectores sólo generan traslado de personal y no resuelven el 
+problema de la corrupción. Mientras que no exista un e scalafón de salarios proporcional entre estas 
+dos áreas, la tentación de cometer ilícitos seguirá latente.  
+1.13. COMERCIO INTERNACIONAL E INVERSIÓN EXTRANJERA  
+La primera investigación de relevancia académica acerca de la relación entre corrupción y comercio 
+internacional corresponde a Hines (1995) quien descubrió una marcada tendencia negativa en las 
+exportaciones norteamericanas hacia países corruptos a partir de 1977. Según Hines como los Estados 
+Unidos adquirieron estándares legales estrictos con respecto a so bornos internacionales luego del ´77, 
+las exportaciones cayeron como fruto de la competencia poco transparente y desleal por parte de los 
+demás países exportadores.  
+Lambsdorff (1999), destacó que la consecuencia más obvia de la corrupción sobre el comercio  
+internacional afecta a los bienes que son importados por el sector público. El grado de corrupción 
+entre los funcionarios públicos y los políticos define en la práctica qué competidor tiene más 
+posibilidades de acceder a un contrato20. Su investigación inc luye en la muestra a los 18 mayores 
+exportadores del mundo y a sus 106 principales importadores. En las conclusiones de su trabajo y sin 
+tener en cuenta los idiomas comerciales, la distancia geográfica, la composición de las exportaciones 
+ni los bloques co merciales, Lambsdorff señala que Suecia, como reflejan las percepciones 
+empresariales, está muy poco relacionada con exportaciones corruptas. Sin embargo, esto no quiere 
+decir que no puedan existir en Suecia empresas que incurran en prácticas corruptas par a exportar. Pero 
+es de suponer que esto pueda suceder en una medida mucho menor que en otros países tales como 
+Italia, Bélgica, Luxemburgo y Francia; todos países que muestran un marcado índice negativo en lo 
+que hace a corrupción y comercio internacional.  
+Por otra parte, Wei (1997) sostiene, a partir de un estudio basado en signos econométricos de 100 
+países, que la corrupción generalmente desalienta la inversión extranjera directa. En esta línea, la 
+investigación de Mauro (1995) arroja resultados signific ativos: los países corruptos alcanzan un 5% 
+menos de inversión extranjera que los países no corruptos.  
+ 
+EGOÍSMO / INDIVIDUALISMO .  
+Este punto es especialmente sensible, dado que cierto individualismo extremo que no se concibe como 
+parte de un todo social y  para quienes en aras de una "razón individual" buscan estrategias de 
+maximización de sus beneficios sin importar los costos que se le ocasiona a otros. Estas acciones 
+suelen ser el mejor incentivo para la búsqueda de "atajos" para lograr los objetivos ind ividuales que, 
+muchas veces suelen adoptar a la corrupción como estrategia. Según Malem Seña (2000) en un 
+sistema en que los individuos miden su éxito en la vida por la acumulación individual de riquezas o 
+poder, el "atajo" suele ser el camino adoptado por  aquellos que se sienten fuera de la carrera.  
+Todos estos elementos, creemos, que interactúan de una forma sistémica y permiten o impiden el 
+funcionamiento de la corrupción. Con lo cual para proponer una estrategia contra la corrupción, 
+creemos que deben t enerse en cuenta los múltiples elementos que interactúan y el tipo de relaciones 
+que se establece entre ellos. La estrategia de atacar a los "grandes corruptos" tiene un efecto escaso si 
+no se combate el "sistema" o incentivos que los generan. Por otro lad o, estimamos que los factores 
+culturales son uno de los condicionantes de mayor peso para un eficaz combate de la corrupción.  
+ 
+1.14. CORRUPCIÓN Y CONFIANZA  
+Francis Fukuyama (1995) sostiene que el bienestar de una nación, así como su habilidad para competir 
+en el  mundo, está condicionado por una única característica cultural que es permeable a toda la 
+                                                      
+20 Esto motiva, por ejemplo, que los permisos portuarios puedan ser falsificados, los trámites de nacionalización ev itados, las 
+normas de calidad desatendidas y los contratos concedidos a los exportadores/importadores dispuestos a pagar sobornos más 
+altos. 17 
+ comunidad política: el nivel de confianza inherente en la sociedad. Niveles altos de confianza están 
+directamente relacionados con bajos costos administrativos y una  marcada confiabilidad institucional. 
+Una sociedad con fuertes lazos de confianza interpersonal generará transitivamente instituciones 
+confiables. En éstas condiciones, se vuelve innecesario un control sofocante de los agentes 
+gubernamentales.  
+Por otra pa rte, Fukuyama (1995) considera que las desventajas que experimentan las sociedades con 
+bajos niveles de confianza son fundamentalmente dos:  
+a) Corrupción y comercio condicionado por influencias corruptas.  
+b) Organizaciones poco representativas e ineficient es. 
+Adentrándose en la problemática de la confianza, Piotr Sztompka (1997) afirma que la medida de la 
+confianza que los hombres tienen en sus pares y en las instituciones depende de tres elementos:  
+“La confianza reflejada” de modo más o menos racional ent re hombres e instituciones.  
+“La confianza básica” que surge desde la socialización en la vida familiar y del conjunto de 
+experiencias en las que se ha confiado en otros.  
+“La cultura de la confianza” que atraviesa las raíces de la sociedad generando un ma rco normativo 
+para cada individuo.  
+En base a ésta distinción, Sztompka señala las características de una “Cultura de la Confianza” y una 
+“Cultura de la Desconfianza”. Cada nota intenta describir las consecuencias que una y otra cultura 
+ejercen sobre la soc iedad:  
+ 
+Cultura de la Confianza  Cultura de la Desconfianza  
+Libera y moviliza el obrar humano: estimula la 
+creatividad, desinhibición y emprendimiento.  Paraliza el obrar humano, induciendo 
+conductas conformistas, pasivas o meramente 
+adaptativas.  
+Estimula la sociabilidad y la participación con 
+otros, enriqueciendo de este modo la red de 
+lazos interpersonales.  Erosiona el capital social, atomizando la red 
+de relaciones interpersonales.  
+ 
+Estimula la tolerancia.  Favorece actitudes defensivas, hostiles y 
+preju iciosas.  
+Refuerza los vínculos del individuo con la 
+comunidad (familia, nación, iglesia) 
+contribuyendo al sentimiento de identidad y 
+generando lazos colectivos solidarios  Aliena al individuo incitando la búsqueda de 
+identidades alternativas.  
+Reduce los c ostos de transacción y aumenta 
+las oportunidades de cooperación. La 
+confianza preserva una considerable cantidad 
+de energía social que de otro modo sería 
+invertida en controles.  Aumenta los costos de transacción dada la 
+constante necesidad de vigilar al ot ro. 
+A continuación analizaremos la cuestión de las transiciones, las crisis y los cambios y su vinculación 
+con la corrupción.  
+ 
+TRANSICIONES , CRISIS Y CAMBIOS  
+1.15. DEMOCRACIAS INCIPIENTES  
+Según Leys (1970), los Estados nacientes son más permeables a la corrupción debido a que poseen 
+una constitución de la propia identidad joven y, por lo tanto, no existe una idea orgánica de interés 18 
+ nacional. En estos nuevos Estados existen reglas que aún n o han sido internalizadas, por lo cual su 
+violación muchas veces no es considerada como algo grave.  
+Por su parte, Weyland (1998) señala que la corrupción registraría niveles más altos en las democracias 
+emergentes de regímenes autoritarios, especialmente en Latinoamérica. Para justificar esta afirmación 
+el autor se vale de tres causas fundamentales:  
+a) La democracia tiene “más manos que aceitar”.  
+b) Las privatizaciones de las empresas estatales son una inmejorable ocasión para obtener cuantiosos 
+réditos ilegales.  
+c) Los líderes populistas se valen de su propio carisma y del ímpetu de la ciudadanía para obtener 
+beneficios personales.  
+Desde otro punto de vista, Brunetti y Weder (1998c) investigaron el impacto de la democracia sobre el 
+nivel de corrupción e n Corea del Sur, Paraguay y Bolivia a lo largo de los últimos años. Utilizando 
+series de tiempo para el nivel de democracia en dichos países y, considerando que los tres habrían 
+encarado el desarrollo de un Estado democrático recién en la segunda mitad del  siglo pasado, los 
+autores encuentran un descenso en el nivel de corrupción. Sin embargo, a la hora de estudiar desde 
+esta misma óptica a las ex Repúblicas Soviéticas de Europa del Este, las conclusiones son ambiguas o, 
+al menos, poco demostrativas. Por úl timo, el estudio demuestra que los indicadores que consideran la 
+"posibilidad de los ciudadanos para combatir a la corrupción mediante el control y la participación 
+política", son notablemente determinantes en los resultados finales de las muestras.  
+Paldam  (1999a), por el contrario, demostró que si bien la relación entre democracia y corrupción es 
+significativa, pierde valor en el momento en que el PBI per capita entra en la ecuación. El autor 
+concluye que el efecto de la democracia con respecto al fenómeno  de la corrupción es, al menos, 
+ambiguo.  
+Si bien Treisman (2000) coincide con Paldam (1999a) en juzgar ambiguo al resultado del citado índice 
+de democracia y corrupción; sin embargo, a partir de una muestra de 64 países encuentra una débil 
+pero marcada te ndencia en contra de la corrupción en aquellas democracias de más de 50 años. 
+Aparentemente, si bien el grado momentáneo de democracia no es determinante en la lucha contra la 
+corrupción, sí resulta significativo con el paso del tiempo.  
+1.16. ECONOMÍAS INCIPIEN TES 
+Según Pranab (1997), en la medida en que la economía se expande volviéndose más compleja, los 
+funcionarios públicos encuentran más oportunidades para obtener dinero a partir de sus propias 
+decisiones, las cuales ya van más allá que mantener la ley, el orden y cobrar los impuestos a la renta.  
+El proceso de transformación de un gobierno totalitario hacia una democracia nos había enseñado los 
+diversos ámbitos fértiles para la corrupción. De modo análogo, la transformación económica que 
+sufren estos países  da lugar a prácticas originales de corrupción. Por ejemplo, Europa del Este, China 
+y Vietnam han experimentado el paradójico crecimiento conjunto de la corrupción y del ingreso per 
+capita. Por un período considerable de tiempo, la transformación económica  se apoyó en los dos 
+modelos: parte de la producción estaba todavía sujeta a precios fijos mientras que el resto de los 
+productos eran vendidos a precios que determinaba el mercado (Pranab, 1997).  
+Por su parte, Andvig (2000), también considera que los esce narios de transformación económica son 
+particularmente permeables a la corrupción. “La transición desde economías tradicionales basadas en 
+los lazos familiares así como de las economías centralmente planificadas hacia una economía 
+capitalista es más comple ja que lo que la mayoría de los científicos sociales pensaban hace una 
+década”. El autor afirma que la corrupción surge en momentos en que las sociedades se hallan faltas 
+de lazos de confianza fuertes y carentes de un economía creciente y sustentable.  
+1.17. CRISIS MACROECONÓMICAS  
+En países como Albania, Bulgaria y algunos del Este Asiático, las prácticas corruptas en las 
+negociaciones por créditos y, en general, los esquemas financieros poco transparentes parecen haber 
+contribuido a las grandes crisis económicas de esas regiones (Tanzi, 1998). A este ejemplo puede 19 
+ sumarse la reciente crisis Argentina, donde la corrupción parece no sólo haber sido un factor 
+determinante de la crisis sino también de las dificultades que padece el gobierno para recuperar la 
+credibili dad ante el pueblo (Trujillo, 2002).  
+Según Reos (2002), un aspecto muy importante de la última década ha sido el aumento de la 
+volatilidad de los flujos internacionales de capital que afectó y sigue afectando a las economías de 
+muchos países, especialment e aquellos en vías de desarrollo. A la vez, se ha demostrado 
+empíricamente que la composición de los flujos internacionales de capital está relacionada con la 
+aparición de estadios de crisis macroeconómicas de volatilidad financiera. Así, cuanto menor es l a 
+proporción de Inversión Extranjera Directa (IED) en el total de las entradas de capital, tanto más 
+probable es la explosión de una crisis financiera a gran escala.  
+ 
+CONCLUSIONES  
+ 
+Las condiciones estructurantes del fenómeno de la corrupción llamarían nuestra atención sobre la 
+conjunción de ciertos factores. Allí donde haya abuso de poder, grandes distancias sociales, 
+individualismo extremo, baja calidad institucional, transiciones d e todo orden y crisis, encontraremos 
+las condiciones que favorecen la corrupción. Con esto no queremos simplemente mostrar que son las 
+condiciones externas las que permiten el fenómeno, sino que básicamente la corrupción es un 
+problema profundamente humano , que no sólo se reproduce en los sistemas sociales, sino en el 
+corazón de los hombre s. Por ello, para tener una mirada completa, hace falta tener en cuenta las 
+condiciones externas y las internas de cada individuo.  
+Por otra parte, creemos haber demostrado  que la corrupción funciona como un sistema con incentivos, 
+reglas y lógicas que le son propias. Una buena estrategia anticorrupción deberá obligadamente 
+contemplar las ideas de sistema, adaptabilidad y condiciones humanas.  
+El intentar una mirada interdisc iplinaria sobre la corrupción, contribuye a lograr una perspectiva más 
+acabada de un fenómeno complejo. Por ello creemos que los intentos de conceptuar y combatir la 
+corrupción, deben inscribirse dentro de amplios marcos teóricos interdisciplinarios acompa ñados de 
+estrategias “inteligentes” que no caigan en una demonización simplificadora, sino en la búsqueda de 
+acciones que se apoyen tanto en el plano de las condiciones materiales, institucionales y normativas 
+como en las cuestiones simbólicas.  
+El proceso de racionalización que fuera profundamente estudiado por Max Weber (1974), parece 
+darnos una buena pista para una agenda de investigaciones futuras. El pensamiento weberiano 
+pretendió estudiar la influencia de ciertos valores subjetivos sobre el comportami ento humano, para 
+desde allí explicar una cierta racionalidad orientada a fines. Por ello es fundamental distinguir entre 
+“comportamiento corrupto” y “mentalidad corrupta”.  
+Cuando dirigimos nuestra mirada al comportamiento, lo hacemos hacia los “hechos so cialmente 
+observables” pero dejamos de lado la dimensión subjetiva de “la mentalidad corrupta” que está fincada 
+en algún disvalor social que se autorreproduce. Toda nueva agenda de investigación y de acción, que 
+pretenda focalizar sobre la corrupción, tien e que tener en cuenta -desde una perspectiva 
+multidisciplinaria - el abordaje del “valor” social que fundamenta y explica la subjetividad humana. Un 
+comportamiento corrupto no siempre es, necesariamente un reflejo de una mentalidad corrupta, sino 
+que puede ser perfectamente una adaptación racional a ciertas situaciones concretas o a un sistema 
+perverso de incentivos. La correcta comprensión de las “creencias” que están arraigadas en el plano de 
+la subjetividad humana es el mejor sendero para la reflexión o l a acción aplicada.  20 
+ BIBLIOGRAFÍA  
+Acemoglu, D. y Verdier, T. (2000) “The Choice Between Market Failures and Corruption”. The American 
+Economic Review, 194 -211. 
+Ades, A. y Di Tella, R. (1996) “The Causes and Consequences of Corruption: a Review of Recent Emp irical 
+Contributions” en Harris -White, B y White, G. (Eds.) Liberalization and the New Corruption . Institute 
+of Development Studies Bulletin, XXVII, 6 -12, Brighton.  
+Amundsen, I. (1997) “In Search of a Counter -Force. State Power and Civil Society in the Str uggle for 
+Democracy in Africa”. Unpublished Ph. D. Thesis. Tromsø Institute of Social Science, University of 
+Tromsø . 
+Amundsen, I. (1999) “Political Corruption: An Introduction to The Issues”. Working Paper 99:7, Michelsen 
+Institute . 
+Andvig, J. y Odd -Helge,  F. (2000) “Research on Corruption: A Policy Oriented Survey”. Michelson Institute y 
+Norweigan Institute of International Affairs . Oslo.  
+Blutman Gustavo - Doberti Juan (2003) "Japón y Argentina: una comparación sobre sus recursos humanos y sus 
+Reformas de Estado". mimeo  
+Brunetti, A. y Weder, B. (1999) “A Free Press is Bad News for Corruption”. Revised Version, 
+Wirtschaftswissenschaftliches Zentrum der Universität Basel.  
+Brunetti, A. y Weder, B. (1998c) “Explaining Corruption”. University of Saarland and Uni versity of Basel.  
+Busse, L. (1996) “The Perception of Corruption: A Market Discipline Approach”. Emory University.  
+Caciagli, M. (1996) “Clientelismo, Corrupción y Criminalidad Organizada”. Centro de Estudios 
+Constitucionales, Madrid.  
+Cortina, A., Peces Bar ba, G., Velasco, D., Zarzalejos, J. A. (1996) “ Corrupción y Ética ”. Cuadernos de Teología 
+Deusto, N° 9, Ed. Artes Gráficas Rontegui, Bilbao.  
+Doig, A. y Theobald, R. (2000) Corruption and Democratization ., Ed. Frank Cass, London  
+Estévez, A. y Maringi G. (20 03) “Corrupción y Cultura Política: un estado de la cuestión”, Documentos de 
+Trabajo, Departamento de Investigación Institucional UCA , Buenos Aires.  
+Etkin, J. (1993) La Doble Moral de las Organizaciones: Los Sistemas Perversos y la Corrupción 
+Institucional izada . Editorial Mac Graw Hill, Madrid.  
+Evans, P. y Rauch, J. (1996) “Bureaucratic Structures and Economic Performance in Less Developed Countries”, 
+University of San Diego.  
+Fons, J. (1999) “Improving Transparency in Asian Banking System”. Transparency In ternational.  
+Friedrich, C. (1989) “Corruption Concepts in Historical Perspectives” en Heidenheimer (Eds.) Political 
+Corruption. A Handbook ., Ed. Transaction Publishers, New Brunswick  
+Fukuyama, F. (1995) Trust: The Social Virtues and the Creation of Prosperity . Free Press Editions, New York.  
+Gupta, S., Davoodi, H., Alonso -Terme, R. (1998) “Does Corruption Affect Income Inequality and Poverty?” 
+International Monetary Found Working Paper, 98/76 , Washington.  
+Habermas, J. (1998) "¿Aprendemos de las Catást rofes? Diagnóstico y Retrospectiva de Nuestro Breve Siglo 
+XX". Ensayo de Jürgen Habermas leído en la universidad de Magdeburgo. Extractado de la revista 
+Nexos  y copiado de El Mercurio.  
+Haque, N. y Sahay, R. (1996) “Do Government Wage Cuts Close Budget Deficits? Costs of Corruption.” 
+International Monetary Found Staff Paper s, 43, 4: 754 -778, Washington.  
+Hines, J.R. (1995) “Forbidden Payment: Foreign Bribery and American Business after 197 7”. National Bureau 
+of Economic Research Working Paper 5266, Cambridge.  
+Hope, K. (2000) “Corruption and Development in Africa” en Kempe Ronald Hope y Bornwell Chikulu (Eds.) 
+Corruption and Development in Africa. Lessons From Country Case -Studies , St. Marti ns Press, New 
+York.  
+Husted, B. (1999) “Wealth, Culture and Corruption ”. Journal of International Business Studies, XXX, 339 -360. 
+Kaufmann, D. y Hellman, J. (2001) “Confronting the Challenge of the State Capture in Transition Economies”. 
+Finance and Develop ment, Vol. 38, N° 3 . 
+Lambsdorff, J. (1999a) “Corruption in International Research - A Review”. Göettingen University Working 
+Paper . Göettingen.  
+Lambsdorff, J. (1999c) “Exporter´s Propensity to Pay Bribes”. Göettingen University Working Paper , 
+Göettingen  
+Lederman, D. (2001) “Accountability and Corruption: Political Institutions Matter”. University of Chicago.  21 
+ Leys, C. (1970). "What is the Problem About Corruption?" en Heidenheimer, A. J. (Ed.) Political Corruption: 
+Readings in Comparative Perspective ., Ed. H olt, Rinehart and Winston, New York.  
+Little, W. (1992) “Political Corruption in Latin America”. Corruption and Reform, Vol. 7, 41 – 66, Kluwer 
+Academic Publishers.  
+Malem Seña, J. F. (2002) La Corrupción: Aspectos éticos, económicos, políticos y jurídicos  Editorial Gedisa, 
+Barcelona.  
+Matza, D. y Sykes, G. (1957) “Techniques of Neutralization: A Theory of Delinquency”. American Sociological 
+Review  22.  
+Mauro, P. (1995) “Corruption and Growth”. Quarterly Journal of Economics. CX, 681 – 712. 
+Mauro, P. (1997) “T he Effects of Corruption on Growth, Investment and Government Expenditure”. 
+International Monetary Found Working Paper, 96/98 , Washington.  
+Mauro, P. (1998) “Corruption: Causes, Consequences and Agenda for Further Research”. Finance and 
+Development, Vol. 35 , N° 1 . 
+Morgan, G. (1999) Imágenes de la Organización , Alfaomega Grupo Editor, Madrid  
+Naim, M. (1995) “The Corruption Eruption“. Brown Journal of World Affair . 
+Ortiz, T. (1997) “Aportes a una Historia de la Corrupción en la Argentina” en Sandler, H. y Rajl and, B. (Eds.) 
+Corrupción, una Sociedad Bajo Sospecha . Editorial La Ley, Buenos Aires.  
+Paldam, M. (1999a) “The Bid Pattern of Corruption. Economics, Culture and the Seesaw Dynamics”. Aarhus 
+University, Denmark.  
+Pranab, B. (1997) “Corruption and Development: A Review of Issues”. Journal of Economic Literature, Vol. 35, 
+Issue 3 . 
+Reos, O. (2002) “Efectos Económicos de la Corrupción”. Documento de la División de Programas de Estado y 
+Sociedad Civi1 . Banco Interameric ano de Desarrollo, Washington.  
+Rijckeghem, C. Van y Weder, B. (1997) “Corruption and the Rate of Temptation: Do Low Wages in the Civil 
+Service Cause Corruption?”. International Monetary Found Working Paper, 97/73, Washington.  
+Rose -Ackerman, S. (1996b) “Th e Political Consequences of Corruption. Causes and Consequences”. World 
+Bank, Note 74 , Washington.  
+Seligson, M. (2002) “The Impact of Corruption on Regime Legitimacy: A Comparative Study of Four Latin 
+American Countries”. The Journal of Politics, Vol. 64, Pp. 408 – 433. 
+Suárez, F. y Gorrochategui, N. (1998) “Corrupción Organizacional: Aspectos vinculados a la Estructura de 
+Oportunidades en Diversos Tipos de Organizaciones y Casos de Corrupción Institucionalizados”. 
+Instituto de Investigaciones Administrativ as de la Facultad de Ciencias Económicas de la Universidad 
+de Buenos Aires . Buenos Aires.  
+Sutherland, E. y Cressey, D. (1966) Principles of Criminology . Ed. Lippincott, Philadelphia.  
+Sztompka, P. (1997) “Trust, distrust and the paradox of democracy”. Centr o Científico de Berlín para la 
+Investigación Social , Berlin.  
+Tanzi, V. y Davoodi, H. (1998) “Corruption, Public Investment and Growth”. International Monetary Found 
+Working Paper, 97/139 , Washington.  
+Tiihonen, Paula (2003) “Good Governance  and Corruption i n Finland” International Institute of Administrative 
+Sciences , Bruxelles.  
+Trujillo Arjona, A. (2002) “La Corrupción Política: Una Revisión de la Literatura”. Universidad Carlos III de 
+Madrid, Documento de Trabajo 02 -14, Madrid.  
+Weber, Max (1974) <1923> Historia Económica General , Editorial Fondo de Cultura Económica, México.  
+ Wei, S. (1997) “How Taxing is Corruption on International Investors”. National Bureau of Economic Research 
+Working Paper 6030, Cambridge.  
+Weyland, K. (1998) “The Politics of Corrupt ion in Latin America”. Journal of Democracy  9, 108 – 21. 

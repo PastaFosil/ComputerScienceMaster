@@ -1,0 +1,1026 @@
+ICC ANTI-CORRUPTION 
+CLÁUSULA ICC  
+CLAUSE
+CONTRA LA CORRUPCIÓN
+
+Highlights
+Aspectos destacados
+
+  Clause to be included in contracts whereby parties commit to complying 
+ Cláusula  a  incluir  en  los  contratos  en  que  las  partes  se  comprometen  a 
+cumplir  las  Reglas  de  ICC  para  combatir  la  corrupción  o  a  instaurar  y 
+with ICC Rules on Combating Corruption or commit to put in place and 
+mantener un programa corporativo de cumplimiento contra la corrupción
+maintain a corporate anti-corruption compliance programme
+
+ Ayuda a mantener la confianza entre las partes y evita la corrupción tanto 
+  Helps preserve trust between parties and prevents corruption in both the 
+
+en la negociación como en el cumplimiento de los contratos
+negotiation and performance of contracts
+
+Elaborada por la Comisión de ICC de 
+Prepared by the ICC Commission on Corporate 
+Responsabilidad Empresarial y contra la 
+Responsibility and Anti-corruption, and the 
+Corrupción, y la Comisión de ICC de  
+Commission on Commercial Law and Practice
+Derecho y Prácticas Mercantiles
+
+© 2012, Cámara de Comercio Internacional (ICC)
+
+ICC posee todos los derechos de copyright y de propiedad intelectual de esta obra colectiva 
+y fomenta su reproducción y difusión, especialmente en contratos. 
+
+Si esta Cláusula ICC contra la corrupción se publica total o parcialmente en un lugar diferente 
+de un contrato:
+
+• ICC debe citarse como fuente y titular del copyright mencionando el título del documento, 
+
+y © Cámara de Comercio Internacional (ICC).
+
+• Debe obtenerse autorización expresa por escrito para cualquier modificación, adaptación 
+o  traducción,  para  cualquier  uso  comercial  o  para  cualquier  uso  que  implique  que  otro 
+organismo o persona es el origen de la obra o está asociado con ella.
+
+• La obra no puede reproducirse ni facilitarse en sitios web excepto mediante un enlace a la 
+
+página web pertinente de ICC.
+
+El permiso puede solicitarse a ICC en esta dirección: ipmanagement@iccwbo.org.
+
+Publicación ICC núm. 740 
+ISBN:
+
+CONTENIDO
+
+Prólogo ..............................................................................................................................................1
+
+Nota introductoria sobre la aplicación y el propósito general y estructura de la Cláusula 3
+
+Cláusula ICC contra la corrupción .......................................................................................................................... 5
+
+A. Opción I. Incorporación por remisión de la Parte I de las Reglas de ICC para combatir 
+la corrupción, de 2011 ..................................................................................................................... 5
+
+Párrafo 1 ............................................................................................................................................................................... 5
+Párrafo 2 .............................................................................................................................................................................. 5
+Párrafo 3 .............................................................................................................................................................................. 5
+Párrafo 4 .............................................................................................................................................................................. 5
+
+B. Opción II. Incorporación completa de la Parte I de las Reglas de ICC para combatir la 
+corrupción, de 2011 .........................................................................................................................6
+
+Párrafo 1 ...............................................................................................................................................................................6
+Párrafo 2 ..............................................................................................................................................................................6
+Párrafo 2.1 ............................................................................................................................................................................6
+Párrafo 2.2 ........................................................................................................................................................................... 7
+Párrafo 3 .............................................................................................................................................................................. 7
+Párrafo 4 .............................................................................................................................................................................. 7
+
+C. Opción III. Referencia a un programa corporativo de cumplimiento contra la 
+corrupción, como se describe en el Artículo 10 de las Reglas de 2011 .................................. 8
+
+Párrafo 1 ............................................................................................................................................................................... 8
+Párrafo 2 .............................................................................................................................................................................. 8
+Párrafo 3 .............................................................................................................................................................................. 8
+
+Comentarios sobre la Cláusula ICC contra la corrupción .........................................................9
+
+Opciones I y II ..................................................................................................................................9
+
+Párrafo 1: Compromiso de no corrupción durante el período precontractual .......................9
+
+1. La Cláusula ICC contra la corrupción tiene como objetivo generar confianza  
+entre las partes .................................................................................................................................................................9
+2. ¿Qué prácticas corruptas cubre el párrafo 1?............................................................................................. 10
+3. ¿Se refiere el párrafo 1 incluso a las más mínimas ventajas indebidas? ........................................ 10
+4. ¿Qué “medidas preventivas razonables” han de instaurar las partes respecto  
+a sus intermediarios? ................................................................................................................................................... 10
+5. ¿A qué circunstancias resulta aplicable el compromiso del párrafo 1? ......................................... 10
+
+Párrafo 2: Compromiso de no corrupción durante el periodo posterior a la ejecución del 
+contrato (periodos contractual y postcontractual) .................................................................. 11
+
+1.  Duración del compromiso entre las Partes de no corrupción ............................................................11
+2.  Disposición del párrafo 2 para la incorporación completa o por remisión ..................................11
+3.  La naturaleza del compromiso de las partes ..............................................................................................11
+
+Párrafo 3: Incumplimiento, acciones correctoras y sanciones ................................................ 11
+
+1. No cumplimiento de la Parte I de las Reglas de ICC.................................................................................12
+2. Acciones correctoras posibles ............................................................................................................................12
+3. Alegación defendiendo la adecuación de las medidas  
+preventivas contra la corrupción ............................................................................................................................12
+4 Pruebas del no cumplimiento ..............................................................................................................................12
+5. Derecho a realizar una auditoría ........................................................................................................................13
+6. Sanciones ......................................................................................................................................................................13
+
+Párrafo 4. Resolución de controversias ..................................................................................... 13
+
+Opción III ........................................................................................................................................ 14
+
+Párrafo 1. Programas corporativos de cumplimiento ............................................................... 14
+
+1. Programas corporativos de cumplimiento, como se describen en el Artículo 10 de las 
+Reglas de ICC .................................................................................................................................................................. 14
+2. Instauración de un programa corporativo de cumplimiento .............................................................. 14
+3. Designación de un representante corporativo cualificado .................................................................. 14
+
+Párrafo 2. Deficiencias en la declaración del representante corporativo cualificado, 
+acciones correctoras y sanciones ............................................................................................... 14
+
+1. Deficiencias en la declaración del representante corporativo cualificado .................................... 14
+2. Acciones correctoras ...............................................................................................................................................15
+3. Otros comentarios ....................................................................................................................................................15
+
+Párrafo 3: Resolución de controversias ..................................................................................... 15
+
+Anexo I: Parte I de las Reglas de ICC para combatir la corrupción, de 2011 ....................... 16
+
+Anexo II: Artículo 10 de las Reglas de ICC para combatir la corrupción, de 2011 .............. 16
+
+Selección de publicaciones de ICC ............................................................................................ 19
+
+Prólogo
+
+La  Cámara  de  Comercio  Internacional  ha  elaborado,  en  el  transcurso  de  los  años,  un  gran 
+número de contratos y cláusulas modelo. Son documentos que reflejan las mejores prácticas 
+corporativas  internacionales  en  el  ámbito  de  las  transacciones,  que  facilitan  la  negociación 
+empresarial  y  que  mejoran  la  redacción  de  los  numerosos  documentos  contractuales  que 
+tramitan las empresas.
+
+Al  mismo  tiempo,  a  ICC  le  preocupan  los  devastadores  efectos  que  tienen  las  prácticas 
+corruptas  en  el  mundo  empresarial.  Es  evidente  que  la  corrupción  representa  un  obstáculo 
+para establecer las condiciones equitativas que toda empresa desearía ver materializadas, y va 
+en contra del orden público internacional.
+
+Así, ICC publicó en 1977 las Reglas ICC para combatir la corrupción (las “Reglas”), convirtiéndose 
+en  el  primer  organismo  internacional  en  publicar  normas  que  condenaban  todo  tipo  de 
+corrupción y que exhortaban a las empresas a instaurar medidas preventivas para erradicar la 
+corrupción de sus operaciones.
+
+Las  reglas  de  ICC,  de  carácter  voluntario,  se  han  revisado  periódicamente  para  reproducir 
+las  mejores  prácticas  corporativas  y  para  reflejar  las  disposiciones  de  los  instrumentos 
+internacionales  clave  contra  el  soborno,  como  el  Convenio  de  la  OCDE  de  lucha  contra  la 
+corrupción  de  agentes  públicos  extranjeros  en  las  transacciones  comerciales  internacionales 
+(1997) y la Convención de las Naciones Unidas contra la corrupción (2003).
+
+Para  consolidar  los  avances  conseguidos  por  el  colectivo  empresarial  en  sus  prácticas 
+corporativas, las Reglas ICC se redactaron de nuevo en el 2011. La edición de las Reglas de 2011 
+se divide en tres partes: la parte primera incluye las reglas, la segunda se ocupa de las políticas 
+que deberían promulgar las empresas para respaldar el cumplimiento de las reglas, y la tercera 
+propone una lista de elementos para que los programas corporativos de cumplimiento sean 
+eficaces.  Las  Reglas  de  2011  se  han  diseñado  para  que  las  empresas  puedan  aplicarlas  con 
+independencia de su tamaño, tanto si son pequeñas como si son medianas o grandes.
+
+La Cámara de Comercio Internacional considera que su misión no se limita a prescribir normas 
+voluntarias contra la corrupción, y también insta a las empresas a incorporar en sus acuerdos, 
+por completo o por remisión, este tipo de disposiciones, ya sea según las normas básicas de 
+ICC contra la corrupción, relacionadas en la Parte I de las Reglas de 2011, o mediante la adopción 
+de un programa corporativo de cumplimiento, como recomienda el Artículo 10 de estas mismas 
+reglas.
+
+La Cláusula ICC contra la corrupción ayudará a las empresas y a sus asesores a llevar a cabo 
+dicha  referencia  imprescindible,  con  miras  a  generar  confianza  y  evitar  que  sus  relaciones 
+contractuales se vean afectadas por prácticas corruptas.
+
+Jean-Guy Carrier
+
+1
+
+2
+
+Nota introductoria sobre la aplicación y el propósito 
+general y estructura de la Cláusula
+
+La Cláusula ICC contra la corrupción (la “Cláusula”) está concebida para su aplicación en todo 
+contrato que la incorpore, ya sea completamente o por remisión. Aunque se anima a las partes 
+contratantes a incorporar la Cláusula en los contratos por su nombre completo, se prevé que 
+toda referencia en el contrato a la “Cláusula” o a las variaciones conexas se considerará, salvo 
+evidencia en contra, una referencia a la Cláusula ICC contra la corrupción.
+
+El propósito general de la Cláusula es proporcionar a las partes una disposición contractual que 
+les garantice la integridad de sus contrapartes durante la etapa precontractual, mientras dure 
+el contrato e incluso posteriormente.
+
+Hay tres opciones posibles: un breve texto con la técnica de incorporación por remisión de la 
+Parte I de las Reglas de ICC para combatir la corrupción, de 2011, (Opción I); la incorporación 
+en el contrato del texto completo de dicha Parte I (Opción II), o una referencia a un programa 
+corporativo  de  cumplimiento,  como  se  describe  en  el  Artículo  10  de  las  Reglas  de  ICC  para 
+combatir la corrupción (Opción III).
+
+Cuando se opte por las opciones I y II, si una de las partes no cumple sustancialmente o no 
+cumple repetidamente las disposiciones contra la corrupción incorporadas en el contrato, la 
+parte que las incumple tendrá la oportunidad de corregir el incumplimiento. También tendrá 
+la  oportunidad  de  alegar,  en  su  defensa,  que  ha  instaurado  medidas  preventivas  adecuadas 
+contra la corrupción. En ausencia de tales acciones correctoras de la parte que ha incumplido, o 
+si tal acción no es posible y no se invoca eficazmente ninguna defensa, la parte contraria podrá 
+suspender o resolver el contrato a su discreción.
+
+Cualquier entidad, ya sea un tribunal arbitral u otro organismo de resolución de controversias, 
+que  se  pronuncie  de  conformidad  con  las  disposiciones  de  resolución  de  controversias  del 
+contrato,  estará  facultada  para  determinar  las  consecuencias  contractuales  de  cualquier 
+presunto incumplimiento de la Cláusula.
+
+3
+
+4
+
+Cláusula ICC contra la corrupción
+
+A. Opción I. Incorporación por remisión de la Parte I de las Reglas 
+de ICC para combatir la corrupción, de 2011
+
+Párrafo 1
+Las  partes  se  comprometen  a  que,  en  la  fecha  de  entrada  en  vigor  del  contrato,  ni  ellas,  ni 
+sus directores, funcionarios o empleados habrán ofrecido, prometido, entregado, autorizado, 
+solicitado o aceptado ninguna ventaja indebida, económica o de otro tipo (o insinuado que lo 
+harán o podrían hacerlo en algún momento futuro) relacionada de algún modo con el contrato y 
+que habrán adoptado medidas razonables para evitar que lo hagan los subcontratistas, agentes 
+o cualquier otro tercero que esté sujeto a su control o a su influencia determinante.
+
+Párrafo 2
+Las  partes  acuerdan  que,  en  todo  momento  en  relación  con  el  contrato,  y  a  lo  largo  de  su 
+vigencia y posteriormente, cumplirán, y adoptarán medidas razonables para asegurarse de que 
+sus subcontratistas, agentes u otros terceros sujetos a su control o a su influencia determinante 
+también lo hagan, la Parte I de las Reglas de ICC para combatir la corrupción, de 2011, que aquí 
+se incorpora por remisión en el contrato como si se escribiera en el contrato en su totalidad.
+
+Párrafo 3
+Si  una  de  las  partes,  como  resultado  del  derecho  a  realizar  una  auditoría  acordado 
+contractualmente, si lo hubiera, de los libros de contabilidad y los registros financieros de la otra 
+parte, o de otra forma, aporta pruebas de que esta última ha participado en un incumplimiento 
+material o repetitivo de las disposiciones de la Parte I de las Reglas de ICC para combatir la 
+corrupción, de 2011, lo notificará a esta última parte en consecuencia y le exigirá que adopte las 
+acciones correctoras necesarias en un plazo razonable y que le informe de dichas acciones. Si 
+esta última parte no adopta las acciones correctoras necesarias, o si éstas no son posibles, puede 
+invocar su defensa probando que en el momento en el que surgió la prueba del incumplimiento 
+o incumplimientos, había instaurado las adecuadas medidas preventivas contra la corrupción, 
+como se describen en el Artículo 10 de las Reglas de ICC para combatir la corrupción, de 2011, 
+adaptadas a sus circunstancias particulares y capaces de detectar la corrupción y de fomentar 
+una cultura de la integridad en su organización. Si no se adoptan acciones correctoras o, según 
+sea el caso, no se invoca de manera eficaz la defensa, la primera parte puede, a su discreción, 
+suspender  el  contrato  o  resolverlo,  entendiéndose  que  todos  los  importes  contractualmente 
+debidos  en  el  momento  de  la  suspensión  o  la  resolución  del  contrato  continuarán  siendo 
+pagaderos, en la medida en que lo permita la ley aplicable.
+
+Párrafo 4
+Cualquier entidad, ya sea un tribunal arbitral u otro organismo de resolución de controversias, 
+que  se  pronuncie  de  conformidad  con  las  disposiciones  de  resolución  de  controversias  del 
+contrato,  estará  facultada  para  determinar  las  consecuencias  contractuales  de  cualquier 
+presunto incumplimiento de esta Cláusula de ICC contra la corrupción.
+
+5
+
+CÁMARA DE COMERCIO INTERNACIONAL
+
+B. Opción II. Incorporación completa de la Parte I de las Reglas de 
+ICC para combatir la corrupción, de 2011
+
+Párrafo 1
+Las  partes  se  comprometen  a  que,  en  la  fecha  de  entrada  en  vigor  del  contrato,  ni  ellas,  ni 
+sus directores, funcionarios o empleados habrán ofrecido, prometido, entregado, autorizado, 
+solicitado o aceptado ninguna ventaja indebida, económica o de otro tipo (o insinuado que lo 
+harán o podrían hacerlo en algún momento futuro) relacionada de algún modo con el contrato y 
+que habrán adoptado medidas razonables para evitar que lo hagan los subcontratistas, agentes 
+o cualquier otro tercero que esté sujeto a su control o a su influencia determinante.
+
+Párrafo 2
+Las  partes  acuerdan  que,  en  todo  momento  en  relación  con  el  contrato,  y  a  lo  largo  de  su 
+vigencia y posteriormente, cumplirán, y adoptarán medidas razonables para asegurarse de que 
+sus subcontratistas, agentes u otros terceros sujetos a su control o a su influencia determinante 
+también lo hagan, las disposiciones siguientes:
+
+Párrafo 2.1
+Las partes prohibirán las siguientes prácticas en todo momento y en cualquier forma, con relación 
+a funcionarios públicos a nivel internacional, nacional o local, partidos políticos, funcionarios de 
+un partido o candidatos para un cargo político, y directores, funcionarios o empleados de una 
+parte, ya sea que estas prácticas se lleven a cabo de forma directa o indirecta, incluyendo a 
+través de terceros:
+
+a)  Soborno es el ofrecimiento, promesa, entrega, autorización o aceptación de cualquier dádiva 
+monetaria  indebida  o  de  cualquier  otro  beneficio  o  ventaja  para,  a  través  de,  o  llevada  a 
+cabo por cualquiera de las personas listadas arriba, o cualquier otra persona, con el fin de 
+obtener o retener un negocio o cualquier otro beneficio o ventaja inapropiada; por ejemplo, 
+las relacionadas con la adjudicación de contratos de entidades públicas o privadas, permisos 
+regulatorios, asuntos de impuestos, aduanas o procedimientos judiciales y legislativos.
+
+El soborno con frecuencia incluye:
+
+(i) el compartir parte del pago de un contrato adjudicado, ya sea con el gobierno, 
+funcionarios de partidos o empleados de la otra parte contratante, o sus parientes, 
+amigos o socios comerciales o 
+
+(ii) utilizar intermediarios tales como agentes, subcontratistas, consultores u otros 
+terceros, para canalizar pagos al gobierno o funcionarios de partidos, o a empleados 
+de la otra parte contratante, sus parientes, amigos o socios comerciales.
+
+b)  Extorsión  o  instigación  al  delito  es  la  exigencia  de  un  soborno  o  pago,  ya  sea  que  se 
+acompañe  o  no  de  una  amenaza  ante  la  negativa  a  proporcionar  lo  exigido.  Cualquier 
+intento  de  instigación  o  extorsión  deberá  ser  rechazado  por  las  partes  y  se  les  exhorta 
+a  reportar  tales  intentos  a  través  de  los  mecanismos  de  reporte  formales  o  informales 
+que estén disponibles, a menos que tales reportes se consideren contraproducentes bajo 
+circunstancias específicas.
+
+c)  Tráfico de Influencias es el ofrecimiento o requerimiento de una ventaja indebida con el fin de 
+ejercer influencia inapropiada, real o supuesta, sobre un funcionario público, con el objeto de 
+obtener un beneficio o ventaja indebida para el instigador del acto o para cualquier otra persona..
+
+6
+
+d)  Lavado  del  producto  de  las  prácticas  antes  mencionadas  es  el  ocultamiento  o 
+encubrimiento del origen ilícito, de la fuente, ubicación, disposición, movimiento o titularidad 
+de una propiedad, con conocimiento de que tal propiedad es producto del delito.
+
+“Corrupción” o “Práctica(s) Corrupta(s)”, tal como se utiliza en esta cláusula de ICC contra la 
+corrupción, incluye el soborno, la extorsión o instigación al delito, el tráfico de influencias y el 
+lavado de dinero del producto de estas prácticas.
+
+Párrafo 2.2
+En relación a terceros bajo control, o sujetos a determinante influencia de una Parte, incluyendo 
+pero no limitado a agentes, consultores para el desarrollo de negocios, representantes de ventas, 
+agentes  aduanales,  consultores  generales,  revendedores,  subcontratistas,  franquiciatarios, 
+abogados, contadores o intermediarios similares, que actúen a nombre de la Parte en relación 
+con  comercialización  o  ventas,  en  la  negociación  de  contratos,  en  la  obtención  de  licencias, 
+permisos u otras autorizaciones, o en relación con cualquier acción que beneficie a la Parte, o 
+como subcontratistas en la cadena de suministro, las Partes deben instruirles para que no se 
+involucren ni toleren ningún acto de corrupción; no utilizarlos como conducto para cometer 
+algún acto de corrupción; contratarlos solo en la medida necesaria para el desarrollo normal 
+del negocio de la Parte; y no pagarles una remuneración mayor a la apropiada por los servicios 
+que legítimamente le presten.
+
+Párrafo 3
+Si  una  de  las  partes,  como  resultado  del  derecho  a  realizar  una  auditoría  acordado 
+contractualmente, si lo hubiera, de los libros de contabilidad y los registros financieros de la otra 
+parte, o de otra forma, aporta pruebas de que esta última ha participado en un incumplimiento 
+material  o  repetitivo  de  los  Párrafos  2.1  y  2.2  anteriores,  lo  notificará  a  esta  última  parte  en 
+consecuencia y le exigirá que adopte las acciones correctoras necesarias en un plazo razonable 
+y que le informe de dichas acciones. Si esta última parte no adopta las acciones correctoras 
+necesarias, o si éstas no son posibles, puede invocar su defensa probando que en el momento en 
+el que surgió la prueba del incumplimiento o incumplimientos, había instaurado las adecuadas 
+medidas preventivas contra la corrupción, como se describen en el Artículo 10 de las Reglas de 
+ICC para combatir la corrupción, de 2011, adaptadas a sus circunstancias particulares y capaces 
+de detectar la corrupción y de fomentar una cultura de la integridad en su organización. Si no 
+se adoptan acciones correctoras o, según sea el caso, no se invoca de manera eficaz la defensa, 
+la primera parte puede, a su discreción, suspender el contrato o resolverlo, entendiéndose que 
+todos los importes contractualmente debidos en el momento de la suspensión o la resolución 
+del contrato continuarán siendo pagaderos, en la medida en que lo permita la ley aplicable.
+
+Párrafo 4
+Cualquier entidad, ya sea un tribunal arbitral u otro organismo de resolución de controversias, 
+que  se  pronuncie  de  conformidad  con  las  disposiciones  de  resolución  de  controversias  del 
+contrato,  estará  facultada  para  determinar  las  consecuencias  contractuales  de  cualquier 
+presunto incumplimiento de esta Cláusula de ICC contra la corrupción.
+
+7
+
+CLÁUSULA ICC ANTI-CORRUPCIÓNCÁMARA DE COMERCIO INTERNACIONAL
+
+C. Opción III. Referencia a un programa corporativo de cumplimiento 
+contra  la  corrupción,  como  se  describe  en  el  Artículo  10  de  las 
+Reglas de 2011
+
+Párrafo 1
+Las partes han instaurado, en la fecha de entrada en vigor del contrato, o se comprometen a 
+hacerlo poco después, un programa corporativo de cumplimiento contra la corrupción, como 
+se describe en el Artículo 10 de las Reglas de ICC para combatir la corrupción, de 2011, adaptado 
+a sus circunstancias particulares y capaz de detectar la corrupción y de fomentar una cultura 
+de la integridad en su organización.
+
+Las partes mantendrán e implantarán dicho programa al menos durante la vigencia del contrato 
+e informarán con regularidad a la parte contraria sobre la implantación del programa, mediante 
+declaraciones preparadas por un representante corporativo cualificado, nombrado por ellas y 
+cuyo nombre se habrá comunicado a la parte contraria.
+
+Párrafo 2
+Si  una  de  las  partes  aporta  pruebas  de  que  la  declaración  del  representante  corporativo 
+cualificado de la parte contraria contiene deficiencias materiales, que minen la eficiencia del 
+programa de la parte contraria, lo notificará a la otra parte en consecuencia y le exigirá que adopte 
+las acciones correctoras necesarias en un plazo razonable y que le informe de dichas acciones. 
+Si esta última parte no adopta las acciones correctoras necesarias, o si éstas no son posibles, 
+la primera parte puede, a su discreción, suspender el contrato o resolverlo, entendiéndose que 
+todos los importes contractualmente debidos en el momento de la suspensión o la resolución 
+del contrato continuarán siendo pagaderos, en la medida en que lo permita la ley aplicable.
+
+Párrafo 3
+Cualquier entidad, ya sea un tribunal arbitral u otro organismo de resolución de controversias, 
+que  se  pronuncie  de  conformidad  con  las  disposiciones  de  resolución  de  controversias  del 
+contrato,  estará  facultada  para  determinar  las  consecuencias  contractuales  de  cualquier 
+presunto incumplimiento de esta Cláusula de ICC contra la corrupción de 2012.
+
+8
+
+Comentarios sobre la Cláusula ICC  
+contra la corrupción
+
+Opciones I y II
+
+Párrafo 1: Compromiso de no corrupción durante el período precontractual
+
+1. La Cláusula ICC contra la corrupción tiene como objetivo generar confianza en-
+tre las partes
+
+La  integridad  es  un  factor  clave  para  crear  un  entorno  empresarial  que  obtenga  la  máxima 
+rentabilidad y premie las aptitudes y la competitividad. Los mejores resultados de una operación 
+se obtienen cuando la predictibilidad y la confianza prevalecen entre las partes. Luchar contra el 
+soborno y contra otras prácticas corruptas también es vital para proteger a los accionistas, a los 
+contribuyentes y a otras entidades afectadas indirectamente por las transacciones comerciales.
+
+Aparte de la necesidad de garantizar que las prácticas corruptas no fructifican, existe también 
+la  necesidad  de  mantener  la  confianza  en  la  naturaleza  vinculante  de  los  compromisos 
+contractuales (pacta sunt servanda), ya que se trata de un componente esencial en el éxito de 
+la vida empresarial. Debe haber, por tanto, un equilibrio entre el esfuerzo de la lucha contra la 
+corrupción y la consideración de la corrupción como un motivo de incumplimiento de contrato 
+que justifica su resolución.
+
+La integridad debe prevalecer durante el ciclo de vida de la operación empresarial, desde la 
+negociación hasta su ejecución y remuneración correspondiente. Muy a menudo, la operación 
+contractual  implica  a  multitud  de  partes  y  a  una  gran  cantidad  de  personal.  Puede  que  las 
+prácticas corruptas no estén presentes en toda la estructura de la organización, y puede que los 
+directivos responsables de la negociación o la ejecución del contrato no sean sus instigadores 
+ni se les pueda atribuir tales prácticas.
+
+Al preparar el contrato, las partes desean asegurarse de que, durante las negociaciones previas 
+y durante su redacción (el periodo precontractual) ninguna de ellas pague o prometa sobornos, 
+regalos o ventajas indebidas (ni indique que tal cosa sucederá en el futuro), en relación con 
+el contrato, a funcionarios públicos a escala internacional, nacional o local, partidos políticos, 
+funcionarios de partidos políticos o candidatos a cargos políticos ni a directivos, funcionarios o 
+empleados de la parte contraria, ya sea directa o indirectamente a través de un subcontratista, 
+agente u otro tercero que esté sujeto al control o a la influencia determinante de una de las 
+partes.
+
+También  desean  cerciorarse  de  que  la  parte  contraria  ha  instaurado  medidas  preventivas 
+razonables para evitar que los subcontratistas, agentes u otros terceros de la parte contraria 
+incurran en prácticas corruptas.
+
+En suma, la Cláusula está redactada con el propósito de alcanzar el equilibrio entre el interés de 
+las partes de evitar la corrupción y su necesidad de garantizar la consecución de los objetivos del 
+contrato. La Cláusula se construye sobre la doctrina de la buena fe, la presunción de inocencia, 
+la cooperación entre las partes y la idea de que muchas prácticas ilícitas pueden corregirse sin 
+poner fin a la relación contractual.
+
+9
+
+CÁMARA DE COMERCIO INTERNACIONAL
+
+2. ¿Qué prácticas corruptas cubre el párrafo 1?
+
+La redacción del párrafo 1 refleja la empleada en el Convenio de la OCDE de lucha contra la 
+corrupción  de  agentes  públicos  extranjeros  en  las  transacciones  comerciales  internacionales 
+(1997) y la Convención de las Naciones Unidas contra la corrupción (2003).
+
+Las  prácticas  corruptas  cubiertas  por  el  párrafo  1  incluyen:  (i)  la  corrupción  “activa”  y  la 
+“pasiva” (a veces denominadas “extorsión” o “instigación al delito”); (ii) el soborno y el tráfico 
+de influencias; (iii) la corrupción de agentes públicos y la corrupción dentro del sector privado; 
+(iv) la corrupción en las esferas nacional y local, y también la internacional; (v) la corrupción 
+mediante intermediarios o sin ellos; (vi) el soborno con dinero o mediante cualquier otra forma 
+de ventaja indebida, y (vii) el soborno con o sin dinero procedente del blanqueo de capitales.
+
+3. ¿Se refiere el párrafo 1 incluso a las más mínimas ventajas indebidas?
+
+ICC  recomienda  a  las  empresas  que  no  realicen  “pagos  de  facilitación”  (es  decir,  pequeños 
+pagos  no  oficiales  e  inapropiados  efectuados  a  funcionarios  de  bajo  nivel  para  asegurar  o 
+agilizar la realización de una acción rutinaria o necesaria a la cual el pagador tiene legalmente 
+derecho), a menos que sus empleados se encuentren ante circunstancias apremiantes como 
+coacciones o cuando la salud, seguridad o protección de sus empleados estén en riesgo.
+
+En  la  cuestión  de  obsequios  y  hospitalidad  ofrecidos,  por  ejemplo,  a  socios  comerciales 
+existentes o potenciales, ICC recomienda que las empresas establezcan procedimientos para 
+asegurarse de que (i) cumplen la ley; (ii) son razonables y de buena fe; (iii) no afectan (o parecen 
+afectar) a la independencia de juicio del receptor hacia el donante; (iv) no son contrarios a las 
+disposiciones conocidas del código de conducta del receptor, y (v) no se ofrecen o reciben ni 
+con demasiada frecuencia ni en un momento inapropiado.
+
+4. ¿Qué “medidas preventivas razonables” han de instaurar las partes respecto a 
+sus intermediarios?
+
+No se exige a las partes que prevengan por todos los medios que ninguno de sus subcontratistas, 
+agentes o terceros, sujetos a su control o a su influencia determinante, cometan ningún tipo de 
+práctica corrupta.
+
+Sin  embargo,  las  partes,  basándose  en  una  evaluación  periódica  de  los  riesgos  a  los  que  se 
+exponen,  instaurarán  un  programa  corporativo  eficaz  de  cumplimiento,  adaptado  a  sus 
+circunstancias  particulares;  ejercerán,  basándose  en  un  enfoque  estructurado  de  gestión  de 
+riesgos,  la  apropiada  diligencia  debida  en  la  selección  de  subcontratistas,  agentes  u  otros 
+terceros sujetos a su control o influencia determinante; y formarán a sus directivos, funcionarios 
+y empleados en consecuencia.
+
+5. ¿A qué circunstancias resulta aplicable el compromiso del párrafo 1?
+
+Teniendo en cuenta la rápida evolución de las leyes y prácticas en el ámbito de la integridad 
+empresarial, el compromiso del párrafo 1 debería estar relacionado con el contrato en sí, y no 
+con otros contratos celebrados entre las mismas partes, o con cualquier otro contrato.
+
+10
+
+Párrafo 2: Compromiso de no corrupción durante el periodo posterior a la 
+ejecución del contrato (periodos contractual y postcontractual).
+
+1. Duración del compromiso de no corrupción
+
+Las partes acuerdan que, durante el periodo posterior a la entrada en vigor del contrato y a su 
+término, no cometerán prácticas corruptas en relación con el contrato.
+
+Tendrán que asegurarse de que ninguna etapa del cumplimiento del contrato, como la obtención 
+de licencias o autorizaciones oficiales, superación de pruebas de funcionamiento, o inspección 
+de  mercancía  o  instalaciones  se  obtendrá  por  medios  ilícitos.  También  se  comprometen  a 
+adoptar  medidas  razonables  para  evitar  que  sus  subcontratistas,  agentes  u  otros  terceros 
+actúen así durante dicho periodo. El compromiso de no corrupción de las partes subsiste tras 
+la vigencia del contrato.
+
+2. Disposición del párrafo 2 para la incorporación completa o por remisión
+
+Para  dejar  constancia  de  su  compromiso  mutuo  contra  la  corrupción,  las  partes  deciden 
+incorporar el texto de la Parte I de las Reglas de ICC para combatir la corrupción, de 2011, en su 
+contrato. Pueden optar por incorporarla mediante remisión o por completo. En el primer caso, 
+escogerán el texto de la Opción I y, en el segundo, el texto de la Opción II.
+
+Por conveniencia, el texto de la Parte I de las Reglas de ICC para combatir la corrupción, de 2011, 
+se adjunta como Anexo I.
+
+3. La naturaleza del compromiso de las partes
+
+El  compromiso  de  las  partes  es  absoluto,  mientras  que  su  compromiso  en  relación  con  sus 
+subcontratistas, agentes u otros terceros sujetos a su control o influencia determinante se limita 
+a  la  adopción  de  “medidas  razonables”  para  evitar  que  estos  últimos  incurran  en  prácticas 
+corruptas.
+
+Esto incluirá, como mínimo: indicar a los subcontratistas, agentes y otros terceros que no se 
+incurrirá,  ni  se  tolerará  que  ellos  incurran,  en  ninguna  práctica  corrupta;  no  utilizarlos  como 
+vehículo para prácticas corruptas; contratarlos sólo en la medida necesaria para el desarrollo 
+normal del negocio de la parte, y no pagarles más de la remuneración adecuada por los servicios 
+legítimos que hayan proporcionado.
+
+Párrafo 3: Incumplimiento, acciones correctoras y sanciones
+
+1. No cumplimiento de la Parte I de las Reglas de ICC
+
+Si una de las partes tiene conocimiento de que la parte contraria ha cometido incumplimientos 
+materiales o repetitivos de las disposiciones de la Parte I de las Reglas de ICC para combatir la 
+corrupción, de 2011, lo notificará a la parte contraria en consecuencia.
+
+La parte que alegue corrupción debe aportar pruebas de ésta. A menudo es difícil encontrar 
+pruebas,  como  lo  es  comunicarlas  a  la  parte  contraria  sin  perderlas  o  causarles  daños  que 
+impidan su uso posterior. Por lo tanto, el requisito de aportar pruebas no significa necesariamente 
+que deban aportarse pruebas corroborativas o que todas las pruebas tengan que comunicarse 
+a la parte contraria en todos los casos. Sin embargo, las pruebas deben ser suficientes para 
+demostrar que la sospecha de corrupción no se alega de forma vejatoria o injustificada.
+
+11
+
+CLÁUSULA ICC ANTI-CORRUPCIÓNCÁMARA DE COMERCIO INTERNACIONAL
+
+La Cláusula no incluye requisitos formales sobre cómo deben comunicar las partes la notificación 
+del  presunto  incumplimiento  según  dispone  la  Parte  I  de  las  Reglas,  pero  normalmente  el 
+sistema habitual aplicable a las comunicaciones contractuales entre las partes será aplicable 
+también a esta notificación. Así, el contrato que estipule que toda notificación debe realizarse 
+por escrito cubrirá también los avisos de presunta corrupción.
+
+2. Acciones correctoras posibles
+
+Para garantizar al máximo la continuidad del contrato, se permitirá a la parte presuntamente 
+infractora  que  corrija  la  situación  en  la  medida  que  sea  posible.  Las  acciones  correctoras 
+necesarias pueden incluir la cooperación en las acciones probatorias cuando se lleve a cabo 
+una  investigación  o  cuando  se  solicite  una  auditoría  externa  del  incidente,  la  publicación  de 
+alertas, la reorganización del trabajo, la resolución de subcontratos o contratos de empleo con 
+personas  o  empleados  involucrados  en  actividades  corruptas,  o  la  corrección  del  perjuicio 
+económico  ocasionado  a  la  parte  contraria  por  todo  incumplimiento  probado  como,  por 
+ejemplo,  la  modificación  del  importe  del  contrato.  La  naturaleza  y  cantidad  de  las  medidas 
+correctoras exigidas a la parte sujeta a la alegación dependerán de las circunstancias de caso 
+en cuestión como, por ejemplo, la gravedad de la infracción y el carácter concluyente de las 
+pruebas. En algunas situaciones, la medida puede consistir, sencillamente, en la presentación de 
+pruebas contrarias que demuestren la inexistencia del incumplimiento. La parte presuntamente 
+infractora informará a la parte contraria, lo antes posible, de las medidas que ha adoptado para 
+corregir la situación.
+
+Resulta  evidente,  aun  así,  que  no  toda  infracción  de  las  disposiciones  contra  la  corrupción 
+puede corregirse, pero se espera que la presunta parte infractora haga todo cuanto esté en sus 
+manos para corregir al máximo la situación.
+
+3. Alegación defendiendo la adecuación de las medidas preventivas  
+contra la corrupción
+
+Cuando la situación no se ha corregido o no puede corregirse, la parte presuntamente infractora 
+puede  invocar  su  defensa  probando  que  había  instaurado,  en  el  momento  en  el  que  surgió 
+la  prueba  del  incumplimiento,  medidas  preventivas  adecuadas  contra  la  corrupción,  como 
+describe el Artículo 10 de las Reglas de ICC para combatir la corrupción, de 2011, adaptadas a 
+sus circunstancias particulares y capaces de detectar la corrupción y de fomentar una cultura 
+de la integridad en su organización. Tales medidas adecuadas de prevención de la corrupción 
+tienen que (i) reflejar las Reglas de ICC para combatir la corrupción, de 2011, (ii) basarse en los 
+resultados de una evaluación periódica de los riesgos existentes en el entorno empresarial de 
+dicha parte, y (iii) estar adaptadas a sus circunstancias particulares.
+
+Por conveniencia, el texto del Artículo 10 de las Reglas de ICC para combatir la corrupción, de 
+2011, se adjunta como Anexo II.
+
+4. Pruebas del no cumplimiento
+
+Presentar pruebas de que se han infringido las disposiciones contra la corrupción, establecidas 
+en la Parte I de las Reglas de ICC para combatir la corrupción, de 2011, no resultará una tarea 
+fácil, ya que la corrupción en muy raras ocasiones sucederá abiertamente.
+
+Uno  de  los  pocos  medios  para  presentar  tales  pruebas  será  facilitar  las  conclusiones  de  una 
+auditoría  de  los  libros  de  contabilidad  y  los  registros  financieros  de  la  parte  supuestamente 
+
+12
+
+infractora. A veces puede utilizarse la declaración de testigos (como resultado de un mecanismo 
+de denuncia interna o de otra índole). La legislación penal aplicable debe tenerse en cuenta al 
+considerar la participación de los órganos encargados del cumplimiento de la ley.
+
+5. Derecho a realizar una auditoría
+
+La referencia en la Cláusula al derecho a realizar una auditoría, dispuesto contractualmente, no 
+implica sin embargo que pueda obtenerse tal derecho fácilmente bajo todas las circunstancias 
+ni que éste sea adecuado en todas las situaciones. Aunque algunos contratos otorgan a una 
+o más partes el derecho a realizar una auditoría a la parte o partes contrarias, la referencia en 
+esta Cláusula al derecho de auditoría no significa que ICC defienda que otorgar a las partes el 
+derecho a realizar una auditoría exhaustiva constituya una práctica empresarial recomendada.
+
+Las partes tendrán que determinar si su relación comercial les permite acceder a este derecho y 
+si las circunstancias específicas de la negociación, ejecución e implantación futura del contrato 
+requieren del derecho a realizar una auditoría.
+
+6. Sanciones
+
+Si la parte que presuntamente infringe las disposiciones de la Parte I de las Reglas de ICC para 
+combatir la corrupción, de 2011, no corrige la situación en un plazo razonable, o si no es posible 
+corregirla, y no se invoca defensa alguna de manera eficaz conforme se han adoptado medidas 
+preventivas adecuadas contra la corrupción, la parte contraria tendrá el derecho, a su discreción, 
+de suspender el contrato o de resolverlo, entendiéndose que los importes contractualmente 
+debidos  en  el  momento  de  la  suspensión  o  resolución  continuarán  siendo  pagaderos,  en  la 
+medida en que lo permita la ley aplicable. 
+
+Cuando la otra parte ejerce el derecho a la suspensión o resolución, recae en ella toda la carga 
+de probar que ha tenido lugar el incumplimiento o incumplimientos de las disposiciones de la 
+Parte I de las Reglas de ICC para combatir la corrupción, de 2011.
+
+La  ley  aplicable  podrá  determinar  si  la  parte  ha  de  rendir  cuentas  por  el  incumplimiento 
+o  incumplimientos  de  las  disposiciones  de  la  Parte  I  de  las  Reglas  de  ICC  para  combatir  la 
+corrupción, de 2011.
+
+Poner  fin  a  un  contrato  importante  o  a  largo  plazo  debido  a  una  infracción  puede  ser 
+desproporcionado. Esta circunstancia también debe tenerse en cuenta al aplicar el párrafo 3 
+de la Cláusula.
+
+Párrafo 4. Resolución de controversias
+Las partes remiten todas las controversias relacionadas con las consecuencias contractuales 
+de  cualquier  presunto  incumplimiento  de  la  Cláusula  al  organismo  que  se  haya  establecido 
+en  las  disposiciones  sobre  resolución  de  controversias  del  contrato,  como  puede  ser  un 
+tribunal arbitral. Sin embargo, el incumplimiento puede ser objeto de un procedimiento judicial 
+paralelo que podría resultar en sanciones penales u otras consecuencias civiles aparte de las 
+contractuales, especialmente responsabilidades extracontractuales.
+
+13
+
+CLÁUSULA ICC ANTI-CORRUPCIÓNCÁMARA DE COMERCIO INTERNACIONAL
+
+Opción III
+
+Párrafo 1. Programas corporativos de cumplimiento
+
+1. Programas corporativos de cumplimiento, como se describen en el Artículo 10 
+de las Reglas de ICC
+
+Muchas empresas han instaurado programas corporativos de cumplimiento con la finalidad de 
+evitar que su actividad empresarial se vea afectada por prácticas corruptas. Estos programas 
+pueden adoptar diferentes formas y contenidos y tendrán que adaptarse a las circunstancias 
+particulares de cada empresa para ser eficaces. También deben posibilitar que se detecte la 
+corrupción  y  fomentar  una  cultura  de  la  integridad  en  la  organización.  El  Artículo  10  de  las 
+Reglas de ICC para combatir la corrupción, de 2011, proporciona una lista extensa de medidas, 
+no  exhaustiva,  que  pueden  incluirse  en  tales  programas.  Las  empresas  seleccionarán  de  la 
+lista las medidas que consideren necesarias o adecuadas para organizar su propio sistema de 
+prevención de la corrupción.
+
+2. Instauración de un programa corporativo de cumplimiento
+
+Cuando las partes celebran un contrato, ayuda a reforzar la confianza entre ellas el saber que 
+su  contraparte  ha  instaurado  –o  lo  hará  pronto-  un  programa  corporativo  de  cumplimiento. 
+Las  partes  se  comprometerán  a  mantener  su  programa  de  cumplimiento  y  a  implantar  sus 
+disposiciones  al  menos  durante  la  duración  del  contrato,  manteniendo  así,  durante  dicho 
+periodo, un ambiente de confianza entre sí.
+
+3. Designación de un representante corporativo cualificado
+
+Para  acreditar  la  eficacia  de  su  programa  y  la  continuidad  en  su  implantación,  las  partes 
+designarán, de entre sus empleados, a un representante corporativo cualificado, cuyo nombre 
+se  notificará  a  la  parte  contraria.  Estos  representantes  corporativos  cualificados  emitirán,  a 
+intervalos regulares, declaraciones sobre la existencia e implantación continua del programa de 
+la empresa.
+
+Párrafo 2. Deficiencias en la declaración del representante corporativo 
+cualificado, acciones correctoras y sanciones
+
+1. Deficiencias en la declaración del representante corporativo cualificado
+
+Si una de las partes tiene conocimiento de que la declaración del representante corporativo 
+cualificado  de  la  otra  parte  contiene  deficiencias  materiales,  que  minen  la  eficiencia  del 
+programa de la parte contraria, lo notificará a la otra parte en consecuencia. Se considerará que 
+la declaración es deficiente si incluye información sustancialmente no cierta, falsa o incompleta.
+
+La  parte  que  alegue  deficiencias  en  la  declaración  del  representante  corporativo  cualificado 
+debe  aportar  pruebas  de  que  faltan  las  declaraciones  o  bien  de  que  incluyen  información 
+sustancialmente no cierta, falsa o incompleta.
+
+A menudo es difícil encontrar pruebas, como lo es comunicarlas a la parte contraria sin perderlas 
+o causarles daños que impidan su uso posterior. Por lo tanto, el requisito de aportar pruebas no 
+significa necesariamente que deban aportarse pruebas corroborativas o que todas las pruebas 
+tengan  que  comunicarse  a  la  parte  contraria  en  todos  los  casos.  Sin  embargo,  las  pruebas 
+
+14
+
+deben  ser  suficientes  para  demostrar  que  la  sospecha  de  deficiencias  en  la  declaración  del 
+representante corporativo cualificado no se alega de forma vejatoria o injustificada.
+
+La Cláusula no incluye requisitos formales sobre cómo deben comunicar las partes la notificación 
+de la presunta deficiencia en la declaración de un representante corporativo cualificado, pero 
+normalmente el sistema habitual aplicable a las comunicaciones contractuales entre las partes 
+será aplicable también a esta notificación. Así, el contrato que estipule que toda notificación 
+debe realizarse por escrito cubrirá también los avisos de estas presuntas deficiencias.
+
+2. Acciones correctoras
+
+Para garantizar al máximo la continuidad del contrato, se permitirá a la parte que presuntamente 
+haya emitido una declaración deficiente que corrija la situación en la medida que sea posible. 
+Las acciones correctoras necesarias pueden incluir el facilitar una nueva declaración, precisa, 
+completa y sincera, que proporcione una imagen completa y real de la implantación, llevada 
+a  cabo  por  la  parte  correspondiente,  de  las  disposiciones  de  su  programa  corporativo  de 
+cumplimiento,  así  como  toda  acción  correctora  que  dicha  parte  adopte  para  mejorar  su 
+implantación. La naturaleza y cantidad de las acciones correctoras exigidas a la parte sujeta a la 
+alegación dependerán de las circunstancias de caso en cuestión como, por ejemplo, la gravedad 
+de la deficiencia y el carácter concluyente de las pruebas. En algunas situaciones, la medida 
+puede  consistir,  sencillamente,  en  la  presentación  de  pruebas  contrarias  que  demuestren  la 
+inexistencia de las deficiencias. La parte presuntamente infractora informará a la parte contraria, 
+lo antes posible, de las medidas que ha adoptado para corregir la situación.
+
+Resulta  evidente,  aun  así,  que  no  toda  deficiencia  puede  corregirse,  pero  se  espera  que  la 
+presunta  parte  infractora  haga  todo  cuanto  esté  en  sus  manos  para  corregir  al  máximo  la 
+situación.
+
+3. Otros comentarios
+
+Los comentarios expuestos anteriormente bajo los puntos 4, 5 y 6 en relación con el párrafo 3 
+de las Opciones I y II son aplicables, mutatis mutandis, al párrafo 2 de la Opción III.
+
+Párrafo 3: Resolución de controversias
+Las partes remiten todas las controversias relacionadas con cualquier presunto incumplimiento 
+de la Cláusula al organismo que se haya establecido en las disposiciones sobre resolución de 
+controversias del contrato, como puede ser un tribunal arbitral. Sin embargo, el incumplimiento 
+puede ser objeto de un procedimiento judicial paralelo que podría resultar en sanciones penales 
+u  otras  consecuencias  civiles  aparte  de  las  contractuales,  especialmente  responsabilidades 
+extracontractuales.
+
+15
+
+CLÁUSULA ICC ANTI-CORRUPCIÓNANEXO I
+
+Parte I de las Reglas de ICC para combatir la 
+corrupción, de 2011
+Artículo 1
+Prácticas Prohibidas
+
+Las  empresas  prohibirán  las  siguientes  prácticas  en  todo  momento  y  en  cualquier  forma, 
+con relación a funcionarios públicos a nivel internacional, nacional o local, partidos políticos, 
+funcionarios  de  un  partido,  o  candidatos  para  un  cargo  político,  y  directores,  funcionarios  o 
+empleados de una Empresa, ya sea que en estas prácticas se lleven a cabo de forma directa o 
+indirecta, incluyendo a través de Terceros:
+
+a)   Soborno:  es  el  ofrecimiento,  promesa,  entrega,  autorización  o  aceptación  de  cualquier 
+dádiva  monetaria  indebida  o  de  cualquier  otro  beneficio  o  ventaja  para,  a  través  de,  o 
+llevada a cabo por cualquiera de las personas listadas arriba, o cualquier otra persona, con 
+el fin de obtener o retener un negocio o cualquier otro beneficio o ventaja inapropiada; por 
+ejemplo, las relacionadas con la adjudicación de contratos de entidades públicas o privadas 
+para  el  suministro  de  bienes  o  servicios,  permisos  regulatorios,  asuntos  de  impuestos, 
+aduanas o procedimientos judiciales y legislativos; El soborno con frecuencia incluye:
+
+(i)  el compartir parte del pago de un contrato adjudicado, ya sea con el gobierno, funcionarios 
+de  partidos  o  empleados  de  la  otra  parte  contratante,  o  sus  parientes,  amigos  o  Socios 
+Comerciales o 
+
+(ii)  utilizar  intermediarios  tales  como  agentes,  subcontratistas,  consultores  u  otros  terceros, 
+para canalizar pagos al gobierno o funcionarios de partidos, o a empleados de la otra parte 
+contratante, sus parientes, amigos o Socios Comerciales;
+
+b)   Extorsión  o  Instigación  al  Delito:  es  la  exigencia  de  un  soborno  o  pago,  ya  sea  que  se 
+acompañe  o  no  de  una  amenaza  ante  la  negativa  a  proporcionar  lo  exigido.  Cualquier 
+intento de instigación o extorsión deberá ser rechazado por las empresas y se les exhorta 
+a  reportar  tales  intentos  a  través  de  los  mecanismos  de  reporte  formales  o  informales 
+que estén disponibles, a menos que tales reportes se consideren contraproducentes bajo 
+circunstancias específicas;
+
+c)  Tráfico  de  Influencias:  es  el  ofrecimiento  o  requerimiento  de  una  ventaja  indebida  con 
+el fin de ejercer influencia inapropiada, real o supuesta, sobre un funcionario público, con 
+el  objeto  de  obtener  un  beneficio  o  ventaja  indebida  para  el  instigador  del  acto  o  para 
+cualquier otra persona;
+
+d)  Lavado  del  producto  de  las  prácticas  antes  mencionadas:  es  el  ocultamiento  o 
+encubrimiento del origen ilícito, de la fuente, ubicación, disposición, movimiento o titularidad 
+de una propiedad, con conocimiento de que tal propiedad es producto del delito;
+
+“Corrupción” o “Práctica(s) Corrupta(s)” para propósito de este Reglamento, incluye el soborno, 
+la extorsión o instigación al delito, el tráfico de influencias y el lavado de dinero del producto 
+de estas prácticas.
+
+16
+
+Artículo 2
+Terceros
+
+En relación a Terceros bajo control, o sujetos a determinada influencia de la Empresa, incluyendo 
+pero no limitado a agentes, consultores para el desarrollo de negocios, representantes de ventas, 
+agentes  aduanales,  consultores  generales,  revendedores,  subcontratistas,  franquiciatarios, 
+abogados, contadores o intermediarios similares, que actúen a nombre de la Empresa en relación 
+con  comercialización  o  ventas,  en  la  negociación  de  contratos,  en  la  obtención  de  licencias, 
+permisos u otras autorizaciones, o en relación con cualquier acción que beneficie a la Empresa, 
+o como subcontratistas en la cadena de suministro, las Empresas deben: instruirles para que no 
+se involucren ni toleren ningún acto de corrupción; no utilizarlos como conducto para cometer 
+algún acto de corrupción; contratarlos solo en la medida necesaria para el desarrollo normal del 
+negocio de la Empresa; y no pagarles una remuneración mayor a la apropiada por los servicios 
+que legítimamente le presten.
+
+ANEXO II
+
+Artículo 10 de las Reglas de ICC para combatir la 
+corrupción, de 2011
+Elementos de un programa corporativo de cumplimiento
+Las  Empresas  deben  implementar  un  programa  corporativo  de  cumplimiento  que  (i)  refleje 
+estas Reglas (ii) que esté basado en los resultados de una valoración periódica de los riesgos 
+que se enfrentan en el ambiente de negocios de la Empresa (iii) se adapte a las circunstancias 
+particulares  de  la  Empresa,  y  (iv)  esté  enfocado  a  prevenir  y  detectar  la  corrupción  y  de 
+fomentar una cultura de la integridad en la Empresa.
+
+Cada Empresa deberá considerar si incluye todas o solo parte de las siguientes mejores prácticas 
+en su programa. En particular puede seleccionar, entre los elementos listados a continuación, las 
+medidas que considere necesarias para asegurar la prevención adecuada contra la corrupción, 
+de acuerdo a sus circunstancias, no siendo alguna medida específica de naturaleza obligatoria:
+
+a)  expresar un fuerte, explícito y visible apoyo y compromiso hacia el Programa Corporativo de 
+Cumplimiento por parte del Consejo de Administración o por parte de otro organismo con 
+facultad de decisión sobre la Empresa, así como por la alta administración de la Empresa;
+
+b)  establecer una política claramente articulada y visible que promulgue este Reglamento y 
+que obligue a todos los directores, funcionarios, empleados y Terceros y que se aplique a 
+todas las subsidiarias controladas, extranjeras y locales;
+
+c)  otorgar el mandato al Consejo de Administración u otro organismo con facultad de decisión 
+sobre la Empresa, o al comité relevante de la misma, para conducir evaluaciones de riesgo 
+periódicas y revisiones independientes del cumplimiento de este Reglamento, y recomendar 
+medidas  o  políticas  correctivas  según  sea  necesario.  Esto  puede  efectuarse  como  parte 
+de un sistema más amplio de revisiones de cumplimiento corporativo y/o valoraciones de 
+riesgo;
+
+d) 
+
+inculcar el sentido de responsabilidad en los individuos a todos niveles de la Empresa para 
+cumplir con las políticas de la misma, y para participar en el programa de cumplimiento;
+
+17
+
+e)  designar  a  uno  o  más  funcionarios  de  alto  rango  para  vigilar  y  coordinar  el  programa 
+corporativo de cumplimiento proporcionándoles un nivel adecuado de recursos, autoridad 
+e  independencia,  y  que  reporten  periódicamente  al  Consejo  de  Administración  u  otro 
+organismo con facultad de decisión sobre la Empresa, o al comité relevante de la misma;
+
+f)   emitir lineamientos apropiados para alentar el comportamiento esperado y para disuadir 
+
+los comportamientos prohibidos por las políticas y el programa de la Empresa;
+
+g)  realizar  el  “due  diligence”  o  investigación  apropiada,  con  base  en  un  enfoque  de 
+administración  estructurada  de  riesgos,  en  la  selección  de  sus  directores,  funcionarios  y 
+empleados así como de los Socios Comerciales que presenten un riesgo de corrupción o 
+que eludan el cumplimiento de este Reglamento;
+
+h)  diseñar procedimientos financieros y contables a fin de asegurar el mantenimiento claro 
+y  preciso  de  los  libros,  registros  y  cuentas,  para  asegurar  que  no  puedan  utilizarse  para 
+propósitos de soborno o encubrimiento;
+
+i)  establecer  y  mantener  sistemas  apropiados  de  control  y  procedimientos  de  reporte, 
+
+incluyendo auditorias independientes;
+
+j)  asegurar la comunicación periódica interna y externa respecto a su política anticorrupción;
+
+k)  proporcionar  a  sus  directores,  funcionarios,  empleados  y  Socios  Comerciales,  según  sea 
+apropiado, lineamientos y capacitación para identificar la corrupción en las transacciones 
+comerciales diarias de la Empresa, así como entrenamiento de liderazgo;
+
+l) 
+
+incluir  la  revisión  de  capacidades  éticas  de  negocios  en  la  evaluación  del  desempeño 
+y  promociones  de  la  administración  y  medición  del  logro  de  objetivos  no  solo  contra 
+indicadores  financieros,  sino  también  en  cuanto  a  la  forma  en  que  se  han  logrado  los 
+objetivos, y específicamente sobre el cumplimiento con las políticas anticorrupción de la 
+Empresa;
+
+m)  Ofrecer  canales  confiables  para  exponer  preocupaciones,  buscar  consejo  o  reportar 
+violaciones sin temor a represalias, discriminación o acciones disciplinarias. El levantamiento 
+de reportes puede ser voluntario u obligatorio, y puede ser anónimo o no. Todos los reportes 
+levantados de buena fe deben de ser investigados.;
+
+n)  actuar en violaciones reportadas o detectadas, tomando la acción correctiva y las medidas 
+disciplinarias apropiadas, y analizar la posibilidad de hacer públicas las medidas correctivas 
+tomadas.
+
+o)  buscar mejorar el programa de cumplimiento mediante certificación externa, verificación o 
+
+auditoria;
+
+p)  Apoyar las acciones colectivas tales como proponer o apoyar pactos anticorrupción con 
+respecto a proyectos específicos o iniciativas anticorrupción a largo plazo dentro del sector 
+público y/o con competidores o pares en los segmentos comerciales respectivos.
+
+18
+
+Selección de publicaciones de ICC
+
+1. Reglas de ICC para combatir la corrupción, de 2011, en inglés: 
+http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2011/ICC-Rules-on-
+Combating--Corruption/
+
+2. Reglas de ICC para combatir la corrupción, de 2011, en francés: 
+http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2011/ICC-Rules-on-
+Combating-Corruption-in-French/
+
+3. Reglas de ICC para combatir la corrupción, de 2011, en español: 
+http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2011/ICC-Rules-on-
+Combating-Corruption-in-Spanish/
+
+4. The ICC Guidelines on Agents, Intermediaries and other Third Parties, en inglés: 
+http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2010/ICC-Guidelines-
+on-Agents,-Intermediaries-and-Other-Third-Parties/
+
+5. The ICC Guidelines on Agents, Intermediaries and other Third Parties, en francés: 
+http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2011/ICC-Guidelines-
+on-Agents,-Intermediaries-and-Other-Third-Parties-in-French/
+
+6. The ICC Guidelines on Whistleblowing, en inglés: 
+http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2008/ICC-Guidelines-
+on-Whistleblowing/
+
+7. The ICC Guidelines on Whistleblowing, en francés: 
+http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2008/ICC-Guidelines-
+on-Whistleblowing-in-French/
+
+8. RESIST en inglés: 
+http://www.iccwbo.org/products-and-services/fighting-commercial-crime/resist/
+
+9. RESIST en francés: 
+http://www.iccwbo.org/products-and-services/fighting-commercial-crime/resist/
+
+10. RESIST en árabe: 
+http://www.iccwbo.org/products-and-services/fighting-commercial-crime/resist/
+
+11. RESIST en español: 
+http://www.iccwbo.org/products-and-services/fighting-commercial-crime/resist/
+
+12. RESIST en alemán: 
+http://www.iccwbo.org/products-and-services/fighting-commercial-crime/resist/
+
+13. RESIST en mandarín: 
+http://www.iccwbo.org/products-and-services/fighting-commercial-crime/resist/
+
+19
+
+LA CÁMARA DE COMERCIO INTERNACIONAL (ICC)
+
+La ICC es la organización empresarial mundial, es un organismo de representación que habla 
+con autoridad en nombre de las empresas de todos los sectores en cualquier rincón del mundo.
+
+La misión de la ICC es fomentar la apertura del comercio internacional e inversión, así como 
+ayudar  a  las  empresas  a  enfrentarse  a  los  retos  y  las  oportunidades  que  surgen  con  la 
+globalización. La convicción de la ICC data desde sus orígenes al inicio del siglo XX, en la 
+cual el comercio es una poderosa fuerza de paz y prosperidad para el mundo. El pequeño 
+grupo de sagaces líderes empresariales que fundaron la ICC se denominaron a sí mismos “los 
+mercaderes de la paz”.
+
+La ICC cuenta con tres actividades principales: la elaboración de normas, la resolución de 
+controversias y la formulación de políticas. Puesto que las  empresas y asociaciones miembros 
+están involucradas en el comercio internacional, la ICC posee una autoridad sin igual en la 
+creación de reglas que rigen la conducta de las dichas empresas a través de las fronteras. A 
+pesar de ser voluntarias, día a día estas reglas se aplican en innumerables operaciones y se 
+han convertido en parte  integral del comercio internacional.
+
+La ICC también presta otros servicios esenciales, entre los que destaca la Corte Internacional 
+de  Arbitraje  de  la  ICC,  la  institución  arbitral  líder  en  el  mundo,    Así  como  el  servicio  de 
+la  Federación  Mundial  de  Cámaras,  la  red  internacional  de  cámaras  de  comercio  de  la 
+ICC  que  fomenta  la  interacción  y  el  intercambio  de  las  mejores  prácticas  camerales.  La 
+ICC  también  ofrece  entrenamientos,  conferencias    y  una  amplia  lista  de  publicaciones  
+y herramientas especializadas en comercio internacional, banca y arbitraje internacional.
+
+Líderes  empresariales  y  expertos  procedentes  de  las  empresas  miembros  de  la  ICC 
+determinan  la  perspectiva  empresarial  sobre  cuestiones  de  gran  importancia  relacionadas 
+con las políticas del comercio y la inversión, así como temas técnicos esenciales como la anti-
+corrupción, la banca, la economía digital, las telecomunicaciones, la ética en  la mercadotecnia,  
+el medioambiente y la energía, la legislación sobre la competencia y la propiedad intelectual, 
+entre otros.
+
+La ICC mantiene una estrecha colaboración con las Naciones Unidas, la Organización Mundial 
+del Comercio y organismos intergubernamentales, entre los que figura el G20.
+
+La ICC fue creada en 1919. Hoy en día agrupa a cientos de miles de empresas y asociaciones 
+miembros  provenientes  de  más  de  130  países.  Los  comités  nacionales  trabajan  con  los 
+miembros de la ICC en sus propios países para abordar sus preocupaciones e sus intereses 
+y haciéndole llegar a sus respectivos gobiernos los puntos de vista formulados por la ICC.
+
+

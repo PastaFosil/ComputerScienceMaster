@@ -1,0 +1,2508 @@
+[
+    {
+        "type": "text",
+        "text": "TRANSPARENCY ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            64,
+            401,
+            105
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTERNATIONAL STOP RF R STOPUNDUE ",
+        "text_level": 1,
+        "bbox": [
+            0,
+            96,
+            988,
+            1001
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "e ",
+        "bbox": [
+            90,
+            64,
+            154,
+            108
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transparency International is a global movement with one vision: a world in which government, business, civil society and the daily lives of people are free of corruption. With more than 100 chapters worldwide and an international secretariat in Berlin, we are leading the fight against corruption to turn this vision into reality. ",
+        "bbox": [
+            92,
+            111,
+            621,
+            239
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "www.transparency.org ",
+        "bbox": [
+            95,
+            279,
+            352,
+            300
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cover: Aleksandar Savić / Transparency International. ",
+        "bbox": [
+            92,
+            697,
+            470,
+            711
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Every effort has been made to verify the accuracy of the information contained in this report. All information is correct up until February 2025. Nevertheless, Transparency International cannot accept responsibility for the consequences of its use for other purposes or in other contexts. ",
+        "bbox": [
+            94,
+            728,
+            611,
+            789
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ISBN: 978-3-96076-266-9 ",
+        "bbox": [
+            94,
+            804,
+            270,
+            819
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2025 Transparency International. Except where otherwise noted, this work is licensed under CC BY-ND 4.0 DE. Quotation permitted. Please contact Transparency International – copyright@transparency.org – regarding derivatives requests. ",
+        "bbox": [
+            94,
+            837,
+            611,
+            897
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "@0Θ ",
+        "bbox": [
+            92,
+            910,
+            156,
+            927
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            108,
+            633,
+            337
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4-5 Map and Results ",
+        "bbox": [
+            314,
+            682,
+            442,
+            720
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6-7 Executive Summary ",
+        "bbox": [
+            314,
+            741,
+            465,
+            781
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8 Recommendations ",
+        "bbox": [
+            314,
+            803,
+            458,
+            840
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9-10 Global Highlights ",
+        "bbox": [
+            314,
+            863,
+            445,
+            902
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11-16 Corruption and the Climate Crisis ",
+        "bbox": [
+            522,
+            681,
+            670,
+            734
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "17 Regional Analyses ",
+        "bbox": [
+            729,
+            682,
+            868,
+            720
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Undue influence on climate policies and decision-making 2. Embezzlement and misuse of climate funds 3. Weak environmental protection 4. Threats to activists ",
+        "bbox": [
+            521,
+            738,
+            690,
+            863
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "18 Methodology ",
+        "bbox": [
+            729,
+            741,
+            831,
+            781
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "19 Endnotes ",
+        "bbox": [
+            729,
+            802,
+            803,
+            840
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "3 ",
+        "bbox": [
+            868,
+            942,
+            880,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            247,
+            681,
+            282,
+            833
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "180 COUNTRIES 180 SCORES HOW DOES YOUR COUNTRY MEASURE UP? ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            102,
+            556,
+            386
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The perceived levels of public sector corruption in 180 countries and territories around the world. ",
+        "bbox": [
+            92,
+            403,
+            573,
+            438
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/84925968577a3883a4ba767b8e969004a98b917a3205d37aa396b701264a8d6b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            92,
+            454,
+            626,
+            520
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb2e5bbc836cd0a6727306ef663cc2d336eac31055300a442795228961b9c2ef.jpg",
+        "image_caption": [
+            "\\*The designations employed and the presentation of material on this map follow the UN practice to the best of our knowledge and as of January 2025. They do not imply the expression of any opinion on the part of Transparency International concerning the legal status of any country, territory, city or area or of its authorities or concerning the delimitation of its frontiers or boundaries. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            657,
+            103,
+            969,
+            602
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0028ae9300013f86956f3a5bf8242dd76958431a262f4335d147edbf5452fbe0.jpg",
+        "table_caption": [
+            "SCORE COUNTRY/TERRITORY "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>90</td><td>Denmark</td></tr><tr><td>88</td><td>Finland</td></tr><tr><td>84</td><td> Singapore</td></tr><tr><td>83</td><td>New Zealand</td></tr><tr><td>81</td><td>Luxembourg</td></tr><tr><td>81</td><td>Norway</td></tr><tr><td>81</td><td>Switzerland</td></tr><tr><td>80</td><td>Sweden</td></tr><tr><td>78</td><td>Netherlands</td></tr><tr><td>17</td><td> Australia</td></tr><tr><td>77</td><td>Iceland</td></tr><tr><td>17</td><td>Ireland</td></tr><tr><td>76</td><td>Estonia</td></tr><tr><td>76</td><td>Uruguay</td></tr><tr><td>5</td><td>Canada</td></tr><tr><td></td><td>Germany</td></tr><tr><td>74</td><td>Hong Kong</td></tr><tr><td>72</td><td>Bhutan</td></tr><tr><td>72</td><td>Seychelles</td></tr><tr><td>71</td><td>Japan</td></tr><tr><td>71</td><td>United Kingdom</td></tr><tr><td>69</td><td>Belgium</td></tr><tr><td>68</td><td>Barbados</td></tr></table>",
+        "bbox": [
+            94,
+            602,
+            277,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/727e43b385c7196073da3ad4c749ff4bd83b53aaf18a65879e20115b8ff5e15c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1>United Arab Emirates</td></tr><tr><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>Austria</td></tr><tr><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>France</td></tr><tr><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>Taiwan</td></tr><tr><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>Bahamas</td></tr><tr><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>United States</td></tr><tr><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>Israel</td></tr><tr><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>Korea, South</td></tr><tr><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>Chile</td></tr><tr><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>Lithuania</td></tr><tr><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>Saint Vincent and theGrenadines</td></tr><tr><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1>Cabo Verde</td></tr><tr><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>Dominica</td></tr><tr><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>Slovenia</td></tr><tr><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>Latvia</td></tr><tr><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>Qatar</td></tr><tr><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>Saint Lucia</td></tr><tr><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>Saudi Arabia</td></tr><tr><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>Costa Rica</td></tr><tr><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>Botswana</td></tr><tr><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>Portugal</td></tr><tr><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>Rwanda</td></tr><tr><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>Cyprus</td></tr></table>",
+        "bbox": [
+            304,
+            592,
+            482,
+            927
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/82fc6655f4e4491fcab3a39c67247e22847e86c2700b0ffa21cd0f5289018938.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1> Sao Tomé andPrincipe</td></tr><tr><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>Senegal</td></tr><tr><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>Jamaica</td></tr><tr><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>Kosovo</td></tr><tr><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>Timor-Leste</td></tr><tr><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>Bulgaria</td></tr><tr><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>China</td></tr><tr><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>Moldova</td></tr><tr><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>Solomon Islands</td></tr><tr><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>Albania</td></tr><tr><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>Ghana</td></tr><tr><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>Burkina Faso</td></tr><tr><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>Cuba</td></tr><tr><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>Hungary</td></tr><tr><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1> South Africa</td></tr><tr><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>Tanzania</td></tr><tr><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>Trinidad and Tobago</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1> Kazakhstan</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>North Macedonia</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>Suriname</td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>Vietnam</td></tr><tr><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1>Colombia</td></tr><tr><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1>Guyana</td></tr></table>",
+        "bbox": [
+            719,
+            592,
+            905,
+            925
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            92,
+            40,
+            287,
+            51
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "4 ",
+        "bbox": [
+            92,
+            942,
+            104,
+            953
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e50c3f04a7011c5a7f721c4edd84db7b9d8db94ada9912c3979971bc38f16a70.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=2>Tunisia</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>33</td></tr><tr><td rowspan=2 colspan=1>39</td><td rowspan=3 colspan=2> ZambiaGambia</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1>33</td><td rowspan=2 colspan=1> Panama</td></tr><tr><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>Philippines</td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=2>India</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>Sierra Leone</td></tr><tr><td rowspan=2 colspan=1>38</td><td rowspan=3 colspan=2>MaldivesArgentina</td><td rowspan=1 colspan=2></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>32</td></tr><tr><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>Ecuador</td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=2>Ethiopia</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>Kenya</td></tr><tr><td rowspan=2 colspan=1>37</td><td rowspan=2 colspan=2> Indonesia</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>Sri Lanka</td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=2>Lesotho</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>Togo</td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=2>Morocco</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>Uzbekistan</td></tr><tr><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=2>Dominican Republic</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>Djibouti</td></tr><tr><td rowspan=1 colspan=1>35</td><td rowspan=7 colspan=2>SerbiaUkraineAlgeriaBrazilMalawi</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>Papua New Guinea</td></tr><tr><td rowspan=3 colspan=1>35</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=5 colspan=2></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>Peru</td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>Egypt</td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>El Salvador</td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>Mauritania</td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=4 colspan=2>NepalNigerThailand</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>28</td></tr><tr><td rowspan=2 colspan=1>34</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>Guinea</td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>Eswatini</td></tr><tr><td rowspan=2 colspan=1>34</td><td rowspan=5 colspan=2>TurkeyBelarusBosnia andHerzegovina</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1>27</td><td rowspan=2 colspan=1>Gabon</td></tr><tr><td rowspan=4 colspan=2></td></tr><tr><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>Liberia</td></tr><tr><td rowspan=2 colspan=1>33</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>Mali</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>Pakistan</td></tr><tr><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=2>Laos</td><td></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>Cameroon</td></tr></table>",
+        "bbox": [
+            92,
+            590,
+            490,
+            926
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2470919ba6887ece13047378066aa5629d2c8e4736f8319c3688d6588fe3a1b2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>Democratic Republicof the Congo</td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>Tajikistan</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1> Afghanistan</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>Burundi</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>Turkmenistan</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>Haiti</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>Myanmar</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>Korea, North</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>Sudan</td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1> Nicaragua</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1> Equatorial Guinea</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>Eritrea</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>Libya</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>Yemen</td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>syria</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Venezuela</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Somalia</td></tr><tr><td rowspan=1 colspan=1>：</td><td rowspan=1 colspan=1> South Sudan</td></tr></table>",
+        "bbox": [
+            719,
+            588,
+            904,
+            852
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            41,
+            904,
+            51
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "5 ",
+        "bbox": [
+            868,
+            942,
+            880,
+            953
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            391,
+            535,
+            401,
+            544
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            58,
+            530,
+            67,
+            537
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EXECUTIVE SUMMARY ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            105,
+            796,
+            165
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Two of the biggest challenges humanity faces are strongly intertwined: corruption and the climate crisis. While billions of people around the world face the daily consequences of climate change, resources for adaptation and mitigation remain woefully inadequate. Corruption intensifies these challenges, posing additional threats to vulnerable communities. ",
+        "bbox": [
+            94,
+            191,
+            820,
+            285
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A lack of adequate transparency and accountability mechanisms increases the risk that climate funds may be misused or embezzled. What is more, climate corruption can also take the form of undue influence, revolving doors between the public and private sectors, and regulatory capture by private actors. These factors have obstructed adoption of the ambitious policies and measures needed to address climate change, favouring the interests of narrow groups over the common good. The corruption crisis is a huge obstacle to solving the climate crisis. ",
+        "bbox": [
+            92,
+            341,
+            487,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As corruption grows in scale and complexity, over two thirds of countries now score below the mid-point on Transparency International’s Corruption Perceptions Index (CPI) – with huge and potentially devastating implications for global climate action. Corruption weakens governance structures, undermines law enforcement and diverts critical climate finance intended to reduce emissions and build resilience. In nations where corruption is pervasive, transparency in environmental decision-making is often compromised, leading to unfair outcomes and the destruction of natural resources. ",
+        "bbox": [
+            92,
+            527,
+            478,
+            712
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Even in countries with relatively low perceived corruption, the influence of lobbying presents additional challenges. Powerful corporate interests often shape or block climate policies to favour short-term profits over long-term environmental sustainability. This leads to watered-down regulations, delays in the transition to renewable energy, and insufficient action to meet international climate commitments. ",
+        "bbox": [
+            92,
+            728,
+            478,
+            866
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2/3 OF 50/ COUNTRIES SCORE BELOW 100 ",
+        "bbox": [
+            507,
+            338,
+            823,
+            403
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Corruption can also deepen the marginalisation of vulnerable populations who suffer disproportionately from the negative effects of climate change. Ensuring the inclusive design and implementation of climate initiatives, grounded in public participation, is crucial to enhancing the environmental and social outcomes of climate action. Without robust national anti-corruption measures, the effectiveness of global climate agreements such as the Paris Agreement remains at risk, further jeopardising efforts to combat the climate crisis. ",
+        "bbox": [
+            509,
+            449,
+            904,
+            604
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            40,
+            287,
+            51
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "6 ",
+        "bbox": [
+            92,
+            942,
+            104,
+            953
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AVERAGE CPI 2024 SCORE FOR DIFFERENT TYPES OF GOVERNMENT\\* ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            108,
+            608,
+            127
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Strong democracies vastly outperform flawed ones and authoritarian regimes in control of corruption. ",
+        "bbox": [
+            94,
+            152,
+            589,
+            179
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/37aab4285ea557641519a43e3e6450daa1d4aa2682d50d81dd0993d4de990d11.jpg",
+        "image_caption": [
+            "\\* Based on the Economist Intelligence Unit's (EIU) democracy classification for the year 2023. The total number of countries covered here is lower than the number covered by the CPI, as the EIU does not provide data for 13 of the countries in our sample. Data available at: https://ourworldindata.org/grapher/political-regime-eiu. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            196,
+            584,
+            432
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Corruption is an evolving global threat that does far more than undermine development – it is a key cause of declining democracy, instability and human rights violations. The international community and every nation must make tackling corruption a top and long-term priority. This is crucial to pushing back against authoritarianism and securing a peaceful, free and sustainable world. The dangerous trends revealed in this year’s Corruption Perceptions Index highlight the need to follow through with concrete action now to address global corruption. ",
+        "bbox": [
+            90,
+            581,
+            697,
+            755
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "François Valérian Chair, Transparency International ",
+        "bbox": [
+            168,
+            770,
+            435,
+            800
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddc4b83685b96047d113ad39d5bfee83bbbd8b330c65ced97a305d009b721666.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            658,
+            614,
+            912,
+            827
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            41,
+            904,
+            51
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "Photo: Denník N – Tomáš Benedikovič ",
+        "bbox": [
+            92,
+            835,
+            302,
+            847
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "7 ",
+        "bbox": [
+            870,
+            942,
+            880,
+            952
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RECOMMENDATIONS ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            107,
+            749,
+            165
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To effectively combat the climate crisis, we must place corruption at the centre of the global debate. Governments, international organisations and businesses must prioritise the integration of robust anti-corruption measures into climate finance, policies and projects. Transparency and accountability are essential to ensuring resources are protected, policies deliver on their objectives, and projects reach the communities that need them most. Addressing corruption head-on will rebuild societies’ trust in climate initiatives and drive progress toward a sustainable world. ",
+        "bbox": [
+            92,
+            191,
+            900,
+            323
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PUT INTEGRITY AT THE CENTRE OF CLIMATE EFFORTS. THIS IS KEY TO ACHIEVING REAL IMPACT. ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            418,
+            450,
+            463
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Anti-corruption measures can enhance countries’ ability to mitigate and adapt to the climate crisis. As the climate field is still developing, there is a unique chance to establish safeguards against theft, policy capture and other abuse. Strong collaboration between climate and anti-corruption actors is essential, with the United Nations (UN) Convention against Corruption offering a critical framework to support this work. ",
+        "bbox": [
+            92,
+            481,
+            477,
+            604
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ENHANCE INVESTIGATIONS, SANCTIONS AND PROTECTIONS TO COMBAT CORRUPTION. THIS WILL DETER ENVIRONMENTAL CRIMES AND REDUCE IMPUNITY. ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            419,
+            875,
+            479
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Access to justice can be improved through strengthening enforcement and oversight bodies – including anti-corruption bodies. Local communities need access to grievance mechanisms, while those who speak out – climate, land and environmental defenders, and whistleblowers – must be protected from all forms of retaliation. ",
+        "bbox": [
+            509,
+            497,
+            900,
+            604
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SHIELD CLIMATE POLICYMAKING PROCESSES FROM UNDUE INFLUENCE AT NATIONAL, REGIONAL AND INTERNATIONAL LEVELS. THIS WILL LEAD TO STRONGER CLIMATE ACTION. ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            712,
+            455,
+            774
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "STRENGTHEN CITIZEN ENGAGEMENT IN CLIMATE INVESTMENTS. THIS WILL ENABLE THOSE AFFECTED BY THE CLIMATE CRISIS TO HELP TAILOR THE SOLUTIONS. ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            712,
+            892,
+            774
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Reaching the highest levels of transparency and inclusivity in climate policies and finance allocation would unlock their full potential, while also reestablishing trust in climate initiatives. Creating mechanisms to detect and manage conflicts of interest – including through lobbying registers and declarations of interests – is essential to raise ambition in key climate fora such as the UN Framework Convention against Climate Change. ",
+        "bbox": [
+            92,
+            789,
+            489,
+            913
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Information on climate finance, projects and contracts needs to be open, accessible and disseminated in a timely way, in line with the principles of obtaining free, prior and informed consent from people affected by such initiatives. Inclusive accountability frameworks ensure communities are engaged throughout initiatives like the Just Energy Transition Partnerships between countries, including via oversight. This produces results that better address their needs. ",
+        "bbox": [
+            509,
+            790,
+            905,
+            928
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            40,
+            287,
+            51
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "8 ",
+        "bbox": [
+            92,
+            942,
+            104,
+            953
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            510,
+            346,
+            605,
+            400
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            94,
+            636,
+            186,
+            693
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            510,
+            640,
+            603,
+            693
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            94,
+            346,
+            186,
+            399
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GLOBAL HIGHLIGHTS",
+        "text_level": 1,
+        "bbox": [
+            95,
+            105,
+            776,
+            165
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Corruption affects billions of people worldwide, destroying lives, undermining human rights and exacerbating global crises. It blocks real action where it’s needed most – stalling critical policies, enabling impunity, and fuelling inequalities. ",
+        "bbox": [
+            94,
+            191,
+            878,
+            247
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Backed by sophisticated international moneylaundering networks, large-scale corruption empowers autocrats, illicitly enriches private actors and weakens democracy everywhere. No nation is immune, and ignoring corruption comes at a cost we can no longer afford. Every country has a role to play in stopping it. ",
+        "bbox": [
+            92,
+            310,
+            473,
+            403
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The CPI ranks 180 countries and territories according to the levels of public-sector corruption perceived by experts and businesspeople. It relies on 13 independent data sources and uses a scale of zero to 100, where zero is highly corrupt and 100 is very clean. ",
+        "bbox": [
+            92,
+            419,
+            482,
+            495
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The CPI highlights the stark contrast between nations with strong, independent institutions and free, fair ",
+        "bbox": [
+            92,
+            512,
+            463,
+            542
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "elections, and those with repressive authoritarian regimes. Full democracies have a CPI average of 73, while flawed democracies average 47 and non-democratic regimes just 33. This highlights that although some nondemocratic countries might be perceived as managing certain forms of corruption, the broader picture shows that democracy and strong institutions are crucial for combatting corruption fully and effectively. ",
+        "bbox": [
+            509,
+            310,
+            905,
+            434
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similarly, countries where civic space is guaranteed and protected tend to control corruption better. Those where the freedoms of expression, assembly and association are duly safeguarded tend to score relatively well on the CPI, while those lacking these freedoms largely have very low scores.1 ",
+        "bbox": [
+            509,
+            450,
+            902,
+            542
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CPI SCORE CHANGES, 2012-2024 ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            602,
+            359,
+            621
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Number of countries that the underlying data sources largely agree improved or declined over the period 2012 to 2024, for all 180 countries with data available. ",
+        "bbox": [
+            92,
+            644,
+            578,
+            673
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fb6dd0aa3663bdfb2dabb602ab9308704ed4c554509a64838d918a387ed4012.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            688,
+            584,
+            862
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            40,
+            904,
+            51
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "9 ",
+        "bbox": [
+            868,
+            942,
+            880,
+            953
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the seventh year in a row, Denmark heads the ranking, with a score of 90. Finland and Singapore take the second and third spots, with scores of 88 and 84, respectively. Scoring 83, New Zealand is out of the top three positions for the first time since 2012, but it remains in the top 10, together with Luxembourg (81), Norway (81), Switzerland (81), Sweden (80), the Netherlands (78), Australia (77), Iceland (77) and Ireland (77). ",
+        "bbox": [
+            92,
+            110,
+            477,
+            248
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile, countries experiencing conflict or with highly restricted freedoms and weak democratic institutions occupy the bottom of the index. South Sudan (8), Somalia (9) and Venezuela (10) take the last three spots. Syria (12), Equatorial Guinea (13), Eritrea (13), Libya (13), Yemen (13), Nicaragua (14), Sudan (15) and North Korea (15) complete the list of lowest scorers. ",
+        "bbox": [
+            509,
+            110,
+            870,
+            233
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MOST SIGNIFICANT MOVERS ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            298,
+            321,
+            318
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "These are countries that the underlying data sources largely agree improved or declined over the period 2015 to 2024. A full list of all statistically significant changes is available in the CPI 2024 dataset.2 ",
+        "bbox": [
+            92,
+            340,
+            892,
+            368
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9f9098fef3fff6783b5d2e894b6c8416a123e6bbd4e8dec5b7176bb4064a65f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            82,
+            407,
+            909,
+            869
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "10 ",
+        "bbox": [
+            94,
+            942,
+            114,
+            953
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            41,
+            287,
+            51
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CORRUPTION AND THE CLIMATE CRISIS ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            105,
+            759,
+            230
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The climate crisis is one of the most pressing challenges of our time, driven by a web of interconnected factors. Among them lies a crucial but often overlooked issue: corruption, which undermines climate action by misdirecting resources, enabling harmful practices and stifling progress. The CPI shows that corruption is a global problem, affecting every country and obstructing efforts to properly confront climate change. Corruption contributes to the climate crisis in several ways. ",
+        "bbox": [
+            92,
+            255,
+            907,
+            369
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. UNDUE INFLUENCE ON CLIMATE POLICIES AND DECISION-MAKING ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            403,
+            480,
+            434
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "By undermining the development and enforcement of critical climate and environmental policies, corruption obstructs efforts to implement stringent regulations, reduce emissions and promote clean energy initiatives. ",
+        "bbox": [
+            92,
+            450,
+            482,
+            511
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For decades, lobbyists from powerful industries – especially fossil fuel companies and car manufacturers3 – have unduly influenced politicians to derail efforts to reduce greenhouse gas emissions. This policy capture, combined with decision-makers having conflicts of ",
+        "bbox": [
+            92,
+            527,
+            478,
+            604
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "interest and moving through revolving doors between public- and private-sector jobs, creates significant barriers to meaningful climate governance worldwide. ",
+        "bbox": [
+            509,
+            404,
+            887,
+            449
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Undue influence on climate policy occurs in countries with both high and low corruption levels. However, it is in wealthy, developed countries that this interference undermines global progress the most. These nations hold the greatest responsibility to lead on ambitious climate goals, reduce emissions at scale and build resilience worldwide. When undue influence distorts their policies, it delays critical actions, weakens international cooperation and hampers the global fight against the climate crisis. ",
+        "bbox": [
+            510,
+            466,
+            904,
+            604
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We must urgently root out corruption before it fully derails meaning climate action. Governments and multilateral organisations must embed anti-corruption measures into climate efforts to safeguard finance, rebuild trust, and maximise impact. Today, corrupt forces not only shape but often dictate policies and dismantle checks and balances – silencing journalists, activists, and anyone fighting for equality and sustainability. True climate resilience demands tackling these threats directly and decisively. Vulnerable people around the world desperately need this action. ",
+        "bbox": [
+            92,
+            661,
+            746,
+            834
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Maíra Martini CEO, Transparency International ",
+        "bbox": [
+            163,
+            848,
+            423,
+            878
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5db7355549a298ec4e55c700c87e4ca67c86808f1f7f98b458a6954d9cec0ad2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            668,
+            708,
+            907,
+            909
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            40,
+            904,
+            51
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "Photo: Transparency International ",
+        "bbox": [
+            94,
+            916,
+            282,
+            928
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            870,
+            942,
+            887,
+            953
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIGURE 1: CORRUPTION AND READINESS TO ADAPT TO CLIMATE CHANGE ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            107,
+            677,
+            126
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Countries with lower corruption levels generally show better readiness to face the challenges posed by climate change. However, that is not enough – many are still not adopting the ambitious measures necessary to tackle the climate crisis, due in part to undue influence by businesses. ",
+        "bbox": [
+            92,
+            155,
+            884,
+            202
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/32f370bab5181733e4f65caa1cfe01560abb1137a4aba189590cf7358e28e40e.jpg",
+        "image_caption": [
+            "Source: Notre Dame Global Adaptation Initiative Country Index (ND-GAIN, 2024) and Transparency International Corruption Perceptions Index 2024 (2025) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            67,
+            237,
+            909,
+            629
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SOUTH AFRICA (41) shows a worrying trend, dropping by three points since 2019. In 2025, the country will host the G20 Leaders’ Summit, giving it a vital opportunity to advocate for increased climate finance commitments from G20 countries that do not conflate debt repayments, private financing and loans as a substitute for direct mechanisms to mitigate the climate crisis. South Africa must strengthen oversight mechanisms to ensure that domestic corruption does not interfere with such crucial international processes, as has happened at past summits. ",
+        "bbox": [
+            92,
+            744,
+            480,
+            913
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "IN THE UNITED STATES (65), a major energy company orchestrated a US\\$60 million bribery scheme to unduly influence public policy in its favour and slow a transition to renewable energy. The prosecutors argue that the company funnelled money to a politician – who maintains his innocence – and his associates so they would push through a billion-dollar bailout of two nuclear power plants. Reportedly, this helped the company to compete with newer, cheaper forms of energy and gain a competitive advantage. ",
+        "bbox": [
+            510,
+            744,
+            899,
+            898
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            40,
+            287,
+            51
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            94,
+            942,
+            112,
+            953
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. EMBEZZLEMENT AND MISUSE OF CLIMATE FUNDS ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            110,
+            341,
+            140
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Corruption threatens the funding allocated to mitigate and adapt to the effects of global heating. While the amount currently invested in mitigation and adaptation measures is just a fraction of what the United Nations (UN) estimates is needed to face this challenge, corruption – aided by lack of transparency – can undermine the effectiveness of these funds by diverting them from their intended purpose. There is also a worrying lack of metrics and frameworks for climate transparency and accountability, allowing some countries to be vague around their commitments: this can provide opportunities for corruption, as little information is available about the actual funds disbursed and the projects carried out. ",
+        "bbox": [
+            92,
+            156,
+            487,
+            372
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Very often,the countries that need this money the most, also tend to struggle to control corruption. By mainstreaming transparency and anti-corruption provisions into the management frameworks for such funds, stakeholders can help maximise their impact. ",
+        "bbox": [
+            92,
+            388,
+            473,
+            464
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In particular, safeguarding climate mitigation and adaptation initiatives from corruption can make them more effective and beneficial for the most vulnerable groups. Marginalised people usually have fewer options for adapting to extreme weather and pollution, leaving them most in need of government support. However, as corruption diverts much-needed funds into private pockets, these groups often remain particularly exposed to the effects of climate change caused by inadequate infrastructure, poor disaster preparedness and other forms of neglect. ",
+        "bbox": [
+            92,
+            481,
+            472,
+            526
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            110,
+            904,
+            233
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3. WEAK ENVIRONMENTAL PROTECTION ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            249,
+            823,
+            263
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Corruption severely undermines the enforcement of environmental laws and policies, by weakening regulatory oversight. Bribery and kickbacks can lead public officials, law enforcement, customs agents, harbour authorities, licensing bodies and regulators to either overlook environmental violations or actively benefit from them.6 ",
+        "bbox": [
+            509,
+            280,
+            892,
+            387
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Combatting corruption is therefore essential to ensuring that existing environmental regulations are enforced, preventing harmful practices and unsustainable resource exploitation. It is also vital in the fight against environmental crime – now the fourthlargest form of organised crime, generating annual profits for criminal networks estimated at between $\\cup S \\$ 82$ billion and $\\cup \\Sigma \\$ 238$ billion.7 ",
+        "bbox": [
+            509,
+            404,
+            894,
+            526
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            41,
+            904,
+            51
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            870,
+            942,
+            889,
+            953
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "FIGURE 2: CORRUPTION AND ENVIRONMENTAL HEALTH ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            105,
+            539,
+            124
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "While environmental protection is a multi-faceted phenomenon with many contributing factors, countries with better control of corruption tend to perform better at preserving their environments. ",
+        "bbox": [
+            90,
+            155,
+            872,
+            186
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/db5afc4f6b067cb8a159be6071f33b2903c008f73fa6bf2c181824aab779d9b7.jpg",
+        "image_caption": [
+            "Source: Environmental Performance Index (2024) and Transparency International Corruption Perceptions Index 2024 (2025) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            210,
+            905,
+            620
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "IN RUSSIA (22), an audit found strong indications that millions of dollars were misappropriated from a project funded by the Global Environment Facility and managed by the UN Development Programme (UNDP), which aimed to reduce emissions by strengthening energy efficiency standards. The project – which ran from 2010 to 2017 – reportedly failed to meet any of its emissions reduction targets. ",
+        "bbox": [
+            92,
+            696,
+            480,
+            820
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "DENMARK (90), the highest-ranking country on the CPI, is also seen as one of the most prepared for tackling the effects of climate change. Recognising the importance of addressing climate risks, thec country adopted its first national adaptation strategy in 2008. This was followed in by a national action plan in 2012, which highlights the vital role of local actors – including municipalities, businesses and individuals – in driving adaptation efforts. Today, 95 of Denmark’s 98 municipalities have climate action plans aligned with the Paris Agreement. Climate policymaking, however, is subject to the same structural challenges as other high-profile policy areas, including the risks of lobbying influence and a lack of transparency in the decisionmaking process. ",
+        "bbox": [
+            509,
+            696,
+            897,
+            928
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            41,
+            287,
+            51
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            94,
+            942,
+            112,
+            952
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4. THREATS TO ACTIVISTS ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            110,
+            290,
+            124
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Corruption makes it harder for people to speak out against climate change. Land and environmental defenders – who are frequently at the forefront of the fight against the climate crisis – are particularly exposed to violence, intimidation and even murder in countries where corruption levels are high. In the last five years, more than 1,000 environmental defenders have been killed, almost all of them in countries with CPI scores below 50. ",
+        "bbox": [
+            92,
+            141,
+            463,
+            248
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            110,
+            855,
+            139
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In short, we cannot solve the climate crisis unless we step up the fight against corruption – and increasingly frequent and severe environmental degradation, natural disasters and climate-related instability show we must act now. ",
+        "bbox": [
+            509,
+            156,
+            892,
+            233
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "FIGURE 3: CORRUPTION AND MURDER OF ENVIRONMENTAL DEFENDERS ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            281,
+            667,
+            303
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Environmental defenders are at far higher risk of violence, intimidation and murder in countries with high corruption levels. Almost all of the 1,013 murders of environmental defenders since 2019 took place in countries with CPI scores below 50. ",
+        "bbox": [
+            92,
+            326,
+            890,
+            370
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            92,
+            378,
+            907,
+            863
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1 enviromental defender killed ",
+        "bbox": [
+            110,
+            865,
+            310,
+            878
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            41,
+            904,
+            51
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            870,
+            942,
+            889,
+            953
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "This graphic only considers the 180 countries and territories included in the sample of the Corruption Perceptions Index. ",
+        "bbox": [
+            97,
+            916,
+            709,
+            927
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "Source: Transparency International Corruption Perceptions Index 2024 (2025) and Global Witness Annual Defenders Report 2023/2024 (2024). ",
+        "bbox": [
+            94,
+            896,
+            813,
+            907
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            717,
+            863,
+            902,
+            878
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This year’s analysis showed again how fossil fuel corruption undermines climate efforts, including in the United States. Around the world, communities are demanding climate action from their governments. But the people’s voices are time and again countered by the corrupting power of the oil and gas companies profiting from environmental devastation, ",
+        "bbox": [
+            90,
+            104,
+            880,
+            190
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "who use their billions to attempt to silence critics and activists, to buy power, and to dismantle the protections that safeguard our families and our planet. Greenpeace organisations and our allies are facing such a threat from pipeline giant Energy Transfer, which is trying to wipe us off the map in the US with a massive, specious lawsuit. It’s up to all of us who care about the future to stand up to these corporate bullies, no matter the cost. ",
+        "bbox": [
+            168,
+            192,
+            618,
+            347
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Mads Christensen Executive Director Greenpeace International ",
+        "bbox": [
+            168,
+            361,
+            519,
+            391
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd933dcaac1b8e0fdcbe2e60d551f4201529bce979f2ccc669e5e22218245318.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            600,
+            200,
+            949,
+            420
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Photo: Tim Aubry / Greenpeace ",
+        "bbox": [
+            92,
+            428,
+            267,
+            439
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIBYA (13) faces acute vulnerabilities to climate change, including extreme heat, dwindling rainfall, rising sea levels and prolonged droughts. These challenges are compounded by widespread corruption and the absence of a cohesive adaptation strategy, deepening the country’s instability. In 2023, Storm Daniel caused catastrophic flooding, killing over 11,000 people, according to Libyan authorities. The disaster, which swept away entire neighbourhoods, was partly attributed to poorly maintained infrastructure, including two dams that collapsed due to corruption and neglect. ",
+        "bbox": [
+            92,
+            511,
+            485,
+            696
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "VIETNAM (40) illustrates how systemic corruption, extending from lower level to high-ranking public officials, drives environmental destruction and forest degradation. Bribes and kickbacks to senior Vietnamese officials, alongside customs and border personnel, have facilitated the smuggling of illegally harvested Cambodian timber into Vietnam and laundering of it into the legal market. ",
+        "bbox": [
+            509,
+            512,
+            880,
+            634
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            41,
+            287,
+            51
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "discarded",
+        "text": "16 ",
+        "bbox": [
+            94,
+            942,
+            112,
+            953
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "REGIONAL ANALYSES ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            105,
+            768,
+            165
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Corruption and efforts to fight it take various forms and have different trends around the world. From the Americas to the Middle East and the Pacific, each region has its own causes for concern – and also optimism – with countries following various trajectories in the struggle for integrity. Our regional analyses provide overviews of the key corruption topics and hot-spots in each region, signposting the main things to know if you want to stop corruption in those places. ",
+        "bbox": [
+            92,
+            190,
+            907,
+            305
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/94c6460e4ec46d29fc21911f40c2441cc31477df0f5feb00a20b33c98a7855c5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            355,
+            188,
+            414
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "THE AMERICAS ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            435,
+            210,
+            448
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Corruption fuels environmental crime and impunity across the region ",
+        "bbox": [
+            92,
+            450,
+            327,
+            495
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The absence of effective anticorruption measures promotes human rights violations, and increases the influence of elites and organised crime on policy-making. ",
+        "bbox": [
+            92,
+            512,
+            347,
+            588
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/99bdd730cb0c5a8dede65c1611256b02592b12ac2a96b09b1202a7b253ab4069.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            371,
+            361,
+            465,
+            414
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ASIA PACIFIC ",
+        "text_level": 1,
+        "bbox": [
+            371,
+            435,
+            473,
+            447
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Leaders failing to stop corruption amid an escalating climate crisis ",
+        "bbox": [
+            371,
+            451,
+            616,
+            480
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In the region most prone to natural disasters, governments across Asia Pacific are still not delivering on anti-corruption pledges. ",
+        "bbox": [
+            369,
+            497,
+            621,
+            557
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/d03b2212b0f9e12c0a61c6d4cca653440c7ef37593e3cae5dc3449bb08ae62cb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            650,
+            366,
+            742,
+            417
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "EASTERN EUROPE & CENTRAL ",
+        "text_level": 1,
+        "bbox": [
+            650,
+            435,
+            878,
+            448
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ASIA ",
+        "text_level": 1,
+        "bbox": [
+            648,
+            451,
+            687,
+            462
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Vicious cycle of weak democracy and flourishing corruption ",
+        "bbox": [
+            650,
+            467,
+            889,
+            495
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Weak democratic institutions and rule of law are exacerbated by ongoing instability and external pressures. ",
+        "bbox": [
+            647,
+            512,
+            887,
+            573
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c5325e48c0ca300d23dd376ddabedfb52a77d1b41f6f773c68c72285b256c98.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            634,
+            188,
+            686
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "MIDDLE EAST & ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            699,
+            215,
+            709
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "NORTH AFRICA ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            714,
+            213,
+            726
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Corruption linked to authoritarianism, but calls for reform emerging ",
+        "bbox": [
+            92,
+            730,
+            314,
+            774
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Stagnation stems mostly from nearabsolute control by political leaders, who benefit from the wealth they direct toward themselves, clamping down on any dissent to maintain their power. ",
+        "bbox": [
+            92,
+            790,
+            349,
+            882
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/6253adee869af159110ebcd65848ad915b62a51c6a62a31be81d5eb1baa95c75.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            371,
+            643,
+            465,
+            684
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SUB-SAHARAN AFRICA ",
+        "text_level": 1,
+        "bbox": [
+            371,
+            697,
+            547,
+            711
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Weak anti-corruption measures undermine climate action ",
+        "bbox": [
+            371,
+            714,
+            601,
+            743
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Amid a very low regional performance in 2024, there were African countries that invested in anti-corruption and made remarkable progress. ",
+        "bbox": [
+            369,
+            759,
+            591,
+            835
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/44a0a093b25db5cead15320bfdb1c2fa394827e5dca037e557604cb5f0414f1d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            650,
+            618,
+            742,
+            686
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "WESTERN EUROPE & EUROPEANUNION",
+        "text_level": 1,
+        "bbox": [
+            647,
+            697,
+            899,
+            726
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Leaders’ hollow efforts cause worsening corruption levels ",
+        "bbox": [
+            648,
+            730,
+            863,
+            758
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In fragile times, anti-corruption efforts are falling short. This is hindering the region’s response to the climate crisis and other challenges, like fraying rule of law and overstrained public services. ",
+        "bbox": [
+            647,
+            775,
+            889,
+            866
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "discarded",
+        "text": "17 ",
+        "bbox": [
+            870,
+            942,
+            889,
+            953
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            40,
+            905,
+            51
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "METHODOLOGY ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            107,
+            583,
+            165
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The Corruption Perceptions Index (CPI) aggregates data from a number of different sources that provide perceptions among businesspeople and country experts of the level of corruption in the public sector. ",
+        "bbox": [
+            94,
+            199,
+            858,
+            256
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Transparency International takes the following steps to calculate the CPI: ",
+        "bbox": [
+            92,
+            296,
+            463,
+            324
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2. STANDARDISE DATA SOURCES TO A SCALE OF 0-100 ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            296,
+            763,
+            324
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1. SELECT DATA SOURCES ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            342,
+            290,
+            356
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Each data source used to construct the CPI must fulfil the following criteria to qualify as valid: ",
+        "bbox": [
+            92,
+            373,
+            453,
+            403
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This standardisation is achieved by subtracting the mean of each source in the baseline year from each country score, then dividing by the standard deviation of that source in the baseline year. This subtraction and division using the baseline year parameters ensures that the CPI scores are comparable year on year since 2012. After this procedure, the standardised scores are transformed to the CPI scale by multiplying them with the value of the CPI standard deviation in 2012 (20) and adding the mean of the CPI in 2012 (45), so that the dataset fits the CPI’s 0-100 scale. ",
+        "bbox": [
+            510,
+            342,
+            904,
+            511
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "quantifies risks or perceptions of corruption in the public sector • is based on a reliable and valid methodology comes from a reputable organisation allows for sufficient variation of scores to distinguish between countries ranks a substantial number of countries considers only the assessments of country experts or businesspeople • is regularly updated. ",
+        "bbox": [
+            92,
+            418,
+            433,
+            665
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3. CALCULATE THE AVERAGE ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            527,
+            731,
+            542
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "For a country or territory to be included in the CPI, it must be assessed by a minimum of three sources. A country’s CPI score is calculated as the average of all standardised scores available for it. Scores are rounded to whole numbers. ",
+        "bbox": [
+            510,
+            558,
+            904,
+            634
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The CPI 2024 is calculated using 13 different data sources from 12 different institutions that capture perceptions of corruption within the past two years. ",
+        "bbox": [
+            92,
+            682,
+            460,
+            727
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4. REPORT THE MEASURE OF UNCERTAINTY ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            651,
+            835,
+            665
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The CPI score is accompanied by a standard error and confidence interval. This captures the variation across the data sources available for a country or territory. ",
+        "bbox": [
+            509,
+            682,
+            894,
+            727
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            40,
+            287,
+            51
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "18 ",
+        "bbox": [
+            94,
+            942,
+            112,
+            953
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ENDNOTES ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            108,
+            430,
+            164
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. Pring, C. J. Vrushi and R. Martinez Barranco Kukutschka (2018). “Digging Deeper into Corruption, Violence against Journalists and Active Civil Society” https://www.transparency.org/en/news/diggingdeeper-into-corruption-violence-against-journalists ",
+        "bbox": [
+            94,
+            203,
+            485,
+            279
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. The CPI 2024 dataset can be found here: https://www.transparency.org/en/cpi/2024 ",
+        "bbox": [
+            92,
+            296,
+            428,
+            325
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3. Ilaria Schmoland et al., “Pipelines of Power. Big Oil’s Lobbying Footprint on EU Climate Policy” (Transparency International EU, 2024). ",
+        "bbox": [
+            92,
+            342,
+            462,
+            387
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4. Barbara Buchner et al., “Global Landscape of Climate Finance $2 0 2 3 \"$ , Climate Policy Initiative, November 2023. ",
+        "bbox": [
+            92,
+            404,
+            445,
+            449
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5. UNCTAD, “The Costs of Achieving the SDGs: Climate Change”, accessed 28 June 2024, https://unctad.org/ sdg-costing/climate-change. ",
+        "bbox": [
+            507,
+            203,
+            904,
+            248
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6. Tanya Wyatt, Daan Van Uhm and Angus Nurse, “Differentiating Criminal Networks in the Illegal Wildlife Trade: Organized, Corporate and Disorganized Crime”, Trends in Organized Crime 23, no. 4 (December 2020): 350–66, https://doi. org/10.1007/s12117-020-09385-9. ",
+        "bbox": [
+            509,
+            265,
+            865,
+            355
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "7. European Commission, “Environmental Crime Directive”, accessed 28 June 2024, https:// environment.ec.europa.eu/law-and-governance/ environmental-compliance-assurance/ environmental-crime-directive_en. ",
+        "bbox": [
+            509,
+            373,
+            870,
+            449
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "discarded",
+        "text": "CORRUPTION PERCEPTIONS INDEX 2024 ",
+        "bbox": [
+            667,
+            40,
+            904,
+            51
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            870,
+            942,
+            889,
+            953
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ENGAGE ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            172,
+            608,
+            197
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Follow us, share your views and discuss corruption with people from around the world on social media. ",
+        "bbox": [
+            510,
+            218,
+            878,
+            247
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Facebook: /transparencyinternational Twitter/X: @anticorruption LinkedIn: @transparency-international Instagram: @Transparency_International YouTube: @TransparencyIntl ",
+        "bbox": [
+            510,
+            265,
+            810,
+            341
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "LEARN ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            395,
+            591,
+            419
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Visit our website to learn more about our work in more than 100 countries and sign up for the latest news in the fight against corruption. ",
+        "bbox": [
+            510,
+            435,
+            867,
+            480
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "transparency.org ",
+        "bbox": [
+            510,
+            498,
+            636,
+            511
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "DONATE ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            564,
+            606,
+            590
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Your donation will help us provide support to thousands of victims of corruption, develop new tools and research, and hold governments and businesses to their promises. We want to build a fairer, more just world. With your help, we can. ",
+        "bbox": [
+            509,
+            605,
+            892,
+            681
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "transparency.org/donate ",
+        "bbox": [
+            510,
+            697,
+            695,
+            712
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "TRANSPARENCY INTERNATIONAL ",
+        "bbox": [
+            94,
+            41,
+            287,
+            49
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            94,
+            942,
+            112,
+            953
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Transparency International International Secretariat Alt-Moabit 96, 10559 Berlin, Germany ",
+        "bbox": [
+            80,
+            730,
+            351,
+            772
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Phone: +49 30 34 38 200 ti@transparency.org www.transparency.org ",
+        "bbox": [
+            84,
+            780,
+            260,
+            794
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            82,
+            802,
+            248,
+            829
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Blog: transparency.org/blog Facebook: /transparencyinternational Twitter/X: @anticorruption LinkedIn: @transparency-international Instagram: @Transparency_International YouTube: @TransparencyIntl ",
+        "bbox": [
+            82,
+            837,
+            374,
+            923
+        ],
+        "page_idx": 20
+    }
+]

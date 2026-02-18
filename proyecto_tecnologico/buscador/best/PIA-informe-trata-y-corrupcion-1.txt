@@ -1,0 +1,1428 @@
+Corrupción, género y tratade personas: análisis de las normativas locales_Informe del Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones Administrativas y Oﬁcinas Anticorrupción de Argentina- 2022 -Foro Permanente de Fiscalías de Investigaciones Administrativas y Oﬁcinas AnticorrupciónPROCURADURÍADE INVESTIGACIONESADMINISTRATIVASCorrupción,  género  y  trata  de  personas:  análisis  de  las  normativas  locales.  Informe  del 
+
+Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de 
+
+Investigaciones Administrativas y Oficinas Anticorrupción de Argentina
+
+_____________________
+
+Documento elaborado por el Grupo de trabajo sobre corrupción y trata de personas del Foro 
+
+FIA y OA que fue integrado por: 
+
+Procuraduría de Investigaciones Administrativas - PIA (a cargo de la coordinación del grupo). 
+
+Titular:  Sergio  L.  Rodríguez  (Fiscal  Nacional  de  Investigaciones  Administrativas).  A  cargo  del 
+
+proyecto: Andrea Garmendia Orueta (Fiscal de Investigaciones Administrativas) con la colaboración 
+
+de Rocío Rodríguez Fortes.
+
+Fiscalía  de  Investigaciones  Administrativas  de  Chaco.  Titular:  Gustavo  Leguizamón  (Fiscal 
+
+General). A cargo del relevamiento: Margarita Beveraggi (Fiscal Adjunta)
+
+Oficina Anticorrupción de Chubut. Titular: Guillermo Hansen (Fiscal Anticorrupción). A cargo del 
+
+relevamiento: Sebastián Pinola (Secretario General de Transparencia Pública)
+
+Fiscalía  de  Investigaciones  Administrativas  de  La  Pampa.  Titular:  Juan  Carlos  Carola  (Fiscal 
+
+General).  A  cargo  del  relevamiento:  Gabriela  Tabernero  (Fiscal  Adjunta),  Andrea  L.  Baglietto 
+
+(Directora de Sumarios) y Cecilia Bertolé (Secretaria Letrada) 
+
+Fiscalía  de  Investigaciones  Administrativas  de  Río  Negro.  Titular:  Fabián  Gatti  (Fiscal  de 
+
+Investigaciones  Administrativas).  A  cargo  del  relevamiento:  Roberto  Díaz  (Director  de  Prensa  y 
+
+Comunicación) en conjunto con Mónica Larrañaga (Secretaria de Acompañamiento y Protección 
+
+Social del Ministerio de Desarrollo Humano de Río Negro)
+
+Oficina  Anticorrupción  de  Jujuy.  Titular:  Josefa  Herrera  (Fiscal  Anticorrupción).  A  cargo  del 
+
+relevamiento:  Analía  Martínez  (responsable  del  Departamento  de  Prevención  y  Relaciones 
+
+Institucionales)
+
+Dirección  de  Investigaciones,  Ética  Pública  y  Transparencia  del  municipio  de  Rosario.  Anahí 
+
+Priotti (Directora General), Verónica Linares (Directora Administrativa), Silvia Ramella (Directora 
+
+de Sumarios) y  Luciana Pareti (administrativa)
+
+_______________________ 
+
+Diseño: Dirección de Comunicación Institucional de la Procuración General de la Nación – Ministerio 
+
+Público Fiscal
+
+Coordinación y edición: Procuraduría de Investigaciones Administrativas. PIA
+
+Publicación: Febrero 2022 
+
+2022Informe del Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones Administrativas y Oﬁcinas Anticorrupción de ArgentinaCorrupción, género y tratade personas: análisis de las normativas localesÍndice
+
+I. 
+
+Introducción .....................................................................................................................................7
+
+II.  Actividad del grupo de trabajo sobre corrupción y trata de personas en el ámbito del Foro 
+
+Permanente de Fiscalías de Investigaciones Administrativas y Oficinas Anticorrupción .....10
+
+III.  Objetivos, hipótesis y metodología de trabajo ........................................................................ 12
+
+IV.  Análisis de la información ............................................................................................................ 15
+
+1) Normativa sobre trata y explotación de personas ............................................................................ 15
+
+2) Normativa sobre transparencia – obligación de prestar declaraciones juradas ................... 19
+
+3) Normativas sobre violencia de género  ...............................................................................................20
+
+4) El rol de los municipios: normativa de habilitaciones ....................................................................20
+
+V. 
+
+Conclusiones y desafíos .............................................................................................................. 24
+
+VI.  Buenas prácticas y recomendaciones ........................................................................................25
+
+VII.  Anexo: normativa relevada por jurisdicción............................................................................. 30
+
+I. 
+
+INTRODUCCIÓN
+
+Este informe sintetiza resultados y conclusiones elaborados por el Grupo de Trabajo sobre corrupción 
+facilitadora  de  la  trata  de  personas  constituido  en  el  seno  del  Foro  Permanente  de  Fiscalías  de 
+Investigaciones Administrativas y Oficinas Anticorrupción de Argentina (en adelante Foro FIA y OA). 
+El Grupo de Trabajo (en adelante GT) fue integrado por la FIA de Chaco, la OA de Chubut, la FIA de 
+La Pampa, la FIA de Rio Negro, la OA de Jujuy, la Dirección de Investigaciones, Ética y Transparencia 
+del  municipio  de  Rosario  (provincia  de  Santa  Fe),  bajo  la  coordinación  de  la  Procuraduría  de 
+Investigaciones Administrativas (PIA) del Ministerio Público Fiscal de la Nación. Las conclusiones y 
+recomendaciones que aquí se presentan se expusieron en la Segunda Reunión Anual Ordinaria del 
+Foro FIA y OA del 10 de diciembre de 20211.
+
+El GT se conformó en agosto de 2020 a propuesta de la PIA, como parte de las actividades que esta 
+Procuraduría viene realizando en el marco de un proyecto regional sobre corrupción y género que se 
+desarrolla en la Red de Fiscales contra la Corrupción de la Asociación Iberoamericana de Ministerios 
+Públicos (AIAMP) con el apoyo de la agencia de cooperación EUROsociAL+2. 
+
+Una de las principales líneas de trabajo de este proyecto regional es la corrupción facilitadora de la 
+trata de personas, fenómeno que tiene un impacto específico y diferenciado contra mujeres y niñas. 
+La corrupción es un elemento esencial para sostener las redes de trata de personas, por lo que resulta 
+imposible  desarticular  las  redes  criminales  de  trata  sin  perseguir  a  los  funcionarios  públicos  que 
+permiten operar al mercado criminal.  
+
+A este respecto, el Comité CEDAW (órgano de aplicación de la Convención para la Eliminación de la 
+Discriminación contra la Mujer3) en su Recomendación General nº 38 ha instado a “investigar con 
+prontitud, enjuiciar y castigar debidamente a quienes participan directamente en la trata y a quienes 
+se muestran negligentes al afrontar o prevenir la trata, incluida la presunta corrupción de funcionarios 
+públicos y miembros del sector privado”4. 
+
+La  corrupción  pública  puede  ocurrir  desde  cobros  periódicos  de  dinero  o  favores  sexuales,  por 
+
+1.   Se presentaron avances de este trabajo en las reuniones ordinarias del Foro FIA y OA del 20 de diciembre de 2020 y del 3 de junio de 2021. Este informe 
+final fue aprobado en la reunión del 10 de diciembre de 2021. Cfr. actas en https://www.mpf.gob.ar/pia/tipo_de_recurso/actas-reuniones/
+
+2.   Este proyecto consta de distintas actividades que se aprobaron en el plan de trabajo de la Red de Fiscales contra la Corrupción de AIAMP. Plantea 2 ejes 
+temáticos: la sextorsión (o extorsión sexual) y la corrupción facilitadora de la trata de personas para la explotación sexual. Este último punto, en el ámbito local 
+se desarrolla en alianza con la Red de Fiscales contra la Trata y el Tráfico Ilícito de Migrantes (RedTRAM) que está coordinado por la PROTEX. En particular 
+sobre corrupción facilitadora de trata, el proyecto tiene distintos componentes: 1) construcción de información sobre el fenómeno, 2) sistematización de buenas 
+prácticas, 3) consolidación de canales de denuncia y elaboración de pautas de investigación para prevenir, investigar y sancionar la corrupción en casos de 
+trata de personas y 4) fortalecimiento interinstitucional para lograr la articulación entre áreas de corrupción y trata y entre distintos organismos a nivel local y 
+regional. 
+
+3.   La Convención para la Eliminación de la Discriminación contra la Mujer (CEDAW) fue aprobada por ley 23.179 en 1985 e incorporada a la Constitución 
+Nacional en el art. 75 inc. 22 en 1994. 
+
+4.   Comité CEDAW. Recomendación General núm. 38 sobre trata de mujeres y niñas en contextos de migración mundial, punto 105
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 7
+
+funcionarios  que  omiten  sus  deberes  de  vigilancia  o  dan  aviso  de  actuaciones  investigativas  o  de 
+inspección, hasta situaciones donde son los propios funcionarios quienes controlan el negocio ilícito 
+o  son  miembros  de  la  red.  Estas  conductas  pueden  ser  individuales  o  partes  de  un  entramado  de 
+corrupción sistémica, llegando hasta la cooptación institucional5. Es decir, desde una violación de 
+deberes hasta el crimen organizado. Las Redes de Fiscales contra la Corrupción y de Trata y Tráfico 
+Ilícito de Migrantes de AIAMP emitieron una declaración conjunta en 2020 en la que describen las 
+modalidades  de  este  fenómeno,  alertando  sobre  la  necesidad  de  combatirlo  de  manera  articulada 
+entre los organismos antitrata y anticorrupción6.  
+
+A  fin  de  generar  insumos  para  intervenir  en  este  fenómeno,  la  PIA  realizó  una  recopilación  de 
+información  sobre  la  corrupción  facilitadora  de  la  trata  en  nuestro  país  que  permitió  elaborar  un 
+diagnóstico para poder aplicar a localmente algunas de las conclusiones elaboradas a nivel regional, 
+que se publicó como Corrupción facilitadora de la trata de personas desde la perspectiva de género. 
+Análisis  diagnóstico,  casuístico  y  normativo7.  En  particular,  para  conocer  la  dinámica  delictiva  se 
+realizó un análisis de casos a partir de los fallos de trata con participación de funcionarios públicos 
+dictados por la Cámara Federal de Casación Penal entre 2012 y 2019. 
+
+Entre otras cuestiones este estudio concluyó que:  
+
+ •
+
+ •
+
+A nivel nacional, la tipología de casos muestra que este fenómeno se da principalmente en  
+la trata sexual, y en la instancia de explotación, y que los actores de riesgo son las fuerzas de 
+seguridad y los agentes municipales. No obstante puede obedecer a un sesgo sobre aquellos 
+casos que han podido ser captados por las investigaciones judiciales.
+
+La corrupción facilitadora es todavía un fenómeno poco investigado y debe profundizarse sobre 
+la cadena de responsabilidad de funcionarios públicos. Para ello, es menester incorporar la 
+mirada anticorrupción en la investigación de trata para fortalecer el supuesto de participación 
+de funcionarios públicos en los hechos;  agudizar la capacidad de detectar indicios sobre la 
+participación de funcionarios públicos; delimitar las responsabilidades a atribuir; y aportar 
+herramientas  de  investigación  para  profundizar  en  la  cadena  de  imputación,  incluir  un 
+análisis  patrimonial  del  delito  y  agilizar  las  investigaciones,  a  partir  de  la  integración  de 
+actuaciones administrativas con las penales y subir en la cadena de imputación.
+
+5.   Una descripción analítica y casuística de la corrupción asociada a la trata se encuentra en Solano Lopez, Ana Linda. 2019. (mimeo). Mujer y corrupción. 
+Estrategias para abordar los impactos diferenciados de la corrupción en América Latina. Área de Políticas de Gobernanza Democrática de EUROsociAL+ en 
+FIIAPP
+
+6.    Declaración  conjunta  entre  la  Red  Iberoamericana  de  Fiscales  contra  la  Corrupción  y  la  Red  de  Trata  de  Personas  y  Tráfico  Ilícito  de  Migrantes  de  la 
+AIAMP, con el apoyo del Programa EUROsociAL+ a través del Área de Gobernanza, para impulsar el combate a la corrupción facilitadora de la trata de mujeres 
+y  niñas  con  motivo  del  día  Mundial  contra  la  Trata  30  de  julio  de  2020.  Cfr.  www.aiamp.info/images/ADeclaraciones/declaracion-conjunta-red-corrupcion-
+redtram-30-7-20.pdf
+
+7.   PIA – Procuraduría de Investigaciones Administrativas MPF. 2021. Corrupción facilitadora de la trata de personas desde la perspectiva de género. Análisis 
+diagnóstico, casuístico y normativo. https://www.fiscales.gob.ar/wp-content/uploads/2021/09/PIA_Informe_Trata_de_Personas.pdf 
+
+8 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+ •
+
+El  análisis  de  género  es  esencial  para  abordar  este  fenómeno  delictivo.  Muchas  veces, 
+confluyen  en  la  corrupción  facilitadora  otras  modalidades  de  corrupción  sexual  como  la 
+sextorsión8.
+
+ • Dado que es una temática que integra la trata, la corrupción y la violencia de género, es 
+necesario incluir lo dispuesto en la normativa internacional ratificada por nuestro país y las 
+obligaciones que surgen de este corpus de derechos. 
+
+ • Respecto  de  los  funcionarios  públicos,  para  prevenir,  investigar  y  sancionar  posibles 
+conductas ilícitas asociadas a la trata, es necesario tener presente los distintos mecanismos 
+de control sobre estos agentes según sean nacionales, provinciales o municipales. 
+
+ •
+
+Además,  evaluar  que  las  normativas  que  regulan  actividades  vinculadas  a  la  trata  estén 
+armonizadas con el marco normativo nacional e internacional, de manera de evitar normativas 
+locales que pueden distorsionar el rol de agentes públicos de detección de casos y dificultar 
+la atribución de responsabilidades de los funcionarios y una persecución uniforme y eficiente.
+
+De este análisis de información de la PIA, y específicamente sobre el último punto mencionado, surgió 
+la  hipótesis  que  guía  el  presente  trabajo:  ciertos  riesgos  de  corrupción  facilitadora  de  trata  están 
+vinculados con normativas provinciales y municipales que, al no encontrarse en línea con estándares 
+convencionales y con el marco normativo nacional, facilitan la participación de funcionarios públicos 
+en la trata y explotación de personas y dificultan su investigación y sanción. 
+
+Teniendo en cuenta las distintas competencias nacionales, provinciales y municipales que regulan 
+tanto actividades que pueden ser foco de trata y explotación como mecanismos de control y sanción 
+de funcionarios públicos de distintos órdenes, el objetivo del trabajo del grupo constituido en el Foro 
+de FIA y OA fue hacer un relevamiento y análisis normativo que pudiera capturar caracteres generales 
+en 4 dimensiones: normativa provincial y local sobre trata y explotación; sobre transparencia y control 
+de funcionarios públicos; sobre violencia de género; y sobre normativas de orden municipal. 
+
+Este  informe  condensa  esa  experiencia  de  trabajo,  analiza  la  información  normativa  de  cada 
+jurisdicción, identifica buenas prácticas y recomendaciones para fortalecer tanto la prevención como 
+la investigación de este fenómeno desde el punto de vista de los organismos anticorrupción.
+
+8.  El concepto de sextorsión fue desarrollado en 2012 por la Asociación Internacional de Mujeres Juezas (IAWJ) para describir la forma de corrupción en que 
+la moneda de cambio es el sexo. Se define como el abuso de poder para obtener un beneficio sexual. Cfr. International Association of Women Judges -  IAWJ. 
+2012. Naming, shaming, and ending sextortion. En los últimos años, organizaciones de la sociedad civil han generado acciones de incidencia para visibilizar 
+este fenómeno. Cfr. Transparencia Internacional. 2021. Corrupción y género; Poder Ciudadano y Equipo Latinoamericano de Justicia y Género (ELA). 2021. 
+Género y corrupción en América Latina: urgencias y oportunidades para la articulación de agendas desde la sociedad civil.
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 9
+
+II.  ACTIVIDAD DEL GRUPO DE TRABAJO SOBRE CORRUPCIÓN Y TRATA DE 
+PERSONAS  EN  EL  ÁMBITO  DEL  FORO  PERMANENTE  DE  FISCALÍAS  DE 
+INVESTIGACIONES ADMINISTRATIVAS Y OFICINAS ANTICORRUPCIÓN    
+
+El  Foro  de  FIA  y  OA  reúne  a  Fiscalías  de  Investigaciones  Administrativas,  Oficinas  Anticorrupción 
+y  a  otros  órganos  estatales  equivalentes  a  nivel  nacional,  provincial  y  municipal.  En  línea  con  las 
+obligaciones internacionales establecidas por la Convención de Naciones Unidas contra la Corrupción 
+y  la  Convención  Interamericana  contra  la  Corrupción,  el  Foro  FIA  y  OA  actúa  para  fortalecer  los 
+programas de transparencia, combate la corrupción y fortalecimiento de la ética pública y la probidad 
+que se desarrollan en las respectivas jurisdicciones que la integran. 
+
+En la primera reunión ordinaria del Foro del año 2020, celebrada el 29 de junio de ese año, la PIA 
+y expertos/as de EUROsociAL+ expusieron las líneas de trabajo sobre corrupción facilitadora de la 
+trata que venían desarrollando en el ámbito de la AIAMP. La PIA además propuso crear un Grupo de 
+Trabajo (GT) a aquellas FIA y OA que voluntariamente quisieran integrarlo para analizar la situación de 
+la corrupción facilitadora en cada una de las jurisdicciones. El grupo se conformó con la participación 
+del municipio de Rosario (provincia de Santa Fe), las provincias de Chaco, Chubut, La Pampa, Rio 
+Negro, Jujuy y la PIA.
+
+Dos meses luego, se desarrolló la primera reunión de este GT en la cual cada una de las jurisdicciones 
+presentaron  su  situación  y  particularidades  sobre  la  cuestión,  teniendo  en  cuenta  las  diferencias 
+geográficas en la provincia, la relación municipios con autoridades provinciales, las articulaciones con 
+las áreas de trata y con la justicia provincial y federal, y los antecedentes de intervenciones en trata 
+y en cuestiones de género. 
+
+En los meses siguientes, desde la PIA se realizaron reuniones una a una con las FIA y OA integrantes 
+del Grupo de Trabajo para ver cómo se encontraban desarrollando el proyecto y se confeccionó un 
+cuestionario modelo orientativo con los puntos de relevamiento. 
+
+Teniendo  en  cuenta  el  diagnóstico  preliminar  que  había  realizado  la  PIA  sobre  la  jurisprudencia 
+federal en casos de trata con participación de funcionarios públicos y las primeras aproximaciones 
+que cada una de las FIA y OA provinciales iban recabando, se delineó la hipótesis de trabajo, los 
+objetivos y la metodología de abordaje. 
+
+El trabajo se focalizó en un relevamiento normativo en cada jurisdicción, tanto del orden provincial 
+como municipal, para el cual cada una de las FIA y OA aplicó técnicas de recolección participativas, 
+que incluyeron reuniones e intercambios con otros organismos de la respectiva provincia y municipios. 
+En la práctica, además de orientarse a la recolección de información, este trabajo generó contactos 
+entre  áreas  de  trata  y  organismos  de  control  anticorrupción,  contribuyendo  a  establecer  líneas  de 
+
+10 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+colaboración interinstitucional fundamentales para el objetivo general del proyecto.
+
+Durante  el  primer  semestre  de  2021,  se  recibió  información  en  base  a  estos  cuestionarios  y  se 
+realizaron reuniones de intercambio y feedback para delinear la presentación de la información.
+
+Tanto en las reuniones ordinarias del Foro de 2020 como en la de 2021 se compartieron avances 
+sobre este trabajo. 
+
+Mapa institucional de la corrupción facilitadora en cada jurisdicción
+
+Organismo local de control
+FIA / OA
+
+Justicia Federal
+
+Fiscalía Federal 
+
+PROTEX PIA
+
+Fuerzas de 
+Seguridad Federales 
+
+(cid:31) Corrupcion facilitadora 
+de la trata de personas
+
+Poder Ejecutivo 
+provincial
+
+(cid:31) Delitos de Trata y 
+Explotación (conexos) 
+
+(cid:31) Delitos  de corrupción
+
+Organismo 
+Provincial de Trata
+y Explotación
+
+Policía Provincial
+
+Poder Ejecutivo Nacional
+
+Comité Ejecutivo de Trata
+
+Dir. Nacional de Rescate.  
+Línea 145
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 11
+
+III.  OBJETIVOS, HIPÓTESIS Y METODOLOGÍA DE TRABAJO
+
+La hipótesis de trabajo, que tal como señalamos más arriba recoge el análisis de la jurisprudencia 
+de la Casación Federal, es que algunas normativas provinciales y municipales sobre determinadas 
+actividades vinculadas a la trata y explotación de personas, al no encontrarse en línea con estándares 
+convencionales y adecuadas a la normativa nacional, facilitan la connivencia de funcionarios públicos 
+en la trata y explotación de personas y dificultan su investigación y sanción. 
+
+El objetivo general es conocer cuál era la situación en cada una de las jurisdicciones respecto de la 
+corrupción facilitadora de la trata y cómo contribuir a generar articulaciones para combatir, desde 
+la  prevención  y  sanción  de  los  funcionarios  públicos  involucrados,  a  partir  de  las  competencias  y 
+expertise de los organismos anticorrupción.
+
+La información colectada y el tipo de fuente que se analiza en este informe es normativa, ya sean 
+leyes, ordenanzas, reglamentos, resoluciones y protocolos provinciales y municipales. 
+
+La metodología consistió en el diseño de un cuestionario orientativo con puntos de relevamiento para 
+cada jurisdicción. Cada jurisdicción aplicó este cuestionario a partir de estrategias localizadas, que 
+incluyeron distintas técnicas para recabar la información, como reuniones con actores institucionales 
+vinculados  a  la  temática  (provinciales,  municipales  y  de  la  sociedad  civil),  pedidos  de  acceso  a 
+la  información,  relevamiento  de  estudios  académicos.  En  la  mayoría  de  los  casos  el  relevamiento 
+normativo se hizo en conjunto con municipios y organismos de trata y explotación a nivel local. Para la 
+selección de información de nivel municipal, cada FIA y OA desarrolló un criterio propio de selección 
+de municipios y de estrategia de recolección (que expondremos más abajo). 
+
+Los puntos de información apuntaron a las tres temáticas que se conjugan en la corrupción facilitadora 
+de trata: trata de personas, corrupción y violencia de género. Respecto de la trata de personas, nos 
+propusimos  medir  el  grado  de  adhesión  e  incorporación  de  la  normativa  nacional  y  convencional 
+al  ámbito  provincial  y  la  configuración  de  actores  institucionales  y  procedimientos  específicos  en 
+cada jurisdicción. Respecto de cuestiones de corrupción, apuntamos a identificar pautas de control 
+para agentes públicos tales como la obligación de remitir declaraciones juradas y la existencia de 
+procedimientos para casos de funcionarios involucrados en hechos de trata de personas. Por último 
+sobre violencia contra las mujeres, el grado de adhesión a las normas nacionales en la materia y la 
+existencia de protocolos específicos en la administración pública.
+
+Luego,  teniendo  en  cuenta  tanto  la  literatura  especializada  en  la  materia  como  el  análisis  de  la 
+jurisprudencia a nivel federal indican que los municipios tienen una relevancia fundamental en esta 
+problemática,  dadas  las  potestades  de  regulación  y  control  sobre  actividades  de  riesgo  de  trata  y 
+la prevalencia de funcionarios municipales y policiales en la casuística del país. Respecto a estas 
+
+12 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+cuestiones,  los  puntos  de  relevamiento  se  orientaron  a  recabar  normativa  sobre  habilitaciones  e 
+inspecciones y mecanismos de control para agentes municipales.
+
+Es importante señalar que el cuestionario tenía un carácter orientativo, con preguntas abiertas, por lo 
+que la información enviada por cada jurisdicción no está estandarizada en categorías cerradas, sino 
+que tiene cierto grado de heterogeneidad. 
+
+Estrategia de relevamiento de cada jurisdicción respecto de los municipios. Los criterios de selección 
+de los municipios de cada una de las jurisdicciones obedecieron a densidad poblacional, localización 
+geográfica  y  por  ser  particularmente  sensible  a  la  trata.  Por  ejemplo,  en  todas  las  jurisdicciones 
+incluyeron a la capital provincial; en Chaco a localidades fronterizas, en Chubut obedeció a incluir 
+diversidad geográfica que abarque zonas cordilleranas y la costa, así como municipios con especiales 
+riesgos de trata por estar ubicados cerca de centros mineros, que tradicionalmente han basado su 
+forma  de  recaudación  en  relación  con  actividades  de  explotación  sexual  de  mujeres.  Río  Negro 
+comparte  criterios  similares,  incluyendo  municipios  vinculados  a  actividades  agrícolas  y  turismo. 
+También la selección de municipios obedeció, tal el caso de La Pampa, Jujuy, Chaco y Chubut, a 
+incluir aquellos que habían atravesado procesos de modificación de las normativas sobre habilitación 
+de rubros tipo local nocturno, whiskerías, etc., que podían encubrir el funcionamiento de prostíbulos.
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 13
+
+Estrategia metodológica de las jurisdicciones
+
+Jurisdicción
+
+Criterio de selección 
+de municipios 
+
+Municipios 
+seleccionados
+
+Técnicas
+
+Fuentes de 
+análisis
+
+Densidad poblacional, 
+
+Peña, Villa Angela, Charata, 
+
+Resistencia, PTE R Saenz 
+
+Chaco
+
+localización geográfica, 
+
+Castelli, Barranqueras, Isla 
+
+Entrevistas pedidos 
+
+Especificidad en tema 
+
+del Cerrito, Gral San Martin, 
+
+de información
+
+trata
+
+Gral Pinedo, El Sauzalito, 
+
+Miraflores
+
+Normativa 
+
+Información de 
+
+entrevistas
+
+Chubut
+
+Densidad poblacional, 
+
+Puerto Madryn 
+
+localización geográfica, 
+
+Comodoro Rivadavia 
+
+Especificidad en tema 
+
+Rio Mayo 
+
+trata
+
+Esquel
+
+Pedidos info 
+
+Entrevistas
+
+Normativa, 
+
+Información de 
+
+entrevistas 
+
+Jujuy
+
+Normativa relevante para 
+
+este proyecto
+
+San Salvador, Palpalá, San 
+
+Pedro, Libertador Gral San 
+
+Martín
+
+Entrevistas Pedidos 
+
+de info Web
+
+Normativa. 
+
+Información de 
+
+entrevistas
+
+La Pampa
+
+Accesibilidad 
+
+de información  
+
+Especificidad en relación 
+
+a la trata
+
+Río Negro 
+
+Densidad poblacional, 
+
+localización geográfica, 
+
+registro de casos 
+
+relevantes y actividad 
+
+económica predominante 
+
+(agrícola y turismo)
+
+Santa Rosa, Gral Pico, Gral 
+
+Acha, Victorica, Catriló, 
+
+Eduardo Castex, Quehue, 
+
+Jacinto Araus, San Martin, 
+
+Lonquimay, Winfreda, 25 
+
+de Mayo, Macachin, Colonia 
+
+Baron
+
+Viedma, San Carlos de 
+
+Bariloche, San Antonio 
+
+Oeste, Sierra Grande, 
+
+General Roca, Choele Choel, 
+
+Regina, Catriel, Cipolletti, 
+
+El Bolsón, Dina Huapi, 
+
+Lamarque, Cinco Saltos, 
+
+Ingeniero Jacobacci, Río 
+
+Colorado
+
+Web Pedidos Info 
+
+Entrevista
+
+Normativa 
+
+Judicial 
+
+Académica 
+
+Información de 
+
+Entrevistas
+
+Web Pedidos de info 
+
+Entrevista
+
+Normativa
+
+Rosario
+
+no corresponde
+
+no corresponde
+
+Entrevista Pedidos de 
+
+información
+
+Normativa
+
+14 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+IV.  ANÁLISIS DE LA INFORMACIÓN 
+
+Los puntos de información se exponen de la siguiente manera: 
+
+1)  Normativa sobre trata y explotación de personas en la que se analizará la forma de incorporación 
+de la normativa marco a nivel provincial, la institucionalidad creada y la posible participación 
+de organismo de control. También la existencia de disposiciones específicas para funcionarios 
+públicos,  agentes  municipales  y  de  protocolos  específicos  en  las  fuerzas  de  seguridad 
+provinciales.
+
+2)  Normativa  sobre  transparencia  para  analizar  incorporación  de  normativa  de  ética  pública  y 
+
+obligación de declaración jurada patrimonial para funcionarios y policías. 
+
+3)  Normativa  sobre  violencia  de  género  :adhesión  a  leyes  de  violencia  contra  las  mujeres  y 
+
+mecanismos y protocolos de violencia en las administraciones públicas
+
+4)  El rol de los municipios:  normativa de habilitaciones e inspecciones y mecanismos de control
+
+1) Normativa sobre trata y explotación de personas
+
+A nivel nacional, la sanción de la Ley de Trata de Personas 26.364 en 2008 implica la incorporación 
+de las obligaciones internacionales contenidas en el Protocolo de Palermo. Esta ley y su modificatoria 
+26.482, incorpora el delito de trata de personas al Código Penal de la Nación, tipificado en los artículos 
+145 bis y 145 ter; reconocen los derechos de las víctimas del delito y crean organismos encargados 
+de llevar adelante las políticas públicas en la materia, principalmente, el Comité Ejecutivo para la 
+Lucha contra la Trata y Explotación de Personas y para la Protección y Asistencia a las Víctimas y el 
+Consejo Federal de Trata de Personas.
+
+Estas  leyes  reconocen  distintas  modalidades  de  explotación  que  también  son  delitos  incorporados 
+al CP (delitos conexos). La explotación incluye: la reducción a la esclavitud o servidumbre; trabajos 
+o servicios forzados (art. 140 del CP); promoción, facilitación o comercialización de la prostitución 
+ajena o cualquier otra forma de oferta de servicios sexuales ajenos (art. 125bis, 126 y 127 del CP); 
+promoción, facilitación o comercialización de pornografía infantil o la realización de cualquier tipo de 
+representación o espectáculo con dicho contenido (art. 128 del CP); matrimonio forzado (art. 140 del 
+CP); promoción, facilitación o comercialización de extracción forzosa o ilegítima de órganos, fluidos o 
+tejidos humanos (Ley 26.842). Tanto el tipo penal de trata como los delitos conexos prevén agravantes 
+en caso de que sean cometidos por funcionarios públicos, miembros de fuerzas de seguridad, policial 
+o penitenciaria. 
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 15
+
+Dado que la trata es un delito federal pero que los delitos conexos son ordinarios, confluyen en la 
+problemática intervenciones de distintos sistemas de justicia y seguridad; y organismos y normativas 
+nacionales,  provinciales  y  municipales.  Desde  la  óptica  específica  de  la  corrupción  facilitadora, 
+tenemos que añadir otras aristas: por un lado, las regulaciones que dictan distintos niveles del estado 
+sobre actividades que puedan vincularse a la distintas cadenas del delito de trata y a la finalidad 
+de explotación; y por otro, la diversidad de reglamentaciones que rigen la actuación de funcionarios 
+públicos que puedan estar involucrados cuyos mecanismos de control recaen en organismos diversos 
+acorde a rango y competencia (federales, provinciales, municipales). 
+
+Para medir la incorporación de las obligaciones en materia de trata al ámbito local, evaluamos qué 
+marco normativo a nivel provincial existe sobre esta temática y si cuenta con algunas disposiciones 
+establecidas  en  el  marco  nacional.  Luego,  de  manera  más  específica,  si  existen  disposiciones 
+específicas sobre funcionarios públicos, municipios y fuerzas de seguridad.
+
+ •
+
+Adhesión a Ley nacional de trata de personas o Ley especial provincial
+
+La realidad de las distintas jurisdicciones es diversa: algunas tienen leyes propias con organismos 
+y comités / consejos interinstitucionales; otras no tienen ni ley provincial específicas sobre trata ni 
+adhesión  a  la  ley  nacional,  por  lo  que  las  agencias  locales  en  el  abordaje  de  la  trata  de  personas 
+pueden tener menor anclaje institucional. 
+
+Chaco en 2008 (Ley 1658 N), Chubut en 2012 (Ley XV 17) y La Pampa en 2014 (Ley 2795) han 
+sancionado leyes propias (o adherido a la ley nacional de trata 26.364) con objetivos y funciones en 
+línea con la normativa nacional. 
+
+En  Jujuy  no  han  adherido  a  la  ley  ni  tienen  una  legislación  especial  sobre  trata  de  personas.  No 
+obstante, durante 2020 sancionaron una serie de leyes sobre violencia de género y atención particular 
+sobre la problemática de desaparición de mujeres, niñas y personas trans, que se vincula con la trata 
+y la explotación sexual. Se trata de la Ley 6185 sobre actuación ante la desaparición y extravío de 
+mujeres, niñas y personas LGBTI+; y la Ley 6186 “Iara” que establece la emergencia en materia de 
+violencia de género y ordena una serie de medidas con foco en las violencias extremas contra mujeres 
+y niñas, teniendo en cuenta la desaparición, femicidio y trata sexual.
+
+Por último, Río Negro informó que no han adherido a la ley nacional, aunque tienen organismos provinciales 
+específicos y una normativa provincial que prohíbe la instalación de prostíbulos a nivel nacional como 
+mecanismo de prevención contra la trata de personas para la explotación sexual (Ley S 4795). 
+
+16 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+ •
+
+Organismos de aplicación de políticas de trata a nivel provincial. Consejos interinstitucionales
+
+En Chaco la citada Ley 1658 N sobre Medidas de prevención y protección a víctimas de la trata de 
+personas de 2008 crea la Oficina Provincial de lucha contra la trata y protección de víctimas, dentro 
+del Ministerio de Desarrollo Social y DDHH. A su vez, la ley crea un comité consultivo integrado por 
+distintas áreas de gobierno, la procuración del Tribunal Superior de Justicia y las fuerzas policiales 
+provinciales; en calidad de invitados los organismos de seguridad y la justicia federales.
+
+Tanto Chubut, La Pampa como Río Negro tienen organismos de creados por decreto. En La Pampa 
+el Decreto 2962 de 2014 crea el Programa provincial para la prevención, protección y asistencia de 
+las  víctimas  de  trata;  asimismo  una  Comisión  de  Ejecución  del  Programa  Provincial  integrada  por 
+distintos ministerios, con la posibilidad de invitar a otros actores.
+
+En Río Negro, si bien no tienen ley provincial propia ni adhesión a la ley nación, la Ley 4634 de 2011 
+modificada por 4910 de 2013 crea Consejo Interinstitucional de Trata de personas, cuyo órgano de 
+aplicación es el Ministerio de Gobierno integrado por representantes de todas las áreas del ejecutivo, 
+el  poder  judicial,  ministerio  público  provinciales,  la  defensoría  del  pueblo  y  organizaciones  de  la 
+sociedad civil. Además el Decreto 1258/2014 creó el Programa de Asistencia de Víctimas de Trata de 
+Personas en el Ministerio de Desarrollo Social.
+
+Chubut  creó  por  decreto  la  Dirección  Provincial  de  Trata  de  personas,  establecida  por  Decreto 
+Provincial, para asistir y acompañar a la víctimas y recibir denuncias, en articulación con organismos 
+de la justicia federal y provincial y con ámbitos ejecutivos provinciales y municipales. 
+
+Jujuy tal como mencionábamos, no tiene una institucionalidad creada de manera específica para la 
+trata de personas, sino que las políticas se ejecutan desde el Consejo Provincial de la Mujer e Igualdad 
+de Género, creado mediante el Decreto 15/2019, que cuenta con un equipo de trabajo abocado a la 
+“coordinación de atención integral a casos de alto riesgo y trata”. Además, en el Consejo funciona 
+un  comité  interinstitucional  integrado  por  los  ministerios  de  salud,  seguridad,  justicia,  desarrollo 
+humano, el ministerio público de la acusación, pudiendo invitar al poder judicial, la justicia federal y 
+las fuerzas de seguridad federales como a organizaciones de la sociedad civil. 
+
+En ninguno de estos consejos o comités interinstitucionales, que en cierta medida replican el modelo 
+de Consejo de Trata de la Ley Nacional, hay participación de organismos de control y anticorrupción.  
+Un  punto  crítico  relevado  en  varias  jurisdicciones  está  vinculado  a  restricciones  presupuestarias 
+de  estos  organismos  que  dificultan  el  sostenimiento  de  acciones  de  largo  plazo.  También  que  las 
+instancias de articulación previstas no siempre funcionan de manera ágil.
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 17
+
+ •
+
+Factores de riesgo: funcionarios públicos, alcance al ámbito municipal y fuerzas de seguridad
+
+Sobre estos puntos, hay especificaciones particulares en la normativa de Chaco, La Pampa y Jujuy.
+La mencionada Ley 1658 N de Chaco y el Decreto 2962/2014 de La Pampa invitan a los municipios 
+a adherir o implementar medidas en su misma línea y establecen la obligación para los funcionarios 
+públicos de denunciar situaciones ante la toma de conocimiento de supuestos, posibles o efectivos, 
+casos de trata de personas. Sólo Chaco extiende esta obligación a tanto a agentes provinciales como 
+municipales, aclarando queda incorporada de manera explícita en todas las leyes y reglamentos que 
+rijan las misiones, funciones y responsabilidades de estos funcionarios. 
+
+Jujuy  a  través  de  la  ley  6186  también  incluye  disposiciones  para  funcionarios  vinculadas  a  la 
+obligación expresa de recibir denuncia de violencia de género y desaparición y dar curso inmediato. 
+Establece pena de inhabilitación automática para funcionarios con condena firme por violencia contra 
+las mujeres y contra personas LGBTI+.   
+
+Río Negro, si bien no tienen una ley propia o adhesión a la nacional de trata, pero en la Ley 5255 
+de  Funcionamiento  de  la  Secretaría  de  Trabajo  incorpora  obligación  del  funcionario  actuante  de 
+investigar  y  verificar  circunstancias  ante  denuncia  que  tengan  supuestos  de  trabajo  infantil,  actos 
+discriminatorios o trata de personas.
+
+Respecto de normativa de las fuerzas de seguridad provinciales en materia de trata: en Chaco, la policía 
+provincial tiene división de trata, protocolos de actuación sobre trata y sobre desaparición de personas. 
+Respecto de los procedimientos internos, el control administrativo en caso de policías denunciados es 
+“idéntico al que se realiza con otros ciudadanos”, que se pone en conocimiento de la autoridad judicial 
+y que se instruye sumario para deslindar responsabilidades y eventualmente aplicar sanción. 
+
+Por su parte Jujuy, prevé en su normativa la creación de áreas de género en la policía provincial, así 
+como una División de trata y de búsqueda de personas, protocolos de desaparición y de actuación 
+en implementación de dispositivos de emergencia ante violencia contra mujeres. En el ámbito del 
+Ministerio de Seguridad provincial funciona además una agencia provincial de delitos complejos. 
+
+La Pampa las fuerzas no tienen protocolos ni regulaciones propias, siguen las federales. A nivel de 
+control administrativo también es el mismo modelo que el nacional. Como el resto de los procedimientos 
+disciplinarios provinciales, prevé la instrucción de sumario administrativo ante la presunta comisión 
+de delitos.
+
+En similar sentido, en Chubut tampoco hay áreas o protocolos específicos más allá de los federales. 
+La  policía  provincial  cuenta  con  una  División  Drogas  Peligrosas  y  Leyes  Especiales  y  la  Brigada 
+de  Investigaciones,  que  se  ocupan  de  del  tema.  En  caso  de  corroborarse  un  supuesto  de  trata  lo 
+comunican  a  la  justicia  federal.  Asimismo,  están  en  permanente  contacto  con  el  área  de  trata 
+
+18 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+provincial. Respecto del comportamiento ético, las fuerzas de seguridad en Chubut están alcanzadas 
+la Ley I, N° 231 de Ética y Transparencia en la Función Pública provincial.
+
+2) Normativa sobre transparencia – obligación de prestar declaraciones juradas
+
+Respecto de la temática de corrupción, medimos el grado de incorporación de medidas de control en 
+la normativa provincial, en particular si tienen ley provincial de ética pública y si existe obligación de 
+declaración jurada patrimonial y su alcance sobre todo en particular a actores de riesgo. 
+
+Chaco, Chubut, Jujuy y Río Negro tienen leyes de ética pública, mientras que La Pampa tiene una 
+Ley de Declaraciones Juradas patrimoniales. Son las propias FIA y OA los organismos de aplicación 
+de estas leyes, con excepción de Chubut y Río Negro, en las que, al menos en lo que a declaraciones 
+juradas se refiere, es el Tribunal de Cuentas el organismo de aplicación. 
+
+Respecto  de  la  obligación  de  realizar  declaraciones  juradas  patrimoniales,  todas  la  normativas 
+alcanzan  a  funcionarios  de  todos  los  poderes,  de  empresas  con  participación  estatal  y  fuerzas  de 
+seguridad; en general el alcance es a funcionarios de todos los podres y empresas, y  hasta rango de 
+director inclusive y equivalentes en el resto de los poderes. 
+
+Jujuy tiene un alcance más amplio en dado que la obligación se exige desde el cargo de coordinador. 
+Sobre el alcance respecto de la obligación de realizar declaraciones juradas patrimoniales para las fuerzas 
+de seguridad provinciales, en todas las jurisdicciones están incluidas, desde el rango de subcomisario 
+y jefes de unidades, comisarías o dependencias. En el caso de la Ley de Chaco, además, la declaración 
+jurada es exigible también a los/as cónyuges y convivientes de los funcionarios alcanzados.
+
+Por  último  respecto  de  funcionarios  municipales,  están  alcanzados  en  Chaco,  Jujuy  y  Chubut  (en 
+los  dos  últimos  casos  siempre  que  adhieran);  desde  intendente,  concejales  y  cargos  de  director  y 
+equivalente. En Jujuy incluye a todo funcionario municipal que maneje fondos públicos siempre que 
+haya adherido al Régimen de Ética Pública de la mencionada ley 5153.
+
+En  La  Pampa  y  Río  Negro,  la  ley  de  ética  pública  o  de  declaraciones  juradas  patrimoniales  no 
+comprenden a los municipios, tampoco las FIA de esas jurisdicciones tienen alcance para investigar 
+estamentos municipales. No obstante tienen algún control propio de nivel municipal. La ley orgánica 
+municipal  Nro  1597  de  La  Pampa  prevé  obligación  de  presentar  ante  el  consejo  deliberante,  la 
+declaración jurada de bienes antes y al finalizar el mandato para cargos electivos. En Río Negro, los 
+tribunales de cuentas municipales deben ejercer este control e informar esas investigaciones a sus 
+pares provinciales. 
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 19
+
+3) Normativas sobre violencia de género 
+
+Analizamos  la  adhesión  a  las  leyes  nacionales  de  violencia  contra  mujeres  y  de  capacitación  en 
+género;  así  como  de  mecanismos  y  protocolos  internos  para  casos  de  violencia  de  género  para  la 
+administración pública. Estos promueven administraciones públicas comprometidas con la prevención 
+y erradicación de las violencias por razones de género. 
+
+Respecto de la incorporación local de normativa de violencia contra las mujeres, todas las provincias 
+adhirieron tanto a la ley nro 26485 de Protección integral de violencia como a la Ley Micaela nro 
+27499 que ordena la capacitación obligatoria de todos los agentes de los tres poderes del estado. 
+
+En cuanto a los mecanismos y protocolos de violencia de género, el municipio de Rosario cuenta con la 
+ordenanza 396/2019 que dispone prohibición de  contratar agentes con causas penales por violencia 
+de género. Además, la Ordenanza 10062/2020 y el Decreto Reglamentario 1506/2020 aprueban el 
+Protocolo de abordaje de Violencia de género en el ámbito de la Administración pública municipal 
+cuya  autoridad  de  aplicación  es  la    Dirección  de  Investigaciones,  Ética  y  Transparencia.  Dispone 
+procedimientos  tanto  para  casos  en  los  que  agresor  y  víctima  integren  la  administración  pública, 
+como para aquellos en los que solo el agresor sea parte. Prevé medidas precautorias, mecanismos de 
+toma de denuncia y la atribución de iniciar sumario administrativo disciplinario. 
+
+Dado que la definición legal de violencia contra las mujeres incluye la trata y la prostitución forzada, 
+los protocolos internos, aun si están mayormente orientados al abordaje de las violencias laboral y 
+doméstica, son herramientas que podrían ser utilizadas en casos de agentes de las administraciones 
+públicas involucrados en  hechos de explotación sexual.  
+
+La  provincia  de  Chaco  también  cuenta  con  normativa  y  protocolos  de  violencia  laboral  para  la 
+administración  pública  que  incluyen  supuestos  vinculados  a  la  violencia  de  género:  la  ley  2023-
+A  de Prevención, Tratamiento y Sanción de la Violencia Laboral en la Administración Pública y la 
+Ley  2772-L  que  aprueba  el  Protocolo  de  prevención  ante  situaciones  de  Violencia  Laboral  en  la 
+Administración Pública.  Asimismo, la ley 2530 sobre prevención de violencia en el sistema de salud.
+En Jujuy el Decreto 366-G-2020 aprueba el Protocolo de actuación en caso de violencia de género en 
+el ámbito de la Administración Pública, para casos de violencia interpersonal laboral, cuyo organismo 
+de aplicación es el Consejo Provincial de la Mujer e Igualdad de Género. 
+
+La Pampa no cuenta con este tipo de protocolos, pero ha relevado la Ley provincial 3042 que establece 
+la licencia por violencia de género para las trabajadoras de los tres poderes del estado provincial. 
+
+4) El rol de los municipios: normativa de habilitaciones
+
+En la prevención, investigación y sanción de la trata y la explotación es fundamental el rol de los 
+
+20 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+municipios;  dado  los  grados  de  autonomía  municipal  sobre  regulación  /  prohibición  de  actividades 
+mismas de explotación como la habilitación de los lugares donde la explotación puede desarrollarse. 
+
+Estas  normativas  han  sido  especialmente  señaladas  por  la  jurisprudencia  de  la  Casación  Federal; 
+en  particular  aquellas  que  reglamentan  el  sistema  prostibulario  pues  no  son  acordes  a  la  normativa 
+nacional, distorsionan el rol de los agentes de detección y obstaculizan la persecución penal de delitos 
+de trata y explotación porque confunden las funciones y lo exigible a los funcionarios de nivel municipal. 
+
+Además, en general los municipios no están dentro de la competencia de los organismos anticorrupción, 
+por lo que las acciones respecto de este posible núcleo de reproducción de corrupción facilitadora de 
+trata revisten una especial dificultad. En este apartado proponemos observar el marco normativo que 
+las jurisdicciones recabaron en sus provincias.  
+
+Una situación particularmente relevante es analizar las regulaciones sobre habilitaciones de rubros 
+tipo cabaret, whiskería, nightclub etc. que han sido foco de reformas legales en la última década. 
+Sobre  este  punto  se  observan  situaciones  distintas:  prohibición  del  rubro;  reforma  con  controles 
+específicos, o persistencia de ordenanzas previas a las leyes de trata. 
+
+En el primer caso, tanto La Pampa como Río Negro tienen un modelo de prohibición del rubro en la 
+mayor parte del territorio. 
+
+En  la  provincia  de  La  Pampa  hace  más  de  10  años  que  sus  municipios  sancionaron  ordenanzas 
+que prohíben la habilitación de cabaret, night club y otros rubros que podrían encubrir lugares de 
+explotación.  Hasta  el  momento  del  relevamiento,  se  contabilizaron  14  municipios  de  la  provincia 
+con  ordenanzas  de  prohibición9.  Asimismo,  es  una  provincia  también  reconocida  por  tener  varios 
+casos en la justicia federal con intendentes y policías investigados en caso de trata sexual. Respecto 
+de funcionarios de orden municipal están por fuera de los mecanismos de control administrativo de 
+la FIA. En el caso de los intendentes mientras no sean inhabilitados, pueden seguir siendo electos 
+para el cargo y no tienen mecanismos de control administrativo sobre ellos. Se rigen por la Ley de 
+Municipios con mecanismos más bien políticos de sanción y eventual remoción.
+
+Río Negro es la única jurisdicción participante que tiene un modelo de prohibición a nivel provincial. 
+La Ley S 4795 de 2013 prohíbe habilitación cabaret en todo el territorio provincial e invita a adherir 
+a municipios. Según la información relevada en 15 municipios provinciales, 10 de ellos han adherido 
+a la ley provincial y de esta manera, prohibido la instalación de cabaret. Los restantes 5 municipios no 
+se pudo determinar prohíben o reglamentan y de qué manera10. También del relevamiento surgió que 
+
+9.    Santa  Rosa;  Genera  Pico;  Victorica;  Catriló;  Eduardo  Castex;  Quehué;  Jacinto  Arauz;  San  Martín;  Winifreda;  Macachin;  Colonia  Barón;  General  Acha, 
+Lonquimay y 25 de mayo (ver detalle en anexo).
+
+10.   Adhirieron a la ley S 4795: Bariloche, Sierra Grande, Choele Choel, Catriel, El Bolsón, Dina Huapi, Lamarque, Cinco Saltos, Ingeniero Jacobacci y Río 
+Colorado. Se desconoce situación en Villa Regina, Viedma, Cipolletti, San Antonio Oeste y General Roca.
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 21
+
+dos municipios (Viedma y San Antonio Oeste) han dictado ordenanzas de adhesión a la ley nacional 
+de trata nro. 26364.
+
+Otros casos de ordenanzas de prohibición fueron informados por Jujuy, cuya capital provincial San 
+Salvador  sancionó  en  2014  la  Ordenanza  6704  que  prohíbe  la  habilitación  de  prostíbulos  en  la 
+ciudad  y  sanciona  con  pena  de  multa  a  quienes  no  cumplan  con  la  ordenanza.  Esta  modificación 
+normativa  se  produjo  en  respuesta  al  caso  del  femicidio  de  una  joven  asesinada  en  contexto  de 
+explotación sexual, caso en el que se investigó la participación de funcionarios policiales. En el resto 
+de las localidades relevadas como Palpalá, San Pedro o Libertador General San Martín, no se obtienen 
+datos fehacientes sobre su adhesión a través de sus Concejos Deliberantes a la prohibición de rubros 
+comerciales como ser clubes nocturnos, whiskerías, barras, boîte, casa de masajes. El Departamento 
+de  Prevención  y  Asuntos  Institucionales  de  la  OA  de  Jujuy  se  encuentra  trabajando  en  conjunto 
+con los municipios para abordar la Trata de Personas y Ley de Ética Pública, buscando fomentar la 
+abolición de todo tipo de arancelamientos que habiliten este tipo de actividades que pueden operar 
+como legitimadores de situaciones de explotación sexual. 
+
+También  Rosario  sancionó  en  2013  una  Ordenanza  9075  que  deroga  el  art.  9  de  la  Ordenanza 
+7218/2001 sobre “Espectáculos públicos” que establecía los requisitos para las habilitaciones de 
+whiskería y cabaret; eliminando así el rubro.
+
+La provincia de Chubut muestra un cuadro diferente respecto de las habilitaciones de locales. Es una 
+provincia con realidades internas distintas entre la zona costera y la zona cordillerana. En esta última, 
+rigen normativas de prohibición de prostíbulos (en particular en la ciudad de Esquel desde 2015), 
+mientras que en la zona costera (Comodoro Rivadavia, Puerto Madryn) permiten su habilitación, en el 
+caso de Comodoro prohibiendo la explotación sexual y la venta de bebidas dentro de los locales, en el 
+caso de Madryn establece disposiciones del espacio físico. En sentido similar, existen normativas en 
+esta línea en la localidad de Río Mayo, un pueblo de 60 mil habitantes cercano a la frontera provincial 
+y a explotaciones mineras en el cual hay numerosos locales nocturnos regulados como “locales de 
+alterne” por una ordenanza del año 2013, en la que se prevé multas ante incumplimientos de las 
+condiciones  de  habilitación.  Independientemente  de  esto,  Chubut  destaca  el  trabajo  que  realiza 
+la  Dirección  de  trata  y  explotación  provincial  en  materia  de  armonización  normativa  para  lograr  la 
+adecuación de las ordenanzas municipales a la normativa nacional y convencional.
+
+Por último sobre este punto la provincia de Chaco informó sobre la regulación adoptada por Resistencia 
+(ordenanza 9794/2010) que tiene un enfoque más bien preventivo, reforzando el rol de detección 
+de los agentes municipales de contralor. Esta ordenanza adhiere a la ley provincial de trata y designa 
+al  Centro  Municipal  de  la  Mujer  como  autoridad  de  aplicación  en  coordinación  con  las  áreas  de 
+Inspección General, Obras Particulares, Habilitaciones Comerciales, Arquitectura, Control de usos, 
+Catastro, Tribunales de Faltas y toda otra que cumpla funciones de contralor. El objetivo capacitar a 
+todos los agentes municipales sobre trata y explotación de personas y  garantizar que los controles 
+
+22 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+municipales estén dirigidos a visualizar, detectar y denunciar posibles focos de explotación sexual. El 
+resto de los municipios relevados en la provincia no habían adecuado sus ordenanzas a la normativa 
+nacional de trata de personas, estando en la mayoría de los casos vigentes ordenanzas de habilitaciones 
+previas a la ley 26364. Por ello, la FIA de Chaco compartió esta ordenanza de Resistencia a modo de 
+buena práctica para que cada municipio evalúe la pertinencia de replicarla.
+
+Respecto del año en el que entran en vigencia estas habilitaciones, se observa que las normativas 
+de prohibición se sancionaron entre el año 2009 y 2015, por lo que sería interesante realizar una 
+evaluación del impacto de esta medida en la dinámica de la trata y la explotación y en la eficacia en 
+la persecución penal de funcionarios involucrados. 
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 23
+
+V.  CONCLUSIONES Y DESAFÍOS
+
+La  corrupción  asociada  a  la  trata  de  personas  es  un  fenómeno  en  el  que  impactan  organismos 
+administrativos  y  judiciales;  del  ámbito  federal,  provincial  y  municipal.  Esta  complejidad  plantea 
+el desafío de poder lograr una actuación coordinada entre los distintos niveles y poderes del estado. 
+En la mayoría de los casos se evidenció que contar con un marco jurídico coherente con la legislación 
+nacional es la primera condición para lograr esa coordinación, que además brinda un marco cierto 
+para  los  agentes  que  tomen  contacto  con  situaciones  de  trata  y  explotación  y  permite  analizar 
+disciplinariamente el desempeño del personal que eventualmente esté involucrado en casos. 
+
+No obstante la armonización normativa debe ser acompañada por la articulación entre las áreas de 
+corrupción  y  trata  provinciales.  En  esta  cuestión  se  verificó  cierto  déficit,  en  primer  lugar,  por  la 
+ausencia de mirada sobre el rol que cumplen los funcionarios públicos en el sostenimiento de redes 
+de trata.  
+
+Existe además poco conocimiento del fenómeno en sí. Tanto a nivel nacional como en las provincias, 
+los datos producidos sobre casos de trata y explotación no muestran la modalidad de participación de 
+funcionarios públicos. En igual sentido, hay pocas instancias de sensibilización y capacitación en la 
+temática específica de corrupción asociada a la trata. 
+
+Pensando en las competencias judiciales y administrativas, es también un desafío poder delimitar las 
+competencias de cada organismo y establecer acuerdos marco para optimizar el abordaje en casos, 
+por ejemplo, articulando la investigación administrativa con la penal, potenciando el control y sanción 
+de  funcionarios  en  estos  casos,  así  como  fortalecer  canales  de  denuncia  en  casos  de  corrupción 
+vinculada a trata de personas.
+
+Al respecto, resulta imprescindible la articulación con el nivel municipal, por la centralidad en relación 
+a regulación de actividades de riesgo y posibilidades de detección en casos de trata y explotación 
+y teniendo en cuenta que cada provincia tiene su propia organización de municipios con distintos 
+grados de autonomía para el control de sus funcionarios (en general es muy acotado el rol de las FIA 
+y OA hacia ese nivel).
+
+24 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+VI.  BUENAS PRÁCTICAS Y RECOMENDACIONES
+
+A  continuación  mencionamos  buenas  prácticas  y  recomendaciones  que  surgieron  del  trabajo  de 
+relevamiento vinculadas a los desafíos pendientes para combatir la corrupción facilitadora de la trata 
+de personas: 
+
+Mecanismos de articulación interinstitucional 
+
+A  fin  de  lograr  una  intervención  articulada  en  la  temática,  que  reúne  expertises  y  competencias 
+diversas, se recomienda: 
+
+Generar instancias de articulación con los organismos provinciales sobre trata de personas y con el 
+poder judicial para intervenir en casos en que estén involucrados funcionarios públicos. Por ejemplo, 
+acuerdos  marco,  convenios  específicos,  directrices  y  protocolos  que  faciliten  el  conocimiento  de 
+herramientas que pueden aportar los organismos de control anticorrupción. 
+
+Impulsar actividades de sensibilización y capacitación  sobre corrupción facilitadora de la trata tanto para 
+agentes de las áreas anticorrupción como las de trata y explotación, tanto provinciales como municipales, 
+a fin de difundir los parámetros de actuación constitucionales y convencionales en la temática. A nivel 
+específico, podría evaluarse contenidos específicos para capacitar y sensibiliza a agentes encargados de 
+control, habilitación y otras áreas sensibles a la trata y explotación como herramienta de prevención y 
+fortalecimiento del rol de agentes públicos en la lucha contra la trata de personas.
+
+Mejorar la producción de datos sobre la temática y reflejar la participación de funcionarios públicos 
+en casos de trata (qué tipo de funcionario, en qué fase de la cadena criminal, etc.)
+
+A nivel provincia – municipios, también crear o participar de mesas locales para definir estrategias 
+de  colaboración  entre  distintos  actores  institucionales  atendiendo  a  las  particularidades  locales. 
+Un  ejemplo  es  el  de  la  mesa  operativa  alto  valle  de  Rio  Negro  y  Neuquén,  en  la  que  participan 
+autoridades  de  esas  provincias,  de  16  municipios,  fiscalías  federales,  organismos  nacionales, 
+sindicatos y productores, coordinada por el Comité ejecutivo de Lucha contra la Trata, el cual acordó 
+un plan de acción para capacitar funcionarios sobre indicios de trata, difundir la línea 145, pautas 
+de fiscalización, control de tránsito y otras medidas a aplicar en la zona en la que se han verificado 
+situaciones de explotación laboral en temporada de cosecha. 
+
+Leyes y ordenanzas de adhesión
+
+Una herramienta que contribuye a armonizar normativa y coordinar esfuerzos son las leyes y ordenanzas 
+de adhesión, ya sea nacionales por parte de las provincias como a provinciales por parte de municipios. 
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 25
+
+Sobre  el  marco  normativo  de  trata,  en  algunas  provincias  se  encuentran  en  proceso  de  analizar 
+la  adhesión  a  la  ley  nacional  26.364.  Otras  cuentan  con  una  ley  propia  (ya  sea  recogiendo  los 
+lineamientos generales del marco nacional o sobre algún aspecto como las habilitaciones de cabaret) 
+previendo a su vez que los municipios adhieran por ordenanza y fijen criterios específicos acorde a la 
+competencia municipal para prevenir y sancionar la trata de personas. 
+
+Un ejemplo es la municipalidad de Resistencia, Chaco, que sancionó la ordenanza 9794/2010 que 
+adhiere  a  la  ley  provincial  de  trata  y  designa  al  Centro  Municipal  de  la  Mujer  como  autoridad  de 
+aplicación en coordinación con las áreas de Inspección General, Obras Particulares, Habilitaciones 
+Comerciales,  Arquitectura,  Control  de  usos,  Catastro,  Tribunales  de  Faltas  y  toda  otra  que  cumpla 
+funciones  de  contralor,  para  establecer  actividades  de  capacitación  para  agentes  municipales  y 
+fortalecer controles orientados a la detección y denuncia de casos. Esta adhesión comprende entonces 
+la implementación de acciones sobre materia de competencia municipal que tiene un impacto directo 
+sobre la prevención  y sanción de casos de trata y explotación. 
+
+Otra  experiencia  al  respecto  es  la  de  Río  Negro  con  la  sanción  de  la  ley  S  4795  que  prohibió  la 
+instalación de prostíbulos a nivel provincial como marco general y establece el mecanismo de adhesión 
+de municipios para la implementación.
+
+También la adhesión municipal a leyes de ética pública y a los organismos anticorrupción, contribuye 
+a ampliar los mecanismos de control hasta el ámbito municipal, cuando no están comprendidos por 
+la ley provincial. Un ejemplo es la provincia de Chubut que mediante este mecanismo puede extender 
+la obligación de declaración jurada patrimonial y la competencia de la OA para la investigación de 
+funcionarios municipales.
+
+En Jujuy también prevén la adhesión de entes municipales para la extensión de los mecanismos de 
+control previstos en la ley de ética pública provincial. Además la OA de Jujuy trabaja en un programa 
+de Adhesión a la Ley de Ética Pública en el marco de la “Oficina Itinerante”, propuesta de la OA que 
+recorre diversas comunas de la provincia. 
+
+Obligación expresa de denuncia para funcionarios públicos en casos de trata y sanciones
+
+En caso de reformas legislativas, es importante analizar la incorporación de obligación expresa de 
+denuncia para funcionarios públicos provinciales e incluso municipales ante la sospecha de situaciones 
+de trata y explotación de personas que tuvieran conocimiento en el ejercicio de sus funciones y que 
+esta obligación quede incorporada de manera explícita en todas las Leyes y Reglamentos que rijan las 
+misiones, funciones y responsabilidades de estos funcionarios.
+
+También  la  disposición  por  ley  de  la  sanciones  para  funcionarios  que  obstaculizaren  denuncias  e 
+investigaciones y penas de inhabilitación para funcionarios y agentes que sean condenados en caso 
+
+26 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+de violencias contra mujeres incluyendo la trata de personas. 
+
+Vinculado a esto, la Oficina de Naciones Unidas para el Delito Organizado UNODC ha recomendado 
+la sanción de códigos de conducta para funcionarios públicos que incluyan obligaciones y sanciones 
+para agentes en general y particular los que puedan estar en contacto con situaciones de trata de 
+personas11.
+
+Algunos ejemplos son la ley nro 6186 de 2020 de Jujuy que prevé sanción de expulsión para agentes 
+de  las  fuerzas  de  seguridad  que  obstaculizare  denuncias  e  investigaciones  sobre  violencias  contra 
+mujeres, personas LGBTI+ y de búsqueda y desaparición de personas. También fija por ley la pena de 
+inhabilitación para ejercer la función pública a los funcionarios que tengan condena por delitos en 
+ocasión de violencias por razones de género o contra el colectivo LGBTI+. La ley provincial de trata 
+de Chaco incluye la obligación de todo funcionario y/o agente de la Administración Publica Provincial 
+o  Municipal,  que  con  motivo  u  ocasión  de  su  función  recibiese  noticias  de  sus  puestos,  posibles 
+o  efectivos  casos  de  trata  de  personas,  de  denunciar  inmediatamente  a  la  autoridad  competente 
+y  poniendo  en  conocimiento  a  la  Oficina  Provincial  y  queda  incorporada  la  obligación  de  manera 
+explícita en todas las Leyes y Reglamentos que rijan las misiones, funciones y responsabilidades de 
+estos funcionarios.
+
+Revisión de normativas municipales sobre habilitaciones y regulación de actividades 
+con riesgo de trata y explotación 
+
+Revisar las normativas municipales sobre habilitaciones de manera de incorporar pautas de prevención 
+de la trata y la explotación de personas bajo los parámetros convencionales y constitucionales. 
+
+En este punto se observa la reforma de ordenanzas sobre habilitación de locales nocturnos. Varios 
+municipios relevados han eliminado el rubro cabaret y similares, o han prohibido su habilitación; otros, 
+como el antemencionado de Resistencia, han establecidos mecanismos especiales de prevención y 
+control para las habilitaciones municipales en general.
+
+Fortalecimiento  de  la  acción  de  los  organismos  anticorrupción  en  el  combate  a  la 
+corrupción facilitadora de la trata
+
+Una sugerencia es ampliar los mecanismos y disposiciones sobre ética pública a funcionarios provinciales y 
+municipales; por ejemplo, mediante ordenanza de adhesión a leyes de creación de oficinas anticorrupción 
+y/o de ética pública y afines. También, extendiendo obligación de presentar declaración jurada patrimonial 
+incorporando criterios según funciones y responsabilidades de riesgo de trata y explotación.
+
+11.   UNODC. 2011. El papel de la corrupción en la trata de personas. Viena, Documento de trabajo de ONU, disponible en : https://www.unodc.org/documents/
+mexicoandcentralamerica/publications/CrimenOrganizado/El_Papel_de_la_Corrupcion_en_la_Trata_de_Personas_v4.pdf
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 27
+
+Otra  cuestión  es  la  adopción  de  protocolos  de  intervención  ante  violencia  de  género  para  la 
+Administración Pública y de investigación administrativa con perspectiva de género. Señalamos en 
+este sentido la experiencia del municipio de Rosario que ha sancionado ordenanza con protocolos y 
+mecanismos de investigación, así como de prohibición de contratación de agentes con denuncias por 
+violencia contra las mujeres.
+
+Una experiencia innovadora es la de Jujuy en el que la OA  que se constituyó como querellante en la 
+causa que investiga el femicidio de una joven en un contexto vinculado a la trata sexual, donde uno de los 
+presuntos partícipes e imputado por encubrimiento agravado es funcionario de la Policía de la Provincia. 
+En  este  marco  es  que  la  Oficina  analizó  la  conducta  del    funcionario  policial,  y  partiendo  de  que  se 
+trata de un accionar que violenta de lleno tanto los esenciales deberes de funcionario público como el 
+Régimen de Ética Pública de la Provincia, la Fiscal Anticorrupción dispuso la presentación que derivó 
+en la aceptación de la OA como querellante. Esto implica un avance en las facultades reconocidas a ese 
+organismo y la intervención activa de la OA en casos de corrupción facilitadora de la trata, trascendiendo  
+la observancia de actos de corrupción vinculados solamente a fondos públicos y perjuicios económicos 
+al Estado. Así, el fallo que admite la querella es innovador, ya que recepta los principios establecidos en 
+la Convención Interamericana contra la Corrupción, siendo los fundamentos que esgrimió la OA en su 
+presentación y que se traducen en un concepto más amplio en materia de lucha contra la corrupción. 
+
+Difusión de canales de denuncia de corrupción asociada a la trata
+
+Esta propuesta podría implementarse a partir de visibilizar como agente receptor de denuncias de 
+funcionarios públicos en trata de personas por ejemplo a través de campañas para difundir canales 
+de denuncia sobre la corrupción asociada a la trata. 
+
+También estableciendo mecanismos de articulación para intercambiar experiencia y capacitar sobre 
+mirada anticorrupción a quienes tomen denuncias sobre trata a nivel provincial.
+
+Fortalecer  la  institucionalidad  abocada  a  la  trata  y  explotación  con  enfoque  en 
+corrupción
+
+Vemos en el análisis de la información que en general las instituciones abocada a esta temática no 
+tienen incorporado un enfoque anticorrupción. La UNODC sugiere la importancia de incluir elemento 
+de corrupción en los planes de acción contra la trata12.Asimismo la creación de áreas especializadas 
+en trata y explotación de personas a nivel provincial y municipal. 
+
+En  las  fuerzas  de  seguridad,  brigadas  y  áreas  y  protocolos  de  actuación  especiales  sobre  trata, 
+búsqueda de personas y violencias de género.
+
+12.   Ibídem
+
+28 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+Por ejemplo, en La Pampa el Programa Provincial para la Prevención, Protección y Asistencia de las 
+Víctimas de Trata desde 2018 Decreto No. 2962/18, y a nivel municipal la ciudad de Santa Rosa creó 
+el Programa integral para la prevención, asistencia y oportunidades para el desarrollo para víctimas 
+de trata de personas por explotación sexual y prostitución, aprobado por Ordenanza Nº 4477/11. En 
+Jujuy la Ley Nro 6186 que declara emergencia en materia de violencia de género, ordena crear áreas 
+de género en todos los municipios, con foco en atención en las violencias y los casos de desaparición 
+de mujeres, niñas y personas LGBTI+. 
+
+En Chaco y Jujuy las fuerzas de seguridad tienen protocolos especiales sobre trata y sobre desaparición 
+de personas, en Chubut y La Pampa siguen los establecidos por las fuerzas federales.
+
+Construcción de datos e información sobre corrupción facilitadora de la trata
+
+Para  detectar  puntos  de  riesgo  y  áreas  de  la  administración  pública  vulnerables  a  la  corrupción 
+asociada a la trata es recomendable que las áreas de producción estadística sobre trata y explotación 
+incorporen indicadores sobre participación de funcionarios públicos en esos casos.
+
+Una  buena  práctica  a  nivel  regional  que  puede  ser  replicado  a  nivel  local  es  la  herramienta  de 
+indicadores de corrupción y trata, realizada por expertas de EUROsociAL+ para el ámbito regional (en 
+el ámbito de la AIAMP). Se trata de una plataforma con variables e indicadores para generar datos 
+diferenciados sobre el fenómeno, mostrar sus  tipologías y dinámica a nivel regional y poder mapear 
+los riesgos. 
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 29
+
+VII.  ANEXO: NORMATIVA RELEVADA POR JURISDICCIÓN
+
+CHACO
+
+ \ Ley 1341-A de Ética y Transparencia en la Función Pública
+ \ Decreto Nº 1311/99 Reglamento de Sumarios para la Administración Pública Provincial
+ \ Ley 1658-N Medidas de prevención y protección a víctimas de la trata de personas 
+ \ Ley 1096-J Creación del Programa Provincial de asistencia a la víctima del delito 
+ \ Ley 1886-M Adhesión a la Ley Nacional 26485 de protección integral para prevenir, sancionar y 
+
+erradicar la violencia contra las mujeres
+
+ \ Ley 2997-G Adhesión a la Ley Nacional 27499 – Ley Micaela de Capacitación obligatoria en la 
+
+Temática de Género y Violencia contra las Mujeres
+
+ \ Ley 3117-N Adhesión a la Ley Nacional 27452 – Régimen de Reparación Económica de  Niñas, 
+
+Niños y Adolescentes víctimas colaterales de Femicidio (Ley Brisa)
+
+ \ Ley 1248-A crea la Comisión Provincial Multisectorial de la Mujer dependiente de la Cámara de 
+
+Diputados de la provincia de Chaco
+
+ \ Ley  provincial  2772-L  Protocolo  de  Prevención  ante  Situaciones  de  Violencia  Laboral  en  la 
+
+Administración Pública
+
+ \ Decreto Provincial 1302/15 Aprueba la Reglamentación de la Ley 7006, actual L. 2023 A
+ \ Decreto Provincial 2661/16 Promulga Ley Provincial L.2530.G, antes Ley Nº 7908.
+ \ Decreto Provincial 1607/12 Promulga Ley Provincial L.2023.A, antes Ley Nº 7006
+ \ Ley  Provincial  2530.G  Programa  de  Prevención  de  la  Violencia  y  Seguridad  en  el  ámbito  del 
+
+Sistema de Salud.
+
+ \ Ley Provincial 2023.A Prevención y Erradicación de la Violencia Laboral en la Administración 
+
+Pública Provincial
+
+ \ Decreto Provincial 322/12 Crea el Programa Provincial “Chaco dice no a las violencias”
+ \ Decreto Provincial 1219/16 Crea el Gabinete Interministerial de Género
+ \ Decreto Provincial 1251/15 Decreta la Emergencia Provincial en Materia de Violencia de Género
+ \ Ley 178-J de Personal Policial
+ \ Ley 1703-J Establece el Protocolo de actuación policial en materia de desaparición de personas
+ \ Disposición 1805 de 2009 de la Policía Provincial que crea el Departamento de Lucha contra la 
+Trata de Personas con dependencia de la Dirección General de Policía de Investigaciones creado 
+por Disposición de Jefatura de Policía Provincial. 
+
+ \ Ley  854-P  Orgánica  Municipal  (rige  para  municipios  que  no  tengan  Carta  Orgánica  propia. 
+
+Cuentan con Carta Orgánica los municipios de Resistencia y General San Martín )
+
+ \ Ordenanza municipal 9794/2010 de Resistencia, sobre habilitaciones.
+
+30 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+CHUBUT
+
+ \ Ley I 231 - Ética de la Función Pública
+ \ Ley XV 17 - Adhesión a la ley nacional 26364 de Prevención y sanción de la trata de personas y 
+
+asistencia a sus victimas
+
+ \ Ley  XV  19  y  modificatoria  Ley  XV  29  -  Adhesión  Ley  Nacional  27046  de  prevención  de  trata 
+de  personas  leyenda  obligatoria  con  mensaje  preventivo  de  trata  de  personas  en  aeropuertos, 
+terminales de transporte terrestre y puertos, medios de transporte público, pasos fronterizos, etc. 
+ \ Decreto 45/15 incorpora la Dirección de Lucha contra la Trata de Personas bajo la órbita de la 
+Subsecretaria de DDHH del entonces Ministerio de Gobierno, Seguridad y Justicia de la provincia 
+ \ Ley III 36 - Adhesión a la Ley Nacional 26485 de protección integral para prevenir, sancionar y 
+
+erradicar la violencia contra las mujeres
+
+ \ Ley XV 26 – Protección integral e igualdad de oportunidades y equidad de género
+ \ Ley XIX 8 - Régimen del Personal de la Policía del Chubut
+ \ Ordenanza municipal 3556/2000 de Puerto Madryn 
+ \ Ordenanza municipal 920/81 y modificatoria 10577/2012 de Comodoro Rivadavia 
+ \ Ordenanza municipal 1800/2013 de Río Mayo 
+ \ Ordenanza municipal 250/2015 de Esquel 
+
+JUJUY
+
+ \ Ley 5153 – Ética Pública
+ \ Ley 6185 - Creación del Comité Interinstitucional permanente de actuación ante la desaparición 
+
+y extravío de mujeres, niñas y personas LGBTI+. 
+
+ \ Ley 6186 - Declara emergencia en materia de violencia de género (Ley Iara)
+ \ Decreto 15/2019 Creación del Consejo Provincial de la Mujer e Igualdad de Género.
+ \ Ley 5738 - Adhesión a la Ley Nacional 26485 de protección integral para prevenir, sancionar y 
+
+erradicar la violencia contra las mujeres
+
+ \ Ley 6193 - Sistema integral de protección de derechos de las mujeres  y personas de la diversidad 
+sexual para prevenir y sancionar situaciones de todo tipo de violencias basadas en el género, la 
+orientación sexual, la expresión y/o identidad de género
+
+ \ Ley N° 5897 “Creación de los juzgados especializados en violencia de género” y su modificatoria 
+
+de la ley 6217
+
+ \ Ley 5859 - contra la Trata de Personas, sobre obligación de leyendas de difusión línea 145
+ \ Ley 5767 - Establece el día 23 de septiembre de cada año como “Día contra la Trata de Personas” 
+
+con el objeto de prevención y sensibilización
+
+ \ Ley 5731 – Establece el día para la Prevención del abuso en niños, niñas y adolescentes 
+ \ Decreto N°366-G-2020 Protocolo de actuación en casos de violencia de género en el ámbito de 
+
+la Administración Pública
+
+ \ Resolución 51-MS-2017 - Protocolo de Búsqueda de personas para la policía provincial
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 31
+
+ \ Resolución N°164-MS-2020 - Protocolo para la implementación de Dispositivos para Mujeres en 
+
+Emergencias para la policía provincial 
+
+ \ Resolución N° 173-MS-2020 – creación de la Dirección General de Políticas de Género en la 
+
+policía provincial
+
+ \ Ordenanza municipal 6704/2014 de San Salvador de Jujuy. Prohibición del rubro cabaret
+
+LA PAMPA
+
+ \ Ley  2795  Adhesión  a  ley  nacional  26364  de  Prevención  y  sanción  de  la  trata  de  personas  y 
+
+asistencia a victimas
+
+ \ Decreto 2962/2018 Creación del programa provincial para la prevención, protección y asistencia 
+
+de las víctimas de trata
+
+ \ Ley 3175 Adhesión a la Ley Nacional 27499 Ley Micaela sobre capacitación obligatoria en la 
+
+temática de género y violencia contra las mujeres 
+
+ \ Ley 2550 Adhesión a la Ley Nacional 26485 de protección integral para prevenir, sancionar y 
+
+erradicar la violencia contra las mujeres
+
+ \ Ley 3042 Licencia por Violencia de Género para trabajadoras de los 3 poderes provinciales 
+ \ Ley 1252 de Declaraciones Juradas Patrimoniales
+ \ Ley 643 Estatuto para los trabajadores de la Administración Pública Provincial
+ \ Ley Estatuto del Trabajador de la Educación
+ \ Ley 1279 de Carrera Sanitaria: Remite expresamente en el artículo 1° a la Ley N° 643.-
+ \ Ley 20320 Estatuto para los Agentes Viales Provinciales 
+ \ Decreto No. 1186/2018 Aprueba el Protocolo de Intervención para los casos de Detección de 
+
+Trabajo Infantil y Adolescente
+
+ \ Norma jurídica de facto Nro. 1064 Ley orgánica de la policía provincial 
+ \ Decreto 934/10 incorpora en el ámbito de la Unidad Regional I de la Policía de La Pampa, la 
+
+Unidad Funcional de Género, Niñez y Adolescencia
+
+ \ NJF 1034 de la Policía de la Provincia de La Pampa regula la materia disciplinaria 
+ \ Guía para Víctimas de Delitos, Ministerio de Gobierno, Justicia y Derechos Humanos, aprobada en 2021
+ \ Ordenanza municipal Nº 4477/11 de Santa Rosa crea el Programa integral para la prevención, 
+asistencia y oportunidades para el desarrollo para víctimas de trata de personas por explotación 
+sexual y prostitución
+
+ \ Ordenanzas que prohíben el rubro cabaret y similares: 
+ \ Ordenanza municipal 3941/2009 de Santa Rosa
+ \ Ordenanza municipal 82/2009 Genera Pico
+ \ Ordenanza municipal 1544/2010 Victorica
+ \ Ordenanza municipal 28/2009 Catriló
+ \ Ordenanza municipal 36/2009 Eduardo Castex
+ \ Ordenanza municipal 015/2009 Quehué 
+ \ Ordenanza municipal 125/2009 Jacinto Arauz
+
+32 | Grupo de Trabajo sobre Corrupción y Trata de Personas del Foro Permanente de Fiscalías de Investigaciones   
+
+Administrativas y Oficinas Anticorrupción de Argentina
+
+ \ Ordenanza municipal 25/2009 San Martín
+ \ Ordenanza municipal 335/2009 Winifreda
+ \ Ordenanza municipal 446/09 Macachin
+ \ Ordenanza municipal 20/2009 Colonia Barón
+ \ General Acha, Lonquimay y 25 de mayo cuentan con ordenanza de prohibición de cabaret 
+
+pero no se pudo acceder al texto
+
+RÍO NEGRO
+
+ \ Ley 3550 de Ética e Idoneidad de la Función Pública  
+ \ Ley 4634 y su modificatoria 4910 creación del Consejo Interinstitucional de Trata de personas
+ \ Decreto 1258/2014 creación del Programa de Asistencia de Víctimas de Trata de Personas en el 
+
+Ministerio de Desarrollo Social
+
+ \ Ley 4650 Adhesión a la Ley Nacional 26485 de protección integral para prevenir, sancionar y 
+
+erradicar la violencia contra las mujeres
+
+ \ Ley 5255 Funcionamiento de la Secretaría de Trabajo
+ \ Ley N° 5182 Creación en el ámbito de la Secretaría de Estado de Trabajo la Comisión Tripartita 
+
+para la Igualdad de Oportunidades-Género.
+
+ \ Ley N 4650 - Adhiere a la Ley Nacional Nº 26485 de Protección Integral para prevenir, sancionar 
+y  erradicar  la  violencia  contra  las  mujeres  en  los  ámbitos  en  que  desarrollen  sus  relaciones 
+interpersonales. Invita a los Municipios a adherir.
+
+ \ Ley S 4795 Prohibición de habilitación cabaret a nivel provincial. Invita a adherir a municipios, 
+adhirieron: San Carlos de Bariloche, Sierra Grande, Choele Choel, Catriel, El Bolsón, Dina Huapi, 
+Lamarque, Cinco Saltos, Ingeniero Jacobacci y Río Colorado (en muchos casos se desconoce el 
+número de ordenanza).
+
+ \ San Carlos de Bariloche: Ordenanza N° 2478/13 Adhiere a la Ley Provincial 4795: establece, en 
+un plazo de 30 días, la elaboración Protocolo de tratamiento de las víctimas de trata de personas. 
+Ordenanza 2221 CM -11 Adhiere a Ley Nº 4650.
+
+ \ Viedma: Ordenanza 6332. Adhiere a la Ley Nacional Nº 26364 de prevención y sanción de la trata 
+de personas y asistencia a sus víctimas. Ordenanza 7756. Declara la emergencia por la violencia 
+hacia las mujeres en la Ciudad de Viedma por el término de dos (2) años a partir de promulgada la 
+presente. La Secretaría de Desarrollo Humano, o la que la reemplace en el futuro, es el órgano de 
+aplicación. Dentro de esta ordenanza se menciona la trata como un problema de violencia.
+
+ROSARIO
+
+ \ Ordenanza municipal 10062/2020 Protocolo de actuación de violencia de género para agentes 
+
+de la Administración Pública municipal
+
+ \ Ordenanza municipal 396/2019 prohíbe contratar agentes con causas penales de violencia de género 
+ \ Ordenanza municipal 9075/2013 modifica requisitos para habilitaciones de locales nocturnos
+
+Corrupción, género y trata de personas: análisis de las normativas locales. | 33
+
+MINISTERIO PÚBLICO FISCAL | PROCURACIÓN GENERAL DE LA NACIÓN
+Av. de Mayo 760 (C1084AAP) - Ciudad Autónoma de Buenos Aires - Argentina
+ (54-11) 4338-4300
+www.mpf.gob.ar | www.ﬁscales.gob.ar
+
+

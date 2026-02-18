@@ -1,0 +1,1130 @@
+Estudios Públicos,  89 (verano 2003).ESTUDIO
+LA CORRUPCIÓN DESDE
+UNA PERSPECTIVA ECONÓMICA*
+Raimundo Soto
+RAIMUNDO SOTO. Profesor del Instituto de Economía, P. Universidad Católica de Chile.
+*El autor agradece los comentarios de H. Beyer, F. Gallego y G. Wagner a una
+versión preliminar de este trabajo.Este trabajo presenta una reflexión, desde un punto de vista econó-
+mico, acerca de las distintas formas que adopta la corrupción, eindaga en las posibles situaciones que llevan a los individuos aactuar de manera corrupta y a las sociedades a tolerar —e incluso,fomentar— estas prácticas. Ciertamente, la corrupción también tieneimplicancias éticas, políticas y sociales y puede ser analizada desdeesas perspectivas. No obstante, se sostiene en estas páginas, el análi-sis de la corrupción desde una óptica económica aporta elementospara el diseño de estrategias que permitirían combatirla y mitigar sus
+efectos más dañinos.24 ESTUDIOS PÚBLICOS
+L1. Introducción
+       a corrupción es un tópico que está siendo discutido de manera
+creciente en el contexto del desarrollo económico y político de los países
+latinoamericanos (Banco Mundial, 1997)1. No existe, sin embargo, una
+visión unitaria sobre este problema. Para algunos, la corrupción general-mente reduce la efectividad y calidad de las políticas económicas y la
+calidad de las mismas, distorsiona el diseño y la aplicación de las regulacio-
+nes, y entraba y ensucia el accionar de la justicia (Transparency Internatio-nal, 1999). Investigaciones realizadas en un vasto número de países sugie-
+ren que la corrupción puede tener un importante efecto negativo en los
+niveles de inversión, crecimiento, igualdad y bienestar de una economía(Mauro, 1995). Para otros, por el contrario, la corrupción permite aceitar el
+funcionamiento de la economía cuando el exceso de regulación sofoca el
+accionar de la empresa privada o cuando las normas han sido mal dictadas(Lui, 1985). Finalmente, algunos autores señalan que la corrupción resulta
+de modo natural del proceso de desarrollo político y económico de un país.
+Cuando las economías comienzan a enriquecerse, aparecen primeramentelas rentas que justifican la corrupción y, posteriormente, cuando el costo
+alternativo es muy alto, se desarrollan las instituciones que inhiben y san-
+cionan la corrupción (Bayley, 1966). En este sentido, el hecho de que la
+corrupción se haya expandido de manera alarmante en los países ex socia-listas ha llevado a algunos autores a conjeturar que las economías de merca-
+do podrían tener una tendencia hacia mayores niveles de corrupción y que
+las recientes reformas económicas han favorecido su expansión.
+En consecuencia, pareciera no existir consenso en la literatura eco-
+nómica respecto de, al menos, tres elementos importantes:
+1. ¿Es la corrupción buena, mala o irrelevante para el proceso de
+desarrollo?
+2. ¿Es posible erradicar la corrupción en cualquier momento o sólo
+se la puede eliminar después de que los países han alcanzado un alto nivelde ingreso per cápita?
+3. ¿Son las reformas de mercado causa de la corrupción o pueden
+ser su cura?
+La corrupción es ciertamente un problema complejo en el que inter-
+vienen numerosas fuerzas que son difíciles de describir y evaluar. Entre
+ellas, factores sociales, culturales, políticos, económicos e históricos.
+1Este trabajo se concentra en el problema de la corrupción en el sector público. La
+corrupción existe y es también un problema en actividades privadas que no envuelven enforma alguna al sector público.RAIMUNDO SOTO 25
+La corrupción, sus formas y maneras no son privativas de ningún
+país. La corrupción en América Latina, donde muchos burócratas han co-mercializado sus poderes administrativos, no es diferente a la existente en
+Europa, donde algunos funcionarios públicos obtienen grandes comisiones
+en proyectos de obras públicas y contratos de defensa.
+Sin embargo, los problemas y las soluciones serán distintos según se
+trate de una sociedad en que sólo hay casos aislados de corrupción o de una
+sociedad en que la corrupción es generalizada. La corrupción en Canadá noes igual a la de México, no sólo por una cuestión de grado sino también de
+causas y efectos diferentes. De ahí que el uso de la misma palabra para dos
+situaciones completamente distintas genere confusión. Para evitar esto hayque distinguir entre los casos en que la corrupción es marginal y los casos
+en que la corrupción es generalizada. La corrupción, como la enfermedad,
+se encuentra en todas partes del mundo. Sin embargo hay tiempos, organi-zaciones o países con epidemias y otros con una situación controlada. En
+algunos países como Argentina, Venezuela y en la mayoría de las naciones
+en vías de desarrollo, la epidemia es la situación natural.
+El objetivo de este trabajo es reflexionar sobre las formas de la
+corrupción desde un punto de vista económico e indagar en las posibles
+situaciones que llevan a los individuos a actuar de manera corrupta y a lassociedades a tolerar —e incluso, fomentar— estas prácticas. Ciertamente, la
+corrupción también tiene implicancias éticas, políticas y sociales y puede
+ser analizada desde esas perspectivas. No obstante, el análisis de la corrup-ción desde una óptica económica aporta elementos para el diseño de estra-
+tegias que permitan combatirla y mitigar sus efectos más dañinos. Asimis-
+mo, el análisis económico nos advierte acerca de qué condiciones puedenfomentar el surgimiento o la generalización de prácticas corruptas.
+No existe aún un cuerpo de estudios suficientemente desarrollado,
+con modelos bien fundados, que permita un análisis sistemático y consisten-te del fenómeno de la corrupción. Las principales contribuciones se concen-
+tran en analizar casos de equilibrios múltiples en contextos dinámicos (Lui,
+1985), la existencia de persistencia e histéresis como resultado de efectosde reputación (Tirole, 1996), la dinámica de tipo agente-principal (Eske-
+lund y Thiele, 1999), y el papel que juegan las jerarquías y el poder mono-
+pólico (Shleifer y Vishny, 1993; Carbonara, 2000). Por ello, este trabajo sepropone discutir de manera crítica las principales hipótesis que se han
+formulado en esta materia y los resultados de los estudios empíricos dispo-
+nibles.
+El trabajo se organiza de la siguiente manera. La sección 2 analiza
+las distintas definiciones de corrupción en la literatura. No existe una defi-26 ESTUDIOS PÚBLICOS
+nición precisa y universalmente utilizada de la corrupción, siendo ésta fre-
+cuentemente definida en función de las prácticas corruptas. Pero dichasprácticas difieren de un país a otro y están determinadas por los patroneshistóricos, culturales y sociales de cada sociedad. Aun cuando ello hacedifícil la comparación de corte transversal de los datos disponibles, paraefectos del análisis económico, sin embargo, la mayoría de las definicionespropuestas da una noción que, sin ser exhaustiva, resulta suficiente paracaracterizar sus principales causas, modalidades de operación y efectos.
+La sección 3 presenta un análisis de la corrupción en América Latina
+en comparación con otras regiones del mundo, utilizando un conjunto deindicadores sobre percepción de corrupción y sus principales determinan-tes. Aquí se advierte una diversidad en los niveles de corrupción, así comoen las características institucionales, legales y judiciales de los distintospaíses.
+En la sección 4 se evalúa la importancia relativa de las distintas
+causas de la corrupción. Sin entrar en detalle en cada teoría, se discuten susfundamentos lógicos y, cuando es posible, se presentan los resultados de losanálisis empíricos. Es preciso señalar que hay pocos modelos analíticosformales; la mayor parte de la literatura describe los posibles determinantesde la corrupción utilizando instrumental económico sin recurrir a modelosanalíticamente rigurosos.
+La sección 5 revisa los principales efectos de la corrupción. Aparte
+de sus connotaciones éticas y sociales, desde un punto de vista económicola corrupción genera un costo social en la medida en que funcionariospúblicos adoptan decisiones por motivos distintos al interés público y demanera arbitraria, sin tomar en cuenta las posibles consecuencias adversasque esas decisiones tienen sobre la comunidad. Los efectos de la corrupciónpueden agruparse, en breve, en tres categorías: impacto económico, impac-to político e impacto social.
+Finalmente, la sección 6 discute de manera genérica el tipo de solu-
+ciones aplicables al problema de la corrupción. Resulta elemental señalarque no existe una cura conocida para la corrupción y que los países másexitosos en el combate de la corrupción emplean muchas estrategias almismo tiempo. El éxito radica en determinar cuál es la mezcla óptima delos elementos de dichas estrategias, en función de la gravedad del problemay de los rasgos sociales, históricos y culturales que caracterizan a cadasociedad.
+La sección 7 recoge las principales conclusiones del trabajo.RAIMUNDO SOTO 27
+2.  El concepto de corrupción
+Definir qué constituye exactamente corrupción es una tarea comple-
+ja y no existe una acepción general del término. Las distintas sociedades
+tienen diferentes visiones morales, políticas y administrativas sobre quéprácticas son corruptas. No obstante, para efectos del análisis económico, la
+mayoría de las definiciones propuestas da una noción que sin ser exhaustiva
+resulta suficiente para caracterizar sus principales causas, modalidades deoperación y efectos. Bayley (1966) señala que la corrupción, que frecuente-
+mente se refleja en actos de soborno, es un término general que comprende
+el mal uso de la autoridad derivado de consideraciones de beneficio perso-nal que no necesariamente se traduce en ganancias monetarias. Werlin
+(1973) define corrupción de manera más restringida como el desvío de
+fondos públicos hacia propósitos privados. Van Klaveren (1990) define alburócrata corrupto como aquel que utiliza su cargo público como una plata-
+forma para obtener ingresos ilegales. De este modo, los ingresos del servi-
+dor público corrupto no dependen de una evaluación social de sucontribución al bien común sino de las condiciones del mercado y de sus
+habilidades para extraer la mayor cantidad de recursos de la demanda del
+público. En este caso, el funcionario público opera como un monopolistaque maximiza su renta. Friedrich (1990) complementa la definición anterior
+señalando que la corrupción se produce cuando un servidor público al que
+la sociedad le ha dado atribuciones para cumplir un determinado deber,
+realiza actividades en beneficio personal que reducen el bienestar social o
+dañan el interés público.
+Otros autores, como Harch (1993), llevan la definición a un terreno
+más práctico y la definen mediante una serie de acciones que son corruptas.
+Entre ellas el robo abierto, la apropiación indebida de fondos o propiedad
+estatal, el nepotismo y la obtención de favores a amigos o familiares, y elabuso de la autoridad pública con el fin de obtener pagos o beneficios
+personales. Se puede extender la definición de Harch para incluir el tráfico
+de influencias, el uso de información privilegiada, la aceptación de dádivasy regalos, el lobbyy otras actividades para influir en el sistema político de
+modo tal de obtener beneficios personales o para grupos de interés.
+Resulta notable que estas definiciones de corrupción únicamente
+consideren situaciones en las que interactúan servidores públicos y distintos
+grupos o individuos de la sociedad. Pareciera, aparentemente, que con ello
+se niega que la corrupción exista en el sector privado. Pero ello no es así.Sin embargo, hay muchos actos de agentes privados que afectan negativa-
+mente a la sociedad, como sucede, por ejemplo, cuando algunas empresas28 ESTUDIOS PÚBLICOS
+se conciertan para elevar precios. Estas acciones debieran estar tipificadas y
+ser sancionadas por los reguladores de los mercados o directamente por elsistema judicial. Por ello, éstas no constituyen corrupción sino más bien
+actos ilegales (faltas o delitos).
+No obstante, hay acciones corruptas que ocurren exclusivamente en
+el sector privado y no causan una externalidad a la sociedad (un ejemplo
+muy simple de éstas es dar propinas a un mozo para conseguir la mejor
+mesa en un restaurant). En este caso resulta difícil justificar la acción delEstado pues ellas sólo implican transferencias de rentas entre agentes priva-
+dos. Como en este caso las pérdidas económicas que sufre alguna de las
+partes son únicamente privadas, existen todos los incentivos para evitar lacorrupción sin que se requiera mayor intervención del Estado. Por ejemplo,
+es responsabilidad del dueño de una empresa velar por que su patrimonio
+no se vea perjudicado por actos de corrupción de sus empleados. No obs-tante, debe reconocerse que en una sociedad en la que existe un sólido
+código ético en el sector privado, habrá menores incentivos a corromper
+funcionarios públicos para obtener rentas ilícitas y un ambiente de negociosmás sano. Valdés (2000) explora la responsabilidad que le cabe al sector
+privado en lo que respecta al alcance y profundidad del problema de la
+corrupción, y analiza el valor privado que tiene la probidad.
+Es importante también separar el concepto de corrupción de aque-
+llos actos que son simplemente ilegales o inmorales de acuerdo a algún
+código de conducta. No todas las acciones ilegales son corruptas (por ejem-plo, el robo) y no todas las prácticas corruptas son ilegales. Como señala
+Wagner (1994), lo que caracteriza a la corrupción es que el intercambio es
+voluntario entre ambas partes —corruptor y corrupto—. En el caso de uncrimen, naturalmente, la víctima no participa voluntariamente del “inter-
+cambio”. Por otro lado, en muchas sociedades la costumbre de que los
+funcionarios públicos acepten regalos o dádivas es legalmente tolerada has-ta ciertos niveles, como atestigua la existencia de regulaciones respecto del
+valor máximo permitido para ellas. Es igualmente importante distinguir
+entre actos de corrupción e inmoralidad, pues si bien la corrupción tieneuna sanción social, hay muchos actos de inmoralidad que no son corruptos.
+Por estas razones, en este trabajo la corrupción se entenderá como la
+utilización de un cargo público en beneficio propio o de terceros y encontra de los intereses de la institución o comunidad. Resulta difícil especi-
+ficar claramente los límites de esta definición, pues debe reconocerse que
+hay actividades en las que la genuina labor de un funcionario público puedeconfundirse con el interés personal (por ejemplo, para obtener su reelec-
+ción). En general, se consideran actos de corrupción el abuso de funciones,RAIMUNDO SOTO 29
+el cobro de comisiones y obsequios ilegales, la exacción de contribuciones
+ilegales para financiar a los partidos políticos, la evasión o fraude total oparcial de los impuestos, el cohecho, el soborno, seducción o corrupción deun juez o funcionario público, y el nepotismo.
+A un nivel más profundo, la corrupción puede ser interpretada como
+una falla en la estructura institucional de la sociedad, en particular de sucapacidad de gobernabilidad. Si la estructura institucional fuese efectiva,
+los actos de corrupción serían detectados y sancionados como regla general
+y, a la vez, las normas rápidamente serían adaptadas para inhibir los actosde corrupción. Bajo esta óptica, algunos autores distinguen dos categorías
+de corrupción (Maegher, 1996). La primera categoría comprende situacio-
+nes en que las instituciones funcionan de manera ineficiente por efecto de lacorrupción, pero los actos de corrupción son esporádicos, aislados, o de
+impacto restringido. La segunda categoría comprende situaciones en que las
+instituciones son inoperantes debido a que la corrupción es la norma decomportamiento dominante y el principal objetivo de los funcionarios es
+obtener rentas. En este último caso, típicamente, parte sustancial de los
+trabajadores no acude al trabajo o sólo lo hace por pocas horas, la mayorparte de los ingresos del individuo provienen de prácticas corruptas, no
+existen mecanismos de control y el sistema de incentivos se encuentra
+gravemente distorsionado.
+Alternativamente, otros autores distinguen aquellos actos de corrup-
+ción que se cometen “de acuerdo con las reglas” de las acciones que sedesarrollan “en contra de las reglas” (Transparency International, 1996). En
+el primer caso, un funcionario está recibiendo un beneficio de parte de un
+particular por llevar a cabo algo que debe hacer, según lo dispone la ley. Enel segundo caso, se cometen actos de corrupción para obtener servicios que
+el funcionario tiene prohibido proporcionar.
+Finalmente, es importante separar la corrupción política de la co-
+rrupción burocrática. La primera se refiere a las actividades de corrupción
+de entes políticos que mediante el cohecho, la adulteración de registros de
+votantes y la falsificación de resultados electorales consiguen cuotas ilegíti-mas de representación y poder. A través de ellas, estas elites obtienen
+beneficios y, frecuentemente, inducen la corrupción burocrática descrita
+más arriba (Goodman, 1990).
+ 3. La corrupción en América Latina
+Cuantificar los niveles de corrupción es una tarea compleja pues
+—aparte del secreto en el que ésta opera— no existe un indicador que sirvade denominador común para hacer comparaciones en el tiempo o entre30 ESTUDIOS PÚBLICOS
+países. Incluso si existiesen estadísticas oficiales sobre el volumen de actos
+o denuncias de corrupción, éstas podrían ser de escaso valor en la medida
+que los países difieren frecuentemente en su interpretación sobre cuáles
+actividades constituyen prácticas corruptas. Una medida monetaria, por
+otro lado, podría ser inadecuada porque en muchos países pobres la corrup-
+ción puede ser generalizada aun si los niveles de intercambio monetario son
+ínfimos comparados con los casos de gran corrupción en un país de ingreso
+medio o alto.
+Es por ello que los indicadores disponibles se basan en el uso de
+encuestas estandarizadas sobre percepciones de niveles de corrupción. Esos
+indicadores, por lo mismo, deben ser considerados únicamente como indi-
+cativos de los verdaderos niveles existentes. Aunque la calidad de la infor-
+mación no es la óptima, muchos autores confían en que el contenido de
+información es suficiente como para permitir un análisis riguroso (Lambs-
+dorff, 1999; Kaufmann, Kraay y Zoido-Lobaton, 1999). Los indicadores de
+corrupción combinan resultados obtenidos de dos tipos de instrumentos.
+Primero, entrevistas estandarizadas a expertos en corrupción. Éstas tienen
+la debilidad de representar las opiniones de unos pocos individuos, pero
+son muy precisas y permiten la comparación entre países. Segundo, encues-
+tas a empresarios e inversionistas, que si bien son menos precisas pues
+dependen de condiciones locales, tienen la ventaja de ser masivas y más
+representativas de la opinión general.
+El Cuadro N° 1 presenta algunas mediciones de corrupción y de
+variables institucionales asociadas para 100 países, agrupados por región
+geográfica. Aparte del índice de corrupción elaborado para 1999 por Trans-
+parency International, se adjuntan mediciones de participación ciudadana y
+rendición de cuentas de los funcionarios públicos ( accountability ), estabili-
+dad política y ausencia de violencia, efectividad del gobierno, calidad de
+las regulaciones, respeto por las leyes y esfuerzos de control de la corrup-
+ción estimadas por Kaufmann, Kray y Zoido-Lobaton (1999).
+El problema de la corrupción en América Latina es bastante grave.
+Los niveles de corrupción son altos comparados a los de otras regiones en
+desarrollo y se está muy lejos de alcanzar los estándares de los países
+desarrollados en cualquiera de los indicadores de situación institucional.
+Aunque los indicadores de participación y rendición de cuentas ( accounta-
+bility) son mayores en América Latina que en el resto de los países en
+desarrollo, su situación no es mejor que la de los tigres asiáticos —que
+podrían ser un referente de interés para la región—. Por otro lado, los
+niveles de inestabilidad política y violencia son sólo comparables a los de
+África y el Medio Oriente, lo que sugiere el enorme riesgo y conflictosocial que enfrenta la población. Desde un punto de vista económico, elloRAIMUNDO SOTO 31
+se traduce en un fuerte desincentivo para los inversionistas nacionales y
+extranjeros. Ambos indicadores sugieren que existe una apreciable distan-cia entre los objetivos declarados de participación y apego a la legalidad y
+la situación efectiva de inestabilidad, violencia política y transgresiones a la
+ley. Es importante notar el desarrollo en esta área de los tigres asiáticos,que están más cerca de los países desarrollados que del promedio de los
+países en desarrollo (0,45).
+La efectividad del gobierno es también muy baja (0,35), casi la
+mitad de la de los países de crecimiento sostenido del mundo. Éste es un
+problema sustancial pues revela problemas de inconsistencia en la aplica-
+ción de las políticas públicas y en su capacidad para identificar y satisfacerlas necesidades de la población. Ello, a pesar de que en América Latina se
+cuenta con un desarrollo del aparato estatal de mayor antigüedad al de
+muchos de los países africanos, asiáticos y del Medio Oriente que dejaronde ser colonias europeas sólo después de la Segunda Guerra Mundial. EsteCUADRO N° 1: INDICADORES DE CORRUPCIÓN Y FUNCIONAMIENTO DEL SISTEMA
+POLÍTICO E INSTITUCIONAL EN 100 PAÍSES*
+(1 = más, 0 = menos)
+Índice Participación Estabilidad Efectividad Calidad Respeto Control
+de y dar política del de la por las de la
+corrupción cuenta y ausencia gobierno regulación leyescorrupción
+(accountability ) y de
+violencia
+Países desarrollados 0,21 0,92 0,84 0,81 0,88 0,82 0,82
+América Latina 0,65 0,52 0,39 0,35 0,75 0,26 0,25
+África 0,66 0,41 0,39 0,28 0,57 0,32 0,25
+Economías en transición 0,68 0,50 0,48 0,29 0,47 0,33 0,23
+Asia (tigres) 0,58 0,44 0,56 0,48 0,67 0,48 0,38
+(0,43) (0,55) (0,68) (0,67) (0,80) (0,71) (0,57)
+Oriente Medio 0,55 0,39 0,42 0,47 0,69 0,54 0,39
+* Los países son Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Ecuador,
+El Salvador, Guatemala, Honduras, Jamaica, México, Nicaragua, Paraguay, Perú, Uruguay,Venezuela, Botswana, Camerún, Costa de Marfil, Ghana, Kenya, Malawi, Mauricio, Mozam-bique, Namibia, Nigeria, Senegal, Sudáfrica, Tanzania, Uganda, Zambia, Zimbabwe, Alba-nia, Armenia, Azerbaijan, Bielorrusia, Bulgaria, Croacia, República Checa, Estonia, Georgia,Hungría, Kazakhstan, Kyrgyztan, Latvia, Lituania, Macedonia, Moldovia, Polonia, Rumania,Rusia, Eslovaquia, Eslovenia, Ucrania, Uzbekistán, Yugoslavia, China, Hong Kong, India,Indonesia, Malasia, Mongolia, Pakistán, Filipinas, Singapur, Corea del Sur, Taiwan, Tailan-dia, Vietnam, Australia, Austria, Bélgica, Canadá, Dinamarca, Finlandia, Francia, Alemania,Grecia, Islandia, Irlanda, Italia, Japón, Luxemburgo, Holanda, Nueva Zelanda, Noruega, Por-tugal, España, Suecia, Suiza, Inglaterra, Estados Unidos, Egipto, Israel, Jordania, Marruecos,Túnez, Turquía.
+Fuente: Elaboración propia usando datos de Transparency International (1999) y
+Kaufmann, Kraay y Zoido-Lobatón (1999).32 ESTUDIOS PÚBLICOS
+resultado contrasta con los indicadores de calidad de la regulación, donde
+América Latina alcanza un nivel de desarrollo comparable al de los paísesdesarrollados y los tigres asiáticos. Aunque ello revela el esfuerzo de reno-
+vación regulatoria en América Latina, debe tenerse en cuenta que los nive-
+les de modernización de la regulación en muchos países europeos son aúnincipientes. Las reformas en el área de regulación en América Latina han
+sido pioneras en el mundo y esta mejor plataforma institucional es una
+importante ventaja inicial para enfrentar la corrupción. Sin embargo, la bajaefectividad del gobierno señala que la implementación de dichos marcos
+regulatorios no ha alcanzado aún su maduración
+2.
+Tal vez uno de los problemas más serios en América Latina es que
+el respeto a las leyes es sorprendentemente bajo, incluso por debajo del
+nivel africano, lo que revela el grave problema de gobernabilidad. Dada la
+existencia de marcos regulatorios adecuados, el problema de la corrupciónno parece provenir de la falta de leyes sino de su escasa aplicación. Ello es
+consistente con la virtual inexistencia de medidas de control de la corrup-
+ción en la región, como se aprecia en la última columna del Cuadro N° 1.En ambas áreas, la distancia con los países del sudeste asiático es abismal
+pese a que existe una imagen de que estos últimos son muy corruptos;
+mientras dichos países se encuentran cerca de los países desarrollados,América Latina está en el punto más bajo de la escala.
+El Cuadro N° 2 presenta información sobre corrupción en América
+Latina a nivel de países. Como se puede observar, hay bastante heterogenei-dad en el nivel de corrupción de los países latinoamericanos. Sólo algunos
+países están en el rango de los países desarrollados, mientras que en otros la
+corrupción alcanza proporciones epidémicas sólo comparable a la de lospaíses africanos. Los índices de corrupción de Chile y Costa Rica se en-
+cuentran dentro del rango de los países desarrollados, mientras que los
+niveles de Argentina, Bolivia, Ecuador, Paraguay y Venezuela están entrelos más altos del mundo. Por otro lado, la inestabilidad política —que es un
+factor determinante de la corrupción— afecta severamente a la región. Sólo
+Costa Rica alcanza niveles de país desarrollado, reflejo de una larga tradi-ción democrática y pacifista. Los casos más dramáticos de inestabilidad son
+Colombia (el país más violento de toda la muestra junto con Yugoslavia),
+Guatemala y Paraguay, cuyos niveles son más del doble del promedio de laregión.
+2Los diversos indicadores de gobernabilidad del Cuadro N° 1 están, naturalmente,
+correlacionados entre sí. Por ejemplo, en aquellos países donde la estabilidad política es baja,también la efectividad del gobierno es baja. Dicha correlación no invalida su uso, perosugiere ser cauteloso en la interpretación de los resultados.RAIMUNDO SOTO 33
+Por otra parte, como se señaló, América Latina tiene una vida inde-
+pendiente mucho más larga que la mayoría de los países en desarrollo. Ello,
+no obstante, no ha llevado a la consolidación de gobiernos eficientes. SóloChile presenta niveles que lo ubican entre los más ineficientes de los países
+desarrollados (Grecia, Italia y Francia), pero por encima de todos los tigres
+asiáticos con la excepción de Hong Kong. Entre los países con peor gestiónde gobierno, Paraguay y Venezuela se comparan únicamente con países
+africanos cuyo nivel de desarrollo es sustancialmente menor o con países de
+igual grado de desarrollo pero donde la corrupción está generalizada (Nige-ria, Kenya).
+La dimensión más grave de la situación latinoamericana es —como
+se señaló— la ausencia de respeto a las leyes y la falta de medidas decontrol de la corrupción. Cinco países se encuentran entre aquellos donde
+es más grave la situación a nivel mundial (Ecuador, Guatemala, Honduras,
+Nicaragua y Paraguay), en tanto que sólo tres países presentan indicadoresaceptables, pero no buenos, en ambas categorías (Chile, Costa Rica y Uru-CUADRO N° 2: INDICADORES DE CORRUPCIÓN Y FUNCIONAMIENTO DEL SISTEMA
+POLÍTICO E INSTITUCIONAL EN AMÉRICA LATINA
+(1 = más, 0 = menos)
+Índice Participación Estabilidad Efectividad Calidad Respeto Control
+de y rendir política del de la por las de la
+corrupción cuenta y no gobierno regulación leyes corrupción
+(accountability ) violencia
+Argentina 0,70 0,61 0,62 0,47 0,79 0,48 0,26
+Bolivia 0,75 0,58 0,41 0,32 0,87 0,27 0,21
+Brasil 0,59 0,63 0,35 0,32 0,60 0,31 0,36
+Chile 0,31 0,65 0,60 0,73 0,88 0,72 0,66
+Colombia 0,71 0,42 0,04 0,37 0,66 0,14 0,19
+Costa Rica 0,49 0,89 0,75 0,55 0,89 0,55 0,52
+Ecuador 0,76 0,54 0,31 0,22 0,69 0,16 0,09
+El Salvador 0,61 0,42 0,45 0,31 1,00 0,18 0,23
+Guatemala 0,68 0,27 0,21 0,32 0,71 0,04 0,09
+Honduras 0,82 0,44 0,35 0,27 0,58 0,10 0,05
+Jamaica 0,62 0,70 0,35 0,25 0,83 0,15 0,31
+México 0,66 0,42 0,34 0,44 0,77 0,23 0,26
+Nicaragua 0,69 0,48 0,35 0,23 0,52 0,15 0,08
+Paraguay 0,80 0,32 0,27 0,06 0,69 0,16 0,05
+Perú 0,55 0,23 0,29 0,44 0,79 0,22 0,28
+Uruguay 0,56 0,70 0,57 0,57 0,89 0,46 0,47
+Venezuela 0,74 0,51 0,38 0,14 0,58 0,17 0,12
+Fuente: Elaboración propia usando datos de Transparency International (1999) y
+Kaufmann, Kraay y Zoido-Lobaton (1999).34 ESTUDIOS PÚBLICOS
+guay). Es notable que los países con mayores niveles de riqueza —Argenti-
+na, Brasil, México y Venezuela— se encuentran entre aquellos con proble-mas profundos de respeto a las leyes.
+Otras fuentes de información confirman que este panorama sombrío
+se arrastra por un largo período de tiempo. Mauro (1995) reporta datos parael período 1980-83, según los cuales la corrupción en 55 países se asocia
+con altos niveles de tramitación burocrática e ineficiencia de los sistemas
+legales. Las áreas más afectadas por la corrupción son los servicios públi-cos, las licitaciones y adquisiciones públicas, la recaudación de ingresos
+fiscales (impuestos, aduanas), el nombramiento de funcionarios y la admi-
+nistración de gobiernos locales. La correlación entre los índices de corrup-ción y tramitación burocrática alcanza en América Latina a 56%, en tanto
+que a nivel mundial alcanza al 85%. Por el contrario, la correlación entre
+los índices de corrupción y la ineficiencia del sistema legal en AméricaLatina es virtualmente nula (2%), en tanto que a nivel mundial ésta alcanza
+a 80%. Éste es un elemento distintivo del caso latinoamericano, que podría
+ser reflejo de la tradición legalista española y que sugiere que una posiblefuente de control de la corrupción y mayor eficiencia económica radique en
+reformar el sistema legal.
+FIGURA N° 1: ÍNDICE DE AUSENCIA DE CORRUPCIÓN Y PIB PER CÁPITA EN AMÉRICA
+LATINAÍndice de corrupción
+Log PIB per cápita en US$ 19979,5
+8,5
+7,56,5
+5,5
+4,53,5
+2,5
+5,5 6 6,5 7 7,5 8 8,5 9 9,5ArgentinaBolivia
+Brasil
+ChileColombia
+Costa RicaEcuador
+El SalvadorGuatemalaHonduras
+JamaicaMéxicoNicaraguaParaguay
+PerúUruguayVenezuelaRAIMUNDO SOTO 35
+Finalmente, se ha señalado que podría existir una asociación negati-
+va entre nivel de desarrollo económico y grado de corrupción (Treisman,2000). A nivel internacional, los países menos desarrollados muestran los
+más graves niveles de corrupción. Si bien más adelante se ahonda en los
+fundamentos de esta hipótesis, baste decir que América Latina no escapa adicho fenómeno, como se muestra de manera simple en la Figura N° 1. Los
+únicos países que se apartan de la tendencia común son Chile y Nicaragua
+—que presentan un menor nivel de corrupción respecto de lo que seríaesperable dado su nivel de ingreso per cápita— y Argentina que, lamenta-
+blemente, presenta el fenómeno inverso.
+ 4.  Las causas de la corrupción
+Como es comprensible, hay una gran variedad de teorías sobre las
+causas y determinantes de la corrupción. No obstante, la mayoría de ellas
+aún no han sido formalizadas de un modo tal que podamos entender cabal-
+mente sus implicancias y proposiciones
+3. La escasez relativa de modelos de
+corrupción, sin embargo, se compensa con un creciente volumen de estu-
+dios empíricos de casos o comparados.
+Algunos autores señalan que el origen de la corrupción es la excesi-
+va —y, frecuentemente, incorrecta— regulación de los mercados por parte
+del Estado. La excesiva regulación les permite a los funcionarios públicos
+capturar las cuasi-rentas que se derivan de las restricciones impuestas porlas regulaciones. Adicionalmente, la corrupción aparecería como una mane-
+ra de esquivar los costos de los errores cometidos por el Estado al regular.
+Bajo estas condiciones, la corrupción es positiva en la medida que permiteque los mercados asignen de mejor modo los recursos (Leff, 1964; Hun-
+tington, 1968).
+Lui (1985) desarrolla más formalmente el argumento anterior ha-
+ciendo un paralelo con una situación de colas de espera: del mismo modo
+que un individuo con alto costo del tiempo está dispuesto a pagar por
+evitarse la cola de espera, las empresas más eficientes son las que tienen elmayor incentivo a incurrir en actos de corrupción para evitarse los costos
+impuestos por una regulación en un mercado. El argumento, que presenta
+evidentes limitaciones, intenta asociar a la corrupción el elemento de nego-
+ciación a la Coase que permite asignar eficientemente los recursos en un
+3Algunos autores desarrollan modelos formales siguiendo típicamente teorías de
+agente principal, jerarquías, o juegos con información asimétrica (por ejemplo, Shleifer yVishny, 1993; Wagner, 1994; Carbonara, 2000 y Carrillo, 2000).36 ESTUDIOS PÚBLICOS
+mercado. No obstante, se olvida en primer lugar que frecuentemente las
+distorsiones son impuestas para conseguir rentas en la forma de corrupcióny no son exógenas y, en segundo lugar, que como mecanismo de asignación
+de recursos, las colas de espera y la corrupción no son necesariamente los
+más eficientes en un contexto dinámico. Por ejemplo, la presunta ventajadepende de si los agentes envueltos en la corrupción son suficientemente
+“honestos” para no defraudar a su contraparte una vez hecho el pago. No
+obstante, como los “contratos” de corrupción no pueden ser llevados a unacorte de justicia si no son cumplidos, existen asimetrías e ineficiencias que
+hacen que los pagos de sobornos no puedan ser considerados como un pago
+eficiente a la Coase (Shleifer y Vishny, 1993).
+Osterfeld (1992) extiende el argumento anterior —pero no subsana
+sus problemas— señalando que en una economía demasiado regulada la
+corrupción toma dos formas. Corrupción expansiva (que incluye activida-des para aumentar la flexibilidad y competitividad de la economía) y co-
+rrupción restrictiva (que limita las oportunidades de intercambio y benefi-
+cio social). Mientras la segunda es directamente causa de ineficiencias ydistorsiones en la economía que reducen el bienestar, la primera sería posi-
+tiva al “engrasar las ruedas” de la economía. Entre las prácticas identifica-
+das por Osterfeld como ejemplos de corrupción expansiva se encuentra elsoborno de jueces, políticos o burócratas por parte del sector privado.
+Naturalmente, Osterfeld olvida que posiblemente las firmas que más
+interesadas están en pagar un soborno son aquellas que más se beneficiande la corrupción y el rent seeking y no las más eficientes desde un punto de
+vista productivo (Goodman, 1990, presenta evidencia empírica de este fe-
+nómeno). En este contexto, mediante la corrupción los empresarios priva-dos son capaces de capturar y mantener posiciones de privilegios —fre-
+cuentemente monopólicas— en la economía. Al mismo tiempo, los
+políticos corruptos se sirven de los recursos que colectan de la corrupciónpara continuar monopolizando la generación de regulaciones (Mbaku,
+1996). Un segundo problema del argumento es que olvida que la corrup-
+ción requiere que los funcionarios públicos puedan ejercer poder discrecio-nal para capturar las oportunidades de enriquecimiento ilícito. De hecho,
+incluso una regulación relativamente simple puede ser motivo de corrup-
+ción si los funcionarios públicos no son adecuadamente controlados y no seles hace responsables de su accionar.
+Desde un punto de vista empírico, esta hipótesis ha sido ampliamen-
+te estudiada tanto a nivel internacional como al interior de Estados Unidosal comparar la situación entre estados. LaPalombara (1994) encuentra evi-
+dencia de que el tamaño del gasto fiscal como porcentaje del PIB en unRAIMUNDO SOTO 37
+corte transversal de países está positivamente correlacionado con la corrup-
+ción. La Porta et al. (1999) encuentran una mayor correlación entre el
+indicador del grado de corrupción y el monto de transferencias y subsidios
+otorgado por el Estado como porcentaje del PIB. La falta de un tratamiento
+econométrico consistente es, sin embargo, una debilidad en estos estudios yestas correlaciones son poco robustas. De hecho, Elliott (1997) encuentra
+en una muestra de 83 países que la corrupción depende negativamente del
+tamaño del Estado y que lo importante es la composición del gasto público.
+Hellmanet al. (2000) separan la corrupción por parte de las empre-
+sas en dos tipos: la captura del regulador y la corrupción del fiscalizador.
+La primera —que reflejaría mejor el argumento de aceitar la economía—permite a la firma modificar en su favor la regulación; la segunda le permite
+inhibir los costos de no cumplir con la regulación. Usando evidencia para
+22 países en transición encuentran que, si bien la captura es beneficiosapara la firma en el corto plazo, ella no es sostenible en el largo plazo. Peor
+aún, los costos sociales de operar en un mercado donde el regulador es
+capturable son altos, crecientes en el tiempo y regresivos, pues las firmasmenos eficientes son las que tienen más incentivos a capturar al regulador.
+En contraste, todas las firmas tienen incentivos a corromper al fiscalizador,
+no existiendo un trade-off de corto plazo.
+Teorías menos simplistas del rol de la corrupción sugieren la necesi-
+dad de abandonar el paradigma de óptimo implícito en esta literatura y
+moverse hacia teorías de segundo mejor ( second best ) y de interacción
+estratégica.
+Partiendo del análisis de costo-beneficio a nivel individual, resulta
+natural entender la corrupción como el resultado de comparar el pago reci-bido y el costo esperado de ser descubierto. Este último es una combinación
+de la probabilidad de ser descubierto y la magnitud del castigo. Los poten-
+ciales beneficios serán mayores en la medida que el tamaño y el grado deintervención del Estado en la economía sea mayor. Tanzi (1998) describe
+de manera extensa los modos mediante los cuales la sobrerregulación pro-
+duce espacios para la corrupción. Los costos, por otro lado, dependen de laeficiencia del sector público para descubrir y sancionar a los corruptos y de
+la actitud de los afectados de denunciarlos.
+Una hipótesis frecuentemente escuchada es la de que este problema
+se refuerza en aquellas economías en que los servidores públicos son relati-
+vamente mal pagados, pues es frecuente que una parte sustancial del ingre-
+so provenga de exacciones que siendo legales no tienen como contrapartidaservicios gubernamentales, o abiertamente de prácticas indebidas. A pesar
+de la evidencia circunstancial de este último fenómeno, La Porta et al.38 ESTUDIOS PÚBLICOS
+(1999) y Treisman (2000) no encuentran evidencia econométrica consisten-
+te que apoye esta hipótesis.
+Mbaku (1996) señala por otro lado que en sociedades donde las
+relaciones raciales, religiosas, de castas o tribales son importantes (por
+ejemplo, en África), los funcionarios públicos suelen estar obligados a re-partir los ingresos de las oficinas públicas entre los miembros de su grupo
+de referencia. Ello lleva en su etapa más elemental a prácticas de nepotis-
+mo. En países donde los partidos políticos son fuertes y representan intere-ses de grupos sociales o regiones, el comportamiento de los servidores
+públicos tiende a estar determinado por estas lealtades desarrollándose una
+forma bastante extendida de corrupción a través del clientelismo.
+Aparte de los incentivos individuales a la corrupción, a nivel colecti-
+vo se requiere además un análisis de la forma en que cada sociedad enfrenta
+el problema y cómo éstas reaccionan frente a ella cuando aumenta su inten-sidad. Ello lleva a estudiar el papel que les cabe a los sistemas de adminis-
+tración pública, político y legal en inhibir la corrupción. En términos gene-
+rales, los siguientes elementos favorecen la aparición de la corrupción yestán presentes en buena parte de los países en desarrollo:
+la falta de una clara delimitación entre lo público y lo privado,
+la existencia de un ordenamiento jurídico e institucional inadecuado
+a la realidad nacional,
+la inoperancia práctica de las instituciones públicas.
+La cultura legal de una sociedad es una forma importante de delimi-
+tación de lo público y lo privado. La existencia de una cultura de la ilegali-
+dad generalizada o reducida a grupos sociales que saben que “la ley no
+cuenta para ellos” fomenta la corrupción y la tolerancia social hacia ella. Asu vez, la existencia de una amplia tolerancia social hacia el goce de privi-
+legios privados, permite que prevalezca una moralidad del lucro privado
+sobre la moralidad cívica. Algunos autores proponen que los sistemas insti-tucionales y legales basados en la jurisprudencia sajona tienden a delimitar
+de manera más precisa los límites entre propiedad privada y pública (La
+Portaet al., 1999). Treisman (2000) señala que hay evidencia empírica de
+que los países que fueron colonia de Inglaterra tienen niveles de corrupción
+sustancialmente menores que el resto aun cuando se toma en consideración
+el efecto de otros determinantes.
+Las recientes reformas en los países en desarrollo, por otro lado, han
+dejado al descubierto que la corrupción puede ser una respuesta al conflicto
+que se produce cuando formas de organización y de sistemas normativostradicionales se enfrentan a un orden económico moderno. Frecuentemente,RAIMUNDO SOTO 39
+se producen brechas sustanciales entre los requerimientos impuestos por la
+dinámica del mercado y la capacidad de intervención pública, entre losrecursos de la administración pública y la dinámica social. Rubio (1999)
+plantea que pareciera existir un dilema de política entre la modernización y
+desarrollo reciente de las economías de América Latina y la adopción desistemas de administración pública basados en desarrollos culturales muy
+distintos a los de la región (extranjerizantes).
+No obstante, éste es un falso dilema, pues, objetivamente, los siste-
+mas de administración pública empleados en los países desarrollados han
+sido ampliamente superiores a los empleados en los países en desarrollo.
+Así, independientemente del tipo de organización que se dé el Estado, lamejor calidad de dicha administración incide positivamente en el control de
+la corrupción y reduce sus efectos adversos sobre el bienestar social.
+Una muestra tradicional de la mala calidad de administración es la
+capacidad de las empresas de obtener beneficios por lobbyo influencia en
+la regulación. Kaufmann y Wei (1999) usan información recogida a partir
+de encuestas sobre el costo en tiempo en que incurren las empresas hacien-dolobbyy negociando con funcionarios públicos. Ellos no sólo encuentran
+una correlación alta y positiva entre el grado de corrupción y el tiempo
+dedicado al lobby, sino además que la corrupción depende de cuánto las
+regulaciones afectan la competitividad del mercado y de en qué medida las
+regulaciones son imprecisas o mal aplicadas.
+En muchos países, las reformas económicas, además, han significa-
+do un gran costo social en la forma de menores salarios reales, menores
+recursos para la gestión pública y fiscalización. A la vez, se han abiertonuevos desafíos en las áreas de provisión de bienes públicos y regulación
+que han significado sustanciales poderes para el reformador. En este con-
+texto, los incentivos a la corrupción han aumentado enormemente. Pero lacapacidad del Estado para controlar el problema de la gestión no se ha
+desarrollado a la par: el sistema de incentivos para los funcionarios públi-
+cos continúa siendo débil de modo tal que los buenos empleados no sonrecompensados y los malos no son castigados, los mecanismos de informa-
+ción y evaluación son caros y se usan de manera aislada, y el desarrollo de
+instituciones que permitan verificar el uso del poder político y sirvan debalance a su accionar se ha retrasado notablemente. Más aún, algunos go-
+biernos enfrentan pocas restricciones para financiar su ineficiencia debido a
+la presencia de transferencias hechas por la ayuda externa, lo que a su vezincentiva la corrupción. Existe, por tanto, una brecha entre el poder social
+efectivo y el acceso formal a la influencia política. Ello permite que se
+mantenga la brecha entre la impunidad real y la responsabilidad de los
+funcionarios públicos.40 ESTUDIOS PÚBLICOS
+Evidentemente, resulta difícil evaluar el grado de participación de la
+sociedad en el sistema político pues éste depende de complejos mecanis-mos institucionales, políticos y constitucionales vigentes en cada país. En
+principio, ciertas manifestaciones corruptas podrían explicarse por la escasa
+vigencia de la idea de nación y la ausencia de una solidaridad ampliafundada en el bienestar común. La literatura económica tiende a asociar
+regímenes democráticos con mayores niveles de participación ciudadana.
+En este contexto, en sociedades no democráticas los burócratas están menosrestringidos en su capacidad de usar recursos públicos en beneficio propio
+o de grupos de interés y para perpetuarse en sus cargos mediante lobby. En
+tal caso, los incentivos a la corrupción son más altos que en sociedades másdemocráticas, donde las instancias de verificación por parte de los ciudada-
+nos son mayores, la prensa es libre y donde la alternancia en el poder
+permite que se destruyan más fácilmente círculos de corrupción enquistadosen la maquinaria estatal.
+No hay evidencia empírica sólida que respalde estas opiniones.
+Treisman (2000) encuentra que los países que han tenido democracias dura-deras (50 años) presentan claramente menores niveles de corrupción. Sin
+embargo, el efecto es cuantitativamente pequeño y, algo sorprendentemente,
+no encuentra efecto alguno de la inestabilidad política sobre la corrupción.
+Probablemente, una de las dimensiones menos exploradas en la lite-
+ratura de corrupción es el papel que puede tener la libertad de prensa en
+reducir los niveles de corrupción. Brunetti y Weder (1998) proveen eviden-cia econométrica de que hay una correlación negativa entre índices de
+libertad de prensa y varios indicadores de corrupción. Los índices de liber-
+tad de prensa incluyen leyes y regulaciones que influyen en el contenido dela información, influencia política y económica en la prensa, y actos repre-
+sivos, compilados por Freedom House.
+Como en casi todas las aristas del problema de la corrupción, la
+causalidad no es clara. Por un lado, es posible que la mayor libertad de
+prensa reduzca la corrupción al permitir revelar e informar sobre actos
+corruptos, aumentando la probabilidad de un castigo para los culpables. Esposible, por otro lado, que gobiernos donde hay mayor corrupción tiendan a
+poner mayores restricciones a la libertad de información o que se corrompa
+directamente a los mismos periodistas.
+ 5. Los efectos de la corrupción
+Aparte de sus connotaciones éticas y sociales, desde un punto de
+vista económico cada acto de corrupción provoca un costo social en laRAIMUNDO SOTO 41
+medida en que las decisiones sean tomadas por funcionarios públicos de
+acuerdo a motivos ajenos a los legítimos, sin tomar en cuenta las conse-cuencias adversas (externalidades negativas estáticas y dinámicas) que ellas
+tienen sobre la comunidad. Cuando la corrupción es generalizada, ello sig-
+nifica una distorsión grave para el funcionamiento de una sociedad desdeun punto de vista político, social y económico tanto en el corto como largo
+plazo. Los efectos son, evidentemente, demasiado numerosos para descri-
+birlos detalladamente y algunos de ellos ya han sido esbozados más arriba.Por ello, hemos agrupados sus impactos de manera general en tres catego-
+rías: impacto económico, impacto político, e impacto social.
+5.1. Impactos económicos
+Los impactos económicos de la corrupción se ramifican en muchas
+áreas del sistema económico. La primera área que se ve afectada son las
+decisiones de los productores respecto del esfuerzo productivo y el tipo de
+objetivos de producción que se persiguen. Adicionalmente, como se descri-be más abajo, se distorsionan las decisiones de inversión y la producción de
+largo plazo. Una segunda área afectada es el funcionamiento administrativo
+del Estado, pues los funcionarios corruptos desarrollan mecanismos de pre-servación que erosionan la capacidad de gestión pública. Más aún, la co-
+rrupción incide en los procesos de toma de decisiones del Estado distorsio-
+nando la asignación de recursos.
+La corrupción distorsiona los incentivos con los cuales opera la
+empresa privada reduciendo la eficiencia económica. Cuando se percibe la
+posibilidad de corromper a un funcionario público, hay un desvío de recur-sos desde actividades netamente productivas hacia aquellas denominadas de
+búsqueda de renta  (´rent seeking’), las que no aumentan el bienestar de la
+sociedad. Así, los negocios más productivos no dependen de la competitivi-dad de las empresas sino de su capacidad de influir en los responsables de
+tomar las decisiones respecto a la regulación o el destino de los fondos
+públicos.
+El estudio de Kaufmann y Wei (1999), como se dijo, demuestra que
+hay evidencia de una relación positiva entre el alcance de la corrupción y el
+tiempo que dedican los empresarios a tratar con los funcionarios públicos.Se encontró que las firmas que realizaban grandes pagos en sobornos gasta-
+ban, además, tres veces más tiempo (en horas hombre) que aquellas que
+pagaban sobornos pequeños. Esto hace, a su vez, que el costo de hacernegocios (costo de capital e inversión) sea sustancialmente más alto, tanto42 ESTUDIOS PÚBLICOS
+por la exacción en sí misma que significa la corrupción como por el hecho
+que más recursos deben ser dedicados a actividades no productivas. Másaún, los funcionarios corruptos tienen el incentivo a aumentar la tramitación
+de los permisos, solicitudes, etc. —y con ello el costo de hacer negocios—
+a la espera de aumentar la probabilidad de conseguir un soborno.
+Es frecuente que en economías con alta corrupción se desarrollen y
+perpetúen estructuras monopólicas  u oligopólicas en los mercados. En par-
+ticular cuando las economías son pequeñas o cerradas al comercio interna-cional. Esto se debe, por un lado, a que el corruptor debe recuperar a través
+de mayores precios los costos asociados a la corrupción y, por otro lado,
+porque el oficial corrupto reduce su riesgo de detección si negocia siemprecon las mismas empresas. Una visión opuesta es la de Leff (1964) que
+señala que la corrupción podría introducir un elemento de competencia en
+mercados monopolísticos si es que potenciales entrantes sobornan a losoficiales para entrar al mercado y capturar parte de la renta monopólica.
+Debe reconocerse que el argumento es débil porque es más probable que el
+mismo monopolista use parte de dicha renta para evitar que alguien entre elmercado
+4.
+Los problemas de corrupción derivados de rentas monopólicas po-
+drían ser mitigados si se abre la economía al comercio externo y éste actúacomo un elemento disciplinador de la competencia y, por esta vía, reductor
+de las eventuales cuasi-rentas de la corrupción. Ades y Di Tella (1997) usan
+como indicador de la apertura comercial la razón importaciones sobre elPGB y encuentran que entre 55 países, aquellos más abiertos tienden a
+tener menores niveles de corrupción. Un problema evidente de este indica-
+dor, sin embargo, es que en los países más grandes el comercio exterior esmenos importante por razones de mercado que no están relacionadas con la
+corrupción. Treisman (2000) documenta este problema y señala que el efec-
+to disciplinador es en cualquier caso menor.
+Adicionalmente, la corrupción deteriora el ambiente de negocios en
+el cual actúa el sector privado, lo que deriva en la búsqueda de ganancias
+rápidas y excesivas en momentos de incertidumbre ( rentismo). En muchos
+casos, el rentismo ha significado un aumento en los niveles de endeuda-
+miento de los países, con su consiguiente mayor costo en el servicio del
+crédito, en la medida en que los beneficios de actividades corruptas han sido
+depositados en el extranjero. Particularmente, a principios de los años 1980
+la fuga de capitales fue una dramática secuela de la corrupción en la región.
+4 Hay numerosos trabajos que demuestran la existencia de significativos costos en
+eficiencia en mercados en los que —por razones ideológicas o prácticas corruptas— sepermite que una firma privada opere como monopolista (Viscusi et al, 1994).RAIMUNDO SOTO 43
+Mercados que operan en ambientes marcados por la corrupción tie-
+nen incentivos a proveer bienes y servicios en cantidades insuficientes, de
+menor calidad o más costosos . El costo de producción se encarece de
+manera directa cuando la corrupción se vuelve necesaria para adquirir un
+insumo productivo. Debido a que los “contratos” con sobornos no puedenser reclamados a través del sistema judicial, existe un mayor riesgo y costo
+por cuanto un funcionario corrupto puede negar el trato después de haber
+recolectado el soborno. Ello es reforzado por el hecho de que la corrupciónse usa muchas veces para evitar regulaciones de calidad mínima o de condi-
+ciones de producción y venta seguras.
+La corrupción reduce el crecimiento económico al reducir los in-
+centivos a la inversión . Este mecanismo opera en varias formas. Primero,
+los negocios hechos sobre la base de sobornos son más riesgosos que los
+proyectos legales porque no hay derechos de propiedad legales y por lotanto la cartera de inversiones de la economía tiene mayores niveles de
+riesgo del óptimo. Segundo, si los negocios se obtienen por conexiones o
+pagos ilegales, se desincentiva la entrada de potenciales empresarios a losmercados —en particular, los inversionistas extranjeros—. De hecho, la
+calidad de los potenciales entrantes se deteriora precisamente porque los
+únicos interesados son aquellos que tienen mayores habilidades para lacorrupción y no los más eficientes
+5. Tercero, los proyectos corruptos se
+convierten en competidores de, y frecuentemente desplazan a, los otros
+proyectos de inversión disponibles. En particular, las actividades de rent-
+seeking se hacen relativamente más atractivas que los proyectos producti-
+vos que maduran más lentamente.
+La evidencia empírica presentada por Mauro (1995), basada en una
+muestra de 68 países en el período 1970-85, señala una relación significati-
+va y robusta entre mayor corrupción y menor inversión doméstica. En tér-
+minos cuantitativos, un país corrupto podría tener niveles de inversión hasta5% del PIB menor que países sin corrupción, lo que se traduce, a su vez, en
+pérdidas de crecimiento de largo plazo de 0,5% del PIB por año. De aquí se
+concluye que la corrupción afecta negativamente el crecimiento económicoa través de su impacto sobre la inversión. Wei (1999), por otro lado, en-
+cuentra evidencia de que la corrupción reduce la inversión extranjera direc-
+ta, actuando como un impuesto equivalente de hasta 20% sobre el retornode un proyecto.
+5En algunos países desarrollados hay un creciente cuestionamiento ético y legal a la
+participación de empresas transnacionales en actos de corrupción por las externalidadesnegativas sobre el ambiente de negocios internacional y no sólo del país que sufre la corrup-ción (Rose-Ackerman, 1999).44 ESTUDIOS PÚBLICOS
+Un efecto derivado del anterior, pero tan importante como éste, es
+que la corrupción actúa como un freno a la innovación y el desarrollo
+creativo porque se desprotege la propiedad intelectual, el desarrollo denuevas ideas debe pagar el impuesto del soborno para ser implementado(permisos, patentes, etc.), y las firmas prefieren invertir sobornos para man-tener su competitividad (por ejemplo, consiguiendo protección arancelaria
+o créditos subvencionados) que para desarrollar nuevos productos o proce-
+sos productivos. Los innovadores son presa fácil de los funcionarios públi-cos corruptos porque nuevos productos suelen requerir patentes o permisosde funcionamiento.
+El análisis de la corrupción, mirado desde la óptica del sector públi-
+co, frecuentemente olvida que la corrupción representa un robo de recursos
+públicos. No es inusual encontrar análisis que igualan la corrupción a un
+impuesto. En primer lugar, aunque tanto los impuestos como la corrupciónimponen mayores costos al productor, la recaudación de esta última es“privada” y, por lo tanto, se pierde el potencial uso de dichos recursos enfines socialmente más productivos. En segundo lugar, la corrupción es cos-tosa para la sociedad por el hecho mismo de ser ilegítima. Por un lado hay
+recursos destinados a evitar la corrupción y sancionarla, y por otro lado,
+quienes participan en actos corruptos deben destinar recursos a evitar serdescubiertos. La necesidad de mantener en secreto la corrupción hace quese deban gastar más recursos para recolectar un cierto monto de “recauda-ción” que si se usa directamente un impuesto. Peor aún, a diferencia de un
+impuesto, la corrupción genera distorsiones sociales y políticas potencial-
+mente mucho más graves que las inducidas por un impuesto.
+Un elemento crucial en el análisis de los costos de la corrupción es
+que el daño hecho  usualmente es considerablemente superior al monto del
+soborno mismo. Frecuentemente, la recaudación de sobornos es sólo unafracción menor de lo que la sociedad paga por la práctica corrupta tanto en
+ineficiencia como en extracción directa de rentas. Evidentemente, la corrup-
+ción representa un aumento en el precio de la administración porque elcontribuyente que se somete al pago de sobornos tiene que pagar variasveces por el mismo servicio. Adicionalmente, la sociedad paga por lasexternalidades asociadas a la corrupción que ya hemos descrito. Es por elloque el argumento de que un soborno podría favorecer el desarrollo econó-
+mico está viciado, aún en el contexto de que éste sea usado para evitar
+regulación inadecuada o excesiva. “El problema de la corrupción en Méxi-co”, comentó un funcionario público, “es que aquí se derrocha un millón depesos para robar mil” (Transparency International, 1999). La sociedad pagaRAIMUNDO SOTO 45
+el costo alternativo de dichos recursos —que depende de las necesidades de
+la comunidad y no del funcionario corrupto— y, en aquellas sociedadesdonde la corrupción es generalizada, enfrenta mayores riesgos de inestabili-
+dad macroeconómica.
+Latoma de decisiones en el sector público puede ser dramáticamen-
+te adulterada cuando los servidores públicos son corruptos. Por un lado, la
+corrupción suele conducir a la aprobación de proyectos públicos basados en
+la capacidad que tiene el funcionario corrupto de extraer beneficios delmismo y no en su necesidad social. Prueba de ello es la tendencia en los
+países en desarrollo a financiar megaproyectos de infraestructura de dudoso
+valor social, usualmente llamados “elefantes blancos”. Ello lleva a decisio-nes de inversión y tecnología inadecuadas. Por otro lado, cuando las deci-
+siones no son honestas, se tiende a una falsificación de la información y los
+datos que hace difícil la planificación e implementación de las políticas
+económicas. En último lugar, la corrupción lleva una pérdida de confianza
+en la capacidad del gobierno para implementar las políticas económicas. La
+población acepta y apoya políticas públicas cuando los funcionarios públi-cos son competentes, imparciales y actúan de manera honesta. Por el con-
+trario, cuando el Estado es corrupto, apoyar una política o cumplir una
+normativa es generalmente menos beneficioso para los individuos que pa-
+gar un soborno. Se produce, así, un equilibrio de no-cooperación entre los
+individuos, en el que para todos es más beneficioso individualmente aceptarla corrupción.
+Así, por ejemplo, mientras mayor sea la posibilidad de recibir sobor-
+nos, es posible que se realice un mayor número de proyectos de inversiónpública que lo razonable, que éstos sean más grandes que el óptimo —pues
+ello maximiza la probabilidad de obtener pagos ilegales en la forma de
+incentivos ( kickbacks ), sobrefacturación, uso de materiales de mala calidad,
+etc.— y que los proyectos se retrasen como resultado de funcionarios públi-
+cos que aumentan la tramitación de los mismos para incentivar dichos pa-
+gos. Adicionalmente, los gobiernos deben gastar mayores sumas para detec-tar e inhibir la corrupción.
+Finalmente, Mauro (1995) encuentra evidencia de que la corrupción
+puede llevar a distorsionar la asignación del gasto público porque se obser-va que países más corruptos tienden a gastar menos en educación pública,
+es decir, se desincentiva la formación de capital humano. Éste es un canal
+adicional por el cual la corrupción reduce la tasa de crecimiento de unaeconomía.46 ESTUDIOS PÚBLICOS
+5.2. Impacto político
+El impacto político puede medirse a través de diversos elementos.
+La corrupción reproduce y consolida la desigualdad social y preserva lasredes de complicidad entre las élites políticas y económicas. La desigualdad
+económica y política se refuerza al producir una asignación socialmente
+injusta de los bienes y servicios provistos por el Estado. La clase políticaconsolida su accionar sobre la base del clientelismo olvidando su papel
+como intérprete de las necesidades de toda la sociedad. Cuando la corrup-
+ción se generaliza, se deslegitima el sistema político.
+La corrupción mina la legitimidad de los gobiernos. Cuando los
+funcionarios públicos persiguen sus propios intereses entran en conflicto
+rápidamente con los intereses de la sociedad y de la gestión pública. Elloproduce un desbalance de autoridad entre instituciones públicas, en primera
+instancia, y entre el Estado y la sociedad civil, en segunda instancia. Estos
+conflictos llevan a deslegitimar el gobierno y, en el caso extremo, a ladesobediencia civil y violencia que caracteriza muchos regímenes latinoa-
+mericanos. Un corolario frecuente de la delegitimización política es el po-
+pulismo y la aparición, típicamente fugaz, de caudillos redentores. Ade-más, se desincentivan las decisiones políticamente costosas. La corrupción
+hace posible que se institucionalice la ilegalidad. Esto conduce inevitable-
+mente a litigios y cargos calumniosos por lo cual hasta funcionarios hones-tos pueden ser chantajeados.
+Adicionalmente, la corrupción desgasta los valores democráticos y
+la igualdad política, porque discrimina en contra de los grupos más pobresque no pueden pagar sobornos a los funcionarios corruptos. Algunos auto-
+res sugieren que la corrupción es sólo un reflejo de esta desigualdad y no su
+causa. Kaufmann (1999) presenta evidencia en contrario al estudiar la expe-riencia de los países en transición que tenían, debido a su pasado socialista,
+niveles de desigualdad comparativamente bajos, pero en los cuales la co-
+rrupción ha florecido recientemente con la consiguiente exclusión de losgrupos de menores ingresos o sin capacidad de lobby.
+5.3. Impacto social
+Algunos investigadores argumentan que la corrupción puede tener
+ciertos efectos benéficos desde un punto de vista social, tales como elacceso no-violento a los asuntos gubernamentales cuando los canales políti-
+cos están bloqueados, o la reducción de tensiones entre el servidor públicoRAIMUNDO SOTO 47
+y el político a través de los vínculos desarrollados por medio de una cadena
+de intereses comunes. Sin embargo, el principal argumento para rebatir estetipo de propuestas radica en que la corrupción posibilita mantener la situa-
+ción social a corto plazo, pero imposibilita el desarrollo y consolidación de
+un régimen democrático y económico adecuado.
+De hecho, la corrupción acentúa las diferencias sociales al limitar el
+papel del Estado como mediador de las demandas de los distintos grupos
+sociales. Las clases populares o marginales se ven sometidas a un procesode exclusión social y político, ya que la corrupción —a la que tienen menos
+acceso por falta de recursos— los aleja del sistema formal y los obliga a
+acceder de manera informal a sus medios de subsistencia. En un sistema decorrupción generalizada el interés por los sobornos reemplaza los criterios
+de gestión profesional, destruyéndose los incentivos a desarrollar carreras
+funcionarias basadas en el mérito y, consecuentemente, reduciéndose elvalor social de la formación de capital humano y valores sociales tales
+como la honestidad.
+Como hemos señalado, es muy probable que sean los más ricos de
+una sociedad quienes más se beneficien de la corrupción. Si ello sucede, la
+corrupción debiese inducir mayores niveles de desigualdad. Gupta, Davoo-
+di y Alonso-Terme (1998) encuentran una correlación positiva entre ambasvariables al hacer un estudio de corte transversal en 37 países, aunque la
+evidencia no es muy robusta, tal vez porque el indicador de desigualdad
+(coeficiente de GINI) suele tener poca variabilidad. Estos autores tambiénencuentran que la corrupción afecta negativamente el ingreso del 20%
+más pobre de esas economías. Ciertamente esta evidencia no es concluyente
+—aunque sí sugestiva— pues la causalidad podría ser inversa; mayoresniveles de desigualdad inducen mayores niveles de corrupción.
+Una última característica social de la corrupción que la hace tan
+peligrosa es que se retroalimenta. En la medida que se observa corrupciónaumenta la percepción de permisividad, lo cual incentiva a otros a realizar
+actos de corrupción (Aedo, 1995).
+ 6. Medidas de control y reducción de la corrupción
+Resulta elemental reconocer que no existe una cura conocida para la
+corrupción. Los numerosos trabajos descritos en las secciones 4 y 5 atesti-
+guan que éste es un fenómeno complejo y multifacético y que los expertosaún no encuentran una estrategia efectiva de control o reducción de la
+corrupción. En esta sección, se presentan los enfoques conceptuales de48 ESTUDIOS PÚBLICOS
+control, de los cuales se derivan las medidas específicas que muchos países
+hoy emplean. Muchas de estas medidas forman parte de las llamadas refor-mas del “servicio civil”, es decir, reformas en los incentivos y mecanismos
+de control que buscan que el cuerpo de servidores públicos sea capaz de
+proveer bienes y servicios públicos de manera eficiente, efectiva y con unarraigado sentido ético (véase Schiavo-Campo et al., 1997). Un tema que se
+analiza en detalle es el de las potenciales bondades de la descentralización
+administrativa, financiera y operacional del Estado en provincias o muni-cipios.
+ 6.1. Estrategias de combate de la corrupción
+Los países más exitosos en el combate de la corrupción emplean
+muchas medidas al mismo tiempo. Mbaku (1996) señala que la literatura
+económica y política tradicional identifica cuatro tipos de estrategias paraminimizar o eliminar la corrupción: social, legal, política y de mercado.
+Naturalmente, cada una de ellas nace de distintas perspectivas sobre los
+orígenes y efectos de la corrupción pero eso no las hace excluyentes. Dehecho, en cada sociedad hay componentes de estas estrategias operando en
+distinto grado y, posiblemente, una estrategia global exitosa requiera utili-
+zar de manera simultánea elementos de cada una de ellas. En particular, eléxito radica en determinar cuál es la mezcla óptima de dichos elementos en
+función de la gravedad del problema y de los rasgos sociales, históricos y
+culturales que caracterizan a cada sociedad.
+Las estrategias sociales ponen énfasis en establecer estándares de
+ética común para (y por) la sociedad contra los cuales se evalúen prácticas
+y comportamientos corruptos. Obviamente, se requiere que la sociedad de-sarrolle tanto mecanismos de vigilancia como la capacidad de educar a sus
+miembros respecto de dichos estándares, su importancia y beneficios para
+la comunidad y los costos individuales y colectivos derivados de transgredirestas normas. En este sentido, las normas anticorrupción forman parte del
+“capital social” de una economía. Aunque ésta es una dimensión fundamen-
+tal del control de la corrupción, no debieran esperarse efectos de control dela corrupción en el corto plazo. La inversión en capital social es un proceso
+lento de educación, mediante el cual se adquieren, desarrollan y consolidan
+hábitos sociales positivos.
+Las estrategias legales se basan en la noción de que el comporta-
+miento corrupto puede verse restringido por la estricta aplicación de la ley.
+Frente a hechos de corrupción ocasional operarían los mecanismos previs-tos en la ley, en tanto que para situaciones inusuales, se designarían comitésRAIMUNDO SOTO 49
+de fiscalización o fiscales especiales serían escogidos para investigar activi-
+dades de individuos o grupos de interés. Las sanciones, cuando correspon-dan, serían determinadas principalmente por el sistema judicial. Resultaevidente que la aplicación estricta de la ley tiende a reducir de maneraapreciable los casos de corrupción aislados. La evidencia presentada en losCuadros N° 1 y 2 así lo sugiere. No obstante, debe reconocerse que laestrategia legalista queda sobrepasada si la corrupción es generalizada y, enparticular, si el poder judicial es fácilmente capturable.
+Las estrategias políticas, finalmente, se basan en la noción de que la
+corrupción proviene principalmente de la concentración del poder en manosde unos pocos políticos y sin el adecuado monitoreo por parte de los bene-ficiados o afectados por las políticas públicas. Por ello, se enfatiza la nece-sidad de descentralizar la toma de decisiones y, en particular, los mecanis-mos de asignación de fondos públicos. Usualmente se señala que esnecesario, junto con la descentralización, un sinceramiento de las remunera-ciones de los funcionarios públicos para evitar la captura por parte degrupos de interés locales (Wade, 1985). Este punto, que se discute endetalle más abajo, es controvertido y no existe evidencia sólida para rebatir-lo o apoyarlo.
+Adicionalmente, se debe ser cuidadoso en el uso de argumentos
+políticos para justificar o apoyar procesos de control de la corrupción. Enalgunas ocasiones, los políticos ven en un esfuerzo de control de la corrup-ción la oportunidad de eliminar rivales políticos, en particular cuando setrata de una sociedad no democrática o donde la democracia es débil. Unejemplo de este problema se da con las comisiones que investigan adminis-traciones pasadas tras derrocamientos o golpes de Estado, que típicamenteterminan siendo un mecanismo de desacreditación del depuesto régimen.Objetivos simplemente monetarios o de ambición también pueden ser dis-frazados como impulsos políticos de eliminación de la corrupción.
+Las estrategias de mercado se derivan directamente de la creencia de
+que es el exceso de regulación por parte del Estado el que produce estructu-ras de mercado inadecuadas y corrupción. El remedio, en este contexto, esliberar el mercado de restricciones y permitir que el mercado provea ladisciplina necesaria (Bayley, 1966; Rose-Ackerman, 1978). Como es evi-dente, la optimalidad derivada del mercado sólo se puede obtener si lasreglas generales en las cuales dichos mercados operan son las adecuadas, silos comportamientos desviados de los agentes se pueden identificar, y si sepuede probar fehacientemente que dichos comportamientos son oportunis-tas. Es por ello que la liberalización de regulaciones exige típicamente la50 ESTUDIOS PÚBLICOS
+redefinición del esquema de reglas en que opera el mercado y la creación
+de organismos antimonopolios y de defensa de la competencia.
+La literatura moderna de control de la corrupción se centra más
+profundamente en este último punto. Brennan y Buchanan (1985) argumen-
+tan, con razón, que el comportamiento de los individuos —incluyendo losactos corruptos— dependen en gran medida del conjunto de reglas que
+ellos enfrentan. Son los incentivos implícitos en dichas reglas, su consisten-
+cia interna, el grado de cumplimiento impuesto por las autoridades y elmodo como se resuelven los conflictos los que determinan en gran medida
+la existencia y gravedad de la corrupción. Así, sólo entendiendo a cabalidad
+estos componentes es posible diseñar programas exitosos de control de lacorrupción basados en el cambio de dichas reglas. Es fundamental recordar
+que las reglas existentes en determinado momento en una sociedad incluyen
+no sólo aquellas explícitas (por ejemplo, la constitución, los códigos lega-les, los reglamentos), sino además aquellas basadas en la tradición, las
+costumbres, y la historia, todas las cuales conforman el capital social de un
+país.
+Muchos de los esfuerzos de control de la corrupción, aún si ellos son
+bien intencionados, se enfrentan a la restricción de que son implementados
+dentro de un conjunto de reglas que resulta inconsistente con el objetivo.Frecuentemente, se entiende por control de corrupción el incremento de los
+niveles de vigilancia o represión, y aunque éstos aumentan el costo espera-
+do para el funcionario corrupto, no afectan radicalmente la otra variableclave del problema que es la presencia de rentas potencialmente apropia-
+bles. En términos prácticos, dichos esfuerzos se llevan a cabo sobre la base
+del trabajo de la policía, aduanas y el poder judicial, que son las institucio-nes más frecuentemente expuestas al problema de corrupción debido a que
+atienden directamente al público y sus funcionarios son relativamente mal
+pagados. Más aún, estos programas se implementan dentro del mismo con-junto de reglas que permitieron la aparición de la corrupción en primer
+lugar. Y no es inusual que los mismos burócratas corruptos sean aquellos
+encargados de llevar a cabo los programas de limpieza. Así, los programasde control de la corrupción debieran empezar por una reforma de los incen-
+tivos y reglas de operación de las distintas instituciones para eliminar las
+fuentes de oportunismo.
+De esto se desprende que el control de la corrupción requiere en
+primer lugar un ajuste institucional. Tradicionalmente, los enfoques de ajus-
+te institucional se han concentrado en estrategias del tipo “más de lo mis-mo”; más entrenamiento, más recursos, más infraestructura, más coordina-
+ción, más planificación central, más ayuda técnica y más promesasRAIMUNDO SOTO 51
+políticas. Por lo general, estas estrategias no modifican —sino que refuer-
+zan— algunas de las causas de la corrupción. Una estrategia alternativadebiera atacar la fuente del problema. Klitgaard (1990) establece de manera
+simplificada que si la corrupción es el resultado de la presencia de rentas
+monopólicas (de la capacidad de asignar estas rentas de manera discrecio-nal) y de la ausencia de rendición de cuentas ( accountability ), precisamente
+sobre estas variables se debiera orientar la acción pública. Los problemas
+pueden ser enfrentados mediante el establecimiento de procedimientos yestándares de operación claros e informados, el diseño e implementación de
+mecanismos de contención de la discrecionalidad del funcionario público,
+el establecimiento de sistemas de incentivos adecuados, el desarrollo demecanismos de información expeditos y confiables, y la introducción de
+competencia.
+No es necesario llevar a cabo una reforma demasiado profunda para
+reducir una de las formas más comunes de corrupción identificadas más
+arriba: el pago por obtener un beneficio que el gobierno debe proveer
+obligatoriamente. Una gestión pública eficiente debiera reducir de maneraapreciable el problema de aquellos funcionarios públicos cuya fuente de
+recursos corruptos es el entorpecer el funcionamiento de las instituciones
+públicas. Ello, ciertamente requiere de cambios en el manejo del personalpúblico que liguen de manera más directa deberes y recompensas y, a la
+vez, de diseñar e implementar algunas medidas de transparencia como se
+discute en la sección 6.2. No obstante, en el caso de la corrupción que sederiva del interés de los agentes privados de evitar el pago de costos o de
+obtener beneficios fraudulentos, las rentas monopólicas son mucho más
+difíciles de manejar.
+Una manera directa de hacer disminuir la presencia de rentas mono-
+pólicas es abrir la economía al comercio exterior, desregular los mercados y
+privatizar las empresas públicas bajo un esquema de regulación modernaefectiva. Ello reduce de manera sustantiva los incentivos a la corrupción
+tanto en el manejo de dichas empresas como en otras áreas del sector
+público (por ejemplo, aduanas). La competencia, sin embargo, requiere deuna institucionalidad adecuada para poder desarrollarse, incluyendo no sólo
+el marco regulatorio, sino además el respeto a la propiedad privada, la
+legalidad y la estabilidad macroeconómica y política.
+Otro tanto puede hacerse con mecanismos de concesión y licitación
+de actividades estatales típicamente corruptas, como son la construcción de
+infraestructura (carreteras, puertos, etc.) y el manejo de contratos bajo sub-sidio. En general, resulta más fácil controlar y, eventualmente, sancionar a
+los responsables del mal manejo de un contrato de concesión para una52 ESTUDIOS PÚBLICOS
+actividad tercerizada que monitorear a un grupo numeroso de funcionarios
+públicos a cargo de producir directamente el bien o servicio tercerizado.Naturalmente, esto supone que el Estado tiene la intención de diseñar un
+proceso de adjudicación del contrato de concesión o privatización de mane-
+ra de evitar la corrupción.
+No obstante, no todas las actividades del sector público se pueden
+descentralizar o concesionar y es inevitable que en ellas continúe existiendo
+poder monopólico. En tal caso, se requiere elaborar estrategias para reducirel poder de discreción de los funcionarios públicos. La reducción de la
+discrecionalidad puede lograrse mediante el diseño de instituciones que
+realicen funciones similares y que provean de elementos de competenciasubrogada ( yardstick competition ). Una forma de realizar esto es mediante
+la descentralización, que se presenta en mayor detalle en la sección 6.3,
+pues es posible comparar el funcionamiento de unidades regionales o loca-les y descubrir más fácilmente la corrupción. El fraccionamiento del poder
+central reduce, también, el tamaño del potencial beneficio de la corrupción.
+Es innegable que para decisiones de gran importancia resulta conve-
+niente la concurrencia y aprobación de varias instituciones públicas, pues
+ello reduce la probabilidad de que se tome una mala decisión por inoperan-
+cia o corrupción. Este principio puede ser extendido, cuidando de evitar laexcesiva burocratización, a otros niveles de la administración pública. No
+obstante, esta estrategia está limitada por la tendencia a que la participación
+múltiple genere niveles excesivos de ineficiencia burocrática.
+Una alternativa más atractiva —y tal vez el más grande desafío de
+las reformas institucionales en países en desarrollo— consiste en involucrar
+a los usuarios en la toma de decisiones de gran envergadura, por ejemplomediante el fomento de la participación de representantes de asociaciones
+de consumidores en los procesos de fijación de tarifas públicas, permitir
+que individuos accedan a la información necesaria para demandar y llevar ajuicio a los responsables de malas administraciones de bienes públicos, la
+discusión pública previa de los proyectos de ley y decisiones de inversión,
+etc. (Kaufmann, 1998). La participación de la comunidad en la toma dedecisiones produce una serie de efectos beneficiosos no sólo para el control
+de la corrupción, sino para el proceso de asignación de recursos y el creci-
+miento en general.
+Permite que la población tome conciencia de la importancia que
+tiene la participación y, por esta vía, se deslegitima la corrupción
+como un comportamiento aceptable. En muchas sociedades la pasi-vidad de la población es tal vez el más importante aliado de los
+funcionarios corruptos. El primer y más importante paso en el con-RAIMUNDO SOTO 53
+trol de la corrupción es que los mismos afectados levanten su voz y
+denuncien el problema.
+Crea la necesidad de especificar criterios claros de manejo de las
+instituciones públicas, contra los cuales se evalúa el desempeño sus
+funcionarios. En muchos casos, la corrupción se alimenta de lainexistencia de criterios que delimiten responsabilidades y del caos
+administrativo del Estado.
+Permite que se puedan proponer mejoras en su funcionamiento y que
+éstas tengan apoyo de la población. No es inusual que en audiencias
+públicas propongan solucionar los usuarios afectados que son mu-
+cho más efectivas que las diseñadas por los funcionarios públicos.Más aún, decisiones tomadas con la participación de la comunidad
+tienen un mayor nivel de compromiso y apoyo de la población.
+Permite, paradójicamente, que desde el interior de instituciones
+aquejadas por la corrupción se produzca un proceso de renovación.
+En muchas de estas instituciones hay individuos honestos y con
+vocación de servicio público que, con un adecuado estímulo y apo-yo, pueden convertirse en importantes agentes controladores de la
+corrupción.
+Una tercera solución que resulta efectiva es que se abandone la
+práctica de encubrimiento de los déficits presupuestarios ( soft budget cons-
+traints). En primera instancia, ello exige aumentar los niveles de eficiencia
+del sector público y reduce los espacios en los que la corrupción se refugia.Así, se requiere identificar aquellas áreas donde es más posible que se dé la
+corrupción, es decir, aquellos sectores de la administración pública donde
+es más fácil que se de la combinación de rentas y discrecionalidad. Trans-parency International (1996) identifica como las principales áreas la provi-
+sión de bienes y servicios públicos, la zonificación de la tierra, recolección
+de impuestos, nombramientos de cargos públicos y los gobiernos locales.Posteriormente, se deben fijar objetivos alcanzables de común acuerdo con
+los funcionarios y mejorar los estándares de información sobre rendimien-
+tos contra los cuales se harán las evaluaciones ex post. En algunos países,
+se han otorgado con éxito mejoras en las condiciones laborales contra de-
+terminados objetivos de ajuste institucional y productividad.
+6.2.  Sinceramiento de las remuneraciones del sector público
+Aunque la evidencia empírica no es concluyente en el sentido que
+los bajos salarios del sector público fomentan la corrupción, es necesario54 ESTUDIOS PÚBLICOS
+reconocer que en muchos países existen profundas distorsiones en las es-
+tructuras de esfuerzo-recompensa que enfrentan los funcionarios públicos.Aedo (1995) señala la necesidad de “sincerar” los salarios públicos y ése es
+probablemente el concepto correcto. En algunas sociedades, los salarios
+públicos son excesivamente bajos por lo que para ellos la corrupción seconvierte en la única alternativa de supervivencia. En estas situaciones
+tendemos a reaccionar con cierto grado de compasión e incluso podemos
+justificar al funcionario corrupto sosteniendo que “de alguna forma tieneque obtener un salario justo”. Un ejemplo típico de un acto contrario a las
+normas de probidad, aunque no de corrupción en el sentido usual del térmi-
+no, es el uso de vehículos públicos para fines particulares. Frente a estasituación tendemos a pensar que el uso del vehículo es parte de la remune-
+ración. En otros países, los salarios son excesivamente altos, de modo tal
+que los funcionarios públicos tienden a no incurrir en actos de abuso paraevitar perder sus privilegios.
+Una posible solución sería intensificar las prohibiciones, invertir
+más en fiscalización y aumentar las sanciones. Esta solución podría ser muycostosa y tener efectos secundarios indeseables en la calidad del servicio y
+en el ambiente laboral del sector público. Una alternativa más conveniente
+es equiparar las remuneraciones con aquellas del sector privado para cargossimilares. Esto puede traducirse en mayores remuneraciones “transparen-
+tes” del sector público, un mayor incentivo a trabajar en el sector, menores
+incentivos a dedicar esfuerzos a actividades ilegítimas y mayor producti-vidad.
+En muchos países, sincerar las remuneraciones públicas requiere
+importantes ajustes en el número de servidores públicos, eliminando em-pleos innecesarios, reduciendo las rigideces para la contratación y despido
+en el sector público, y estableciendo una correlación efectiva entre el es-
+fuerzo individual y la recompensa recibida. La inamovilidad laboral delempleado público debe ser removida si se desea minimizar las oportunida-
+des de corrupción, aunque la medida sea políticamente costosa. Eskelund y
+Thiele (1999) demuestran que no es posible eliminar la corrupción si losadministradores están demasiado restringidos al dar incentivos e imponer
+penalidades. Aumentos indiscriminados de salarios llevan a mayores costos
+que beneficios si junto con las mejores remuneraciones no se aumenta lapenalidad para los funcionarios corruptos. Junto con la eliminación de ex-
+cesivas rigideces laborales, para avanzar en el sinceramiento de las remune-
+raciones del sector público es necesario acotar la discusión sobre los aspec-tos distributivos de los salarios. Si toda la estructura de remuneraciones del
+sector público se construye a partir de la noción que no debiesen existirRAIMUNDO SOTO 55
+desigualdades de salarios —como sucede en muchos países—, sin duda no
+quedará mucho espacio donde dar los incentivos correctos. Utilizar lasremuneraciones del sector público para solucionar problemas de distribu-ción de ingresos no facilita el combate a la corrupción.
+Aun si las remuneraciones del sector público están en línea, no debe
+desconocerse que hay muchos incentivos a que se produzca comportamien-to deshonesto. Por ejemplo, es usual que los funcionarios estatales tomendecisiones sobre montos considerables de recursos (por ejemplo, decisiones
+de infraestructura, subsidios nacionales, etc.) o que afectan de manera im-portante el patrimonio de agentes del sector privado (por ejemplo, regula-ción financiera). En ambos casos se producen tentaciones e incentivos adejarse capturar por el sector privado. Se requieren, entonces, mecanismoseficientes de información y evaluación del desempeño que reduzcan lasoportunidades de potencial beneficio de un funcionario corrupto. Pero, ade-más, es necesario tomar medidas decisivas tendientes a darles la mayor
+transparencia posible a los actos de la administración pública.
+En esta línea de pensamiento, existen numerosas medidas simples de
+control que pueden ser utilizadas para aumentar la transparencia. Entre ellasestán, por ejemplo, la exigencia a los funcionarios públicos de declarar supatrimonio e intereses y la publicidad de todos los actos de la administra-ción del Estado. Este tipo de medidas apunta a facilitar el control interno y
+externo de los funcionarios y sin duda es fundamental para evitar la corrup-ción. De hecho, sería conveniente extender estas medidas de transparencia
+hacia el poder legislativo y judicial. Por ejemplo, parece indispensableconsiderar la obligación de que los políticos den cuenta de las contribucio-nes económicas que reciben para financiar sus campañas (Aedo, 1995).Otro tipo de normas apunta a establecer restricciones a los actos de funcio-narios una vez que éstos abandonan el servicio público. Por ejemplo, laprohibición temporal para que ingresen a trabajar en áreas del sector priva-do con las que han mantenido contacto significativo en su cargo público(por ejemplo, dejar de trabajar en el ente regulador para trabajar en laempresa regulada). Esta restricción permite reducir un tipo de corrupciónque es difícil de detectar en el momento en que ocurre, ya que la compen-sación que recibe el funcionario corrupto es un buen empleo futuro enla empresa favorecida. Sin embargo, un problema de este tipo de medidas
+restrictivas es que, para ser efectivas, deben implementarse conjuntamente
+con una mayor capacidad de fiscalización, lo cual involucra costos adi-cionales y desincentiva el empleo de personal calificado en el sector pú-blico.56 ESTUDIOS PÚBLICOS
+6.3.  ¿Puede la descentralización reducir la corrupción?
+Durante los últimos años ha habido un activo debate sobre los méri-
+tos de la descentralización y en particular sobre sus posibles efectos en
+mejorar la eficiencia del Estado y reducir la corrupción. Desde el trabajo deTiebout (1956), ha habido una corriente de opinión que sugiere que es
+económicamente eficiente que la asignación de recursos para la provisión
+de bienes y servicios de alcance local sea descentralizada y decidida a nivellocal pues ello lleva a una mayor variedad de bienes y, de esa forma, se
+satisface de mejor manera las necesidades de la población.
+Un contraargumento evidente es que puede haber imperfecciones en
+la provisión local de bienes y servicios que pudieran inhibir los beneficios
+de la descentralización (Tanzi, 1996). Entre ellas, la ausencia de capital
+humano a nivel local, las deseconomías de escala, y el diferente acceso quetienen las autoridades locales a la burocracia del gobierno general. Un
+mejor contraargumento es que posiblemente los niveles de responsabilidad
+yaccountability a nivel local difieren de los del gobierno central y que ello
+es fundamental para controlar la corrupción. Desde un punto de vista analí-
+tico, Bardhan y Mookherjee (1998) sugieren que no es fácil determinar qué
+nivel de gobierno provee una mejor defensa contra la corrupción. Unaburocracia centralizada, señalan, presenta incentivos a desviar recursos ha-
+cia los grupos ricos a nivel nacional ya que éstos pueden pagar los sobor-
+nos. Por otro lado, los gobiernos locales tienen el problema de que pueden
+ser capturados por los grupos ricos a nivel local. En cuál situación la
+población queda más desprotegida es ambiguo y sólo puede ser respondido,
+en el mejor de los casos, de manera empírica.
+Existen muchos estudios de casos que arrojan luz sobre las condicio-
+nes que son más o menos propicias para que la corrupción se dé a nivel
+local o centralizadamente. Los trabajos de alcance general son ostensible-mente menos. Huther y Shah (1998) encuentran una relación negativa entre
+corrupción y descentralización de los recursos fiscales, aunque la evidencia
+no es robusta pues se trata sólo de una correlación incondicional sujeta alproblema de variables omitidas. Treisman (2000), por su parte, encuentra
+que los países con estructura administrativa federal tienen mayores niveles
+de corrupción. El análisis empírico es más robusto que el anterior, pero eluso de una variable muda como indicador puede reducir la pertinencia de la
+evidencia.
+Fisman y Gatti (1999) examinan de manera más cuidadosa la evi-
+dencia entre descentralización fiscal y corrupción en una muestra de corte
+transversal de 57 países. Encuentran evidencia sistemática de que en aque-RAIMUNDO SOTO 57
+llos países donde la corrupción es más baja, la proporción del gasto fiscal
+que es realizado por los gobiernos locales es mayor. El resultado es estadís-ticamente significativo y robusto a varias especificaciones. Adicionalmente,
+encuentran que este efecto se potencia cuando se incluye como determinan-
+te de la corrupción el tipo de sistema legal imperante en cada país. Lospaíses cuyo sistema legal es de origen sajón ( common law ), tienden a tener
+mayores niveles de descentralización.
+6.4. El papel de los políticos
+En los países en desarrollo no existe una cultura de pesos y contra-
+pesos (checks and balances ) que promueva un ejercicio adecuado y vigila-
+do de la autoridad pública. Tampoco existe la noción de que los funciona-
+rios públicos deban dar cuenta de su desempeño ( accountability ) y tampoco
+ellos están sujetos a la remoción por desconfianza ( recall). En un régimen
+democrático, la creación de una institucionalidad en la que estos tres con-
+ceptos se apliquen de manera sistemática dependerá de la voluntad de lospolíticos. A ellos les cabe, además, una responsabilidad particular, pues
+esta “voluntad” les significa usualmente una disminución importante de su
+propio poder en beneficio de la comunidad.
+La experiencia demuestra que para abordar el problema de la co-
+rrupción el compromiso de los políticos es fundamental. En aquellas socie-
+dades donde no existe este compromiso, la corrupción se institucionaliza(Mbaku, 1996; Kaufmann, 1999). En muchas ocasiones, las agencias anti-
+corrupción creadas con gran alboroto público, ven sus fondos reducidos y
+su independencia coartada cuando tratan de llevar a cabo su mandato. Porello, es necesario que los planes anticorrupción consideren reformas institu-
+cionales que fortalezcan desde un punto de vista constitucional a las agen-
+cias o entidades que tienen a su cargo las medidas anticorrupción.
+ 7.  Conclusiones
+El objetivo de este trabajo es reflexionar sobre las formas de la
+corrupción desde un punto de vista económico e interiorizarse en las posi-bles causas que llevan a los individuos a actuar de manera corrupta y a las
+sociedades a tolerar —e incluso, fomentar— estas prácticas. Ciertamente, la
+óptica económica no es la única pues la corrupción tiene a su vez implican-cias éticas, políticas y sociales. No obstante, la discusión desde una óptica58 ESTUDIOS PÚBLICOS
+económica aporta elementos para diseñar mecanismos de contención de la
+corrupción y mitigar sus efectos más dañinos. Asimismo, el análisis econó-mico nos advierte acerca de qué condiciones pueden fomentar el surgimien-
+to o la generalización de prácticas corruptas.
+Como no existe una literatura analítica desarrollada sobre corrup-
+ción, con modelos bien fundados que permitan un análisis sistemático y
+consistente de este fenómeno, la mayor parte de nuestro conocimiento sobre
+sus determinantes y consecuencias procede de estudios empíricos conmuestras grandes de países. Por ello, este trabajo se concentra en discutir de
+manera crítica las principales hipótesis que se han propuesto, y en describir
+los resultados empíricos disponibles.
+La primera dificultad que se debe superar es la ausencia de una
+definición universal del concepto de corrupción. Ésta es frecuentemente
+definida en función de prácticas corruptas, las que difieren entre países yestán determinadas por los patrones históricos, culturales y sociales de cada
+sociedad. Ello hace difícil la comparación de corte transversal de los datos
+disponibles. Para efectos del análisis económico, en este trabajo se define lacorrupción como la utilización de un cargo público en beneficio propio o
+de terceros y en contra de los intereses de la comunidad.
+La cuantificación de la corrupción se realiza utilizando un conjunto
+de indicadores sobre percepción de corrupción y sus principales determi-
+nantes. La principal conclusión es que el panorama en los países en desa-
+rrollo —y en América Latina en particular— es desconsolador. Los nivelesde corrupción son comparativamente muy altos y se está muy lejos de
+alcanzar los estándares de los países desarrollados en cualquiera de los
+indicadores de situación institucional. Este problema va de la mano conotros flagelos como los altos niveles de inestabilidad política y violencia y
+el casi inexistente respeto por las leyes, lo que revela graves problemas de
+gobernabilidad.
+Hay numerosas hipótesis respecto a las causas de la corrupción que
+son exploradas en el trabajo desde un punto de vista lógico y sobre la base
+de la evidencia empírica recogida en varios estudios. Según estas hipótesis,la corrupción: (1) se deriva de la excesiva y frecuentemente incorrecta
+regulación de los mercados por parte del Estado, (2) es sólo el resultado de
+la decisión de un individuo que compara el potencial beneficio de un sobor-no y el costo esperado de ser descubierto, (3) se debe a que los servidores
+públicos son mal pagados, (4) refleja fallas en delimitar lo público y lo
+privado, por la existencia de un ordenamiento jurídico e institucional inade-cuado a la realidad nacional y/o por la inoperancia práctica de las institu-
+ciones públicas, (5) florece al existir un conflicto entre la modernización yRAIMUNDO SOTO 59
+la adopción de sistemas de administración pública basados en desarrollos
+culturales extranjerizantes, (6) se deriva del costo social de las reformaseconómicas que han significado menores recursos para la gestión pública y
+la fiscalización, (7) se origina en la ausencia de mecanismos democráticos
+generalizados, lo que conduce a un debilitamiento de la idea de nación y deuna solidaridad fundada en el bien común, y (8) resulta de modo natural del
+proceso de desarrollo político y económico, porque cuando las economías
+comienzan a enriquecerse aparecen las rentas que justifican la corrupción ysólo cuando son más ricas se desarrollan las instituciones que la sancionan.
+La literatura provee poca evidencia sólida respecto de estas hipóte-
+sis, aunque muchos estudios obtienen resultados muy sugerentes. La mayordebilidad radica en que los trabajos presentan correlaciones y que, por
+tanto, no se puede asegurar cuál es el hilo causal de los resultados. Ello
+impide discernir causa de efecto y, lo que es peor, no permite estructurar lasecuencia de políticas para enfrentar el problema de la corrupción.
+La principal conclusión obtenida es que, aparte de sus connotaciones
+éticas y sociales, desde un punto de vista económico la corrupción tiene uncosto social en la medida en que los funcionarios públicos adopten decisio-
+nes guiándose por motivos ajenos al interés público y no tomen en cuenta
+las posibles consecuencias adversas de esas decisiones para la comunidad.Estos efectos adversos se manifiestan en: (1) se distorsiona el esfuerzo
+productivo y los objetivos de producción de los productores, los que se
+orientan a la búsqueda de rentas, el oportunismo y las ganancias excesivas,(2) se desarrollan y perpetúan estructuras monopólicas u oligopólicas en los
+mercados, (3) se proveen bienes y servicios en cantidades insuficientes, de
+menor calidad o más costosos, (4) se reducen los incentivos a la inversióndebido a los mayores niveles de riesgo, (5) se desincentiva la entrada de
+potenciales empresarios a los mercados, en particular los inversionistas
+extranjeros, (6) se frena la innovación y el desarrollo creativo porque sedesprotege la propiedad intelectual, (7) la corrupción representa un robo de
+recursos públicos cuyo costo social es considerablemente mayor que el
+beneficio que provee para el funcionario corrupto, (8) se distorsiona latoma de decisiones en el sector público respecto a los servicios e inversio-
+nes que debe efectuar el Estado.
+Finalmente, el trabajo discute de manera genérica el tipo de solucio-
+nes aplicables al problema de la corrupción, partiendo de la base de que no
+existe una cura conocida y que los países más exitosos en el combate de la
+corrupción emplean muchas estrategias al mismo tiempo. El éxito radica endeterminar cuál es la mezcla óptima de elementos en función de la grave-
+dad del problema y de los rasgos sociales, históricos y culturales que carac-60 ESTUDIOS PÚBLICOS
+terizan a cada sociedad. Las medidas deben propender al desarrollo de una
+cultura de pesos y contrapesos ( checks and balances ) que permita un ejerci-
+cio adecuado y vigilado de la autoridad pública, en la cual los funcionarios
+públicos deban dar cuenta de su desempeño ( accountability ) y queden suje-
+tos a la remoción por desconfianza ( recall).
+REFERENCIAS
+Ades, A. y Rafael Di Tella. (1997). “National Champions and Corruption: Some Unpleasant
+Interventionist Arithmetic”. The Economic Journal, 107: 1023-1042.
+Aedo, C. “Reflexiones sobre la Corrupción”. Serie Ensayo N° 17, Programa de Postgrado en
+Economía, ILADES-Georgetown University, 1995.
+Banco Mundial. World Development Report: The State in the Changing World. Oxford
+University Press, 1997.
+Bardhan, Pranab. “Corruption and Development: A Review of Issues”. Journal of Economic
+Literature, 35 (1997): 1320-1346.
+Bayley, D. H. “The Effects of Corruption in a Developing Nation”. Western Political Science
+Quarterly, Vol. 19, N° 4 (1966): 719-32.
+Carbonara, E. “Corruption and Decentralisation”. Mimeo, Wadham College, University of
+Oxford, 2000.
+Carrillo, J. D. “Graft, Bribes, and the Practice of Corruption”. Journal of Economics and
+Management Strategy , 9 (2000): 257-286.
+Elliot, Kimberly Ann (ed). “Corruption and the Global Economy”. Washington DC; Institute
+for International Economics, 1997.
+Eskelund, G. y H. Thiele. “Corruption under Moral Hazard”. Mimeo, Banco Mundial, 1999.
+Friedrich, C. J. “Corruption Concepts in Historical Perspective”. En A. J. Heidenheimer, M.
+Johnston y V. T. LeVine (eds.), Political Corruption: A Handbook.  New Brunswick,
+N.J.: Transaction Publishers, 1990.
+Goodman, M. “Preserving Privilege in Yucatan”. En A. J. Heidenheimer, M. Johnston y V. T.
+LeVine, (eds.), Political Corruption: A Handbook. New Brunswick, N.J.: Transac-
+tion Publishers, 1990.
+Harch, E. “Accumulators and Democrats: Challenging State Corruption in Africa”. Journal
+of Modern African Studies, Vol. 31, N° 1 (1993): 31-48.
+Hellman, J.; G. Jones, y D. Kaufmann. “Seize the State, Seize the Day: An Empirical Analy-
+sis of State Capture and Corruption in Transition”. Mimeo, Banco Mundial, 2000.
+Huntington, Samuel P. Political Order in Changing Societies. New Haven: Yale University
+Press, 1968.
+Kaufmann, Daniel. “Corruption: The Facts”. Foreign Polic y, 1997 (verano).
+Kaufmann, Daniel. “The Missing Pillar of a Growth Strategy for Ukraine: Institutional and
+Policy Reforms for Private Sector Development”. En P. Cornelius y P. Lenai (eds.),
+Ukraine: Accelerating the Transition to Market. Fondo Monetario Internacional:
+Washington, 1997.
+Kaufmann, Daniel y Jeffry Sachs. “Determinants of Corruption”. Harvard University, por
+publicarse (1998).RAIMUNDO SOTO 61
+Kaufmann, D. y S. J. Wei. “Does ‘Grease Money’ Speed up the Wheels of Commerce”.
+NBER Working Paper 7093, 1999.
+Kaufmann, D., A. Kraay y Pablo Zoido-Lobaton. “Aggregating Governance Indicators”.
+Working Paper 2195, Banco Mundial, 1999.
+Kaufmann, Daniel, Sanjay Pradhan y Randi Ryterman. “New Frontiers in AntiCorruption
+Empirical Diagnostics: From In-Depth Survey Analysis to Action Programs in Tran-
+sition Economies”. Banco Mundial, por publicarse (1998).
+Kaufmann, Daniel y Shan-Jin Wei. “Does ‘Grease Money’ Speed up the Wheels of Commer-
+ce”. Trabajo presentado en la reunión de la American Economic Association, Chica-
+go, IL., 1999.
+Kaufmann, Daniel, y Pablo Zoido-Lobaton. “Unpredictability and Corruption”. Instituto de
+Desarrollo Económico del Banco Mundial, documento de trabajo no publicado,
+1998.
+Klitgaard, Robert. Controlling Corruption. Berkeley: University of California Press, 1988.
+Lambsdorff, J. G. “Corruption in Empirical Research. A Review”. Transparency International
+Working Paper, 1999.
+LaPalombara, J. “Structural and Institutional Aspects of Corruption”. Social Research,  LXI
+(1994): 325-350.
+La Porta, R., F. López de Silanes, A. Shleifer y R. Vishny. ‘‘The Quality of Government”.
+Journal of Law, Economics, and Organizations , 15 (1999): 222-279.
+Leff, N. H. “Economic Development through Bureaucratic Corruption”. American Behavio-
+ral Scientist, Vol. 8, N° 3 (1964): 8-14.
+Lui, Francis. “An Equilibrium Queuing Model of Bribery”. Journal of Political Economy , 93
+(1985): 760-781.
+Mauro, Paolo. “Corruption and Growth”. The Quarterly Journal of Economics, 110, N° 3
+(1995).
+Mbaku, John Mukum. “Bureaucratic Corruption in Africa: The Futility of Cleanups”. Cato
+Journal, Vol. 16, N° 1 (primavera-verano 1996).
+Maegher, P. Governance and the Economy in Africa: Tools for Analysis and Reform of
+Corruption. Center for Institutional Reforms and Informal Sector, University of
+Maryland, 1996.
+Osterfeld, D. Prosperity Versus Planning: How Government Stifles Economic Growth .
+Nueva York: Oxford University Press, 1992.
+Rose-Ackerman, S. Corruption: A Study in Political Economy . Nueva York: Academic
+Press, 1978.
+Rubio, L. “Introducción: ¿Es Posible Modernizar el Estado?” En R. Lüders y Luis Rubio
+(eds.), Estado y Economía en América Latina: Por un Gobierno Efectivo en la
+Época Actual . Santiago: CINDE ,1999.
+Shleifer, A. y R. Vishny. “Corruption”. The Quarterly Journal of Economics, 109 (1993):
+599:617.
+Schiavo-Campo, S., Giulio de Tommaso y A. Mukherjee. “Government Employment and Pay
+in Global Perspective: A Selective Synthesis of International Facts, Policies andExperience”. Working Paper Series 1771, Banco Mundial, 1997.
+TASC. “Análisis Económico de la Corrupción”. Informe N° 76, Programa de Postgrado en
+Economía, ILADES-Georgetown University, 1997.
+Tanzi, V. “Corruption Around the World: Causes, Consequences, Scope, and Cure”. Working
+Paper WP/98/63, Fondo Monetario Internacional, Washington, mayo 1998.62 ESTUDIOS PÚBLICOS
+Tanzi, V. y H. Davoodi. “Corruption, Public Investment, and Growth”. Working Paper WP/
+97/139, Fondo Monetario Internacional, 1997.
+Tirole, J. “A Theory of Collective Reputation with Application to the Persistence of Corrup-
+tion and to Firm Quality. Review of Economics Studies , 63 (1996): 1-22.
+Transparency International. The Transparency International Source Book . Berlín, 1996.
+Transparency International. La Hora de la Transparencia en América Latina , webpage,
+1999.
+Treisman, Daniel. “The Causes of Corruption: A Cross-National Study”. Journal of Public
+Economics , 2000.
+Valdés, S. “Probidad: Tarea de Empresarios y Ejecutivos” . Revista de Administración y
+Economía , otoño 2000, Pontificia Universidad Católica de Chile.
+Van Klaveren, J. “The Concept of Corruption”. En A. J. Heidenheimer, M. Johnston y V. T.
+LeVine (eds.), Political Corruption: A Handboo.,  New Brunswick, N.J.: Transaction
+Publishers, 1990.
+Visusi, K.; J. Vernon y J. Harrington. The Economics of Regulation and Antitrust . MIT Press,
+1994.
+Wagner, G. “Corrupción y Modernización del Estado”. Documento de Trabajo N° 174
+(1994), Instituto de Economía, Pontificia Universidad Católica de Chile.
+Werlin, H. H. “The Consequences of Corruption: The Ghanaian Experience”. Political Science
+Quarterly,  Vol. 88, N° 1 (1973): 71-85. 
