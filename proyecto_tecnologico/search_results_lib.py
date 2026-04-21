@@ -233,10 +233,10 @@ def analyze_pages(df, multi_choice_questions, possible_answers, ordinal=False):
     df2['incisos'] = df2['incisos'].apply(parse_choices)
     
     single_questions = sorted(set(df2['pregunta'].unique()) - set(multi_choice_questions))
-    ordinal_questions = {'informacion_presentada': {'a': 1, 'b': 2, 'c': 3}, 
-                         'consecuencias': {'d': 0, 'c': 1, 'b': 2, 'a': 3}, 
-                         'intencion': {'f': 0, 'd': 1, 'a': 2, 'b': 3, 'c': 4, 'e': 5}, 
-                         'localidad_problema': {'d': 0, 'a': 1, 'b': 2, 'c': 3}, 
+    ordinal_questions = {'informacion_presentada': {'a': 1, 'b': 2, 'c': 3},
+                         'consecuencias': {'d': 0, 'c': 1, 'b': 2, 'a': 3},
+                         'intencion': {'f': 0, 'd': 1, 'a': 2, 'b': 3, 'c': 4, 'e': 5},
+                         'localidad_problema': {'d': 0, 'a': 1, 'b': 2, 'c': 3},
                          'involucrados': [{'e': 1, 'f': 2, 'a': 3, 'b': 4, 'h': 5, 'd': 1, 'c': 2, 'g': 3},     # nivel de alcance
                                           {'e': 2, 'f': 2, 'a': 2, 'b': 2, 'h': 2, 'd': 1, 'c': 1, 'g': 1}]}    # sector (privado: 1, publico: 2)
 
@@ -331,7 +331,7 @@ def merge_features(df_rankings, df_resumen):
     Convierte el DataFrame de rankings (ancho) a formato largo y lo mergea con el resumen de caracteristicas por pagina.'''
     rank_long = (
         df_rankings
-        .rename_axis('country')
+        .rename_axis('country_id')
         .stack(dropna=False)
         .reset_index()
         .rename(columns={'level_1': 'rank', 0: 'page_id'})
@@ -357,11 +357,11 @@ def compute_rank_feature_correlation(df_rankings, df_resumen, segment_size=10, s
     rank_feat['segmento'] = ((rank_feat['rank'] - segment_start) // segment_size + 1).astype(int)
     seg = (
         rank_feat
-        .groupby(['country', 'segmento'], as_index=False)[df_resumen.columns.tolist()]
+        .groupby(['country_id', 'segmento'], as_index=False)[df_resumen.columns.tolist()]
         .mean()
     )
     
-    wide = seg.pivot(index='country', columns='segmento', values=df_resumen.columns.tolist())
+    wide = seg.pivot(index='country_id', columns='segmento', values=df_resumen.columns.tolist())
     wide.columns = [f'{m}_{s}' for m, s in wide.columns]
     return wide.T.corr()
 
@@ -379,7 +379,6 @@ def compute_rank_feature_distance(
     segment_size=10,
     segment_start=1,
     segment_end=100,
-    onehot_cols=None,          # <- lista de columnas one-hot en df_feat
     metric="euclidean",
     expanded=False,           # si True, concatena mean, std, cum, diff, delta_cum; si False (default), solo usa mean
     by='All',                 # caracteristicas a usar para calcular distancias
@@ -414,18 +413,17 @@ def compute_rank_feature_distance(
         Posición inicial del ranking a considerar.
     segment_end : int, default=100
         Posición final del ranking a considerar.
-    onehot_cols : list[str] or None, default=None
-        Lista de columnas one-hot que deben agregarse de manera especial.
     metric : str, default="euclidean"
         Métrica de distancia usada por `compute_feature_distance`.
     expanded : bool, default=False
         Si es True, devuelve también la representación expandida de características.
-    by : {"All", "correlation", "question", "top_k_options"}, default="All"
+    by : {"All", "correlation", "question", "top_k_options", "top_k_by_statistic"}, default="All"
         Estrategia de selección de características:
         - "All": usa todas las características agregadas.
         - "correlation": filtra por umbral de correlación.
         - "question": selecciona todas las features de las preguntas relevantes.
         - "top_k_options": selecciona los k incisos más relevantes por pregunta.
+        - "top_k_by_statistic": selecciona los k incisos más relevantes por estadística.
     threshold : float or None, default=0.6
         Umbral mínimo de relevancia para filtrar preguntas o características.
     k : int, default=3
@@ -447,15 +445,12 @@ def compute_rank_feature_distance(
     """
 
     def to_wide(seg_df, tag):
-        wide = seg_df.pivot(index="country", columns="segmento", values=feature_cols)
+        wide = seg_df.pivot(index="country_id", columns="segmento", values=feature_cols)
         wide.columns = [f"{c}_{tag}_s{s}" for c, s in wide.columns]
         return wide
-    
-    if onehot_cols is None:
-        onehot_cols = []
 
+    
     # 1) rankings ancho -> largo y merge features
-    feat = df_feat.reset_index().rename(columns={"pagina": "page_id"})
     rank_feat = merge_features(df_rankings, df_feat)
 
     # 3) segmentación
@@ -464,79 +459,75 @@ def compute_rank_feature_distance(
 
     # 4) columnas a agregar (solo numéricas, excluyendo id)
     feature_cols = [c for c in df_feat.columns if c != "pagina"]
-    # Asegura que onehot_cols estén en feature_cols
-    onehot_cols = [c for c in onehot_cols if c in feature_cols]
-    cont_cols = [c for c in feature_cols if c not in onehot_cols]
-
-    if onehot_cols:
-        rank_feat[onehot_cols] = rank_feat[onehot_cols].fillna(0).astype(float)
-    
-    # 5) one-hot: sum (cuentas); continuas: mean
-    # (importante: one-hot debería ser 0/1; si hay NaN, lo tratamos como 0)
-    rank_feat[onehot_cols] = rank_feat[onehot_cols].fillna(0).astype(float)
 
     seg_n = (
-        rank_feat.groupby(["country","segmento"], as_index=False)
+        rank_feat.groupby(["country_id","segmento"], as_index=False)
                 .size()
                 .rename(columns={"size": "n_seg"})
     )
     agg_mean = {c: "mean" for c in feature_cols}
-    agg_std = {c: 'std' for c in feature_cols}
 
     seg_mean = (
         rank_feat
-        .groupby(["country", "segmento"], as_index=False)
+        .groupby(["country_id", "segmento"], as_index=False)
         .agg(agg_mean)
-        .merge(seg_n, on=["country", "segmento"], how="left")
-    )
-
-    seg_mean = (
-        rank_feat
-        .groupby(["country", "segmento"], as_index=False)
-        .agg(agg_mean)
-        .merge(seg_n, on=["country", "segmento"], how="left")
+        .merge(seg_n, on=["country_id", "segmento"], how="left")
     )
 
     if expanded:
+        agg_std = {c: 'std' for c in feature_cols}
         seg_std = (
             rank_feat
-            .groupby(["country", "segmento"], as_index=False)
+            .groupby(["country_id", "segmento"], as_index=False)
             .agg(agg_std)
-            .merge(seg_n, on=["country", "segmento"], how="left")
+            .merge(seg_n, on=["country_id", "segmento"], how="left")
         )
         seg_std[feature_cols] = seg_std[feature_cols].fillna(0) # para evitar NaN en segmentos con 1 solo elemento
         
         # Ordenar para acumulados/diffs
-        seg_mean = seg_mean.sort_values(["country", "segmento"]).reset_index(drop=True)
-        seg_std = seg_std.sort_values(["country", "segmento"]).reset_index(drop=True)
+        seg_mean = seg_mean.sort_values(["country_id", "segmento"]).reset_index(drop=True)
+        seg_std = seg_std.sort_values(["country_id", "segmento"]).reset_index(drop=True)
 
         # ====== acumulado: cumulative mean ponderado por n_seg ======
         # cum_sum_f = cumsum(mean_f * n_seg)
         # cum_n     = cumsum(n_seg)
         # cum_f     = cum_sum_f / cum_n
-        tmp = seg_mean[["country", "segmento", "n_seg"] + feature_cols].copy()
+        tmp = seg_mean[["country_id", "segmento", "n_seg"] + feature_cols].copy()
         for c in feature_cols:
             tmp[c] = tmp[c] * tmp["n_seg"]
 
-        cum_sum = tmp.groupby("country", as_index=False)[feature_cols].cumsum()
-        cum_n   = tmp.groupby("country", as_index=False)["n_seg"].cumsum()
+        cum_sum = tmp.groupby("country_id", as_index=False)[feature_cols].cumsum()
+        cum_n   = tmp.groupby("country_id", as_index=False)["n_seg"].cumsum()
 
-        seg_cum = seg_mean[["country", "segmento"]].copy()
-        seg_cum["n_seg"] = seg_mean["n_seg"].values
-        for c in feature_cols:
-            seg_cum[c] = (cum_sum[c] / cum_n).fillna(0)
+        seg_cum_vals = cum_sum[feature_cols].div(cum_n, axis=0).fillna(0)
+
+        seg_cum = pd.concat(
+            [seg_mean[["country_id", "segmento"]].reset_index(drop=True),
+            seg_cum_vals.reset_index(drop=True)],
+            axis=1
+        )
 
         # ====== diff entre segmentos consecutivos (sobre mean) ======
-        seg_diff = seg_mean[["country", "segmento"]].copy()
-        seg_diff["n_seg"] = seg_mean["n_seg"].values
-        seg_diff[feature_cols] = (
-            seg_mean.groupby("country")[feature_cols].diff().fillna(0)
+        diff_vals = seg_mean.groupby("country_id")[feature_cols].diff().fillna(0)
+
+        seg_diff = pd.concat(
+            [
+                seg_mean[["country_id", "segmento"]].reset_index(drop=True),
+                diff_vals.reset_index(drop=True)
+            ],
+            axis=1
         )
 
         # ====== diferencia entre segmento actual y acumulado ======
-        seg_delta_cum = seg_mean[["country", "segmento"]].copy()
-        seg_delta_cum["n_seg"] = seg_mean["n_seg"].values
-        seg_delta_cum[feature_cols] = (seg_mean[feature_cols] - seg_cum[feature_cols]).fillna(0)
+        delta_cum_vals = (seg_mean[feature_cols] - seg_cum[feature_cols]).fillna(0)
+
+        seg_delta_cum = pd.concat(
+            [
+                seg_mean[["country_id", "segmento", "n_seg"]].reset_index(drop=True),
+                delta_cum_vals.reset_index(drop=True)
+            ],
+            axis=1
+        )
 
         # 6) pivot a wide
     
@@ -570,6 +561,8 @@ def compute_rank_feature_distance(
         relevance_df = feature_relevance_multitarget(wide2, compare_to2)
         relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
         return compute_feature_distance(wide2[relevant_feats], metric=metric), wide2[relevant_feats]
+    elif by != 'All' and compare_to is None:
+        raise ValueError("Si by != 'All', compare_to no puede ser None")
 
 
 def inverse_rank_weight(rank, start_at_1=1):
@@ -582,6 +575,10 @@ def compute_rank_feature_ponderate(
     compute_end=100,
     metric="euclidean",
     weight_func=None,  # función de peso opcional, por defecto w(rank) = 1/log2(rank+1)
+    by='All',                 # caracteristicas a usar para calcular distancias
+    threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'All')
+    k=3,
+    compare_to=None,          # características a comparar (si by != 'All' y compare_to no es None)
 ):
     '''
     Para cada país, calcula un perfil de características ponderado por la posición en el ranking (usando weight_func para asignar pesos a cada posición),
@@ -610,22 +607,26 @@ def compute_rank_feature_ponderate(
     d['w'] = d['rank'].map(weight)
     
     # 4) suma ponderada
-    feature_cols = [c for c in d.columns if c not in ['country', 'rank', 'page_id', 'w']]
+    feature_cols = [c for c in d.columns if c not in ['country_id', 'rank', 'page_id', 'w']]
     num = d.assign(**{col: d[col] * d['w'] for col in feature_cols}) \
-            .groupby("country")[feature_cols].sum()
+            .groupby("country_id")[feature_cols].sum()
     
-    den = d.groupby("country")['w'].sum()
+    den = d.groupby("country_id")['w'].sum()
     profile = num.div(den, axis=0)
     profile = profile.apply(lambda col: col.fillna(col.mean()), axis=0)
     
-    X = profile.values
-    X = StandardScaler().fit_transform(X)
-    
-    # 7) distancias
-    dists = squareform(pdist(X, metric=metric))
-    return pd.DataFrame(dists, index=profile.index, columns=profile.index), profile
-
-
+    if by == 'All':
+        return compute_feature_distance(profile, metric=metric), profile
+    elif by != 'All' and compare_to is not None:
+        common_idx = profile.index.intersection(compare_to.index)
+        profile2 = profile.loc[common_idx]
+        compare_to2 = compare_to.loc[common_idx]
+        
+        relevance_df = feature_relevance_multitarget(profile2, compare_to2)
+        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
+        return compute_feature_distance(profile2[relevant_feats], metric=metric), profile2[relevant_feats]
+    elif by != 'All' and compare_to is None:
+        raise ValueError("Si by != 'All', compare_to no puede ser None")
 # ------------------------------------------------
 # FUNCIONES AUXILIARES
 # ------------------------------------------------
@@ -772,6 +773,7 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3):
     by: 'correlation' (default) ordena por valor absoluto de correlación.
         'question' devuelve todos los incisos de las preguntas mas relevantes, ordenados por pregunta y luego por correlación.
         'top_k_options' devuelve los k incisos más relevantes de las preguntas mas relevantes (asumiendo que las features tienen formato 'pregunta__inciso').
+        'top_k_by_statistic' selecciona los k incisos más relevantes por estadística.
     """
     relevant = relevance_df.copy()
     if threshold is None:
@@ -815,5 +817,199 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3):
             .dropna()
             .tolist()
         )
+    elif by == 'top_k_by_statistic':
+        relevant['statistic'] = relevant['feature'].str.extract(r"_(mean|std|cum|diff|delta_cum)_s\d+$")
+        relevant['option'] = relevant["feature"].str.replace( r"_(?:mean|std|cum|diff|delta_cum)_s\d+$", "", regex=True ) 
+        relevant['abs_rh'] = relevant['rh'].abs()  
+        option_scores = ( 
+            relevant
+            .groupby(['statistic', 'option'], as_index=False) 
+            .agg(score=('abs_rh', 'max')) 
+        ) 
+        relevant_questions = ( 
+            option_scores 
+            .groupby('statistic', as_index=False) 
+            .agg(statistic_score=('score', 'max'))
+        )
+        relevant_questions = relevant_questions.loc[relevant_questions['statistic_score'] >= threshold, 'statistic']
+
+        top_options = (
+            option_scores[option_scores['statistic'].isin(relevant_questions)]
+            .sort_values(['statistic', 'score'], ascending=[True, False])
+            .groupby('statistic', group_keys=False)
+            .head(k)
+        )
+
+        # pares (question, option) seleccionados
+        selected = top_options[['statistic', 'option']].drop_duplicates()
+
+        return (
+            relevant.merge(selected, on=['statistic', 'option'], how='inner')['feature']
+            .drop_duplicates()
+            .dropna()
+            .tolist()
+        )
     else:
-        raise ValueError("by debe ser 'correlation', 'question' o 'top_k_options'")
+        raise ValueError("by debe ser 'correlation', 'question', 'top_k_options', o 'top_k_by_statistic'")
+    
+def compare_research_variables(df_dict, tops, corr_dict, keys, analysis_func, thres_dict = None, ignore=None, start=1, end=100, segmentation=10, one_hot_cols=None, expanded=True, weight_func=None, filter_by='All', k=3, compare_to=None, print_results=False, suffix=''):
+    """
+    Compara variables de investigación (por ejemplo, distancia geográfica, distancia de características, relevancia de características) con la posición en el ranking de resultados de búsqueda.
+
+    Parameters
+    ----------
+    df_dict : dict
+        Diccionario con DataFrames de características por país. Claves son nombres de variables (ej. "distancia_geografica", "distancia_caracteristicas", "relevancia_caracteristicas").
+    corr_dict : dict
+        Diccionario con matrices de correlación entre países para cada variable. Claves deben coincidir con df_dict.
+    tops : list[int]
+        Lista de valores de top para segmentar los rankings (ej. [10, 20, 30, ..., 100]).
+    segmentation : int, default=10
+        Tamaño del segmento para agrupar posiciones en el ranking (ej. 10 para segmentos 1-10, 11-20, etc.).
+    rank_order_method : {"kendall", "spearman"}, default="kendall"
+        Método para calcular ordenamiento entre rankings (Kendall o Spearman).
+    ignore : list[str] or None, default=None
+        Lista de variables a ignorar en la comparación.
+    segment_size : int, default=10
+        Tamaño del segmento para agregar características (ej. 10 para segmentos 1-10, 11-20, etc.).
+    expanded : bool, default=False
+        Si True, incluye representaciones expandidas (std, cum, diff) además del mean.
+    filter_by : {"all", "correlation", "question", "top_k_options"}, default="all"
+        Criterio para filtrar características relevantes al comparar con compare_to.
+    relevance_threshold : float, default=0.6
+        Umbral mínimo de relevancia para seleccionar características cuando filter_by != "all".
+    k : int, default=3
+        Número de incisos más relevantes por pregunta a seleccionar cuando filter_by="top_k_options".
+    compare_to : pandas.Series or pandas.DataFrame or None, default=None
+        Variable(s) objetivo contra las cuales evaluar relevancia al filtrar características.
+
+    Returns
+    -------
+    dict
+        Diccionario con resultados comparativos para cada variable analizada.
+    """
+
+    if thres_dict is None:
+        thres_dict = {key: 0 for key in keys}
+
+    all_results = []
+    for top in tops:
+        # valoracion de segmentos de rankings
+        # formulario
+        if analysis_func == 'distance':
+            for key in keys:
+                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
+        elif analysis_func == 'ponderate':
+            for key in keys:
+                corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
+
+        valid_items = [
+            (key, val)
+            for key, val in corr_dict.items()
+            if key != 'random' and key not in ignore
+        ]
+
+        # universo común (intersección)
+        common = set(valid_items[0][1].index)
+        for key, val in valid_items[1:]:
+            common &= set(val.index)
+        
+        common = sorted(common)
+
+        # reindexa todas al mismo orden/tamaño
+        for key, val in valid_items:
+            corr_dict[key] = val.reindex(index=common, columns=common)
+
+        rand = np.random.rand(len(common), len(common))
+        rand = (rand + rand.T) / 2
+        np.fill_diagonal(rand, 1.0)
+        corr_dict["random"] = pd.DataFrame(rand, index=common, columns=common)
+
+
+        # vectorizar matrices (solo triangular superior, sin diagonal)
+        vect_dict = {k: upper_tri_vals(corr_dict[k]) for k in corr_dict if k not in ignore}
+
+        rp_dict = {}
+        titles = []
+        # correlación entre evaluación y otras matrices
+        for source in ["cuestionario"+suffix, 'robertuito', 'cpi']:
+            rp_dict.update({source+'-'+k: spearmanr(vect_dict[source], vect_dict[k]) for k in vect_dict if k not in [source] + ignore})
+        
+        for d in ['cpi-cuestionario'+suffix, 'robertuito-cpi', 'robertuito-cuestionario'+suffix]:
+            rp_dict.pop(d) 
+        
+        results = pd.DataFrame({
+            "comparacion": rp_dict.keys(),
+            "r": [rp_dict[k][0] for k in rp_dict],
+            "p": [rp_dict[k][1] for k in rp_dict],
+            "top": top
+        })
+        results = results.round(3)
+
+        all_results.append(results)
+
+        if print_results:
+            print("=" * 50)
+            print(f"Top {top} resultados:")
+            print("-" * 50)
+            print(results)
+            print("=" * 50+'\n')
+
+
+    # Combinar resultados de todos los tops
+    df_all = pd.concat(all_results, ignore_index=True)
+    df_all["comparacion"] = pd.Categorical(df_all["comparacion"], categories=rp_dict.keys())
+    #print(df_all)
+    # Pivot para los coeficientes de correlación (r)
+    wide_r = df_all.pivot(index="top", columns="comparacion", values="r").sort_index()
+    #print(wide_r)
+    # Pivot para los p-values
+    wide_p = df_all.pivot(index="top", columns="comparacion", values="p").sort_index()
+    #print(wide_p)
+    return wide_r, wide_p
+
+def graph_comparison(wide_r, wide_p, analysis, filter, style_map=None, highlight_palette=None):
+    def is_random(lab: str) -> bool:
+        return ("-random" in lab) or lab.startswith("random-") or lab.endswith("-random")
+
+    cols = wide_r.columns  # o wide_p.columns; idealmente iguales
+    style_map = style_map or build_style_map(cols)
+
+    for lab in cols:
+        st = style_map[lab]
+
+        if is_random(lab):
+            # más sutil: gris + línea fina + punteada + transparencia
+            st["color"] = "0.3"       # gris (0=negro, 1=blanco)
+            st["alpha"] = 1
+            st["linewidth"] = 1.5
+            st["linestyle"] = ":"
+            # opcional: quita marcadores
+            # st["marker"] = None
+
+        elif lab in highlight_palette.keys():
+            # más llamativo: color fijo + línea gruesa + opaco
+            st["color"] = highlight_palette.get(lab, st["color"])
+            st["alpha"] = 1.0
+            st["linewidth"] = 3.0
+            st["linestyle"] = "-"
+            st["marker"] = "o"
+
+        else:
+            # resto: intermedio
+            st.setdefault("alpha", 0.85)
+            st.setdefault("linewidth", 1.5)
+
+
+    fig, axes = plt.subplots(1, 2, figsize=(18, 8))
+
+    # Figura para r
+    ax1 = plot_wide(wide_r, title=r"Correlación ($\rho$) vs top", ylab=r"$\rho$", style_map=style_map, ylim=(-1, 1), ax=axes[0], show_legend=False)
+
+    # Figura para p
+    ax2 = plot_wide(wide_p, title="p-value vs top", ylab="p", style_map=style_map, log_scale=True, ax=axes[1])
+
+    fig.suptitle(f"Comparación de variables. Analisis de {analysis}. Filtro por {filter}", fontsize=16)
+    fig.tight_layout(rect=[0, 0, 1, 0.95])
+
+    plt.show()

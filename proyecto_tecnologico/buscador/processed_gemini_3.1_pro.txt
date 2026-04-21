@@ -1,0 +1,794 @@
+0012	tipo_entidad	La respuesta es g) Plataformas educativas o de información general.
+0012	origen_entidad	La respuesta es b) Internacional
+0012	proposito	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado), d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0012	informacion_presentada	La respuesta es a) Factual y b) Subjetiva.
+0012	vision	La respuesta es a) Problema sistémico.
+0012	consecuencias	La respuesta es b) Consecuencias no legales como castigo social o pérdida de estatus y c) Impunidad (falta de sanciones) de los actos de corrupción.
+0012	que_muestra	La respuesta es c) Ambos
+0012	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción y b) Tomar conciencia general del problema.
+0012	localizacion_problema	La respuesta es c) Internacional (ejemplo: América Latina, global)
+0012	involucrados	La respuesta es b) Gobierno nacional, c) Empresas, f) Funcionario público (con capacidad de decisión y mando) y g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.).
+0012	formalidad	La respuesta es a) Formal
+0012	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad)
+0012	tono	La respuesta es b) Negativo
+0012	emociones	La respuesta es b) Tristeza, c) Ira y d) Miedo.
+0012	tipo_entidad	La respuesta es g) Plataformas educativas o de información general.
+0012	origen_entidad	La respuesta es b) Internacional.
+0012	proposito	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado), d) Educar sobre el tema, e) Exponer una opinión, y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0012	informacion_presentada	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0012	vision	La respuesta es a) Problema sistémico.
+0012	consecuencias	La respuesta es b) Consecuencias no legales como castigo social o pérdida de estatus y c) Impunidad (falta de sanciones) de los actos de corrupción.
+0012	que_muestra	La respuesta es c) Ambos
+0012	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema, c) Tomar acciones frente al problema.
+0012	localizacion_problema	La respuesta es c) Internacional (ejemplo: América Latina, global)
+0012	involucrados	La respuesta es b) Gobierno nacional, c) Empresas, f) Funcionario público (con capacidad de decisión y mando), g) Tomadores de decisión no gubernamentales y h) Organizaciones internacionales o gobiernos extranjeros.
+0012	formalidad	La respuesta es a) Formal
+0012	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad)
+0012	tono	La respuesta es b) Negativo.
+0012	emociones	La respuesta es b) Tristeza, c) Ira y f) Vergüenza.
+0012	tipo_entidad	La respuesta es g) Plataformas educativas o de información general.
+0012	origen_entidad	La respuesta es b) Internacional
+0012	proposito	La respuesta es b) Reportar o comentar una situación, d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0012	informacion_presentada	La respuesta es a) Factual
+0012	vision	La respuesta es a) Problema sistémico.
+0012	consecuencias	La respuesta es b) Consecuencias no legales como castigo social o pérdida de estatus y c) Impunidad (falta de sanciones) de los actos de corrupción.
+0012	que_muestra	La respuesta es c) Ambos
+0012	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción y b) Tomar conciencia general del problema.
+0012	localizacion_problema	La respuesta es c) Internacional (ejemplo: América Latina, global)
+0012	involucrados	La respuesta es b) Gobierno nacional, c) Empresas, f) Funcionario público (con capacidad de decisión y mando) y g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.).
+0012	formalidad	La respuesta es a) Formal
+0012	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad).
+0012	tono	La respuesta es b) Negativo
+0012	emociones	La respuesta es b) Tristeza, c) Ira y d) Miedo.
+0571	tipo_entidad	La respuesta es b) Gobierno.
+0571	origen_entidad	La respuesta es a) Nacional.
+0571	proposito	La respuesta es d) Educar sobre el tema
+0571	informacion_presentada	La respuesta es a) Factual
+0571	vision	La respuesta es a) Problema sistémico.
+0571	consecuencias	La respuesta es d) No aplica.
+0571	que_muestra	La respuesta es d) Ninguna de las anteriores
+0571	intencion	La respuesta es f) No aplica
+0571	localizacion_problema	La respuesta es a) Local, b) Nacional y c) Internacional.
+0571	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público, f) Funcionario público, g) Tomadores de decisión no gubernamentales, h) Organizaciones internacionales o gobiernos extranjeros.
+0571	formalidad	La respuesta es a) Formal
+0571	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad)
+0571	tono	La respuesta es a) Positivo
+0571	emociones	La respuesta es a) Alegría, b) Tristeza y e) Sorpresa.
+0571	tipo_entidad	La respuesta es b) Gobierno.
+0571	origen_entidad	La respuesta es a) Nacional
+0571	proposito	La respuesta es d) Educar sobre el tema y h) Guía o información para realizar el proceso de denuncia de un caso de corrupción.
+0571	informacion_presentada	La respuesta es a) Factual
+0571	vision	La respuesta es c) No aplica.
+0571	consecuencias	La respuesta es d) No aplica
+0571	que_muestra	La respuesta es d) Ninguna de las anteriores.
+0571	intencion	La respuesta es f) No aplica.
+0571	localizacion_problema	La respuesta es b) Nacional
+0571	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público, f) Funcionario público, g) Tomadores de decisión no gubernamentales y h) Organizaciones internacionales o gobiernos extranjeros.
+0571	formalidad	La respuesta es a) Formal
+0571	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad)
+0571	tono	La respuesta es a) Positivo.
+0571	emociones	La respuesta es a) Alegría, e) Sorpresa y f) Vergüenza.
+0571	tipo_entidad	La respuesta es b) Gobierno.
+0571	origen_entidad	La respuesta es a) Nacional
+0571	proposito	La respuesta es d) Educar sobre el tema, g) Alertar sobre una situación general (Llamado de atención colectivo), h) Guía o información para realizar el proceso de denuncia de un caso de corrupción, i) Página para registrar de una denuncia o un aviso de un caso de corrupción.
+0571	informacion_presentada	La respuesta es a) Factual.
+0571	vision	La respuesta es d) Otro (Enfoque estrictamente jurídico-normativo, ya que el texto analizado es únicamente un índice de navegación del Boletín Oficial del Estado y no desarrolla ninguna visión teórica, discursiva o conceptual sobre la naturaleza de la corrupción, limitándose a enunciar su existencia como materia de regulación legal).
+0571	consecuencias	La respuesta es d) No aplica
+0571	que_muestra	La respuesta es d) Ninguna de las anteriores
+0571	intencion	La respuesta es f) No aplica
+0571	localizacion_problema	La respuesta es b) Nacional y c) Internacional.
+0571	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público, f) Funcionario público y h) Organizaciones internacionales o gobiernos extranjeros.
+0571	formalidad	La respuesta es a) Formal
+0571	nivel_educacion	La respuesta es b) Media-superior
+0571	tono	La respuesta es a) Positivo
+0571	emociones	La respuesta es a) Alegría, e) Sorpresa y f) Vergüenza.
+0200	tipo_entidad	La respuesta es b) Gobierno.
+0200	origen_entidad	La respuesta es a) Nacional
+0200	proposito	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado), d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0200	informacion_presentada	La respuesta es a) Factual y b) Subjetiva.
+0200	vision	La respuesta es a) Problema sistémico.
+0200	consecuencias	La respuesta es a) Penas y sanciones legales y b) Consecuencias no legales como castigo social o pérdida de estatus.
+0200	que_muestra	La respuesta es c) Ambos
+0200	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema, c) Tomar acciones frente al problema, d) Tener esperanza.
+0200	localizacion_problema	La respuesta es b) Nacional y c) Internacional.
+0200	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público, f) Funcionario público, g) Tomadores de decisión no gubernamentales y h) Organizaciones internacionales o gobiernos extranjeros.
+0200	formalidad	La respuesta es a) Formal.
+0200	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad)
+0200	tono	La respuesta es b) Negativo.
+0200	emociones	La respuesta es b) Tristeza, c) Ira y d) Miedo.
+0200	tipo_entidad	La respuesta es b) Gobierno.
+0200	origen_entidad	La respuesta es a) Nacional
+0200	proposito	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado), d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0200	informacion_presentada	La respuesta es a) Factual y c) Emocional.
+0200	vision	La respuesta es a) Problema sistémico.
+0200	consecuencias	La respuesta es a) Penas y sanciones legales y b) Consecuencias no legales como castigo social o pérdida de estatus.
+0200	que_muestra	La respuesta es c) Ambos.
+0200	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema y c) Tomar acciones frente al problema.
+0200	localizacion_problema	La respuesta es b) Nacional y c) Internacional.
+0200	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público (sin capacidad jerárquica para decisiones de alto nivel), f) Funcionario público (con capacidad de decisión y mando), g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.) y h) Organizaciones internacionales o gobiernos extranjeros.
+0200	formalidad	La respuesta es a) Formal
+0200	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad).
+0200	tono	La respuesta es b) Negativo
+0200	emociones	La respuesta es b) Tristeza, c) Ira y f) Vergüenza.
+0200	tipo_entidad	La respuesta es b) Gobierno.
+0200	origen_entidad	La respuesta es a) Nacional
+0200	proposito	La respuesta es b) Reportar o comentar una situación, d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0200	informacion_presentada	La respuesta es a) Factual y b) Subjetiva.
+0200	vision	La respuesta es a) Problema sistémico.
+0200	consecuencias	La respuesta es a) Penas y sanciones legales y b) Consecuencias no legales como castigo social o pérdida de estatus.
+0200	que_muestra	La respuesta es c) Ambos.
+0200	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema y c) Tomar acciones frente al problema.
+0200	localizacion_problema	La respuesta es b) Nacional y c) Internacional.
+0200	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público (sin capacidad jerárquica para decisiones de alto nivel), f) Funcionario público (con capacidad de decisión y mando), g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.) y h) Organizaciones internacionales o gobiernos extranjeros.
+0200	formalidad	La respuesta es a) Formal
+0200	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad).
+0200	tono	La respuesta es b) Negativo
+0200	emociones	La respuesta es b) Tristeza, c) Ira y f) Vergüenza.
+0394	tipo_entidad	La respuesta es c) Organismo internacional.
+0394	origen_entidad	La respuesta es b) Internacional
+0394	proposito	La respuesta es d) Educar sobre el tema.
+0394	informacion_presentada	La respuesta es a) Factual (datos concretos)
+0394	vision	La respuesta es a) Problema sistémico.
+0394	consecuencias	La respuesta es d) No aplica
+0394	que_muestra	La respuesta es a) Propuestas de solución a la corrupción
+0394	intencion	La respuesta es f) No aplica.
+0394	localizacion_problema	La respuesta es b) Nacional y c) Internacional.
+0394	involucrados	La respuesta es b) Gobierno nacional, c) Empresas, d) Ciudadanos concretos, f) Funcionario público, h) Organizaciones internacionales o gobiernos extranjeros.
+0394	formalidad	La respuesta es a) Formal
+0394	nivel_educacion	La respuesta es b) Media-superior
+0394	tono	La respuesta es a) Positivo
+0394	emociones	La respuesta es h) Ninguna.
+0394	tipo_entidad	La respuesta es c) Organismo internacional.
+0394	origen_entidad	La respuesta es b) Internacional
+0394	proposito	La respuesta es d) Educar sobre el tema
+0394	informacion_presentada	La respuesta es a) Factual (datos concretos).
+0394	vision	La respuesta es a) Problema sistémico.
+0394	consecuencias	La respuesta es d) No aplica
+0394	que_muestra	La respuesta es a) Propuestas de solución a la corrupción.
+0394	intencion	La respuesta es f) No aplica
+0394	localizacion_problema	La respuesta es b) Nacional y c) Internacional.
+0394	involucrados	La respuesta es b) Gobierno nacional, c) Empresas, d) Ciudadanos concretos, e) Empleado público, f) Funcionario público y h) Organizaciones internacionales o gobiernos extranjeros.
+0394	formalidad	La respuesta es a) Formal
+0394	nivel_educacion	La respuesta es b) Media-superior
+0394	tono	La respuesta es a) Positivo
+0394	emociones	La respuesta es a) Alegría, b) Tristeza y e) Sorpresa.
+0394	tipo_entidad	La respuesta es c) Organismo internacional.
+0394	origen_entidad	La respuesta es b) Internacional
+0394	proposito	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado) y d) Educar sobre el tema.
+0394	informacion_presentada	La respuesta es a) Factual
+0394	vision	La respuesta es a) Problema sistémico.
+0394	consecuencias	La respuesta es d) No aplica.
+0394	que_muestra	La respuesta es a) Propuestas de solución a la corrupción
+0394	intencion	La respuesta es f) No aplica.
+0394	localizacion_problema	La respuesta es b) Nacional (ejemplo: Mexico) y c) Internacional (ejemplo: América Latina, global).
+0394	involucrados	La respuesta es b) Gobierno nacional, c) Empresas, d) Ciudadanos concretos, f) Funcionario público (con capacidad de decisión y mando) y h) Organizaciones internacionales o gobiernos extranjeros.
+0394	formalidad	La respuesta es a) Formal
+0394	nivel_educacion	La respuesta es b) Media-superior
+0394	tono	La respuesta es a) Positivo.
+0394	emociones	La respuesta es a) Alegría, b) Tristeza y f) Vergüenza.
+0397	tipo_entidad	La respuesta es h) Academia (publicaciones o cuerpos académicos).
+0397	origen_entidad	La respuesta es a) Nacional
+0397	proposito	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado), d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0397	informacion_presentada	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0397	vision	La respuesta es a) Problema sistémico.
+0397	consecuencias	La respuesta es a) Penas y sanciones legales, b) Consecuencias no legales como castigo social o pérdida de estatus, y c) Impunidad (falta de sanciones) de los actos de corrupción.
+0397	que_muestra	La respuesta es c) Ambos
+0397	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema, c) Tomar acciones frente al problema.
+0397	localizacion_problema	La respuesta es a) Local, b) Nacional y c) Internacional.
+0397	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, d) Ciudadanos concretos, e) Empleado público, f) Funcionario público, h) Organizaciones internacionales o gobiernos extranjeros.
+0397	formalidad	La respuesta es a) Formal
+0397	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad)
+0397	tono	La respuesta es b) Negativo.
+0397	emociones	La respuesta es c) Ira, f) Vergüenza y g) Culpa.
+0397	tipo_entidad	La respuesta es h) Academia.
+0397	origen_entidad	La respuesta es a) Nacional.
+0397	proposito	La respuesta es b) Reportar o comentar una situación, d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0397	informacion_presentada	La respuesta es a) Factual y b) Subjetiva.
+0397	vision	La respuesta es a) Problema sistémico.
+0397	consecuencias	La respuesta es a) Penas y sanciones legales, b) Consecuencias no legales como castigo social o pérdida de estatus y c) Impunidad (falta de sanciones) de los actos de corrupción.
+0397	que_muestra	La respuesta es c) Ambos
+0397	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema y c) Tomar acciones frente al problema.
+0397	localizacion_problema	La respuesta es a) Local, b) Nacional y c) Internacional.
+0397	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, d) Ciudadanos concretos, e) Empleado público (sin capacidad jerárquica para decisiones de alto nivel) y f) Funcionario público (con capacidad de decisión y mando).
+0397	formalidad	La respuesta es a) Formal.
+0397	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad).
+0397	tono	La respuesta es b) Negativo
+0397	emociones	La respuesta es c) Ira, f) Vergüenza y g) Culpa.
+0397	tipo_entidad	La respuesta es h) Academia.
+0397	origen_entidad	La respuesta es a) Nacional
+0397	proposito	La respuesta es b) Reportar o comentar una situación, d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general.
+0397	informacion_presentada	La respuesta es a) Factual y b) Subjetiva.
+0397	vision	La respuesta es a) Problema sistémico.
+0397	consecuencias	La respuesta es a) Penas y sanciones legales, b) Consecuencias no legales como castigo social o pérdida de estatus y c) Impunidad (falta de sanciones) de los actos de corrupción.
+0397	que_muestra	La respuesta es c) Ambos
+0397	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema y c) Tomar acciones frente al problema.
+0397	localizacion_problema	La respuesta es a) Local, b) Nacional y c) Internacional.
+0397	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, d) Ciudadanos concretos, e) Empleado público (sin capacidad jerárquica para decisiones de alto nivel), f) Funcionario público (con capacidad de decisión y mando) y g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.).
+0397	formalidad	La respuesta es a) Formal
+0397	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad).
+0397	tono	La respuesta es b) Negativo
+0397	emociones	La respuesta es c) Ira, f) Vergüenza y g) Culpa.
+0199	tipo_entidad	La respuesta es b) Gobierno.
+0199	origen_entidad	La respuesta es a) Nacional.
+0199	proposito	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado), d) Educar sobre el tema, f) Propaganda política (es claro que la información presentada está motivada por un interés político y su principal objetivo es propagandístico) y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0199	informacion_presentada	La respuesta es a) Factual.
+0199	vision	La respuesta es a) Problema sistémico.
+0199	consecuencias	La respuesta es a) Penas y sanciones legales
+0199	que_muestra	La respuesta es a) Propuestas de solución a la corrupción
+0199	intencion	La respuesta es a) Conocer el diagnóstico de la situación de la corrupción, b) Tomar conciencia general del problema, c) Tomar acciones frente al problema, y d) Tener esperanza.
+0199	localizacion_problema	La respuesta es a) Local (ejemplo: Ciudad de Mexico) y b) Nacional (ejemplo: Mexico).
+0199	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público (sin capacidad jerárquica para decisiones de alto nivel), f) Funcionario público (con capacidad de decisión y mando) y g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.).
+0199	formalidad	La respuesta es a) Formal
+0199	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad).
+0199	tono	La respuesta es a) Positivo
+0199	emociones	Las respuestas son a) Alegría, c) Ira y f) Vergüenza.
+0199	tipo_entidad	La respuesta es b) Gobierno.
+0199	origen_entidad	La respuesta es a) Nacional
+0199	proposito	La respuesta es b) Reportar o comentar una situación, d) Educar sobre el tema, f) Propaganda política y g) Alertar sobre una situación general.
+0199	informacion_presentada	La respuesta es a) Factual.
+0199	vision	La respuesta es a) Problema sistémico.
+0199	consecuencias	La respuesta es a) Penas y sanciones legales.
+0199	que_muestra	La respuesta es a) Propuestas de solución a la corrupción
+0199	intencion	La respuesta es b) Tomar conciencia general del problema, c) Tomar acciones frente al problema, d) Tener esperanza.
+0199	localizacion_problema	La respuesta es a) Local y b) Nacional.
+0199	involucrados	La respuesta es a) Gobierno local, b) Gobierno nacional, c) Empresas, e) Empleado público (sin capacidad jerárquica para decisiones de alto nivel), f) Funcionario público (con capacidad de decisión y mando) y g) Tomadores de decisión no gubernamentales (líderes empresariales, activistas, etc.).
+0199	formalidad	La respuesta es a) Formal
+0199	nivel_educacion	La respuesta es b) Media-superior (mayor a 11 años de edad).
+0199	tono	La respuesta es a) Positivo
+0338	tipo_entidad	La respuesta es d) Prensa tradicional (medios de difusión tradicional como periódicos, radio o televisión).
+0046	tipo_entidad	La respuesta es g) Plataformas educativas o de información general.
+0103	tipo_entidad	La respuesta es c) Organismo internacional.
+0004	emociones	La respuesta es b) Tristeza, c) Ira y f) Vergüenza.
+0002	emociones	La respuesta es b) Tristeza, c) Ira y f) Vergüenza.
+0420	emociones	La respuesta es a) Alegría, c) Ira y d) Miedo.
+0587	emociones	La respuesta es h) Ninguna.
+0238	emociones	La respuesta es c) Ira, d) Miedo y f) Vergüenza.
+0246	vision	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0324	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0444	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0059	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0489	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0487	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0019	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0105	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0525	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0159	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0245	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0526	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0484	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0406	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0275	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0127	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0263	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0187	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0431	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0128	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0217	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0379	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0249	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0099	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0045	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0216	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0198	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0522	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0345	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0277	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0040	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0556	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0276	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0572	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0115	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0478	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0154	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0125	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0471	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0430	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0121	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0329	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0013	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0256	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0131	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0117	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0359	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0057	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0332	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0391	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0590	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0155	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0166	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0168	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0044	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0343	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0223	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0535	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0094	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0301	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0293	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0029	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0523	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0466	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0591	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0558	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0106	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0143	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0362	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0555	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0344	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0076	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0075	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0174	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0448	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0534	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0279	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0214	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0067	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0551	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0258	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0084	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0396	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0014	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0304	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0145	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0409	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0203	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0541	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0190	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0284	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0533	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0552	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0034	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0592	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0438	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0082	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0282	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0498	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0261	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0218	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0298	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0310	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0206	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0020	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0536	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0485	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0388	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0429	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0510	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0185	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0569	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0499	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0092	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0302	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0465	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0011	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0141	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0546	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0172	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0221	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0331	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0242	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0557	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0515	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0085	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0330	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0550	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0319	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0538	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0561	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0080	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0005	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0586	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0234	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0339	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0408	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0577	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0483	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0368	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0476	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0150	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0537	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0229	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0365	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0110	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0562	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0007	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0402	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0180	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0270	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0416	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0107	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0357	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0049	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0513	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0165	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0140	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0384	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0123	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0053	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0454	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0055	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0352	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0369	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0083	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0079	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0381	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0305	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0458	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0389	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0299	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0139	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0488	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0506	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0064	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0196	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0317	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0093	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0269	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0470	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0164	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0025	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0380	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0393	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0063	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0017	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0191	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0232	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0016	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0423	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0048	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0564	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0445	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0340	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0531	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0312	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0026	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0473	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0582	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0356	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0181	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0101	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0087	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0148	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0271	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0333	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0052	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0171	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0086	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0441	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0401	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0024	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0132	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0547	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0504	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0281	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0511	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0274	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0222	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0204	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0351	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0228	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0549	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0192	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0051	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0038	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0167	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0303	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0091	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0516	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0372	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0568	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0280	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0097	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0163	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0493	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0043	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0062	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0383	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0354	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0170	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0472	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0227	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0056	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0193	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0119	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0349	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0442	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0047	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0447	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0505	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0439	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0104	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0453	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0286	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0567	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0360	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0456	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0022	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0461	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0316	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0268	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0116	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0410	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0337	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0130	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0415	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0210	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0195	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0023	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0309	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0512	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0382	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0593	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0350	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0225	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0211	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0494	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0260	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0068	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0371	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0178	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0138	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0468	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0390	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0413	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0320	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0507	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0452	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0385	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0411	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0202	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0233	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0262	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0545	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0294	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0376	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0251	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0032	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0428	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0112	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0574	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0300	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0153	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0060	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0243	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0496	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0176	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0182	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0334	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0158	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0325	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0479	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0469	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0386	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0058	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0554	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0480	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0030	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0559	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0450	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0446	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0283	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0089	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0113	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0348	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0033	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0342	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0474	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0144	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0133	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0146	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0422	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0366	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0327	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0326	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0596	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0451	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0151	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0179	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0008	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0188	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0463	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0580	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0328	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0231	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0490	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0078	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0529	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0109	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0273	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0467	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0502	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0042	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0287	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0250	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0425	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0212	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0353	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0405	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0583	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0432	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0240	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0539	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0404	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0111	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0548	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0265	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0581	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0544	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0594	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0237	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0209	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0395	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0186	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0417	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0449	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0427	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0278	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0021	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0259	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0495	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0318	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0194	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0267	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0508	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0419	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0102	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0475	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0135	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0065	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0254	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0054	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0230	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0524	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0313	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0077	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0244	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0367	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0285	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0315	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0272	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0492	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0050	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0443	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0403	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0122	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0039	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0482	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0370	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0253	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0108	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0566	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0129	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0088	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0532	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0399	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0407	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0257	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0573	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0565	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0308	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0031	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0584	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0588	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0035	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0290	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0306	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0149	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0517	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0455	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0576	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0563	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0378	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0520	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0090	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0041	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0073	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0018	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0292	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0061	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0341	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0358	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0006	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0224	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0519	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0098	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0323	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0464	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0477	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0553	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0486	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0036	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0081	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0147	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0540	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0000	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0460	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0503	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0236	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0124	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0134	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0542	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0118	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0440	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0197	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0069	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0241	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0037	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0595	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0015	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0433	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0096	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0336	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0295	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0361	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0184	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0436	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0072	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0314	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0518	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0208	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0321	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0028	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0585	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0307	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0424	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0500	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0213	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0322	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0252	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0070	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0457	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0375	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0142	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0189	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0570	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0543	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0509	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0003	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0414	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0560	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0363	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0288	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0311	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0346	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0514	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0001	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0421	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0010	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0521	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0364	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0066	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0437	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0161	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0071	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0296	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0491	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0418	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0175	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0027	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0136	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0355	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0100	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0177	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0392	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0528	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0426	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0095	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0347	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0173	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0501	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0009	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0575	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0373	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0462	tipo_entidad	La respuesta es a) Factual (datos concretos) y b) Subjetiva (opiniones o interpretaciones personales).
+0012	pagina	La respuesta es g) Plataformas educativas o de información general.
+0012	pagina	La respuesta es g) Plataformas educativas o de información general.
+0012	pagina	La respuesta es g) Plataformas educativas o de información general.
+0012	tipo_entidad	La respuesta es b) Internacional
+0012	tipo_entidad	La respuesta es b) Internacional.
+0012	tipo_entidad	La respuesta es b) Internacional
+0012	origen_entidad	La respuesta es b) Reportar o comentar una situación, d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo)
+0012	origen_entidad	La respuesta es b) Reportar o comentar una situación, d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0012	origen_entidad	La respuesta es b) Reportar o comentar una situación (una circunstancia o un conjunto de factores relacionados con un fenómeno más complejo que un solo caso aislado), d) Educar sobre el tema, e) Exponer una opinión y g) Alertar sobre una situación general (Llamado de atención colectivo).
+0012	proposito	La respuesta es a) Factual y b) Subjetiva.
+0012	proposito	La respuesta es a) Factual y b) Subjetiva.
+0458	pagina	La respuesta es g) Plataformas educativas o de información general.
