@@ -381,8 +381,11 @@ def compute_rank_feature_distance(
     segment_end=100,
     metric="euclidean",
     expanded=False,           # si True, concatena mean, std, cum, diff, delta_cum; si False (default), solo usa mean
-    by='All',                 # caracteristicas a usar para calcular distancias
-    threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'All')
+    take_segments=None,        # lista de segmentos a usar (si None, usa todos)
+    take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
+    seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
+    by='no_filter',                 # caracteristicas a usar para calcular distancias
+    threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
     k=3,
     compare_to=None,          # características a comparar
 ):
@@ -417,9 +420,9 @@ def compute_rank_feature_distance(
         Métrica de distancia usada por `compute_feature_distance`.
     expanded : bool, default=False
         Si es True, devuelve también la representación expandida de características.
-    by : {"All", "correlation", "question", "top_k_options", "top_k_by_statistic"}, default="All"
+    by : {"no_filter", "correlation", "question", "top_k_options", "top_k_by_statistic"}, default="no_filter"
         Estrategia de selección de características:
-        - "All": usa todas las características agregadas.
+        - "no_filter": usa todas las características agregadas.
         - "correlation": filtra por umbral de correlación.
         - "question": selecciona todas las features de las preguntas relevantes.
         - "top_k_options": selecciona los k incisos más relevantes por pregunta.
@@ -440,7 +443,7 @@ def compute_rank_feature_distance(
 
     Notes
     -----
-    Cuando `compare_to` no es None y `by != "All"`, la selección de características
+    Cuando `compare_to` no es None y `by != "no_filter"`, la selección de características
     se realiza a partir de su relevancia respecto a la(s) variable(s) objetivo.
     """
 
@@ -545,15 +548,33 @@ def compute_rank_feature_distance(
             "delta_cum": wide_delta_cum,
         }
 
+        if take_statistics is not None:
+            for tag in list(wides.keys()):
+                if tag not in take_statistics:
+                    del wides[tag]
+        
         wide = pd.concat(wides.values(), axis=1)
 
     else:
         wide = to_wide(seg_mean, "mean")
+    
+    if take_segments is not None:
+        wide = wide[[col for col in wide.columns if any(col.endswith(f"_s{s}") for s in take_segments)]]
 
-    if by == 'All':
+    if seg_feat_dict is not None:
+        selected_cols = []
+        for s, feats in seg_feat_dict.items():
+            for f in feats:
+                for tag in wides.keys():
+                    col_name = f"{f}_{tag}_s{s}"
+                    if col_name in wide.columns:
+                        selected_cols.append(col_name)
+        wide = wide[selected_cols]
+
+    if by == 'no_filter':
         # 7) distancias
         return compute_feature_distance(wide, metric=metric), wide
-    elif by != 'All' and compare_to is not None:
+    elif by != 'no_filter' and compare_to is not None:
         common_idx = wide.index.intersection(compare_to.index)
         wide2 = wide.loc[common_idx]
         compare_to2 = compare_to.loc[common_idx]
@@ -561,8 +582,8 @@ def compute_rank_feature_distance(
         relevance_df = feature_relevance_multitarget(wide2, compare_to2)
         relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
         return compute_feature_distance(wide2[relevant_feats], metric=metric), wide2[relevant_feats]
-    elif by != 'All' and compare_to is None:
-        raise ValueError("Si by != 'All', compare_to no puede ser None")
+    elif by != 'no_filter' and compare_to is None:
+        raise ValueError("Si by != 'no_filter', compare_to no puede ser None")
 
 
 def inverse_rank_weight(rank, start_at_1=1):
@@ -575,10 +596,10 @@ def compute_rank_feature_ponderate(
     compute_end=100,
     metric="euclidean",
     weight_func=None,  # función de peso opcional, por defecto w(rank) = 1/log2(rank+1)
-    by='All',                 # caracteristicas a usar para calcular distancias
-    threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'All')
+    by='no_filter',                 # caracteristicas a usar para calcular distancias
+    threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
     k=3,
-    compare_to=None,          # características a comparar (si by != 'All' y compare_to no es None)
+    compare_to=None,          # características a comparar (si by != 'no_filter' y compare_to no es None)
 ):
     '''
     Para cada país, calcula un perfil de características ponderado por la posición en el ranking (usando weight_func para asignar pesos a cada posición),
@@ -615,9 +636,9 @@ def compute_rank_feature_ponderate(
     profile = num.div(den, axis=0)
     profile = profile.apply(lambda col: col.fillna(col.mean()), axis=0)
     
-    if by == 'All':
+    if by == 'no_filter':
         return compute_feature_distance(profile, metric=metric), profile
-    elif by != 'All' and compare_to is not None:
+    elif by != 'no_filter' and compare_to is not None:
         common_idx = profile.index.intersection(compare_to.index)
         profile2 = profile.loc[common_idx]
         compare_to2 = compare_to.loc[common_idx]
@@ -625,8 +646,8 @@ def compute_rank_feature_ponderate(
         relevance_df = feature_relevance_multitarget(profile2, compare_to2)
         relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
         return compute_feature_distance(profile2[relevant_feats], metric=metric), profile2[relevant_feats]
-    elif by != 'All' and compare_to is None:
-        raise ValueError("Si by != 'All', compare_to no puede ser None")
+    elif by != 'no_filter' and compare_to is None:
+        raise ValueError("Si by != 'no_filter', compare_to no puede ser None")
 # ------------------------------------------------
 # FUNCIONES AUXILIARES
 # ------------------------------------------------
@@ -852,7 +873,28 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3):
     else:
         raise ValueError("by debe ser 'correlation', 'question', 'top_k_options', o 'top_k_by_statistic'")
     
-def compare_research_variables(df_dict, tops, corr_dict, keys, analysis_func, thres_dict = None, ignore=None, start=1, end=100, segmentation=10, one_hot_cols=None, expanded=True, weight_func=None, filter_by='All', k=3, compare_to=None, print_results=False, suffix=''):
+def compare_research_variables(
+        df_dict,
+        tops,
+        corr_dict,
+        keys,
+        analysis_func,
+        thres_dict = None,
+        ignore=None,
+        start=1,
+        end=100,
+        segmentation=10,
+        expanded=True,
+        take_segments=None,        # lista de segmentos a usar (si None, usa todos)
+        take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
+        seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
+        weight_func=None,
+        filter_by='no_filter',
+        k=3,
+        compare_to=None,
+        print_results=False,
+        suffix=''
+    ):
     """
     Compara variables de investigación (por ejemplo, distancia geográfica, distancia de características, relevancia de características) con la posición en el ranking de resultados de búsqueda.
 
@@ -898,7 +940,7 @@ def compare_research_variables(df_dict, tops, corr_dict, keys, analysis_func, th
         # formulario
         if analysis_func == 'distance':
             for key in keys:
-                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
+                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
         elif analysis_func == 'ponderate':
             for key in keys:
                 corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
