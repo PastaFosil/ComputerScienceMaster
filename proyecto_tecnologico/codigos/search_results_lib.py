@@ -385,6 +385,8 @@ def compute_rank_feature_distance(
     take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
     seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
     by='no_filter',                 # caracteristicas a usar para calcular distancias
+    measure_relation_by='correlation',   # medida de relacion para filtrar por relevancia (si by != 'no_filter')
+    get_pfdr=False,              # si True, devuelve también el DataFrame de p-valores ajustados por FDR para la relación entre características y compare_to
     threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
     k=3,
     compare_to=None,          # características a comparar
@@ -579,7 +581,7 @@ def compute_rank_feature_distance(
         wide2 = wide.loc[common_idx]
         compare_to2 = compare_to.loc[common_idx]
         
-        relevance_df = feature_relevance_multitarget(wide2, compare_to2)
+        relevance_df = feature_relevance_multitarget(wide2, compare_to2, by=measure_relation_by, get_fdr=get_pfdr)
         relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
         return compute_feature_distance(wide2[relevant_feats], metric=metric), wide2[relevant_feats]
     elif by != 'no_filter' and compare_to is None:
@@ -597,6 +599,8 @@ def compute_rank_feature_ponderate(
     metric="euclidean",
     weight_func=None,  # función de peso opcional, por defecto w(rank) = 1/log2(rank+1)
     by='no_filter',                 # caracteristicas a usar para calcular distancias
+    measure_relation_by='correlation',   # medida de relacion para filtrar por relevancia (si by != 'no_filter')
+    get_pfdr=False,              # si True, devuelve también el DataFrame de p-valores ajustados por FDR para la relación entre características y compare_to
     threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
     k=3,
     compare_to=None,          # características a comparar (si by != 'no_filter' y compare_to no es None)
@@ -643,7 +647,7 @@ def compute_rank_feature_ponderate(
         profile2 = profile.loc[common_idx]
         compare_to2 = compare_to.loc[common_idx]
         
-        relevance_df = feature_relevance_multitarget(profile2, compare_to2)
+        relevance_df = feature_relevance_multitarget(profile2, compare_to2, by=measure_relation_by, get_fdr=get_pfdr)
         relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
         return compute_feature_distance(profile2[relevant_feats], metric=metric), profile2[relevant_feats]
     elif by != 'no_filter' and compare_to is None:
@@ -756,33 +760,69 @@ def mantel_spearman(A, B, n_perm=10000, seed=0):
     return obs, p
 
 
-def feature_relevance(feats, target):
+def feature_relevance(feats, target, by='correlation', get_fdr=False):
     """
     Calcula la relevancia de diferentes caracteristicas (feats) con respecto a una variable objetivo (target).
     Devuelve correlacion d Spearman y p-value para cada caracteristica.
     """
+    from scipy.spatial.distance import euclidean
+    from sklearn.preprocessing import StandardScaler
+
     y = target.reindex(feats.index)
     rows = []
     for feat in feats.columns:
         x = feats[feat]
         m = x.notna() & y.notna()
-        corr, p = spearmanr(y[m], x[m])
-        rows.append((feat, corr, p, m.sum()))
+        if by == 'correlation':
+            corr, p = spearmanr(y[m], x[m])
+            rows.append((feat, corr, p, m.sum()))
+        elif by == 'distance':
+            x_clean = x[m].values.reshape(-1, 1)
+            y_clean = y[m].values.reshape(-1, 1)
+            
+            scaler = StandardScaler()
+            x_clean = scaler.fit_transform(x_clean).flatten()
+            y_clean = scaler.fit_transform(y_clean).flatten()
 
-    res = pd.DataFrame(rows, columns=['feature', 'rh', 'p', 'n'])
+            dist = euclidean(x_clean, y_clean)
+            similarity = 1 / (1 + dist)  # Convertir distancia a similitud (ejemplo simple)
+            rows.append((feat, dist, similarity, m.sum()))
+        else:
+            raise ValueError("by debe ser 'correlation' o 'distance'")
+        
+    if by == 'correlation':
+        res = pd.DataFrame(rows, columns=['feature', 'rh', 'p', 'n'])
+    elif by == 'distance':
+        res = pd.DataFrame(rows, columns=['feature', 'distance', 'similarity', 'n'])
+    else:
+        raise ValueError("by debe ser 'correlation' o 'distance'")
+    
     # correccion por multiples pruebas (FDR Benjamini-Hochberg)
-    res['p_fdr'] = multipletests(res['p'], method='fdr_bh')[1]
-    res = res.sort_values(['p_fdr', 'rh'], ascending=[True, False])
+    if get_fdr:
+        if by == 'correlation':
+            res['p_fdr'] = multipletests(res['p'], method='fdr_bh')[1]
+        elif by == 'distance':
+            res['p_fdr'] = multipletests(res['similarity'], method='fdr_bh')[1]
+        else:
+            raise ValueError("by debe ser 'correlation' o 'distance'")
+        res = res.sort_values(['p_fdr', 'rh'], ascending=[True, False])
+    else:
+        if by == 'correlation':
+            res = res.sort_values(['p', 'rh'], ascending=[True, False])
+        elif by == 'distance':
+            res = res.sort_values(['similarity', 'distance'], ascending=[False, True])
+        else:
+            raise ValueError("by debe ser 'correlation' o 'distance'")
     return res
 
-def feature_relevance_multitarget(feats, compare_to_targets):
+def feature_relevance_multitarget(feats, compare_to_targets, by='correlation', get_fdr=False):
     """
     Calcula la relevancia de diferentes caracteristicas (feats) con respecto a varias variables objetivo (compare_to_targets).
     Devuelve un DataFrame con correlacion d Spearman y p-value para cada caracteristica y cada variable objetivo.
     """
     rows = []
     for target in compare_to_targets.columns:
-        res = feature_relevance(feats, compare_to_targets[target])
+        res = feature_relevance(feats, compare_to_targets[target], by=by, get_fdr=get_fdr)
         res['target'] = target
         rows.append(res)
     return pd.concat(rows, ignore_index=True)
@@ -797,23 +837,33 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3):
         'top_k_by_statistic' selecciona los k incisos más relevantes por estadística.
     """
     relevant = relevance_df.copy()
+    cols_dict ={
+        'rh': 'p',
+        'distance': 'similarity'
+    }
+    cols = relevant.columns
+    if 'rh' in cols:
+        rel = 'rh'
+    else:
+        rel = "distance"
+
     if threshold is None:
         threshold = 0.6
 
     if by == 'correlation':
-        return relevant[relevance_df['rh'].abs() >= threshold]['feature'].dropna().tolist()
+        return relevant[relevance_df[rel].abs() >= threshold]['feature'].dropna().tolist()
     elif by == 'question':
         relevant['question'] = relevant['feature'].apply(lambda f: f.split('__')[0] if '__' in f else f)
-        questions = relevant[relevance_df['rh'].abs() >= threshold]['question'].unique()
+        questions = relevant[relevance_df[rel].abs() >= threshold]['question'].unique()
         return relevant.where(relevant['question'].isin(questions))['feature'].dropna().tolist()
     elif by == 'top_k_options':
         relevant['question'] = relevant['feature'].apply(lambda f: f.split('__')[0] if '__' in f else f) 
         relevant['option'] = relevant["feature"].str.replace( r"_(?:mean|std|cum|diff|delta_cum)_s\d+$", "", regex=True ) 
-        relevant['abs_rh'] = relevant['rh'].abs()  
+        relevant['abs_rel'] = relevant[rel].abs()  
         option_scores = ( 
             relevant
             .groupby(['question', 'option'], as_index=False) 
-            .agg(score=('abs_rh', 'max')) 
+            .agg(score=('abs_rel', 'max')) 
         ) 
         relevant_questions = ( 
             option_scores 
@@ -841,11 +891,11 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3):
     elif by == 'top_k_by_statistic':
         relevant['statistic'] = relevant['feature'].str.extract(r"_(mean|std|cum|diff|delta_cum)_s\d+$")
         relevant['option'] = relevant["feature"].str.replace( r"_(?:mean|std|cum|diff|delta_cum)_s\d+$", "", regex=True ) 
-        relevant['abs_rh'] = relevant['rh'].abs()  
+        relevant['abs_rel'] = relevant[rel].abs()  
         option_scores = ( 
             relevant
             .groupby(['statistic', 'option'], as_index=False) 
-            .agg(score=('abs_rh', 'max')) 
+            .agg(score=('abs_rel', 'max')) 
         ) 
         relevant_questions = ( 
             option_scores 
@@ -890,6 +940,7 @@ def compare_research_variables(
         seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
         weight_func=None,
         filter_by='no_filter',
+        measure_relation_by='correlation',
         k=3,
         compare_to=None,
         print_results=False,
@@ -940,10 +991,10 @@ def compare_research_variables(
         # formulario
         if analysis_func == 'distance':
             for key in keys:
-                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
+                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, by=filter_by, measure_relation_by=measure_relation_by,  threshold=thres_dict[key], k=k, compare_to=compare_to)
         elif analysis_func == 'ponderate':
             for key in keys:
-                corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
+                corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, measure_relation_by=measure_relation_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
 
         valid_items = [
             (key, val)
@@ -974,11 +1025,11 @@ def compare_research_variables(
         rp_dict = {}
         titles = []
         # correlación entre evaluación y otras matrices
-        for source in ["cuestionario"+suffix, 'robertuito', 'cpi']:
+        for source in ['cpi']:
             rp_dict.update({source+'-'+k: spearmanr(vect_dict[source], vect_dict[k]) for k in vect_dict if k not in [source] + ignore})
         
-        for d in ['cpi-cuestionario'+suffix, 'robertuito-cpi', 'robertuito-cuestionario'+suffix]:
-            rp_dict.pop(d) 
+        #for d in ['cpi-cuestionario'+suffix, 'robertuito-cpi', 'robertuito-cuestionario'+suffix]:
+        #    rp_dict.pop(d) 
         
         results = pd.DataFrame({
             "comparacion": rp_dict.keys(),

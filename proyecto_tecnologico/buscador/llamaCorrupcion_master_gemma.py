@@ -261,10 +261,10 @@ class RateLimiter:
 
 from google import genai
 
-rate_limiter = RateLimiter(max_requests=15, time_window_seconds=60)
+rate_limiter = RateLimiter(max_requests=15, time_window_seconds=120)
 
 base_model = "gemma-4-31b-it"
-api_key = 'AIzaSyCVaPQPeVVYb6N3pF7e-5Eu_jo1uCxcnhw'
+api_key = "API_KEY"
 client = genai.Client(api_key=api_key)
 
 print("CWD: ", os.getcwd())
