@@ -1,0 +1,10 @@
+target,dataset,logreg,svc
+2-clases,bow,0.947,0.947
+2-clases,forms,0.867,0.747
+2-clases,robertuito,0.197,0.167
+3-clases,bow,0.731,0.731
+3-clases,forms,0.531,0.687
+3-clases,robertuito,0.122,0.171
+4-clases,bow,0.386,0.325
+4-clases,forms,0.528,0.433
+4-clases,robertuito,0.067,0.172

@@ -893,7 +893,8 @@ def compare_research_variables(
         k=3,
         compare_to=None,
         print_results=False,
-        suffix=''
+        suffix='',
+        print_progress=False
     ):
     """
     Compara variables de investigación (por ejemplo, distancia geográfica, distancia de características, relevancia de características) con la posición en el ranking de resultados de búsqueda.
@@ -936,15 +937,24 @@ def compare_research_variables(
 
     all_results = []
     for top in tops:
+        if print_progress:
+            print(f"Procesando top {top}...")
+            print("  Calculando matrices de características...")
         # valoracion de segmentos de rankings
         # formulario
         if analysis_func == 'distance':
             for key in keys:
+                if print_progress:
+                    print(f"\t\tCalculando distancia para {key}...")
                 corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
         elif analysis_func == 'ponderate':
             for key in keys:
+                if print_progress:
+                    print(f"\t\tCalculando ponderación para {key}...")
                 corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
 
+        if print_progress:
+            print("  Preparando matrices de correlación...")
         valid_items = [
             (key, val)
             for key, val in corr_dict.items()
@@ -967,19 +977,24 @@ def compare_research_variables(
         np.fill_diagonal(rand, 1.0)
         corr_dict["random"] = pd.DataFrame(rand, index=common, columns=common)
 
-
+        if print_progress:
+            print("  Vectorizando matrices de correlación...")
         # vectorizar matrices (solo triangular superior, sin diagonal)
         vect_dict = {k: upper_tri_vals(corr_dict[k]) for k in corr_dict if k not in ignore}
 
         rp_dict = {}
         titles = []
         # correlación entre evaluación y otras matrices
+        if print_progress:
+            print("  Calculando correlaciones...")
         for source in ['cpi']:
             rp_dict.update({source+'-'+k: spearmanr(vect_dict[source], vect_dict[k]) for k in vect_dict if k not in [source] + ignore})
         
         #for d in ['cpi-cuestionario'+suffix, 'robertuito-cpi', 'robertuito-cuestionario'+suffix]:
         #    rp_dict.pop(d) 
         
+        if print_progress:
+            print("  Preparando resultados...")
         results = pd.DataFrame({
             "comparacion": rp_dict.keys(),
             "r": [rp_dict[k][0] for k in rp_dict],
@@ -990,7 +1005,7 @@ def compare_research_variables(
 
         all_results.append(results)
 
-        if print_results:
+        if print_results or print_progress:
             print("=" * 50)
             print(f"Top {top} resultados:")
             print("-" * 50)
@@ -998,6 +1013,8 @@ def compare_research_variables(
             print("=" * 50+'\n')
 
 
+    if print_progress:
+        print("Combinando resultados de todos los tops...")
     # Combinar resultados de todos los tops
     df_all = pd.concat(all_results, ignore_index=True)
     df_all["comparacion"] = pd.Categorical(df_all["comparacion"], categories=rp_dict.keys())

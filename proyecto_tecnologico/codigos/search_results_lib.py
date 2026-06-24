@@ -328,7 +328,8 @@ def analyze_pages(df, multi_choice_questions, possible_answers, ordinal=False):
 
 def merge_features(df_rankings, df_resumen):
     '''
-    Convierte el DataFrame de rankings (ancho) a formato largo y lo mergea con el resumen de caracteristicas por pagina.'''
+    Convierte el DataFrame de rankings (ancho) a formato largo y lo mergea con el resumen de caracteristicas por pagina.
+    '''
     rank_long = (
         df_rankings
         .rename_axis('country_id')
@@ -339,8 +340,23 @@ def merge_features(df_rankings, df_resumen):
     rank_long.dropna(subset=['page_id'], inplace=True)
     rank_long['rank'] += 1
 
+    # CORRECCIÓN: Manejar el caso donde el índice ya es 'page_id'
+    if df_resumen.index.name == 'page_id':
+        # El índice ya es 'page_id', solo resetear sin renombrar
+        df_to_merge = df_resumen.reset_index()
+        # La columna del índice se llamará 'page_id' automáticamente
+    elif 'page_id' in df_resumen.columns:
+        # Si 'page_id' ya es columna
+        df_to_merge = df_resumen.copy()
+    else:
+        # Caso original: buscar columna 'pagina'
+        df_to_merge = df_resumen.reset_index().rename(columns={'pagina': 'page_id'})
+    
+    # Eliminar columnas duplicadas si las hay
+    df_to_merge = df_to_merge.loc[:, ~df_to_merge.columns.duplicated()]
+    
     rank_feat = rank_long.merge(
-        df_resumen.reset_index().rename(columns={'pagina': 'page_id'}),
+        df_to_merge,
         on='page_id',
         how='left'
     )
@@ -371,6 +387,7 @@ def compute_feature_distance(feats, metric="euclidean"):
 
     X = StandardScaler().fit_transform(feats.values)
     dists = squareform(pdist(X, metric=metric))
+    
     return pd.DataFrame(dists, index=feats.index, columns=feats.index)
 
 def compute_rank_feature_distance(
@@ -390,6 +407,8 @@ def compute_rank_feature_distance(
     threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
     k=3,
     compare_to=None,          # características a comparar
+    min_features_ratio=0.1,
+    adaptive_threshold=True,
 ):
     """
     Calcula representaciones agregadas de características por segmentos del ranking
@@ -435,6 +454,10 @@ def compute_rank_feature_distance(
         Número de incisos más relevantes por pregunta cuando `by="top_k_options"`.
     compare_to : pandas.Series or pandas.DataFrame or None, default=None
         Variable o variables objetivo contra las cuales evaluar relevancia.
+    min_features_ratio : float, default=0.1
+        Proporción mínima de características que deben ser seleccionadas. Si min_features_ratio > 1, se interpreta como número mínimo absoluto de características.
+    adaptive_threshold : bool, default=True
+        Si es True, ajusta el umbral de relevancia dinámicamente.
 
     Returns
     -------
@@ -582,7 +605,7 @@ def compute_rank_feature_distance(
         compare_to2 = compare_to.loc[common_idx]
         
         relevance_df = feature_relevance_multitarget(wide2, compare_to2, by=measure_relation_by, get_fdr=get_pfdr)
-        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
+        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
         return compute_feature_distance(wide2[relevant_feats], metric=metric), wide2[relevant_feats]
     elif by != 'no_filter' and compare_to is None:
         raise ValueError("Si by != 'no_filter', compare_to no puede ser None")
@@ -604,6 +627,8 @@ def compute_rank_feature_ponderate(
     threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
     k=3,
     compare_to=None,          # características a comparar (si by != 'no_filter' y compare_to no es None)
+    min_features_ratio=0.1,
+    adaptive_threshold=True,
 ):
     '''
     Para cada país, calcula un perfil de características ponderado por la posición en el ranking (usando weight_func para asignar pesos a cada posición),
@@ -648,7 +673,7 @@ def compute_rank_feature_ponderate(
         compare_to2 = compare_to.loc[common_idx]
         
         relevance_df = feature_relevance_multitarget(profile2, compare_to2, by=measure_relation_by, get_fdr=get_pfdr)
-        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k)
+        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
         return compute_feature_distance(profile2[relevant_feats], metric=metric), profile2[relevant_feats]
     elif by != 'no_filter' and compare_to is None:
         raise ValueError("Si by != 'no_filter', compare_to no puede ser None")
@@ -827,14 +852,23 @@ def feature_relevance_multitarget(feats, compare_to_targets, by='correlation', g
         rows.append(res)
     return pd.concat(rows, ignore_index=True)
 
-def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3):
+def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_features_ratio=0.1, adaptive_threshold=True):
     """
     Dado un DataFrame de relevancia (con columnas 'feature', 'rh', 'p_fdr', 'target'), devuelve las características más relevantes para cada variable objetivo.
     Se puede filtrar por un umbral mínimo de correlación (threshold).
+    
     by: 'correlation' (default) ordena por valor absoluto de correlación.
         'question' devuelve todos los incisos de las preguntas mas relevantes, ordenados por pregunta y luego por correlación.
         'top_k_options' devuelve los k incisos más relevantes de las preguntas mas relevantes (asumiendo que las features tienen formato 'pregunta__inciso').
         'top_k_by_statistic' selecciona los k incisos más relevantes por estadística.
+    
+    min_features_ratio: float, default=0.1
+        Proporción mínima de características a mantener (ej. 0.1 = al menos 10%).
+        Si el threshold original filtra más que esto, se ajusta automáticamente.
+        Si min_features_ratio > 1, se interpreta como número mínimo absoluto de características a mantener.
+    
+    adaptive_threshold: bool, default=True
+        Si es True, ajusta el threshold automáticamente cuando se filtran todas o casi todas las características.
     """
     relevant = relevance_df.copy()
     cols_dict ={
@@ -847,79 +881,154 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3):
     else:
         rel = "distance"
 
+    total_features = len(relevant['feature'].unique())
+    if min_features_ratio > 1:
+        min_features = int(min_features_ratio)
+    else:
+        min_features = max(1, int(total_features * min_features_ratio))
+    
     if threshold is None:
         threshold = 0.6
-
-    if by == 'correlation':
-        return relevant[relevance_df[rel].abs() >= threshold]['feature'].dropna().tolist()
-    elif by == 'question':
-        relevant['question'] = relevant['feature'].apply(lambda f: f.split('__')[0] if '__' in f else f)
-        questions = relevant[relevance_df[rel].abs() >= threshold]['question'].unique()
-        return relevant.where(relevant['question'].isin(questions))['feature'].dropna().tolist()
-    elif by == 'top_k_options':
-        relevant['question'] = relevant['feature'].apply(lambda f: f.split('__')[0] if '__' in f else f) 
-        relevant['option'] = relevant["feature"].str.replace( r"_(?:mean|std|cum|diff|delta_cum)_s\d+$", "", regex=True ) 
-        relevant['abs_rel'] = relevant[rel].abs()  
+    
+    def adjust_threshold_if_needed(selected_features, current_threshold):
+        """Ajusta el threshold si se seleccionaron muy pocas características"""
+        if len(selected_features) == 0 and adaptive_threshold:
+            # Caso 1: No se seleccionó ninguna característica
+            # Buscar un threshold que mantenga al menos min_features
+            sorted_vals = relevant[rel].abs().sort_values(ascending=False)
+            if len(sorted_vals) > 0:
+                # Tomar el valor en la posición min_features (o el último si hay menos)
+                idx = min(min_features, len(sorted_vals)) - 1
+                new_threshold = sorted_vals.iloc[idx]
+                print(f"Advertencia: El threshold {current_threshold} filtró todas las características. "
+                      f"Ajustando a {new_threshold:.4f} para mantener {min_features} características.")
+                
+                # Llamada recursiva con el nuevo threshold
+                return get_most_relevant(
+                    relevance_df, 
+                    threshold=new_threshold, 
+                    by=by, 
+                    k=k, 
+                    min_features_ratio=min_features_ratio,
+                    adaptive_threshold=False  # Evitar recursión infinita
+                )
+        elif len(selected_features) < min_features and adaptive_threshold and current_threshold > 0:
+            # Caso 2: Se seleccionaron muy pocas características (menos del ratio mínimo)
+            sorted_vals = relevant[rel].abs().sort_values(ascending=False)
+            if len(sorted_vals) > 0:
+                # Buscar un threshold que dé al menos min_features
+                if min_features <= len(sorted_vals):
+                    new_threshold = sorted_vals.iloc[min_features - 1]
+                else:
+                    new_threshold = sorted_vals.iloc[-1] if len(sorted_vals) > 0 else 0
+                
+                if new_threshold < current_threshold:
+                    print(f"Advertencia: El threshold {current_threshold} seleccionó solo {len(selected_features)} características "
+                          f"(mínimo deseado: {min_features}). Ajustando a {new_threshold:.4f}.")
+                    
+                    return get_most_relevant(
+                        relevance_df, 
+                        threshold=new_threshold, 
+                        by=by, 
+                        k=k, 
+                        min_features_ratio=min_features_ratio,
+                        adaptive_threshold=False
+                    )
+        return selected_features
+    
+    # Funciones auxiliares para cada modo
+    def get_correlation_features(threshold_val):
+        return relevant[relevant[rel].abs() >= threshold_val]['feature'].dropna().tolist()
+    
+    def get_question_features(threshold_val):
+        relevant_local = relevant.copy()
+        relevant_local['question'] = relevant_local['feature'].apply(lambda f: f.split('__')[0] if '__' in f else f)
+        questions = relevant_local[relevant_local[rel].abs() >= threshold_val]['question'].unique()
+        return relevant_local.where(relevant_local['question'].isin(questions))['feature'].dropna().tolist()
+    
+    def get_top_k_options_features(threshold_val):
+        relevant_local = relevant.copy()
+        relevant_local['question'] = relevant_local['feature'].apply(lambda f: f.split('__')[0] if '__' in f else f) 
+        relevant_local['option'] = relevant_local["feature"].str.replace(r"_(?:mean|std|cum|diff|delta_cum)_s\d+$", "", regex=True) 
+        relevant_local['abs_rel'] = relevant_local[rel].abs()  
+        
         option_scores = ( 
-            relevant
+            relevant_local
             .groupby(['question', 'option'], as_index=False) 
             .agg(score=('abs_rel', 'max')) 
         ) 
+        
         relevant_questions = ( 
             option_scores 
             .groupby('question', as_index=False) 
             .agg(question_score=('score', 'max'))
         )
-        relevant_questions = relevant_questions.loc[relevant_questions['question_score'] >= threshold, 'question']
-
+        relevant_questions = relevant_questions[relevant_questions['question_score'] >= threshold_val]['question']
+        
         top_options = (
             option_scores[option_scores['question'].isin(relevant_questions)]
             .sort_values(['question', 'score'], ascending=[True, False])
             .groupby('question', group_keys=False)
             .head(k)
         )
-
-        # pares (question, option) seleccionados
+        
         selected = top_options[['question', 'option']].drop_duplicates()
-
+        
         return (
-            relevant.merge(selected, on=['question', 'option'], how='inner')['feature']
+            relevant_local.merge(selected, on=['question', 'option'], how='inner')['feature']
             .drop_duplicates()
             .dropna()
             .tolist()
         )
-    elif by == 'top_k_by_statistic':
-        relevant['statistic'] = relevant['feature'].str.extract(r"_(mean|std|cum|diff|delta_cum)_s\d+$")
-        relevant['option'] = relevant["feature"].str.replace( r"_(?:mean|std|cum|diff|delta_cum)_s\d+$", "", regex=True ) 
-        relevant['abs_rel'] = relevant[rel].abs()  
+    
+    def get_top_k_by_statistic_features(threshold_val):
+        relevant_local = relevant.copy()
+        relevant_local['statistic'] = relevant_local['feature'].str.extract(r"_(mean|std|cum|diff|delta_cum)_s\d+$")
+        relevant_local['option'] = relevant_local["feature"].str.replace(r"_(?:mean|std|cum|diff|delta_cum)_s\d+$", "", regex=True) 
+        relevant_local['abs_rel'] = relevant_local[rel].abs()  
+        
         option_scores = ( 
-            relevant
+            relevant_local
             .groupby(['statistic', 'option'], as_index=False) 
             .agg(score=('abs_rel', 'max')) 
         ) 
-        relevant_questions = ( 
+        
+        relevant_stats = ( 
             option_scores 
             .groupby('statistic', as_index=False) 
             .agg(statistic_score=('score', 'max'))
         )
-        relevant_questions = relevant_questions.loc[relevant_questions['statistic_score'] >= threshold, 'statistic']
-
+        relevant_stats = relevant_stats[relevant_stats['statistic_score'] >= threshold_val]['statistic']
+        
         top_options = (
-            option_scores[option_scores['statistic'].isin(relevant_questions)]
+            option_scores[option_scores['statistic'].isin(relevant_stats)]
             .sort_values(['statistic', 'score'], ascending=[True, False])
             .groupby('statistic', group_keys=False)
             .head(k)
         )
-
-        # pares (question, option) seleccionados
+        
         selected = top_options[['statistic', 'option']].drop_duplicates()
-
+        
         return (
-            relevant.merge(selected, on=['statistic', 'option'], how='inner')['feature']
+            relevant_local.merge(selected, on=['statistic', 'option'], how='inner')['feature']
             .drop_duplicates()
             .dropna()
             .tolist()
         )
+    
+    # Seleccionar según el modo
+    if by == 'correlation':
+        selected = get_correlation_features(threshold)
+        return adjust_threshold_if_needed(selected, threshold)
+    elif by == 'question':
+        selected = get_question_features(threshold)
+        return adjust_threshold_if_needed(selected, threshold)
+    elif by == 'top_k_options':
+        selected = get_top_k_options_features(threshold)
+        return adjust_threshold_if_needed(selected, threshold)
+    elif by == 'top_k_by_statistic':
+        selected = get_top_k_by_statistic_features(threshold)
+        return adjust_threshold_if_needed(selected, threshold)
     else:
         raise ValueError("by debe ser 'correlation', 'question', 'top_k_options', o 'top_k_by_statistic'")
     
@@ -937,14 +1046,17 @@ def compare_research_variables(
         expanded=True,
         take_segments=None,        # lista de segmentos a usar (si None, usa todos)
         take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
-        seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
+        seg_feat_dicts=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
         weight_func=None,
         filter_by='no_filter',
         measure_relation_by='correlation',
         k=3,
         compare_to=None,
         print_results=False,
-        suffix=''
+        suffix='',
+        print_progress=False,
+        min_features_ratio=0.1,
+        adaptive_threshold=True,
     ):
     """
     Compara variables de investigación (por ejemplo, distancia geográfica, distancia de características, relevancia de características) con la posición en el ranking de resultados de búsqueda.
@@ -987,15 +1099,25 @@ def compare_research_variables(
 
     all_results = []
     for top in tops:
+        if print_progress:
+            print(f"Procesando top {top}...")
+            print("  Calculando matrices de características...")
         # valoracion de segmentos de rankings
         # formulario
         if analysis_func == 'distance':
             for key in keys:
-                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, by=filter_by, measure_relation_by=measure_relation_by,  threshold=thres_dict[key], k=k, compare_to=compare_to)
+                seg_feat_dict = seg_feat_dicts[key] if seg_feat_dicts is not None else None
+                if print_progress:
+                    print(f"\t\tCalculando distancia para {key}...")
+                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, by=filter_by, measure_relation_by=measure_relation_by,  threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
         elif analysis_func == 'ponderate':
             for key in keys:
-                corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, measure_relation_by=measure_relation_by, threshold=thres_dict[key], k=k, compare_to=compare_to)
+                if print_progress:
+                    print(f"\t\tCalculando ponderación para {key}...")
+                corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, measure_relation_by=measure_relation_by, threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
 
+        if print_progress:
+            print("  Preparando matrices de correlación...")
         valid_items = [
             (key, val)
             for key, val in corr_dict.items()
@@ -1018,12 +1140,15 @@ def compare_research_variables(
         np.fill_diagonal(rand, 1.0)
         corr_dict["random"] = pd.DataFrame(rand, index=common, columns=common)
 
-
+        if print_progress:
+            print("  Vectorizando matrices de correlación...")
         # vectorizar matrices (solo triangular superior, sin diagonal)
         vect_dict = {k: upper_tri_vals(corr_dict[k]) for k in corr_dict if k not in ignore}
 
         rp_dict = {}
         titles = []
+        if print_progress:
+            print("  Calculando correlaciones...")
         # correlación entre evaluación y otras matrices
         for source in ['cpi']:
             rp_dict.update({source+'-'+k: spearmanr(vect_dict[source], vect_dict[k]) for k in vect_dict if k not in [source] + ignore})
@@ -1031,6 +1156,8 @@ def compare_research_variables(
         #for d in ['cpi-cuestionario'+suffix, 'robertuito-cpi', 'robertuito-cuestionario'+suffix]:
         #    rp_dict.pop(d) 
         
+        if print_progress:
+            print("  Preparando resultados...")
         results = pd.DataFrame({
             "comparacion": rp_dict.keys(),
             "r": [rp_dict[k][0] for k in rp_dict],
@@ -1041,7 +1168,7 @@ def compare_research_variables(
 
         all_results.append(results)
 
-        if print_results:
+        if print_results or print_progress:
             print("=" * 50)
             print(f"Top {top} resultados:")
             print("-" * 50)
@@ -1049,6 +1176,8 @@ def compare_research_variables(
             print("=" * 50+'\n')
 
 
+    if print_progress:
+        print("Combinando resultados de todos los tops...")
     # Combinar resultados de todos los tops
     df_all = pd.concat(all_results, ignore_index=True)
     df_all["comparacion"] = pd.Categorical(df_all["comparacion"], categories=rp_dict.keys())
@@ -1061,7 +1190,7 @@ def compare_research_variables(
     #print(wide_p)
     return wide_r, wide_p
 
-def graph_comparison(wide_r, wide_p, analysis, filter, style_map=None, highlight_palette=None):
+def graph_comparison(wide_r, wide_p, extra, style_map=None, highlight_palette=None, define_measured_variable=True, labels_dict=None):
     def is_random(lab: str) -> bool:
         return ("-random" in lab) or lab.startswith("random-") or lab.endswith("-random")
 
@@ -1097,12 +1226,16 @@ def graph_comparison(wide_r, wide_p, analysis, filter, style_map=None, highlight
     fig, axes = plt.subplots(1, 2, figsize=(18, 8))
 
     # Figura para r
-    ax1 = plot_wide(wide_r, title=r"Correlación ($\rho$) vs top", ylab=r"$\rho$", style_map=style_map, ylim=(-1, 1), ax=axes[0], show_legend=False)
+    if labels_dict is None:
+        ax1 = plot_wide(wide_r, title=r"Correlación ($\rho$) vs top", ylab=r"$\rho$", style_map=style_map, ylim=(-1, 1), ax=axes[0], show_legend=False)
+    else:
+        ax1 = plot_wide(wide_r, title=labels_dict['title'], ylab=labels_dict['ylab'], style_map=style_map, ylim=(-1, 1), ax=axes[0], show_legend=False)
 
     # Figura para p
     ax2 = plot_wide(wide_p, title="p-value vs top", ylab="p", style_map=style_map, log_scale=True, ax=axes[1])
 
-    fig.suptitle(f"Comparación de variables. Analisis de {analysis}. Filtro por {filter}", fontsize=16)
+    fig.suptitle(f"Comparación de variables. {extra}", fontsize=16)
     fig.tight_layout(rect=[0, 0, 1, 0.95])
 
     plt.show()
+

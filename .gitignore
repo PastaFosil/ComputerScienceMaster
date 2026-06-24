@@ -20,3 +20,6 @@ proyecto_tecnologico/.tokenHF.txt
 *.key
 proyecto_tecnologico/*.csv
 proyecto_tecnologico/buscador/*.txt
+proyecto_tecnologico/datos/
+proyecto_tecnologico/clf_results/
+proyecto_tecnologico/mi_results/
