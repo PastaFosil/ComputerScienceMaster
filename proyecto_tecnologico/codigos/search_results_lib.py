@@ -390,93 +390,19 @@ def compute_feature_distance(feats, metric="euclidean"):
     
     return pd.DataFrame(dists, index=feats.index, columns=feats.index)
 
-def compute_rank_feature_distance(
+def get_statistics_df(
     df_rankings,
     df_feat,
     segment_size=10,
     segment_start=1,
     segment_end=100,
-    metric="euclidean",
     expanded=False,           # si True, concatena mean, std, cum, diff, delta_cum; si False (default), solo usa mean
-    take_segments=None,        # lista de segmentos a usar (si None, usa todos)
     take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
-    seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
-    by='no_filter',                 # caracteristicas a usar para calcular distancias
-    measure_relation_by='correlation',   # medida de relacion para filtrar por relevancia (si by != 'no_filter')
-    get_pfdr=False,              # si True, devuelve también el DataFrame de p-valores ajustados por FDR para la relación entre características y compare_to
-    threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
-    k=3,
-    compare_to=None,          # características a comparar
-    min_features_ratio=0.1,
-    adaptive_threshold=True,
 ):
-    """
-    Calcula representaciones agregadas de características por segmentos del ranking
-    y, opcionalmente, selecciona las características más relevantes con respecto
-    a una o varias variables objetivo.
-
-    La función convierte rankings en formato ancho a formato largo, los combina con
-    las características de cada página y agrega dichas características por país y
-    por segmento del ranking. Después puede:
-
-    - devolver todas las características agregadas,
-    - calcular una matriz de distancias entre países,
-    - o filtrar características relevantes según su relación con `compare_to`.
-
-    Parameters
-    ----------
-    df_rankings : pandas.DataFrame
-        DataFrame de rankings en formato ancho. Cada columna representa una posición
-        en el ranking y cada fila corresponde a un país.
-    df_feat : pandas.DataFrame
-        DataFrame de características por página. Debe poder vincularse con los IDs
-        de página presentes en `df_rankings`.
-    segment_size : int, default=10
-        Tamaño de cada segmento del ranking.
-    segment_start : int, default=1
-        Posición inicial del ranking a considerar.
-    segment_end : int, default=100
-        Posición final del ranking a considerar.
-    metric : str, default="euclidean"
-        Métrica de distancia usada por `compute_feature_distance`.
-    expanded : bool, default=False
-        Si es True, devuelve también la representación expandida de características.
-    by : {"no_filter", "correlation", "question", "top_k_options", "top_k_by_statistic"}, default="no_filter"
-        Estrategia de selección de características:
-        - "no_filter": usa todas las características agregadas.
-        - "correlation": filtra por umbral de correlación.
-        - "question": selecciona todas las features de las preguntas relevantes.
-        - "top_k_options": selecciona los k incisos más relevantes por pregunta.
-        - "top_k_by_statistic": selecciona los k incisos más relevantes por estadística.
-    threshold : float or None, default=0.6
-        Umbral mínimo de relevancia para filtrar preguntas o características.
-    k : int, default=3
-        Número de incisos más relevantes por pregunta cuando `by="top_k_options"`.
-    compare_to : pandas.Series or pandas.DataFrame or None, default=None
-        Variable o variables objetivo contra las cuales evaluar relevancia.
-    min_features_ratio : float, default=0.1
-        Proporción mínima de características que deben ser seleccionadas. Si min_features_ratio > 1, se interpreta como número mínimo absoluto de características.
-    adaptive_threshold : bool, default=True
-        Si es True, ajusta el umbral de relevancia dinámicamente.
-
-    Returns
-    -------
-    tuple
-        Dependiendo de la configuración, devuelve una tupla con:
-        - matriz de distancias o relevancias,
-        - y el DataFrame ancho de características seleccionadas.
-
-    Notes
-    -----
-    Cuando `compare_to` no es None y `by != "no_filter"`, la selección de características
-    se realiza a partir de su relevancia respecto a la(s) variable(s) objetivo.
-    """
-
     def to_wide(seg_df, tag):
         wide = seg_df.pivot(index="country_id", columns="segmento", values=feature_cols)
         wide.columns = [f"{c}_{tag}_s{s}" for c, s in wide.columns]
         return wide
-
     
     # 1) rankings ancho -> largo y merge features
     rank_feat = merge_features(df_rankings, df_feat)
@@ -577,12 +503,100 @@ def compute_rank_feature_distance(
             for tag in list(wides.keys()):
                 if tag not in take_statistics:
                     del wides[tag]
-        
-        wide = pd.concat(wides.values(), axis=1)
-
     else:
-        wide = to_wide(seg_mean, "mean")
+        wides = {"mean": to_wide(seg_mean, "mean")}
     
+    return wides
+
+def compute_rank_feature_distance(
+    df_rankings,
+    df_feat,
+    segment_size=10,
+    segment_start=1,
+    segment_end=100,
+    metric="euclidean",
+    expanded=False,           # si True, concatena mean, std, cum, diff, delta_cum; si False (default), solo usa mean
+    take_segments=None,        # lista de segmentos a usar (si None, usa todos)
+    take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
+    seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
+    take_from_expanded_feats=None, # selecciona caracteristicas en particular de la matriz de caracteristicas expandida
+    by='no_filter',                 # caracteristicas a usar para calcular distancias
+    measure_relation_by='correlation',   # medida de relacion para filtrar por relevancia (si by != 'no_filter')
+    get_pfdr=False,              # si True, devuelve también el DataFrame de p-valores ajustados por FDR para la relación entre características y compare_to
+    threshold=0.6,          # umbral de relevancia para seleccionar características (si by != 'no_filter')
+    k=3,
+    compare_to=None,          # características a comparar
+    min_features_ratio=0.1,
+    adaptive_threshold=True,
+):
+    """
+    Calcula representaciones agregadas de características por segmentos del ranking
+    y, opcionalmente, selecciona las características más relevantes con respecto
+    a una o varias variables objetivo.
+
+    La función convierte rankings en formato ancho a formato largo, los combina con
+    las características de cada página y agrega dichas características por país y
+    por segmento del ranking. Después puede:
+
+    - devolver todas las características agregadas,
+    - calcular una matriz de distancias entre países,
+    - o filtrar características relevantes según su relación con `compare_to`.
+
+    Parameters
+    ----------
+    df_rankings : pandas.DataFrame
+        DataFrame de rankings en formato ancho. Cada columna representa una posición
+        en el ranking y cada fila corresponde a un país.
+    df_feat : pandas.DataFrame
+        DataFrame de características por página. Debe poder vincularse con los IDs
+        de página presentes en `df_rankings`.
+    segment_size : int, default=10
+        Tamaño de cada segmento del ranking.
+    segment_start : int, default=1
+        Posición inicial del ranking a considerar.
+    segment_end : int, default=100
+        Posición final del ranking a considerar.
+    metric : str, default="euclidean"
+        Métrica de distancia usada por `compute_feature_distance`.
+    expanded : bool, default=False
+        Si es True, devuelve también la representación expandida de características.
+    by : {"no_filter", "correlation", "question", "top_k_options", "top_k_by_statistic"}, default="no_filter"
+        Estrategia de selección de características:
+        - "no_filter": usa todas las características agregadas.
+        - "correlation": filtra por umbral de correlación.
+        - "question": selecciona todas las features de las preguntas relevantes.
+        - "top_k_options": selecciona los k incisos más relevantes por pregunta.
+        - "top_k_by_statistic": selecciona los k incisos más relevantes por estadística.
+    threshold : float or None, default=0.6
+        Umbral mínimo de relevancia para filtrar preguntas o características.
+    k : int, default=3
+        Número de incisos más relevantes por pregunta cuando `by="top_k_options"`.
+    compare_to : pandas.Series or pandas.DataFrame or None, default=None
+        Variable o variables objetivo contra las cuales evaluar relevancia.
+    min_features_ratio : float, default=0.1
+        Proporción mínima de características que deben ser seleccionadas. Si min_features_ratio > 1, se interpreta como número mínimo absoluto de características.
+    adaptive_threshold : bool, default=True
+        Si es True, ajusta el umbral de relevancia dinámicamente.
+
+    Returns
+    -------
+    tuple
+        Dependiendo de la configuración, devuelve una tupla con:
+        - matriz de distancias o relevancias,
+        - y el DataFrame ancho de características seleccionadas.
+
+    Notes
+    -----
+    Cuando `compare_to` no es None y `by != "no_filter"`, la selección de características
+    se realiza a partir de su relevancia respecto a la(s) variable(s) objetivo.
+    """
+
+    wides = get_statistics_df(df_rankings, df_feat, segment_size=segment_size, segment_start=segment_start, segment_end=segment_end, expanded=expanded, take_statistics=take_statistics)
+    wide = pd.concat(wides.values(), axis=1)
+    
+    if take_from_expanded_feats is not None:
+        wide = wide[[col for col in wide.columns if col in take_from_expanded_feats]]
+        
     if take_segments is not None:
         wide = wide[[col for col in wide.columns if any(col.endswith(f"_s{s}") for s in take_segments)]]
 
@@ -860,7 +874,8 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
     by: 'correlation' (default) ordena por valor absoluto de correlación.
         'question' devuelve todos los incisos de las preguntas mas relevantes, ordenados por pregunta y luego por correlación.
         'top_k_options' devuelve los k incisos más relevantes de las preguntas mas relevantes (asumiendo que las features tienen formato 'pregunta__inciso').
-        'top_k_by_statistic' selecciona los k incisos más relevantes por estadística.
+        'top_k_options_by_statistic' selecciona los k incisos más relevantes por estadística.
+        'top_k_by_statistic' selecciona las k caracteristicas más relevantes por estadística.
     
     min_features_ratio: float, default=0.1
         Proporción mínima de características a mantener (ej. 0.1 = al menos 10%).
@@ -1015,6 +1030,17 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
             .dropna()
             .tolist()
         )
+
+    def get_top_k_statistic_feats(k):
+        relevant_local = relevant.copy()
+        relevant_local['statistic'] = relevant_local['feature'].str.extract(r"_(mean|std|cum|diff|delta_cum)_s\d+$")
+        relevant_local['abs_rel'] = relevant_local[rel].abs()  
+        top_feats = (
+            relevant_local[['statistic', 'feature']]
+            .groupby('statistic')
+            .head(k)
+        )
+        return top_feats['feature'].tolist()
     
     # Seleccionar según el modo
     if by == 'correlation':
@@ -1026,8 +1052,11 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
     elif by == 'top_k_options':
         selected = get_top_k_options_features(threshold)
         return adjust_threshold_if_needed(selected, threshold)
-    elif by == 'top_k_by_statistic':
+    elif by == 'top_k_options_by_statistic':
         selected = get_top_k_by_statistic_features(threshold)
+        return adjust_threshold_if_needed(selected, threshold)
+    elif by == 'top_k_by_statistic':
+        selected = get_top_k_statistic_feats(k)
         return adjust_threshold_if_needed(selected, threshold)
     else:
         raise ValueError("by debe ser 'correlation', 'question', 'top_k_options', o 'top_k_by_statistic'")
@@ -1047,6 +1076,7 @@ def compare_research_variables(
         take_segments=None,        # lista de segmentos a usar (si None, usa todos)
         take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
         seg_feat_dicts=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
+        take_from_expanded_feats=None, # selecciona caracteristicas en particular de la matriz de caracteristicas expandida
         weight_func=None,
         filter_by='no_filter',
         measure_relation_by='correlation',
@@ -1106,10 +1136,11 @@ def compare_research_variables(
         # formulario
         if analysis_func == 'distance':
             for key in keys:
+                take_expanded_feats = take_from_expanded_feats[key] if take_from_expanded_feats is not None else None
                 seg_feat_dict = seg_feat_dicts[key] if seg_feat_dicts is not None else None
                 if print_progress:
                     print(f"\t\tCalculando distancia para {key}...")
-                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, by=filter_by, measure_relation_by=measure_relation_by,  threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
+                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, take_from_expanded_feats=take_expanded_feats, by=filter_by, measure_relation_by=measure_relation_by,  threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
         elif analysis_func == 'ponderate':
             for key in keys:
                 if print_progress:
@@ -1239,3 +1270,4 @@ def graph_comparison(wide_r, wide_p, extra, style_map=None, highlight_palette=No
 
     plt.show()
 
+#def filter_mi(df_feats, df_target, mi_threshold):

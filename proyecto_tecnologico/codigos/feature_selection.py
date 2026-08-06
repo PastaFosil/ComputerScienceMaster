@@ -1,8 +1,6 @@
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
 import numpy as np
-from scipy.stats import kendalltau, spearmanr, pearsonr
 import search_results_lib as srl
 import json
 from collections import Counter, defaultdict
@@ -11,12 +9,12 @@ from sklearn.metrics import accuracy_score, f1_score
 from sklearn.pipeline import Pipeline
 from sklearn.feature_selection import SelectKBest, mutual_info_classif
 from sklearn.base import clone
-from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
-from sklearn.model_selection import cross_val_score, RepeatedKFold, StratifiedKFold, cross_validate, GridSearchCV
-from sklearn.metrics import mean_squared_error, f1_score, accuracy_score
-from sklearn.linear_model import LinearRegression, Ridge, Lasso, BayesianRidge, LogisticRegression
-from sklearn.svm import SVR, SVC
+from sklearn.model_selection import StratifiedKFold, cross_validate, GridSearchCV
+from sklearn.metrics import f1_score, accuracy_score
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
 from collections import defaultdict
 import warnings
 warnings.filterwarnings("ignore")

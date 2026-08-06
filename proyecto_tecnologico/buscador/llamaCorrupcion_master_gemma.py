@@ -261,7 +261,7 @@ class RateLimiter:
 
 from google import genai
 
-rate_limiter = RateLimiter(max_requests=15, time_window_seconds=120)
+rate_limiter = RateLimiter(max_requests=1, time_window_seconds=120)
 
 base_model = "gemma-4-31b-it"
 api_key = "API_KEY"
