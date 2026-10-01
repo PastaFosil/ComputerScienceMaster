@@ -397,7 +397,7 @@ def get_statistics_df(
     segment_start=1,
     segment_end=100,
     expanded=False,           # si True, concatena mean, std, cum, diff, delta_cum; si False (default), solo usa mean
-    take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
+    take_statistics='all',        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
 ):
     def to_wide(seg_df, tag):
         wide = seg_df.pivot(index="country_id", columns="segmento", values=feature_cols)
@@ -499,7 +499,7 @@ def get_statistics_df(
             "delta_cum": wide_delta_cum,
         }
 
-        if take_statistics is not None:
+        if take_statistics != 'all':
             for tag in list(wides.keys()):
                 if tag not in take_statistics:
                     del wides[tag]
@@ -517,7 +517,7 @@ def compute_rank_feature_distance(
     metric="euclidean",
     expanded=False,           # si True, concatena mean, std, cum, diff, delta_cum; si False (default), solo usa mean
     take_segments=None,        # lista de segmentos a usar (si None, usa todos)
-    take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
+    take_statistics='all',        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
     seg_feat_dict=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
     take_from_expanded_feats=None, # selecciona caracteristicas en particular de la matriz de caracteristicas expandida
     by='no_filter',                 # caracteristicas a usar para calcular distancias
@@ -528,6 +528,7 @@ def compute_rank_feature_distance(
     compare_to=None,          # características a comparar
     min_features_ratio=0.1,
     adaptive_threshold=True,
+    var_name=None
 ):
     """
     Calcula representaciones agregadas de características por segmentos del ranking
@@ -619,7 +620,7 @@ def compute_rank_feature_distance(
         compare_to2 = compare_to.loc[common_idx]
         
         relevance_df = feature_relevance_multitarget(wide2, compare_to2, by=measure_relation_by, get_fdr=get_pfdr)
-        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
+        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold, var_name=var_name)
         return compute_feature_distance(wide2[relevant_feats], metric=metric), wide2[relevant_feats]
     elif by != 'no_filter' and compare_to is None:
         raise ValueError("Si by != 'no_filter', compare_to no puede ser None")
@@ -643,6 +644,7 @@ def compute_rank_feature_ponderate(
     compare_to=None,          # características a comparar (si by != 'no_filter' y compare_to no es None)
     min_features_ratio=0.1,
     adaptive_threshold=True,
+    var_name=NotImplementedError
 ):
     '''
     Para cada país, calcula un perfil de características ponderado por la posición en el ranking (usando weight_func para asignar pesos a cada posición),
@@ -687,7 +689,7 @@ def compute_rank_feature_ponderate(
         compare_to2 = compare_to.loc[common_idx]
         
         relevance_df = feature_relevance_multitarget(profile2, compare_to2, by=measure_relation_by, get_fdr=get_pfdr)
-        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
+        relevant_feats = get_most_relevant(relevance_df, threshold=threshold, by=by, k=k, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold, var_name=var_name)
         return compute_feature_distance(profile2[relevant_feats], metric=metric), profile2[relevant_feats]
     elif by != 'no_filter' and compare_to is None:
         raise ValueError("Si by != 'no_filter', compare_to no puede ser None")
@@ -799,6 +801,7 @@ def mantel_spearman(A, B, n_perm=10000, seed=0):
     return obs, p
 
 
+
 def feature_relevance(feats, target, by='correlation', get_fdr=False):
     """
     Calcula la relevancia de diferentes caracteristicas (feats) con respecto a una variable objetivo (target).
@@ -866,13 +869,14 @@ def feature_relevance_multitarget(feats, compare_to_targets, by='correlation', g
         rows.append(res)
     return pd.concat(rows, ignore_index=True)
 
-def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_features_ratio=0.1, adaptive_threshold=True):
+def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_features_ratio=0.1, adaptive_threshold=True, var_name=None):
     """
     Dado un DataFrame de relevancia (con columnas 'feature', 'rh', 'p_fdr', 'target'), devuelve las características más relevantes para cada variable objetivo.
     Se puede filtrar por un umbral mínimo de correlación (threshold).
     
     by: 'correlation' (default) ordena por valor absoluto de correlación.
         'question' devuelve todos los incisos de las preguntas mas relevantes, ordenados por pregunta y luego por correlación.
+        'top_k' devuelve las k características más relevantes (sin importar la pregunta).
         'top_k_options' devuelve los k incisos más relevantes de las preguntas mas relevantes (asumiendo que las features tienen formato 'pregunta__inciso').
         'top_k_options_by_statistic' selecciona los k incisos más relevantes por estadística.
         'top_k_by_statistic' selecciona las k caracteristicas más relevantes por estadística.
@@ -905,7 +909,7 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
     if threshold is None:
         threshold = 0.6
     
-    def adjust_threshold_if_needed(selected_features, current_threshold):
+    def adjust_threshold_if_needed(selected_features, current_threshold, var_name=None):
         """Ajusta el threshold si se seleccionaron muy pocas características"""
         if len(selected_features) == 0 and adaptive_threshold:
             # Caso 1: No se seleccionó ninguna característica
@@ -915,8 +919,12 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
                 # Tomar el valor en la posición min_features (o el último si hay menos)
                 idx = min(min_features, len(sorted_vals)) - 1
                 new_threshold = sorted_vals.iloc[idx]
-                print(f"Advertencia: El threshold {current_threshold} filtró todas las características. "
-                      f"Ajustando a {new_threshold:.4f} para mantener {min_features} características.")
+                if var_name is not None:
+                    print(f"Advertencia. {var_name}: El threshold {current_threshold} filtró todas las características. "
+                        f"Ajustando a {new_threshold:.4f} para mantener {min_features} características.")
+                else:
+                    print(f"Advertencia: El threshold {current_threshold} filtró todas las características. "
+                                          f"Ajustando a {new_threshold:.4f} para mantener {min_features} características.")
                 
                 # Llamada recursiva con el nuevo threshold
                 return get_most_relevant(
@@ -925,7 +933,8 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
                     by=by, 
                     k=k, 
                     min_features_ratio=min_features_ratio,
-                    adaptive_threshold=False  # Evitar recursión infinita
+                    adaptive_threshold=False,  # Evitar recursión infinita
+                    var_name=var_name
                 )
         elif len(selected_features) < min_features and adaptive_threshold and current_threshold > 0:
             # Caso 2: Se seleccionaron muy pocas características (menos del ratio mínimo)
@@ -947,7 +956,8 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
                         by=by, 
                         k=k, 
                         min_features_ratio=min_features_ratio,
-                        adaptive_threshold=False
+                        adaptive_threshold=False,
+                        var_name=var_name
                     )
         return selected_features
     
@@ -960,6 +970,13 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
         relevant_local['question'] = relevant_local['feature'].apply(lambda f: f.split('__')[0] if '__' in f else f)
         questions = relevant_local[relevant_local[rel].abs() >= threshold_val]['question'].unique()
         return relevant_local.where(relevant_local['question'].isin(questions))['feature'].dropna().tolist()
+
+    def get_top_k(k):
+        relevant_local = relevant.copy()
+        relevant_local['abs_rel'] = relevant_local[rel].abs()  
+        relevant_local.sort_values(['abs_rel'], ascending=False, inplace=True)
+        
+        return relevant_local.head(k)['feature'].drop_duplicates().dropna().tolist()
     
     def get_top_k_options_features(threshold_val):
         relevant_local = relevant.copy()
@@ -1045,26 +1062,29 @@ def get_most_relevant(relevance_df, threshold=0.6, by='correlation', k=3, min_fe
     # Seleccionar según el modo
     if by == 'correlation':
         selected = get_correlation_features(threshold)
-        return adjust_threshold_if_needed(selected, threshold)
+        return adjust_threshold_if_needed(selected, threshold, var_name=var_name)
     elif by == 'question':
         selected = get_question_features(threshold)
-        return adjust_threshold_if_needed(selected, threshold)
+        return adjust_threshold_if_needed(selected, threshold, var_name=var_name)
+    elif by == 'top_k':
+        selected = get_top_k(k)
+        return adjust_threshold_if_needed(selected, threshold, var_name=var_name)
     elif by == 'top_k_options':
         selected = get_top_k_options_features(threshold)
-        return adjust_threshold_if_needed(selected, threshold)
+        return adjust_threshold_if_needed(selected, threshold, var_name=var_name)
     elif by == 'top_k_options_by_statistic':
         selected = get_top_k_by_statistic_features(threshold)
-        return adjust_threshold_if_needed(selected, threshold)
+        return adjust_threshold_if_needed(selected, threshold, var_name=var_name)
     elif by == 'top_k_by_statistic':
         selected = get_top_k_statistic_feats(k)
-        return adjust_threshold_if_needed(selected, threshold)
+        return adjust_threshold_if_needed(selected, threshold, var_name=var_name)
     else:
         raise ValueError("by debe ser 'correlation', 'question', 'top_k_options', o 'top_k_by_statistic'")
     
 def compare_research_variables(
         df_dict,
         tops,
-        corr_dict,
+        cor_dict,
         keys,
         analysis_func,
         thres_dict = None,
@@ -1074,7 +1094,7 @@ def compare_research_variables(
         segmentation=10,
         expanded=True,
         take_segments=None,        # lista de segmentos a usar (si None, usa todos)
-        take_statistics=None,        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
+        take_statistics='all',        # lista de estadísticas a usar (si expanded=True, puede ser subset de ['mean', 'std', 'cum', 'diff', 'delta_cum']; si expanded=False, se ignora)
         seg_feat_dicts=None,          # dict segmento -> lista de features a usar para ese segmento (si None, usa todas)
         take_from_expanded_feats=None, # selecciona caracteristicas en particular de la matriz de caracteristicas expandida
         weight_func=None,
@@ -1087,6 +1107,7 @@ def compare_research_variables(
         print_progress=False,
         min_features_ratio=0.1,
         adaptive_threshold=True,
+        target_variable='cpi'
     ):
     """
     Compara variables de investigación (por ejemplo, distancia geográfica, distancia de características, relevancia de características) con la posición en el ranking de resultados de búsqueda.
@@ -1127,6 +1148,8 @@ def compare_research_variables(
     if thres_dict is None:
         thres_dict = {key: 0 for key in keys}
 
+    corr_dict = cor_dict.copy()
+
     all_results = []
     for top in tops:
         if print_progress:
@@ -1140,12 +1163,12 @@ def compare_research_variables(
                 seg_feat_dict = seg_feat_dicts[key] if seg_feat_dicts is not None else None
                 if print_progress:
                     print(f"\t\tCalculando distancia para {key}...")
-                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, take_from_expanded_feats=take_expanded_feats, by=filter_by, measure_relation_by=measure_relation_by,  threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
+                corr_dict[key], _ = compute_rank_feature_distance(df_dict['rankings'][list(range(top))], df_dict[key], segment_size=segmentation, segment_start=start, segment_end=end, expanded=expanded, take_segments=take_segments, take_statistics=take_statistics, seg_feat_dict=seg_feat_dict, take_from_expanded_feats=take_expanded_feats, by=filter_by, measure_relation_by=measure_relation_by,  threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold, var_name=key)
         elif analysis_func == 'ponderate':
             for key in keys:
                 if print_progress:
                     print(f"\t\tCalculando ponderación para {key}...")
-                corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, measure_relation_by=measure_relation_by, threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold)
+                corr_dict[key], _ = compute_rank_feature_ponderate(df_dict['rankings'][list(range(top))], df_dict[key], compute_start=start, compute_end=end, weight_func=weight_func, by=filter_by, measure_relation_by=measure_relation_by, threshold=thres_dict[key], k=k, compare_to=compare_to, min_features_ratio=min_features_ratio, adaptive_threshold=adaptive_threshold, var_name=key)
 
         if print_progress:
             print("  Preparando matrices de correlación...")
@@ -1181,7 +1204,7 @@ def compare_research_variables(
         if print_progress:
             print("  Calculando correlaciones...")
         # correlación entre evaluación y otras matrices
-        for source in ['cpi']:
+        for source in [target_variable]:
             rp_dict.update({source+'-'+k: spearmanr(vect_dict[source], vect_dict[k]) for k in vect_dict if k not in [source] + ignore})
         
         #for d in ['cpi-cuestionario'+suffix, 'robertuito-cpi', 'robertuito-cuestionario'+suffix]:
